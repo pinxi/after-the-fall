@@ -1,0 +1,583 @@
+{
+  "TableId": 50032,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "resource": 3,
+    "ammoType": 36,
+    "defaultChargeAmountRequired": 1,
+    "defaultCooldownInSeconds": 0.0,
+    "chargeGainUponAmmoGained": 1,
+    "isUnlocked": false,
+    "neutralHandPoseId": 19,
+    "preparedAudio": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Weapons/Special 01/Weapon_power_missile_activate",
+      "eventGuid": "fe2dbc15-661a-4d2c-b976-ac9bd23360af"
+    },
+    "unpreparedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Special 01/Weapon_power_missile_deactivate",
+      "eventGuid": "83a91087-3287-4fcb-8d29-56ea5a558764",
+      "parameterSettings": []
+    },
+    "activatedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Special 01/Weapon_power_missile_fire",
+      "eventGuid": "4bc48b51-13a9-4083-bc6d-9e9eef9bd56f",
+      "parameterSettings": []
+    },
+    "failedActivatedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Special 01/Weapon_power_missile_no_ammo",
+      "eventGuid": "9ae12a87-69e7-4146-b648-561a0f59b2c6",
+      "parameterSettings": []
+    },
+    "combatDeviceType": 0,
+    "missibleCombatDeviceData": {
+      "chargeAudio": {
+        "parameterSettings": [],
+        "eventPath": "event:/ATF_PC/Weapons/Special 01/Weapon_power_missile_charge",
+        "eventGuid": "feb351ae-03a7-45d2-8126-ed550b4c2b88"
+      },
+      "defaultChargeTime": 0.2,
+      "missileAmount": 8,
+      "msBetweenMissiles": 150,
+      "rangeInMeters": 250.0,
+      "widthInMeters": 18.0,
+      "heightInMeters": 27.5,
+      "missileSettings": 0,
+      "chargeRumbleProfileId": 2,
+      "fireMissileRumbleProfileId": 3,
+      "isInstantFired": false
+    },
+    "shockwaveCombatDeviceData": {
+      "maxPunchDetectionTime": 0.5,
+      "minPunchStartedVelocity": 1.0,
+      "maxPunchStoppedVelocity": 0.1,
+      "minimumFramesBetweenPunchVelocityDetection": 2,
+      "maximumPunchDetectionDeltaTime": 0.2,
+      "rangeInMeters": 40.0,
+      "widthInMeters": 8.0,
+      "heightInMeters": 1.0,
+      "explosionId": 0,
+      "maxGibbingDistancePercentage": 0.2,
+      "deviceActiveRumble": 0,
+      "deviceFiredRumble": 0
+    },
+    "sawbladeCombatDeviceData": {
+      "sawbladeDeviceDamageModelId": 0,
+      "sawbladeProjectileId": 0,
+      "chargeAudio": {
+        "eventPath": "",
+        "eventGuid": "",
+        "parameterSettings": []
+      },
+      "chargeRumbleProfileId": 0,
+      "fireRumbleProfileId": 0
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "Icon_MissileDevice_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Crafting/Icon_MissileDevice_01.png",
+      "assetGUID": "1cc19aaaabd5b614bbced147feeffdd0",
+      "resourcePath": "Crafting/Icon_MissileDevice_01:Icon_MissileDevice_01.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 0,
+    "id": 0,
+    "name": "Missile Device",
+    "category": "",
+    "canInsertInInventory": true,
+    "proximityRange": 2.0,
+    "meleeDamageModel": {
+      "damageRange": {
+        "rangeStart": 30.0,
+        "rangeEnd": 40.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 5.0,
+        "rangeEnd": 5.0
+      },
+      "criticalHitChance": 0.1,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 8,
+      "impactType": 0
+    },
+    "meleeSettings": 1,
+    "meleeAggroRadius": 10.0,
+    "meleePhysicsForceMultiplier": 1.0,
+    "displayName": "Missile Combat Device Default",
+    "descriptionLocalizationKey": "ITEM_MISSILEDEVICE_DESCRIPTION",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "ITEM_COMBATDEVICE_MISSILE",
+    "tooltipSubtitleDisplayName": "ITEM_COMBATDEVICE_MISSILE_SUBTITLE",
+    "inventoryIcon": {
+      "assetName": "Icon_MissileDevice_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Crafting/Icon_MissileDevice_01.png",
+      "assetGUID": "1cc19aaaabd5b614bbced147feeffdd0",
+      "resourcePath": "Crafting/Icon_MissileDevice_01:Icon_MissileDevice_01.Sprite",
+      "isSubAsset": true
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "CombatDevice_Missiles",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/CombatDevices/CombatDevice_Missiles.prefab",
+      "assetGUID": "e827b39345d0b5846b72d43b1b838d4f",
+      "resourcePath": "Weapons/CombatDevices/CombatDevice_Missiles",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 50000,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "resource": 3,
+    "ammoType": 36,
+    "defaultChargeAmountRequired": 1,
+    "defaultCooldownInSeconds": 0.0,
+    "chargeGainUponAmmoGained": 2,
+    "isUnlocked": false,
+    "neutralHandPoseId": 19,
+    "preparedAudio": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "SpecialCharge",
+          "paramData1": -2118911599,
+          "paramData2": -194291054,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "fraction",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Weapons/Special 02/Weapon_power_shockwave_idle",
+      "eventGuid": "ba97365c-e48c-4bca-8718-00f5f94af46b"
+    },
+    "unpreparedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Special 01/Weapon_power_missile_deactivate",
+      "eventGuid": "83a91087-3287-4fcb-8d29-56ea5a558764",
+      "parameterSettings": []
+    },
+    "activatedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Special 02/Weapon_power_shockwave_fire",
+      "eventGuid": "5330cee8-4baf-4f42-87e7-2df872ed39ac",
+      "parameterSettings": []
+    },
+    "failedActivatedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Special 01/Weapon_power_missile_no_ammo",
+      "eventGuid": "9ae12a87-69e7-4146-b648-561a0f59b2c6",
+      "parameterSettings": []
+    },
+    "combatDeviceType": 1,
+    "missibleCombatDeviceData": {
+      "chargeAudio": {
+        "parameterSettings": [],
+        "eventPath": "",
+        "eventGuid": ""
+      },
+      "defaultChargeTime": 1.0,
+      "missileAmount": 15,
+      "msBetweenMissiles": 2,
+      "rangeInMeters": 40.0,
+      "widthInMeters": 8.0,
+      "heightInMeters": 1.0,
+      "missileSettings": 0,
+      "chargeRumbleProfileId": 0,
+      "fireMissileRumbleProfileId": 0,
+      "isInstantFired": false
+    },
+    "shockwaveCombatDeviceData": {
+      "maxPunchDetectionTime": 0.5,
+      "minPunchStartedVelocity": 0.75,
+      "maxPunchStoppedVelocity": 0.3,
+      "minimumFramesBetweenPunchVelocityDetection": 2,
+      "maximumPunchDetectionDeltaTime": 0.2,
+      "rangeInMeters": 11.5,
+      "widthInMeters": 3.25,
+      "heightInMeters": 3.25,
+      "explosionId": 9,
+      "maxGibbingDistancePercentage": 0.2,
+      "deviceActiveRumble": 23,
+      "deviceFiredRumble": 3
+    },
+    "sawbladeCombatDeviceData": {
+      "sawbladeDeviceDamageModelId": 0,
+      "sawbladeProjectileId": 0,
+      "chargeAudio": {
+        "eventPath": "",
+        "eventGuid": "",
+        "parameterSettings": []
+      },
+      "chargeRumbleProfileId": 0,
+      "fireRumbleProfileId": 0
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "Icon_ShockWaveDevice_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Crafting/Icon_ShockWaveDevice_01.png",
+      "assetGUID": "c53882effbf0a834fbc0d9da29d13334",
+      "resourcePath": "Crafting/Icon_ShockWaveDevice_01:Icon_ShockWaveDevice_01.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 0,
+    "id": 1,
+    "name": "Shockwave Punch Device",
+    "category": "",
+    "canInsertInInventory": true,
+    "proximityRange": 2.0,
+    "meleeDamageModel": {
+      "damageRange": {
+        "rangeStart": 30.0,
+        "rangeEnd": 40.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 5.0,
+        "rangeEnd": 5.0
+      },
+      "criticalHitChance": 0.1,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 8,
+      "impactType": 0
+    },
+    "meleeSettings": 1,
+    "meleeAggroRadius": 10.0,
+    "meleePhysicsForceMultiplier": 1.0,
+    "displayName": "Shockwave Punch Combat Device Default",
+    "descriptionLocalizationKey": "ITEM_SHOCKWAVE_DESCRIPTION",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "ITEM_COMBATDEVICE_SHOCKWAVE",
+    "tooltipSubtitleDisplayName": "ITEM_COMBATDEVICE_MISSILE_SUBTITLE",
+    "inventoryIcon": {
+      "assetName": "Icon_ShockWaveDevice_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Crafting/Icon_ShockWaveDevice_01.png",
+      "assetGUID": "c53882effbf0a834fbc0d9da29d13334",
+      "resourcePath": "Crafting/Icon_ShockWaveDevice_01:Icon_ShockWaveDevice_01.Sprite",
+      "isSubAsset": true
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "CombatDevice_ShockwavePunch",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/CombatDevices/CombatDevice_ShockwavePunch.prefab",
+      "assetGUID": "e9e8e853524636d4ea2e626044e7b967",
+      "resourcePath": "Weapons/CombatDevices/CombatDevice_ShockwavePunch",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100000,
+    "lockedDescriptionLocalizationKey": "VENDOR_LOCKED_MILITARY_RARITY",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "resource": 3,
+    "ammoType": 36,
+    "defaultChargeAmountRequired": 1,
+    "defaultCooldownInSeconds": 0.0,
+    "chargeGainUponAmmoGained": 3,
+    "isUnlocked": false,
+    "neutralHandPoseId": 19,
+    "preparedAudio": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Weapons/Special 03/Weapon_power_sawblade_activate",
+      "eventGuid": "0457fe64-2ac5-4f7d-9d33-edc242d46eb7"
+    },
+    "unpreparedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Special 01/Weapon_power_missile_deactivate",
+      "eventGuid": "83a91087-3287-4fcb-8d29-56ea5a558764",
+      "parameterSettings": []
+    },
+    "activatedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Special 03/Weapon_power_sawblade_fire",
+      "eventGuid": "fc800a5a-c934-4d76-a3be-dbca07262432",
+      "parameterSettings": []
+    },
+    "failedActivatedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Special 01/Weapon_power_missile_no_ammo",
+      "eventGuid": "9ae12a87-69e7-4146-b648-561a0f59b2c6",
+      "parameterSettings": []
+    },
+    "combatDeviceType": 2,
+    "missibleCombatDeviceData": {
+      "chargeAudio": {
+        "parameterSettings": [],
+        "eventPath": "",
+        "eventGuid": ""
+      },
+      "defaultChargeTime": 1.0,
+      "missileAmount": 15,
+      "msBetweenMissiles": 2,
+      "rangeInMeters": 40.0,
+      "widthInMeters": 8.0,
+      "heightInMeters": 1.0,
+      "missileSettings": 0,
+      "chargeRumbleProfileId": 0,
+      "fireMissileRumbleProfileId": 0,
+      "isInstantFired": false
+    },
+    "shockwaveCombatDeviceData": {
+      "maxPunchDetectionTime": 0.5,
+      "minPunchStartedVelocity": 1.5,
+      "maxPunchStoppedVelocity": 0.1,
+      "minimumFramesBetweenPunchVelocityDetection": 2,
+      "maximumPunchDetectionDeltaTime": 0.2,
+      "rangeInMeters": 11.5,
+      "widthInMeters": 3.25,
+      "heightInMeters": 3.25,
+      "explosionId": 9,
+      "maxGibbingDistancePercentage": 0.2,
+      "deviceActiveRumble": 23,
+      "deviceFiredRumble": 3
+    },
+    "sawbladeCombatDeviceData": {
+      "sawbladeDeviceDamageModelId": 11,
+      "sawbladeProjectileId": 0,
+      "chargeAudio": {
+        "eventPath": "event:/ATF_PC/Weapons/Special 03/Weapon_power_sawblade_idle",
+        "eventGuid": "535c2c0d-3af7-48ee-9a80-a10b315bdf76",
+        "parameterSettings": []
+      },
+      "chargeRumbleProfileId": 23,
+      "fireRumbleProfileId": 0
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "icon_SawBladeDevice_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Crafting/icon_SawBladeDevice_01.png",
+      "assetGUID": "4ed9884a3f88f8f4898d04c6b5c4bf39",
+      "resourcePath": "Crafting/icon_SawBladeDevice_01:icon_SawBladeDevice_01.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 0,
+    "id": 2,
+    "name": "Sawblade Device",
+    "category": "",
+    "canInsertInInventory": true,
+    "proximityRange": 2.0,
+    "meleeDamageModel": {
+      "damageRange": {
+        "rangeStart": 30.0,
+        "rangeEnd": 40.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 5.0,
+        "rangeEnd": 5.0
+      },
+      "criticalHitChance": 0.1,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 8,
+      "impactType": 0
+    },
+    "meleeSettings": 1,
+    "meleeAggroRadius": 10.0,
+    "meleePhysicsForceMultiplier": 1.0,
+    "displayName": "Sawblade Punch Combat Device Default",
+    "descriptionLocalizationKey": "ITEM_SAWBLADE_DESCRIPTION",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "ITEM_COMBATDEVICE_SAWBLADE",
+    "tooltipSubtitleDisplayName": "ITEM_COMBATDEVICE_MISSILE_SUBTITLE",
+    "inventoryIcon": {
+      "assetName": "icon_SawBladeDevice_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Crafting/icon_SawBladeDevice_01.png",
+      "assetGUID": "4ed9884a3f88f8f4898d04c6b5c4bf39",
+      "resourcePath": "Crafting/icon_SawBladeDevice_01:icon_SawBladeDevice_01.Sprite",
+      "isSubAsset": true
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "CombatDevice_Sawblade",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/CombatDevices/CombatDevice_Sawblade.prefab",
+      "assetGUID": "11e1b8f901f44444188fc1c5d99bf2cb",
+      "resourcePath": "Weapons/CombatDevices/CombatDevice_Sawblade",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 250000,
+    "lockedDescriptionLocalizationKey": "VENDOR_LOCKED_PROTOTYPE_RARITY",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  }
+]
+}

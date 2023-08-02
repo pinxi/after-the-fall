@@ -1,0 +1,3352 @@
+{
+  "TableId": 205,
+  "DefaultCellId": 17,
+  "Cells": [
+  {
+    "skinPoolSize": 4,
+    "isSpecial": true,
+    "colorMultiplier": {
+      "color4": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "w": 1.0
+      }
+    },
+    "supportsAnimationMirroring": false,
+    "hipsBone": 1,
+    "headBone": 5,
+    "chestBone": 3,
+    "defaultHitBone": 3,
+    "torsoBoneIds": [
+      2,
+      3
+    ],
+    "leftArmBoneIds": [
+      6,
+      7
+    ],
+    "rightArmBoneIds": [
+      9,
+      10
+    ],
+    "leftLegBoneIds": [
+      13,
+      12
+    ],
+    "rightLegBoneIds": [
+      16,
+      15
+    ],
+    "physicsUpForceBone": 3,
+    "zombieAnimationRig": 0,
+    "supportsIK": true,
+    "supportsFootPlacementIk": true,
+    "physicsForceMultiplier": 0.65,
+    "colliderRadius": 0.65,
+    "colliderHeight": 3.0,
+    "colliderOffset": {
+      "x": 0.0,
+      "y": 0.85,
+      "z": 0.0
+    },
+    "penetrationWeight": 1,
+    "zombieBlockerHeight": 3.0,
+    "zombieBlockerRadius": 0.75,
+    "zombieBlockerOffset": {
+      "x": 0.0,
+      "y": 0.5,
+      "z": 0.0
+    },
+    "zombieBlockerCrawlingRadius": 0.25,
+    "spawnMutilationChance": 0.0,
+    "spawnMutilatableParts": [],
+    "explosiveMutilatableParts": [
+      5
+    ],
+    "minForce": 5.0,
+    "maxForce": 10.0,
+    "hitFresnelSettings": {
+      "fresnelHitEnabled": true,
+      "lerpInDuration": 0.1,
+      "activeDuration": 0.15,
+      "lerpOutDuration": 0.1
+    },
+    "skinSetupPC": {
+      "inheritSetup": 0,
+      "zombieBodyPresets": [
+        {
+          "description": "CH_E_Jock_A01",
+          "linkHeadToBodyMaterialIndex": true,
+          "headIndependentOfBody": false,
+          "mutilatedInnerBody": {
+            "assetName": "CH_E_Jock_A_MutilatedBody",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Jock_M_A/PC/CH_E_Jock_A_MutilatedBody.prefab",
+            "assetGUID": "ebb20bf0c9fc5c94096b15b35807b8f6",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Jock_M_A/PC/CH_E_Jock_A_MutilatedBody",
+            "isSubAsset": false
+          },
+          "bodies": [
+            {
+              "assetName": "CH_E_Jock_A_Helmet",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Jock_M_A/PC/CH_E_Jock_A_Helmet.prefab",
+              "assetGUID": "fd37bb6c157100846b9db50edcde538a",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Jock_M_A/PC/CH_E_Jock_A_Helmet",
+              "isSubAsset": false
+            }
+          ],
+          "heads": [],
+          "clothesPresets": [],
+          "overrideIceArmorSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          },
+          "overrideExposedSpotsSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          }
+        }
+      ]
+    },
+    "skinSetupPS4": {
+      "inheritSetup": 3,
+      "zombieBodyPresets": []
+    },
+    "skinSetupMobile": {
+      "inheritSetup": 0,
+      "zombieBodyPresets": [
+        {
+          "description": "CH_E_Jock_A",
+          "linkHeadToBodyMaterialIndex": true,
+          "headIndependentOfBody": false,
+          "mutilatedInnerBody": {
+            "assetName": "CH_E_Jock_A_Mobile_MutilatedBody_B",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Jock_M_A/Mobile/CH_E_Jock_A_Mobile_MutilatedBody_B.prefab",
+            "assetGUID": "f41b8dd9009d9c24aaaccd8ba8d7489b",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Jock_M_A/Mobile/CH_E_Jock_A_Mobile_MutilatedBody_B",
+            "isSubAsset": false
+          },
+          "bodies": [
+            {
+              "assetName": "CH_E_Jock_A_Mobile",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Jock_M_A/Mobile/CH_E_Jock_A_Mobile.prefab",
+              "assetGUID": "542d0196bacc5b54898e17bf4699550e",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Jock_M_A/Mobile/CH_E_Jock_A_Mobile",
+              "isSubAsset": false
+            }
+          ],
+          "heads": [],
+          "clothesPresets": [],
+          "overrideIceArmorSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          },
+          "overrideExposedSpotsSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          }
+        }
+      ]
+    },
+    "iceArmorSetupPC": {
+      "inheritSetup": 0,
+      "iceArmorPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "iceArmorSetupPS4": {
+      "inheritSetup": 0,
+      "iceArmorPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "iceArmorSetupMobile": {
+      "inheritSetup": 0,
+      "iceArmorPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "exposedSpotsSetupPC": {
+      "inheritSetup": 0,
+      "exposedSpotsPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "exposedSpotsSetupPS4": {
+      "inheritSetup": 0,
+      "exposedSpotsPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "exposedSpotsSetupMobile": {
+      "inheritSetup": 0,
+      "exposedSpotsPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "textureArraySlotsPc": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 8
+      },
+      {
+        "slotId": 1,
+        "textureArraySettings": 9
+      }
+    ],
+    "textureArraySlotsPs4": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 8
+      }
+    ],
+    "textureArraySlotsMobile": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 8
+      }
+    ],
+    "combinedSkinShaderPc": {
+      "assetName": "Vertigo/Infected/PBR/Infected_Combined",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_PBR_Combined.shader",
+      "assetGUID": "af37203610c1e7741a759ba657740fd5",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_PBR_Combined",
+      "isSubAsset": false
+    },
+    "combinedSkinShaderPs4": {
+      "assetName": "Vertigo/Infected/Mobile/Infected_Combined",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined.shader",
+      "assetGUID": "90107dfb9ad327344b5809b660a55d59",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined",
+      "isSubAsset": false
+    },
+    "combinedSkinShaderMobile": {
+      "assetName": "Vertigo/Infected/Mobile/Infected_Combined",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined.shader",
+      "assetGUID": "90107dfb9ad327344b5809b660a55d59",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined",
+      "isSubAsset": false
+    },
+    "mutilationWoundMaterial": {
+      "assetName": "Mat_CH_Infected_Severed_Limb",
+      "assetPath": "Assets/Art/Characters/CH_Enemies/FBX/Materials/Mat_CH_Infected_Severed_Limb.mat",
+      "assetGUID": "871e48a6ddf43b04abb05b8593e6cd03",
+      "resourcePath": "Assets/Art/Characters/CH_Enemies/FBX/Materials/Mat_CH_Infected_Severed_Limb",
+      "isSubAsset": false
+    },
+    "gibbingSettings": 0,
+    "useFootstepFx": false,
+    "footstepFx": 0,
+    "paintBloodOnHeadHit": false,
+    "isPhysicsInteractorEnabled": false,
+    "physicsInteractorSettings": {
+      "interactableBones": [],
+      "impactPhysicsForce": 0.0,
+      "verticalPhysicsForce": 0.0
+    },
+    "pcSkinMaxVertexCount": 30000,
+    "ps4SkinMaxVertexCount": 7000,
+    "mobileSkinMaxVertexCount": 7000,
+    "id": 8,
+    "name": "Jock",
+    "category": ""
+  },
+  {
+    "skinPoolSize": 70,
+    "isSpecial": false,
+    "colorMultiplier": {
+      "color4": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "w": 1.0
+      }
+    },
+    "supportsAnimationMirroring": true,
+    "hipsBone": 1,
+    "headBone": 5,
+    "chestBone": 3,
+    "defaultHitBone": 3,
+    "torsoBoneIds": [
+      2,
+      3
+    ],
+    "leftArmBoneIds": [
+      6,
+      7
+    ],
+    "rightArmBoneIds": [
+      9,
+      10
+    ],
+    "leftLegBoneIds": [
+      13,
+      12
+    ],
+    "rightLegBoneIds": [
+      16,
+      15
+    ],
+    "physicsUpForceBone": 3,
+    "zombieAnimationRig": 1,
+    "supportsIK": true,
+    "supportsFootPlacementIk": true,
+    "physicsForceMultiplier": 1.0,
+    "colliderRadius": 0.75,
+    "colliderHeight": 2.0,
+    "colliderOffset": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0
+    },
+    "penetrationWeight": 1,
+    "zombieBlockerHeight": 3.0,
+    "zombieBlockerRadius": 0.75,
+    "zombieBlockerOffset": {
+      "x": 0.0,
+      "y": 0.5,
+      "z": 0.0
+    },
+    "zombieBlockerCrawlingRadius": 0.75,
+    "spawnMutilationChance": 0.0,
+    "spawnMutilatableParts": [],
+    "explosiveMutilatableParts": [
+      5,
+      6,
+      1,
+      2,
+      3,
+      4
+    ],
+    "minForce": 0.0,
+    "maxForce": 5.0,
+    "hitFresnelSettings": {
+      "fresnelHitEnabled": false,
+      "lerpInDuration": 0.1,
+      "activeDuration": 0.1,
+      "lerpOutDuration": 0.1
+    },
+    "skinSetupPC": {
+      "inheritSetup": 0,
+      "zombieBodyPresets": [
+        {
+          "description": "CH_E_Common_M_C",
+          "linkHeadToBodyMaterialIndex": true,
+          "headIndependentOfBody": false,
+          "mutilatedInnerBody": {
+            "assetName": "CH_E_Common_M_C01_MutilatedBody",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_M_C/PC/CH_E_Common_M_C01_MutilatedBody.prefab",
+            "assetGUID": "8c57e102fca6da04180fc21b3006f96e",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_M_C/PC/CH_E_Common_M_C01_MutilatedBody",
+            "isSubAsset": false
+          },
+          "bodies": [
+            {
+              "assetName": "CH_E_Common_M_C01",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_M_C/PC/CH_E_Common_M_C01.prefab",
+              "assetGUID": "50cdf555cf8a8ac4f9f6378bc3992896",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_M_C/PC/CH_E_Common_M_C01",
+              "isSubAsset": false
+            },
+            {
+              "assetName": "CH_E_Common_M_C02",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_M_C/PC/CH_E_Common_M_C02.prefab",
+              "assetGUID": "89b7074bda6e573439436eb21bbdc89e",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_M_C/PC/CH_E_Common_M_C02",
+              "isSubAsset": false
+            },
+            {
+              "assetName": "CH_E_Common_M_C03",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_M_C/PC/CH_E_Common_M_C03.prefab",
+              "assetGUID": "c05e1c191a6cc74439ecfd10e7a8b8fc",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_M_C/PC/CH_E_Common_M_C03",
+              "isSubAsset": false
+            },
+            {
+              "assetName": "CH_E_Common_M_C04",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_M_C/PC/CH_E_Common_M_C04.prefab",
+              "assetGUID": "d839ef147570cd74baebe6da3ff2ced7",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_M_C/PC/CH_E_Common_M_C04",
+              "isSubAsset": false
+            }
+          ],
+          "heads": [],
+          "clothesPresets": [],
+          "overrideIceArmorSetup": {
+            "assetName": "CH_E_Common_M_C_IceArmor",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_M_C/PC/CH_E_Common_M_C_IceArmor.prefab",
+            "assetGUID": "1fed317e4dae66b4fa1ac745471f13ac",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_M_C/PC/CH_E_Common_M_C_IceArmor",
+            "isSubAsset": false
+          },
+          "overrideExposedSpotsSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          }
+        },
+        {
+          "description": "CH_E_Common_F_A",
+          "linkHeadToBodyMaterialIndex": true,
+          "headIndependentOfBody": false,
+          "mutilatedInnerBody": {
+            "assetName": "CH_E_Common_F_A01_MutilatedBody",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_F_A/PC/CH_E_Common_F_A01_MutilatedBody.prefab",
+            "assetGUID": "811e2d073de4cf244b02058fc67630a8",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_F_A/PC/CH_E_Common_F_A01_MutilatedBody",
+            "isSubAsset": false
+          },
+          "bodies": [
+            {
+              "assetName": "CH_E_Common_F_A01",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_F_A/PC/CH_E_Common_F_A01.prefab",
+              "assetGUID": "829b9a507b84ad74eb0867224948b714",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_F_A/PC/CH_E_Common_F_A01",
+              "isSubAsset": false
+            },
+            {
+              "assetName": "CH_E_Common_F_A02",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_F_A/PC/CH_E_Common_F_A02.prefab",
+              "assetGUID": "f496d962667760c4aab3a6f18d7594f3",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_F_A/PC/CH_E_Common_F_A02",
+              "isSubAsset": false
+            },
+            {
+              "assetName": "CH_E_Common_F_A03",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_F_A/PC/CH_E_Common_F_A03.prefab",
+              "assetGUID": "5e712ddeb6a6425488cb78c781d31f26",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_F_A/PC/CH_E_Common_F_A03",
+              "isSubAsset": false
+            },
+            {
+              "assetName": "CH_E_Common_F_A04",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_F_A/PC/CH_E_Common_F_A04.prefab",
+              "assetGUID": "8279f8c662064174fb90d703ab9d2adf",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_F_A/PC/CH_E_Common_F_A04",
+              "isSubAsset": false
+            }
+          ],
+          "heads": [],
+          "clothesPresets": [],
+          "overrideIceArmorSetup": {
+            "assetName": "CH_E_Common_F_A_IceArmor",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_F_A/PC/CH_E_Common_F_A_IceArmor.prefab",
+            "assetGUID": "e3a4dfd2baa7c264da9c092f36314885",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_F_A/PC/CH_E_Common_F_A_IceArmor",
+            "isSubAsset": false
+          },
+          "overrideExposedSpotsSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          }
+        }
+      ]
+    },
+    "skinSetupPS4": {
+      "inheritSetup": 3,
+      "zombieBodyPresets": []
+    },
+    "skinSetupMobile": {
+      "inheritSetup": 0,
+      "zombieBodyPresets": [
+        {
+          "description": "CH_E_Common_F_A01_Mobile",
+          "linkHeadToBodyMaterialIndex": true,
+          "headIndependentOfBody": false,
+          "mutilatedInnerBody": {
+            "assetName": "CH_E_Common_F_A01_Mobile_MutilatedBody",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_F_A/Mobile/CH_E_Common_F_A01_Mobile_MutilatedBody.prefab",
+            "assetGUID": "0729049164fac4c4b894097742ed0bf5",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_F_A/Mobile/CH_E_Common_F_A01_Mobile_MutilatedBody",
+            "isSubAsset": false
+          },
+          "bodies": [
+            {
+              "assetName": "CH_E_Common_F_A01_Mobile",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_F_A/Mobile/CH_E_Common_F_A01_Mobile.prefab",
+              "assetGUID": "a444788fc99c1e1458c8c3f40528ee95",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_F_A/Mobile/CH_E_Common_F_A01_Mobile",
+              "isSubAsset": false
+            }
+          ],
+          "heads": [],
+          "clothesPresets": [],
+          "overrideIceArmorSetup": {
+            "assetName": "CH_E_Common_F_A_IceArmor_Mobile",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_F_A/Mobile/CH_E_Common_F_A_IceArmor_Mobile.prefab",
+            "assetGUID": "83242e867ba93484084b8ce60774f8c6",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_F_A/Mobile/CH_E_Common_F_A_IceArmor_Mobile",
+            "isSubAsset": false
+          },
+          "overrideExposedSpotsSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          }
+        },
+        {
+          "description": "CH_E_Common_M_B03_Mobile",
+          "linkHeadToBodyMaterialIndex": true,
+          "headIndependentOfBody": false,
+          "mutilatedInnerBody": {
+            "assetName": "CH_E_Common_M_B03_Mobile_MutilatedBody",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_M_B/Mobile/CH_E_Common_M_B03_Mobile_MutilatedBody.prefab",
+            "assetGUID": "6c4c7b828942a9c42ab1a02218edda2b",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_M_B/Mobile/CH_E_Common_M_B03_Mobile_MutilatedBody",
+            "isSubAsset": false
+          },
+          "bodies": [
+            {
+              "assetName": "CH_E_Common_M_B03_Mobile",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_M_B/Mobile/CH_E_Common_M_B03_Mobile.prefab",
+              "assetGUID": "9055b40ed06eaae41bce3f12a433d0ca",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_M_B/Mobile/CH_E_Common_M_B03_Mobile",
+              "isSubAsset": false
+            }
+          ],
+          "heads": [],
+          "clothesPresets": [],
+          "overrideIceArmorSetup": {
+            "assetName": "CH_E_Common_M_C_IceArmor_Mobile",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_M_C/Mobile/CH_E_Common_M_C_IceArmor_Mobile.prefab",
+            "assetGUID": "bc994eb19add8af4f80ad4a700ba9c92",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_M_C/Mobile/CH_E_Common_M_C_IceArmor_Mobile",
+            "isSubAsset": false
+          },
+          "overrideExposedSpotsSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          }
+        },
+        {
+          "description": "CH_E_Common_M_C02_Mobile",
+          "linkHeadToBodyMaterialIndex": true,
+          "headIndependentOfBody": false,
+          "mutilatedInnerBody": {
+            "assetName": "CH_E_Common_M_C02_Mobile_MutilatedBody_A",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_M_C/Mobile/CH_E_Common_M_C02_Mobile_MutilatedBody_A.prefab",
+            "assetGUID": "6074d58e579af8d44b0ba5a7311db9f1",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_M_C/Mobile/CH_E_Common_M_C02_Mobile_MutilatedBody_A",
+            "isSubAsset": false
+          },
+          "bodies": [
+            {
+              "assetName": "CH_E_Common_M_C02_Mobile",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_M_C/Mobile/CH_E_Common_M_C02_Mobile.prefab",
+              "assetGUID": "5dd114e87ee52b94abf01a31e437e1e2",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_M_C/Mobile/CH_E_Common_M_C02_Mobile",
+              "isSubAsset": false
+            }
+          ],
+          "heads": [],
+          "clothesPresets": [],
+          "overrideIceArmorSetup": {
+            "assetName": "CH_E_Common_M_C_IceArmor_Mobile",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_M_C/Mobile/CH_E_Common_M_C_IceArmor_Mobile.prefab",
+            "assetGUID": "bc994eb19add8af4f80ad4a700ba9c92",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_M_C/Mobile/CH_E_Common_M_C_IceArmor_Mobile",
+            "isSubAsset": false
+          },
+          "overrideExposedSpotsSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          }
+        },
+        {
+          "description": "CH_E_Common_F_A02_Mobile",
+          "linkHeadToBodyMaterialIndex": true,
+          "headIndependentOfBody": false,
+          "mutilatedInnerBody": {
+            "assetName": "CH_E_Common_F_A02_Mobile_MutilatedBody",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_F_A/Mobile/CH_E_Common_F_A02_Mobile_MutilatedBody.prefab",
+            "assetGUID": "e3545557bfa5752418586a1f6df880df",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_F_A/Mobile/CH_E_Common_F_A02_Mobile_MutilatedBody",
+            "isSubAsset": false
+          },
+          "bodies": [
+            {
+              "assetName": "CH_E_Common_F_A02_Mobile",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_F_A/Mobile/CH_E_Common_F_A02_Mobile.prefab",
+              "assetGUID": "a014fd662dee14f4695d69cb32a464ac",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_F_A/Mobile/CH_E_Common_F_A02_Mobile",
+              "isSubAsset": false
+            }
+          ],
+          "heads": [],
+          "clothesPresets": [],
+          "overrideIceArmorSetup": {
+            "assetName": "CH_E_Common_F_A_IceArmor_Mobile",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_F_A/Mobile/CH_E_Common_F_A_IceArmor_Mobile.prefab",
+            "assetGUID": "83242e867ba93484084b8ce60774f8c6",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_F_A/Mobile/CH_E_Common_F_A_IceArmor_Mobile",
+            "isSubAsset": false
+          },
+          "overrideExposedSpotsSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          }
+        },
+        {
+          "description": "CH_E_Common_F_A03_Mobile",
+          "linkHeadToBodyMaterialIndex": true,
+          "headIndependentOfBody": false,
+          "mutilatedInnerBody": {
+            "assetName": "CH_E_Common_F_A03_Mobile_MutilatedBody",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_F_A/Mobile/CH_E_Common_F_A03_Mobile_MutilatedBody.prefab",
+            "assetGUID": "aeb99f043e34ad74681245e6184b0438",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_F_A/Mobile/CH_E_Common_F_A03_Mobile_MutilatedBody",
+            "isSubAsset": false
+          },
+          "bodies": [
+            {
+              "assetName": "CH_E_Common_F_A03_Mobile",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_F_A/Mobile/CH_E_Common_F_A03_Mobile.prefab",
+              "assetGUID": "1d120a6c55b0b124791a30dbe93be122",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_F_A/Mobile/CH_E_Common_F_A03_Mobile",
+              "isSubAsset": false
+            }
+          ],
+          "heads": [],
+          "clothesPresets": [],
+          "overrideIceArmorSetup": {
+            "assetName": "CH_E_Common_F_A_IceArmor_Mobile",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_F_A/Mobile/CH_E_Common_F_A_IceArmor_Mobile.prefab",
+            "assetGUID": "83242e867ba93484084b8ce60774f8c6",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_F_A/Mobile/CH_E_Common_F_A_IceArmor_Mobile",
+            "isSubAsset": false
+          },
+          "overrideExposedSpotsSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          }
+        }
+      ]
+    },
+    "iceArmorSetupPC": {
+      "inheritSetup": 0,
+      "iceArmorPreset": {
+        "assetName": "CH_E_Common_M_C_IceArmor",
+        "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_M_C/PC/CH_E_Common_M_C_IceArmor.prefab",
+        "assetGUID": "1fed317e4dae66b4fa1ac745471f13ac",
+        "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_M_C/PC/CH_E_Common_M_C_IceArmor",
+        "isSubAsset": false
+      }
+    },
+    "iceArmorSetupPS4": {
+      "inheritSetup": 1,
+      "iceArmorPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "iceArmorSetupMobile": {
+      "inheritSetup": 1,
+      "iceArmorPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "exposedSpotsSetupPC": {
+      "inheritSetup": 0,
+      "exposedSpotsPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "exposedSpotsSetupPS4": {
+      "inheritSetup": 0,
+      "exposedSpotsPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "exposedSpotsSetupMobile": {
+      "inheritSetup": 0,
+      "exposedSpotsPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "textureArraySlotsPc": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 0
+      },
+      {
+        "slotId": 1,
+        "textureArraySettings": 1
+      }
+    ],
+    "textureArraySlotsPs4": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 0
+      }
+    ],
+    "textureArraySlotsMobile": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 0
+      }
+    ],
+    "combinedSkinShaderPc": {
+      "assetName": "Vertigo/Infected/PBR/Infected_Combined",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_PBR_Combined.shader",
+      "assetGUID": "af37203610c1e7741a759ba657740fd5",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_PBR_Combined",
+      "isSubAsset": false
+    },
+    "combinedSkinShaderPs4": {
+      "assetName": "Vertigo/Infected/Mobile/Infected_Combined",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined.shader",
+      "assetGUID": "90107dfb9ad327344b5809b660a55d59",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined",
+      "isSubAsset": false
+    },
+    "combinedSkinShaderMobile": {
+      "assetName": "Vertigo/Infected/Mobile/Infected_Combined",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined.shader",
+      "assetGUID": "90107dfb9ad327344b5809b660a55d59",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined",
+      "isSubAsset": false
+    },
+    "mutilationWoundMaterial": {
+      "assetName": "Mat_CH_Infected_Severed_Limb",
+      "assetPath": "Assets/Art/Characters/CH_Enemies/FBX/Materials/Mat_CH_Infected_Severed_Limb.mat",
+      "assetGUID": "871e48a6ddf43b04abb05b8593e6cd03",
+      "resourcePath": "Assets/Art/Characters/CH_Enemies/FBX/Materials/Mat_CH_Infected_Severed_Limb",
+      "isSubAsset": false
+    },
+    "gibbingSettings": 2,
+    "useFootstepFx": false,
+    "footstepFx": 0,
+    "paintBloodOnHeadHit": true,
+    "isPhysicsInteractorEnabled": false,
+    "physicsInteractorSettings": {
+      "interactableBones": [],
+      "impactPhysicsForce": 0.0,
+      "verticalPhysicsForce": 0.0
+    },
+    "pcSkinMaxVertexCount": 12000,
+    "ps4SkinMaxVertexCount": 4050,
+    "mobileSkinMaxVertexCount": 4050,
+    "id": 17,
+    "name": "Common_Slow",
+    "category": ""
+  },
+  {
+    "skinPoolSize": 4,
+    "isSpecial": true,
+    "colorMultiplier": {
+      "color4": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "w": 1.0
+      }
+    },
+    "supportsAnimationMirroring": false,
+    "hipsBone": 1,
+    "headBone": 5,
+    "chestBone": 3,
+    "defaultHitBone": 3,
+    "torsoBoneIds": [
+      2,
+      3,
+      26
+    ],
+    "leftArmBoneIds": [],
+    "rightArmBoneIds": [
+      9,
+      10
+    ],
+    "leftLegBoneIds": [
+      13,
+      12
+    ],
+    "rightLegBoneIds": [
+      16,
+      15
+    ],
+    "physicsUpForceBone": 3,
+    "zombieAnimationRig": 2,
+    "supportsIK": false,
+    "supportsFootPlacementIk": true,
+    "physicsForceMultiplier": 0.3,
+    "colliderRadius": 1.0,
+    "colliderHeight": 5.0,
+    "colliderOffset": {
+      "x": 0.0,
+      "y": 0.85,
+      "z": 0.0
+    },
+    "penetrationWeight": 1,
+    "zombieBlockerHeight": 1.88,
+    "zombieBlockerRadius": 0.8,
+    "zombieBlockerOffset": {
+      "x": 0.0,
+      "y": 0.6,
+      "z": 0.0
+    },
+    "zombieBlockerCrawlingRadius": 0.1,
+    "spawnMutilationChance": 0.0,
+    "spawnMutilatableParts": [],
+    "explosiveMutilatableParts": [],
+    "minForce": 5.0,
+    "maxForce": 10.0,
+    "hitFresnelSettings": {
+      "fresnelHitEnabled": true,
+      "lerpInDuration": 0.1,
+      "activeDuration": 0.15,
+      "lerpOutDuration": 0.1
+    },
+    "skinSetupPC": {
+      "inheritSetup": 0,
+      "zombieBodyPresets": [
+        {
+          "description": "CH_E_Eater_A",
+          "linkHeadToBodyMaterialIndex": true,
+          "headIndependentOfBody": false,
+          "mutilatedInnerBody": {
+            "assetName": "CH_E_Eater_A_MutilatedBody_A",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Eater_A/PC/CH_E_Eater_A_MutilatedBody_A.prefab",
+            "assetGUID": "736ae2ce0d1e3a946b6fb16d6659342c",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Eater_A/PC/CH_E_Eater_A_MutilatedBody_A",
+            "isSubAsset": false
+          },
+          "bodies": [
+            {
+              "assetName": "CH_E_Eater_A",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Eater_A/PC/CH_E_Eater_A.prefab",
+              "assetGUID": "4746748114e16cc4d91d78280e846703",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Eater_A/PC/CH_E_Eater_A",
+              "isSubAsset": false
+            }
+          ],
+          "heads": [],
+          "clothesPresets": [],
+          "overrideIceArmorSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          },
+          "overrideExposedSpotsSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          }
+        }
+      ]
+    },
+    "skinSetupPS4": {
+      "inheritSetup": 3,
+      "zombieBodyPresets": []
+    },
+    "skinSetupMobile": {
+      "inheritSetup": 0,
+      "zombieBodyPresets": [
+        {
+          "description": "",
+          "linkHeadToBodyMaterialIndex": true,
+          "headIndependentOfBody": false,
+          "mutilatedInnerBody": {
+            "assetName": "CH_E_Eater_A_Mobile_MutilatedBody_A",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Eater_A/Mobile/CH_E_Eater_A_Mobile_MutilatedBody_A.prefab",
+            "assetGUID": "eed5b7fa9b594814bae104afbab88ba3",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Eater_A/Mobile/CH_E_Eater_A_Mobile_MutilatedBody_A",
+            "isSubAsset": false
+          },
+          "bodies": [
+            {
+              "assetName": "CH_E_Eater_A_Mobile",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Eater_A/Mobile/CH_E_Eater_A_Mobile.prefab",
+              "assetGUID": "0606131079f9764428ddfa421c73c588",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Eater_A/Mobile/CH_E_Eater_A_Mobile",
+              "isSubAsset": false
+            }
+          ],
+          "heads": [],
+          "clothesPresets": [],
+          "overrideIceArmorSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          },
+          "overrideExposedSpotsSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          }
+        }
+      ]
+    },
+    "iceArmorSetupPC": {
+      "inheritSetup": 0,
+      "iceArmorPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "iceArmorSetupPS4": {
+      "inheritSetup": 0,
+      "iceArmorPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "iceArmorSetupMobile": {
+      "inheritSetup": 0,
+      "iceArmorPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "exposedSpotsSetupPC": {
+      "inheritSetup": 0,
+      "exposedSpotsPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "exposedSpotsSetupPS4": {
+      "inheritSetup": 0,
+      "exposedSpotsPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "exposedSpotsSetupMobile": {
+      "inheritSetup": 0,
+      "exposedSpotsPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "textureArraySlotsPc": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 4
+      },
+      {
+        "slotId": 1,
+        "textureArraySettings": 5
+      }
+    ],
+    "textureArraySlotsPs4": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 4
+      }
+    ],
+    "textureArraySlotsMobile": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 4
+      }
+    ],
+    "combinedSkinShaderPc": {
+      "assetName": "Vertigo/Infected/PBR/Infected_Combined_Eater",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_PBR_Combined_Eater.shader",
+      "assetGUID": "dc5b000f8aea8be408d69138a45125b1",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_PBR_Combined_Eater",
+      "isSubAsset": false
+    },
+    "combinedSkinShaderPs4": {
+      "assetName": "Vertigo/Infected/SimpleLit/Infected_Eater_Combined",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Eater_Combined.shader",
+      "assetGUID": "fc674fd1cdf3c2048a55a5b4cb289faf",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Eater_Combined",
+      "isSubAsset": false
+    },
+    "combinedSkinShaderMobile": {
+      "assetName": "Vertigo/Infected/SimpleLit/Infected_Eater_Combined",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Eater_Combined.shader",
+      "assetGUID": "fc674fd1cdf3c2048a55a5b4cb289faf",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Eater_Combined",
+      "isSubAsset": false
+    },
+    "mutilationWoundMaterial": {
+      "assetName": "Mat_CH_Infected_Severed_Limb",
+      "assetPath": "Assets/Art/Characters/CH_Enemies/FBX/Materials/Mat_CH_Infected_Severed_Limb.mat",
+      "assetGUID": "871e48a6ddf43b04abb05b8593e6cd03",
+      "resourcePath": "Assets/Art/Characters/CH_Enemies/FBX/Materials/Mat_CH_Infected_Severed_Limb",
+      "isSubAsset": false
+    },
+    "gibbingSettings": 1,
+    "useFootstepFx": false,
+    "footstepFx": 0,
+    "paintBloodOnHeadHit": true,
+    "isPhysicsInteractorEnabled": false,
+    "physicsInteractorSettings": {
+      "interactableBones": [],
+      "impactPhysicsForce": 0.0,
+      "verticalPhysicsForce": 0.0
+    },
+    "pcSkinMaxVertexCount": 28000,
+    "ps4SkinMaxVertexCount": 5000,
+    "mobileSkinMaxVertexCount": 5000,
+    "id": 18,
+    "name": "Eater",
+    "category": ""
+  },
+  {
+    "skinPoolSize": 2,
+    "isSpecial": true,
+    "colorMultiplier": {
+      "color4": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "w": 0.0
+      }
+    },
+    "supportsAnimationMirroring": false,
+    "hipsBone": 1,
+    "headBone": 5,
+    "chestBone": 3,
+    "defaultHitBone": 3,
+    "torsoBoneIds": [
+      2,
+      3,
+      26
+    ],
+    "leftArmBoneIds": [
+      6,
+      7
+    ],
+    "rightArmBoneIds": [
+      9,
+      10
+    ],
+    "leftLegBoneIds": [
+      13,
+      12
+    ],
+    "rightLegBoneIds": [
+      16,
+      15
+    ],
+    "physicsUpForceBone": 3,
+    "zombieAnimationRig": 3,
+    "supportsIK": false,
+    "supportsFootPlacementIk": true,
+    "physicsForceMultiplier": 0.25,
+    "colliderRadius": 1.7,
+    "colliderHeight": 4.0,
+    "colliderOffset": {
+      "x": 0.0,
+      "y": 2.0,
+      "z": 0.0
+    },
+    "penetrationWeight": 1,
+    "zombieBlockerHeight": 4.0,
+    "zombieBlockerRadius": 1.0,
+    "zombieBlockerOffset": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0
+    },
+    "zombieBlockerCrawlingRadius": 1.5,
+    "spawnMutilationChance": 0.0,
+    "spawnMutilatableParts": [],
+    "explosiveMutilatableParts": [],
+    "minForce": 5.0,
+    "maxForce": 10.0,
+    "hitFresnelSettings": {
+      "fresnelHitEnabled": true,
+      "lerpInDuration": 0.1,
+      "activeDuration": 0.15,
+      "lerpOutDuration": 0.1
+    },
+    "skinSetupPC": {
+      "inheritSetup": 0,
+      "zombieBodyPresets": [
+        {
+          "description": "CH_E_Smasher",
+          "linkHeadToBodyMaterialIndex": true,
+          "headIndependentOfBody": false,
+          "mutilatedInnerBody": {
+            "assetName": "CH_E_Smasher_MutilatedBody",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Smasher/PC/CH_E_Smasher_MutilatedBody.prefab",
+            "assetGUID": "d66e03ea033caeb43988f137132bc84e",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Smasher/PC/CH_E_Smasher_MutilatedBody",
+            "isSubAsset": false
+          },
+          "bodies": [
+            {
+              "assetName": "CH_E_Smasher",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Smasher/PC/CH_E_Smasher.prefab",
+              "assetGUID": "6b06b5d9d54f8cd4f8f0bc1546d42456",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Smasher/PC/CH_E_Smasher",
+              "isSubAsset": false
+            }
+          ],
+          "heads": [],
+          "clothesPresets": [
+            {
+              "description": "",
+              "headClothes": [],
+              "torsoClothes": [],
+              "legClothes": [],
+              "feetClothes": []
+            }
+          ],
+          "overrideIceArmorSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          },
+          "overrideExposedSpotsSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          }
+        }
+      ]
+    },
+    "skinSetupPS4": {
+      "inheritSetup": 3,
+      "zombieBodyPresets": [
+        {
+          "description": "",
+          "linkHeadToBodyMaterialIndex": false,
+          "headIndependentOfBody": false,
+          "mutilatedInnerBody": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          },
+          "bodies": [],
+          "heads": [],
+          "clothesPresets": [],
+          "overrideIceArmorSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          },
+          "overrideExposedSpotsSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          }
+        }
+      ]
+    },
+    "skinSetupMobile": {
+      "inheritSetup": 0,
+      "zombieBodyPresets": [
+        {
+          "description": "CH_E_Smasher",
+          "linkHeadToBodyMaterialIndex": true,
+          "headIndependentOfBody": false,
+          "mutilatedInnerBody": {
+            "assetName": "CH_E_Smasher_Mobile_MutilatedBody",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Smasher/Mobile/CH_E_Smasher_Mobile_MutilatedBody.prefab",
+            "assetGUID": "3d070e1efc6d7c341b94e83123a11164",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Smasher/Mobile/CH_E_Smasher_Mobile_MutilatedBody",
+            "isSubAsset": false
+          },
+          "bodies": [
+            {
+              "assetName": "CH_E_Smasher_Mobile",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Smasher/Mobile/CH_E_Smasher_Mobile.prefab",
+              "assetGUID": "e394ebf8c3460dc47bffa38367c2a42c",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Smasher/Mobile/CH_E_Smasher_Mobile",
+              "isSubAsset": false
+            }
+          ],
+          "heads": [],
+          "clothesPresets": [],
+          "overrideIceArmorSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          },
+          "overrideExposedSpotsSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          }
+        }
+      ]
+    },
+    "iceArmorSetupPC": {
+      "inheritSetup": 0,
+      "iceArmorPreset": {
+        "assetName": "CH_E_Smasher_IceArmor",
+        "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Smasher/PC/CH_E_Smasher_IceArmor.prefab",
+        "assetGUID": "0aa17d6d2271b3241b9b037983a746c5",
+        "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Smasher/PC/CH_E_Smasher_IceArmor",
+        "isSubAsset": false
+      }
+    },
+    "iceArmorSetupPS4": {
+      "inheritSetup": 3,
+      "iceArmorPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "iceArmorSetupMobile": {
+      "inheritSetup": 0,
+      "iceArmorPreset": {
+        "assetName": "CH_E_Smasher_Mobile_IceArmor",
+        "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Smasher/Mobile/CH_E_Smasher_Mobile_IceArmor.prefab",
+        "assetGUID": "1379c8f6a647e98448c8d809afb22dec",
+        "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Smasher/Mobile/CH_E_Smasher_Mobile_IceArmor",
+        "isSubAsset": false
+      }
+    },
+    "exposedSpotsSetupPC": {
+      "inheritSetup": 0,
+      "exposedSpotsPreset": {
+        "assetName": "CH_E_Smasher_ExposedSpots",
+        "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Smasher/PC/CH_E_Smasher_ExposedSpots.prefab",
+        "assetGUID": "054be62c55cc9834da2b8f6759871c69",
+        "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Smasher/PC/CH_E_Smasher_ExposedSpots",
+        "isSubAsset": false
+      }
+    },
+    "exposedSpotsSetupPS4": {
+      "inheritSetup": 3,
+      "exposedSpotsPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "exposedSpotsSetupMobile": {
+      "inheritSetup": 0,
+      "exposedSpotsPreset": {
+        "assetName": "CH_E_Smasher_Mobile_ExposedSpots",
+        "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Smasher/Mobile/CH_E_Smasher_Mobile_ExposedSpots.prefab",
+        "assetGUID": "6783185c18c02f447ac1857d429c5e34",
+        "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Smasher/Mobile/CH_E_Smasher_Mobile_ExposedSpots",
+        "isSubAsset": false
+      }
+    },
+    "textureArraySlotsPc": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 4
+      },
+      {
+        "slotId": 1,
+        "textureArraySettings": 5
+      }
+    ],
+    "textureArraySlotsPs4": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 4
+      }
+    ],
+    "textureArraySlotsMobile": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 4
+      }
+    ],
+    "combinedSkinShaderPc": {
+      "assetName": "Vertigo/Infected/PBR/Infected_Combined",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_PBR_Combined.shader",
+      "assetGUID": "af37203610c1e7741a759ba657740fd5",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_PBR_Combined",
+      "isSubAsset": false
+    },
+    "combinedSkinShaderPs4": {
+      "assetName": "Vertigo/Infected/Mobile/Infected_Combined",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined.shader",
+      "assetGUID": "90107dfb9ad327344b5809b660a55d59",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined",
+      "isSubAsset": false
+    },
+    "combinedSkinShaderMobile": {
+      "assetName": "Vertigo/Infected/Mobile/Infected_Combined",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined.shader",
+      "assetGUID": "90107dfb9ad327344b5809b660a55d59",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined",
+      "isSubAsset": false
+    },
+    "mutilationWoundMaterial": {
+      "assetName": "Mat_CH_Infected_Severed_Limb",
+      "assetPath": "Assets/Art/Characters/CH_Enemies/FBX/Materials/Mat_CH_Infected_Severed_Limb.mat",
+      "assetGUID": "871e48a6ddf43b04abb05b8593e6cd03",
+      "resourcePath": "Assets/Art/Characters/CH_Enemies/FBX/Materials/Mat_CH_Infected_Severed_Limb",
+      "isSubAsset": false
+    },
+    "gibbingSettings": 0,
+    "useFootstepFx": true,
+    "footstepFx": 2,
+    "paintBloodOnHeadHit": true,
+    "isPhysicsInteractorEnabled": true,
+    "physicsInteractorSettings": {
+      "interactableBones": [
+        6,
+        9,
+        10,
+        11
+      ],
+      "impactPhysicsForce": 10.0,
+      "verticalPhysicsForce": 5.0
+    },
+    "pcSkinMaxVertexCount": 50000,
+    "ps4SkinMaxVertexCount": 12000,
+    "mobileSkinMaxVertexCount": 12000,
+    "id": 20,
+    "name": "Smasher",
+    "category": ""
+  },
+  {
+    "skinPoolSize": 70,
+    "isSpecial": false,
+    "colorMultiplier": {
+      "color4": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "w": 1.0
+      }
+    },
+    "supportsAnimationMirroring": true,
+    "hipsBone": 1,
+    "headBone": 5,
+    "chestBone": 3,
+    "defaultHitBone": 3,
+    "torsoBoneIds": [
+      2,
+      3
+    ],
+    "leftArmBoneIds": [
+      6,
+      7
+    ],
+    "rightArmBoneIds": [
+      9,
+      10
+    ],
+    "leftLegBoneIds": [
+      13,
+      12
+    ],
+    "rightLegBoneIds": [
+      16,
+      15
+    ],
+    "physicsUpForceBone": 3,
+    "zombieAnimationRig": 1,
+    "supportsIK": true,
+    "supportsFootPlacementIk": true,
+    "physicsForceMultiplier": 1.0,
+    "colliderRadius": 0.75,
+    "colliderHeight": 3.0,
+    "colliderOffset": {
+      "x": 0.0,
+      "y": 0.85,
+      "z": 0.0
+    },
+    "penetrationWeight": 1,
+    "zombieBlockerHeight": 3.0,
+    "zombieBlockerRadius": 0.75,
+    "zombieBlockerOffset": {
+      "x": 0.0,
+      "y": 0.5,
+      "z": 0.0
+    },
+    "zombieBlockerCrawlingRadius": 0.75,
+    "spawnMutilationChance": 0.0,
+    "spawnMutilatableParts": [],
+    "explosiveMutilatableParts": [
+      5,
+      6,
+      1,
+      2,
+      3,
+      4
+    ],
+    "minForce": 0.0,
+    "maxForce": 5.0,
+    "hitFresnelSettings": {
+      "fresnelHitEnabled": false,
+      "lerpInDuration": 0.1,
+      "activeDuration": 0.1,
+      "lerpOutDuration": 0.1
+    },
+    "skinSetupPC": {
+      "inheritSetup": 0,
+      "zombieBodyPresets": [
+        {
+          "description": "CH_E_Common_Fast_D",
+          "linkHeadToBodyMaterialIndex": true,
+          "headIndependentOfBody": false,
+          "mutilatedInnerBody": {
+            "assetName": "CH_E_Common_Fast_D_MutilatedBody_B",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_Fast_D/PC/CH_E_Common_Fast_D_MutilatedBody_B.prefab",
+            "assetGUID": "d651b0da90cf1e1488f881df455b001f",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_Fast_D/PC/CH_E_Common_Fast_D_MutilatedBody_B",
+            "isSubAsset": false
+          },
+          "bodies": [
+            {
+              "assetName": "CH_E_Common_Fast_D",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_Fast_D/PC/CH_E_Common_Fast_D.prefab",
+              "assetGUID": "ebf2302c2fb0061468c36d0f2ba0ae51",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_Fast_D/PC/CH_E_Common_Fast_D",
+              "isSubAsset": false
+            }
+          ],
+          "heads": [],
+          "clothesPresets": [],
+          "overrideIceArmorSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          },
+          "overrideExposedSpotsSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          }
+        },
+        {
+          "description": "CH_E_Common_Fast_E",
+          "linkHeadToBodyMaterialIndex": true,
+          "headIndependentOfBody": false,
+          "mutilatedInnerBody": {
+            "assetName": "CH_E_Common_Fast_E_MutilatedBody",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_Fast_E/PC/CH_E_Common_Fast_E_MutilatedBody.prefab",
+            "assetGUID": "7a46c54bb4e8e7248aacaff9bae1e333",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_Fast_E/PC/CH_E_Common_Fast_E_MutilatedBody",
+            "isSubAsset": false
+          },
+          "bodies": [
+            {
+              "assetName": "CH_E_Common_Fast_E",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_Fast_E/PC/CH_E_Common_Fast_E.prefab",
+              "assetGUID": "2a203e7e8c2ef1f45819060f2a1efbb0",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_Fast_E/PC/CH_E_Common_Fast_E",
+              "isSubAsset": false
+            }
+          ],
+          "heads": [],
+          "clothesPresets": [],
+          "overrideIceArmorSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          },
+          "overrideExposedSpotsSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          }
+        },
+        {
+          "description": "CH_E_Common_Fast_F",
+          "linkHeadToBodyMaterialIndex": true,
+          "headIndependentOfBody": false,
+          "mutilatedInnerBody": {
+            "assetName": "CH_E_Common_Fast_F_MutilatedBody",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_Fast_F/PC/CH_E_Common_Fast_F_MutilatedBody.prefab",
+            "assetGUID": "eb10033cf56fa3b42bea7456e869845d",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_Fast_F/PC/CH_E_Common_Fast_F_MutilatedBody",
+            "isSubAsset": false
+          },
+          "bodies": [
+            {
+              "assetName": "CH_E_Common_Fast_F",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_Fast_F/PC/CH_E_Common_Fast_F.prefab",
+              "assetGUID": "5921db9f022402b469633b1770b8954b",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_Fast_F/PC/CH_E_Common_Fast_F",
+              "isSubAsset": false
+            }
+          ],
+          "heads": [],
+          "clothesPresets": [],
+          "overrideIceArmorSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          },
+          "overrideExposedSpotsSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          }
+        }
+      ]
+    },
+    "skinSetupPS4": {
+      "inheritSetup": 3,
+      "zombieBodyPresets": []
+    },
+    "skinSetupMobile": {
+      "inheritSetup": 0,
+      "zombieBodyPresets": [
+        {
+          "description": "CH_E_Common_Fast_D",
+          "linkHeadToBodyMaterialIndex": true,
+          "headIndependentOfBody": false,
+          "mutilatedInnerBody": {
+            "assetName": "CH_E_Common_Fast_D_Mobile_MutilatedBody_A",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_Fast_D/Mobile/CH_E_Common_Fast_D_Mobile_MutilatedBody_A.prefab",
+            "assetGUID": "2c9720fdf8a86a445a8342c78012ce71",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_Fast_D/Mobile/CH_E_Common_Fast_D_Mobile_MutilatedBody_A",
+            "isSubAsset": false
+          },
+          "bodies": [
+            {
+              "assetName": "CH_E_Common_Fast_D_Mobile",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_Fast_D/Mobile/CH_E_Common_Fast_D_Mobile.prefab",
+              "assetGUID": "66891fb750f32f4478ae30291af0bd76",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_Fast_D/Mobile/CH_E_Common_Fast_D_Mobile",
+              "isSubAsset": false
+            }
+          ],
+          "heads": [],
+          "clothesPresets": [],
+          "overrideIceArmorSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          },
+          "overrideExposedSpotsSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          }
+        },
+        {
+          "description": "CH_E_Common_Fast_E",
+          "linkHeadToBodyMaterialIndex": true,
+          "headIndependentOfBody": false,
+          "mutilatedInnerBody": {
+            "assetName": "CH_E_Common_Fast_E_Mobile_MutilatedBody_A",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_Fast_E/Mobile/CH_E_Common_Fast_E_Mobile_MutilatedBody_A.prefab",
+            "assetGUID": "acf97117226a1ac478fc247cdc725113",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_Fast_E/Mobile/CH_E_Common_Fast_E_Mobile_MutilatedBody_A",
+            "isSubAsset": false
+          },
+          "bodies": [
+            {
+              "assetName": "CH_E_Common_Fast_E_Mobile",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_Fast_E/Mobile/CH_E_Common_Fast_E_Mobile.prefab",
+              "assetGUID": "544bc19a61a943747802bb04e509f7d6",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_Fast_E/Mobile/CH_E_Common_Fast_E_Mobile",
+              "isSubAsset": false
+            }
+          ],
+          "heads": [],
+          "clothesPresets": [],
+          "overrideIceArmorSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          },
+          "overrideExposedSpotsSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          }
+        },
+        {
+          "description": "CH_E_Common_Fast_F",
+          "linkHeadToBodyMaterialIndex": true,
+          "headIndependentOfBody": false,
+          "mutilatedInnerBody": {
+            "assetName": "CH_E_Common_Fast_F_Mobile_Mutilatedbody_A",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_Fast_F/Mobile/CH_E_Common_Fast_F_Mobile_Mutilatedbody_A.prefab",
+            "assetGUID": "df7282cc0daaacc41b09019c4abc4871",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_Fast_F/Mobile/CH_E_Common_Fast_F_Mobile_Mutilatedbody_A",
+            "isSubAsset": false
+          },
+          "bodies": [
+            {
+              "assetName": "CH_E_Common_Fast_F_Mobile",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_Fast_F/Mobile/CH_E_Common_Fast_F_Mobile.prefab",
+              "assetGUID": "b9ebdc57f32a34c46b03618282c122c4",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_Fast_F/Mobile/CH_E_Common_Fast_F_Mobile",
+              "isSubAsset": false
+            }
+          ],
+          "heads": [],
+          "clothesPresets": [],
+          "overrideIceArmorSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          },
+          "overrideExposedSpotsSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          }
+        }
+      ]
+    },
+    "iceArmorSetupPC": {
+      "inheritSetup": 0,
+      "iceArmorPreset": {
+        "assetName": "CH_E_Common_M_C_IceArmor",
+        "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_M_C/PC/CH_E_Common_M_C_IceArmor.prefab",
+        "assetGUID": "1fed317e4dae66b4fa1ac745471f13ac",
+        "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_M_C/PC/CH_E_Common_M_C_IceArmor",
+        "isSubAsset": false
+      }
+    },
+    "iceArmorSetupPS4": {
+      "inheritSetup": 0,
+      "iceArmorPreset": {
+        "assetName": "CH_E_Common_M_C_IceArmor_Mobile",
+        "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_M_C/Mobile/CH_E_Common_M_C_IceArmor_Mobile.prefab",
+        "assetGUID": "bc994eb19add8af4f80ad4a700ba9c92",
+        "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_M_C/Mobile/CH_E_Common_M_C_IceArmor_Mobile",
+        "isSubAsset": false
+      }
+    },
+    "iceArmorSetupMobile": {
+      "inheritSetup": 0,
+      "iceArmorPreset": {
+        "assetName": "CH_E_Common_M_C_IceArmor_Mobile",
+        "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_M_C/Mobile/CH_E_Common_M_C_IceArmor_Mobile.prefab",
+        "assetGUID": "bc994eb19add8af4f80ad4a700ba9c92",
+        "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_M_C/Mobile/CH_E_Common_M_C_IceArmor_Mobile",
+        "isSubAsset": false
+      }
+    },
+    "exposedSpotsSetupPC": {
+      "inheritSetup": 0,
+      "exposedSpotsPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "exposedSpotsSetupPS4": {
+      "inheritSetup": 0,
+      "exposedSpotsPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "exposedSpotsSetupMobile": {
+      "inheritSetup": 0,
+      "exposedSpotsPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "textureArraySlotsPc": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 0
+      },
+      {
+        "slotId": 1,
+        "textureArraySettings": 1
+      }
+    ],
+    "textureArraySlotsPs4": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 0
+      }
+    ],
+    "textureArraySlotsMobile": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 0
+      }
+    ],
+    "combinedSkinShaderPc": {
+      "assetName": "Vertigo/Infected/PBR/Infected_Combined",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_PBR_Combined.shader",
+      "assetGUID": "af37203610c1e7741a759ba657740fd5",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_PBR_Combined",
+      "isSubAsset": false
+    },
+    "combinedSkinShaderPs4": {
+      "assetName": "Vertigo/Infected/Mobile/Infected_Combined",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined.shader",
+      "assetGUID": "90107dfb9ad327344b5809b660a55d59",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined",
+      "isSubAsset": false
+    },
+    "combinedSkinShaderMobile": {
+      "assetName": "Vertigo/Infected/Mobile/Infected_Combined",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined.shader",
+      "assetGUID": "90107dfb9ad327344b5809b660a55d59",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined",
+      "isSubAsset": false
+    },
+    "mutilationWoundMaterial": {
+      "assetName": "Mat_CH_Infected_Severed_Limb",
+      "assetPath": "Assets/Art/Characters/CH_Enemies/FBX/Materials/Mat_CH_Infected_Severed_Limb.mat",
+      "assetGUID": "871e48a6ddf43b04abb05b8593e6cd03",
+      "resourcePath": "Assets/Art/Characters/CH_Enemies/FBX/Materials/Mat_CH_Infected_Severed_Limb",
+      "isSubAsset": false
+    },
+    "gibbingSettings": 2,
+    "useFootstepFx": false,
+    "footstepFx": 0,
+    "paintBloodOnHeadHit": true,
+    "isPhysicsInteractorEnabled": false,
+    "physicsInteractorSettings": {
+      "interactableBones": [],
+      "impactPhysicsForce": 0.0,
+      "verticalPhysicsForce": 0.0
+    },
+    "pcSkinMaxVertexCount": 22000,
+    "ps4SkinMaxVertexCount": 4050,
+    "mobileSkinMaxVertexCount": 4050,
+    "id": 22,
+    "name": "Common_Fast",
+    "category": ""
+  },
+  {
+    "skinPoolSize": 5,
+    "isSpecial": true,
+    "colorMultiplier": {
+      "color4": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "w": 0.0
+      }
+    },
+    "supportsAnimationMirroring": false,
+    "hipsBone": 1,
+    "headBone": 5,
+    "chestBone": 3,
+    "defaultHitBone": 3,
+    "torsoBoneIds": [
+      2,
+      3,
+      26
+    ],
+    "leftArmBoneIds": [
+      6,
+      7
+    ],
+    "rightArmBoneIds": [
+      9,
+      10
+    ],
+    "leftLegBoneIds": [
+      13,
+      12
+    ],
+    "rightLegBoneIds": [
+      16,
+      15
+    ],
+    "physicsUpForceBone": 3,
+    "zombieAnimationRig": 4,
+    "supportsIK": false,
+    "supportsFootPlacementIk": true,
+    "physicsForceMultiplier": 0.25,
+    "colliderRadius": 1.7,
+    "colliderHeight": 4.0,
+    "colliderOffset": {
+      "x": 0.0,
+      "y": 1.2,
+      "z": 0.0
+    },
+    "penetrationWeight": 1,
+    "zombieBlockerHeight": 3.0,
+    "zombieBlockerRadius": 0.6,
+    "zombieBlockerOffset": {
+      "x": 0.0,
+      "y": 0.5,
+      "z": 0.0
+    },
+    "zombieBlockerCrawlingRadius": 1.5,
+    "spawnMutilationChance": 0.0,
+    "spawnMutilatableParts": [],
+    "explosiveMutilatableParts": [],
+    "minForce": 5.0,
+    "maxForce": 10.0,
+    "hitFresnelSettings": {
+      "fresnelHitEnabled": true,
+      "lerpInDuration": 0.1,
+      "activeDuration": 0.15,
+      "lerpOutDuration": 0.1
+    },
+    "skinSetupPC": {
+      "inheritSetup": 0,
+      "zombieBodyPresets": [
+        {
+          "description": "CH_E_Smasher",
+          "linkHeadToBodyMaterialIndex": true,
+          "headIndependentOfBody": false,
+          "mutilatedInnerBody": {
+            "assetName": "CH_E_Brute_MutilatedBody",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Brute/PC/CH_E_Brute_MutilatedBody.prefab",
+            "assetGUID": "e14cbb2ffcd2ba54ea3f2c9bf8cb5f2d",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Brute/PC/CH_E_Brute_MutilatedBody",
+            "isSubAsset": false
+          },
+          "bodies": [
+            {
+              "assetName": "CH_E_Brute",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Brute/PC/CH_E_Brute.prefab",
+              "assetGUID": "5a83f482ebfd3e64eb854021c81b63ab",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Brute/PC/CH_E_Brute",
+              "isSubAsset": false
+            }
+          ],
+          "heads": [],
+          "clothesPresets": [],
+          "overrideIceArmorSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          },
+          "overrideExposedSpotsSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          }
+        }
+      ]
+    },
+    "skinSetupPS4": {
+      "inheritSetup": 3,
+      "zombieBodyPresets": [
+        {
+          "description": "",
+          "linkHeadToBodyMaterialIndex": false,
+          "headIndependentOfBody": false,
+          "mutilatedInnerBody": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          },
+          "bodies": [],
+          "heads": [],
+          "clothesPresets": [],
+          "overrideIceArmorSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          },
+          "overrideExposedSpotsSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          }
+        }
+      ]
+    },
+    "skinSetupMobile": {
+      "inheritSetup": 0,
+      "zombieBodyPresets": [
+        {
+          "description": "CH_E_Brute",
+          "linkHeadToBodyMaterialIndex": true,
+          "headIndependentOfBody": false,
+          "mutilatedInnerBody": {
+            "assetName": "CH_E_Brute_Mobile_MutilatedBody",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Brute/Mobile/CH_E_Brute_Mobile_MutilatedBody.prefab",
+            "assetGUID": "93385d9f66edcb04daf6186de61ceb2e",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Brute/Mobile/CH_E_Brute_Mobile_MutilatedBody",
+            "isSubAsset": false
+          },
+          "bodies": [
+            {
+              "assetName": "CH_E_Brute_Mobile",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Brute/Mobile/CH_E_Brute_Mobile.prefab",
+              "assetGUID": "1c179e076adf91046b6fa1056d4de2f0",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Brute/Mobile/CH_E_Brute_Mobile",
+              "isSubAsset": false
+            }
+          ],
+          "heads": [],
+          "clothesPresets": [],
+          "overrideIceArmorSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          },
+          "overrideExposedSpotsSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          }
+        }
+      ]
+    },
+    "iceArmorSetupPC": {
+      "inheritSetup": 0,
+      "iceArmorPreset": {
+        "assetName": "CH_E_Brute_IceArmor",
+        "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Brute/PC/CH_E_Brute_IceArmor.prefab",
+        "assetGUID": "caffac79daea33e45b645454dad5e919",
+        "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Brute/PC/CH_E_Brute_IceArmor",
+        "isSubAsset": false
+      }
+    },
+    "iceArmorSetupPS4": {
+      "inheritSetup": 3,
+      "iceArmorPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "iceArmorSetupMobile": {
+      "inheritSetup": 0,
+      "iceArmorPreset": {
+        "assetName": "CH_E_Brute_Mobile_IceArmor",
+        "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Brute/Mobile/CH_E_Brute_Mobile_IceArmor.prefab",
+        "assetGUID": "230a4004f53a77d48869f5b3ce6a525f",
+        "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Brute/Mobile/CH_E_Brute_Mobile_IceArmor",
+        "isSubAsset": false
+      }
+    },
+    "exposedSpotsSetupPC": {
+      "inheritSetup": 0,
+      "exposedSpotsPreset": {
+        "assetName": "CH_E_Brute_ExposedSpots",
+        "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Brute/PC/CH_E_Brute_ExposedSpots.prefab",
+        "assetGUID": "6b991c9f95130ea42a70469843de2cbe",
+        "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Brute/PC/CH_E_Brute_ExposedSpots",
+        "isSubAsset": false
+      }
+    },
+    "exposedSpotsSetupPS4": {
+      "inheritSetup": 3,
+      "exposedSpotsPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "exposedSpotsSetupMobile": {
+      "inheritSetup": 0,
+      "exposedSpotsPreset": {
+        "assetName": "CH_E_Brute_Mobile_ExposedSpots",
+        "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Brute/Mobile/CH_E_Brute_Mobile_ExposedSpots.prefab",
+        "assetGUID": "9660190dfcb734c4f8473af5a69d08a4",
+        "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Brute/Mobile/CH_E_Brute_Mobile_ExposedSpots",
+        "isSubAsset": false
+      }
+    },
+    "textureArraySlotsPc": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 4
+      },
+      {
+        "slotId": 1,
+        "textureArraySettings": 5
+      }
+    ],
+    "textureArraySlotsPs4": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 4
+      }
+    ],
+    "textureArraySlotsMobile": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 4
+      }
+    ],
+    "combinedSkinShaderPc": {
+      "assetName": "Vertigo/Infected/PBR/Infected_Combined",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_PBR_Combined.shader",
+      "assetGUID": "af37203610c1e7741a759ba657740fd5",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_PBR_Combined",
+      "isSubAsset": false
+    },
+    "combinedSkinShaderPs4": {
+      "assetName": "Vertigo/Infected/Mobile/Infected_Combined",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined.shader",
+      "assetGUID": "90107dfb9ad327344b5809b660a55d59",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined",
+      "isSubAsset": false
+    },
+    "combinedSkinShaderMobile": {
+      "assetName": "Vertigo/Infected/Mobile/Infected_Combined",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined.shader",
+      "assetGUID": "90107dfb9ad327344b5809b660a55d59",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined",
+      "isSubAsset": false
+    },
+    "mutilationWoundMaterial": {
+      "assetName": "Mat_CH_Infected_Severed_Limb",
+      "assetPath": "Assets/Art/Characters/CH_Enemies/FBX/Materials/Mat_CH_Infected_Severed_Limb.mat",
+      "assetGUID": "871e48a6ddf43b04abb05b8593e6cd03",
+      "resourcePath": "Assets/Art/Characters/CH_Enemies/FBX/Materials/Mat_CH_Infected_Severed_Limb",
+      "isSubAsset": false
+    },
+    "gibbingSettings": 0,
+    "useFootstepFx": false,
+    "footstepFx": 2,
+    "paintBloodOnHeadHit": true,
+    "isPhysicsInteractorEnabled": true,
+    "physicsInteractorSettings": {
+      "interactableBones": [
+        6,
+        9,
+        10,
+        11
+      ],
+      "impactPhysicsForce": 10.0,
+      "verticalPhysicsForce": 5.0
+    },
+    "pcSkinMaxVertexCount": 50000,
+    "ps4SkinMaxVertexCount": 12000,
+    "mobileSkinMaxVertexCount": 12000,
+    "id": 23,
+    "name": "Brute",
+    "category": ""
+  },
+  {
+    "skinPoolSize": 2,
+    "isSpecial": true,
+    "colorMultiplier": {
+      "color4": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "w": 0.0
+      }
+    },
+    "supportsAnimationMirroring": false,
+    "hipsBone": 1,
+    "headBone": 5,
+    "chestBone": 3,
+    "defaultHitBone": 3,
+    "torsoBoneIds": [
+      2,
+      3,
+      26
+    ],
+    "leftArmBoneIds": [
+      6,
+      7
+    ],
+    "rightArmBoneIds": [
+      9,
+      10
+    ],
+    "leftLegBoneIds": [
+      13,
+      12
+    ],
+    "rightLegBoneIds": [
+      16,
+      15
+    ],
+    "physicsUpForceBone": 3,
+    "zombieAnimationRig": 3,
+    "supportsIK": false,
+    "supportsFootPlacementIk": true,
+    "physicsForceMultiplier": 0.25,
+    "colliderRadius": 1.7,
+    "colliderHeight": 4.0,
+    "colliderOffset": {
+      "x": 0.0,
+      "y": 1.2,
+      "z": 0.0
+    },
+    "penetrationWeight": 1,
+    "zombieBlockerHeight": 6.21,
+    "zombieBlockerRadius": 1.25,
+    "zombieBlockerOffset": {
+      "x": 0.0,
+      "y": 0.5,
+      "z": 0.0
+    },
+    "zombieBlockerCrawlingRadius": 1.5,
+    "spawnMutilationChance": 0.0,
+    "spawnMutilatableParts": [],
+    "explosiveMutilatableParts": [],
+    "minForce": 5.0,
+    "maxForce": 10.0,
+    "hitFresnelSettings": {
+      "fresnelHitEnabled": true,
+      "lerpInDuration": 0.1,
+      "activeDuration": 0.15,
+      "lerpOutDuration": 0.1
+    },
+    "skinSetupPC": {
+      "inheritSetup": 0,
+      "zombieBodyPresets": [
+        {
+          "description": "CH_E_Smasher",
+          "linkHeadToBodyMaterialIndex": true,
+          "headIndependentOfBody": false,
+          "mutilatedInnerBody": {
+            "assetName": "CH_E_SuperSmasher_Variant_MutilatedBody",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/SuperSmasher/PC/CH_E_SuperSmasher_Variant_MutilatedBody.prefab",
+            "assetGUID": "c26d86b1bd095504cb4775833ed41378",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/SuperSmasher/PC/CH_E_SuperSmasher_Variant_MutilatedBody",
+            "isSubAsset": false
+          },
+          "bodies": [
+            {
+              "assetName": "CH_E_SuperSmasher_Variant",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/SuperSmasher/PC/CH_E_SuperSmasher_Variant.prefab",
+              "assetGUID": "b66f6bd305469eb4981ead244e384d5f",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/SuperSmasher/PC/CH_E_SuperSmasher_Variant",
+              "isSubAsset": false
+            }
+          ],
+          "heads": [],
+          "clothesPresets": [],
+          "overrideIceArmorSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          },
+          "overrideExposedSpotsSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          }
+        }
+      ]
+    },
+    "skinSetupPS4": {
+      "inheritSetup": 3,
+      "zombieBodyPresets": [
+        {
+          "description": "",
+          "linkHeadToBodyMaterialIndex": false,
+          "headIndependentOfBody": false,
+          "mutilatedInnerBody": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          },
+          "bodies": [],
+          "heads": [],
+          "clothesPresets": [],
+          "overrideIceArmorSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          },
+          "overrideExposedSpotsSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          }
+        }
+      ]
+    },
+    "skinSetupMobile": {
+      "inheritSetup": 0,
+      "zombieBodyPresets": [
+        {
+          "description": "CH_E_Smasher",
+          "linkHeadToBodyMaterialIndex": true,
+          "headIndependentOfBody": false,
+          "mutilatedInnerBody": {
+            "assetName": "CH_E_SuperSmasher_Variant_MutilatedBody_Mobile",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/SuperSmasher/Mobile/CH_E_SuperSmasher_Variant_MutilatedBody_Mobile.prefab",
+            "assetGUID": "f5150eea637f8c641bb9e78af17311a8",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/SuperSmasher/Mobile/CH_E_SuperSmasher_Variant_MutilatedBody_Mobile",
+            "isSubAsset": false
+          },
+          "bodies": [
+            {
+              "assetName": "CH_E_SuperSmasher_Variant_Mobile",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/SuperSmasher/Mobile/CH_E_SuperSmasher_Variant_Mobile.prefab",
+              "assetGUID": "e134fa6c19a091343a132ffa446dae8f",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/SuperSmasher/Mobile/CH_E_SuperSmasher_Variant_Mobile",
+              "isSubAsset": false
+            }
+          ],
+          "heads": [],
+          "clothesPresets": [],
+          "overrideIceArmorSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          },
+          "overrideExposedSpotsSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          }
+        }
+      ]
+    },
+    "iceArmorSetupPC": {
+      "inheritSetup": 0,
+      "iceArmorPreset": {
+        "assetName": "CH_E_SuperSmasher_Variant_IceArmor",
+        "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/SuperSmasher/PC/CH_E_SuperSmasher_Variant_IceArmor.prefab",
+        "assetGUID": "f33f5eb9b6036c143a58b9dfb62c0fb0",
+        "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/SuperSmasher/PC/CH_E_SuperSmasher_Variant_IceArmor",
+        "isSubAsset": false
+      }
+    },
+    "iceArmorSetupPS4": {
+      "inheritSetup": 3,
+      "iceArmorPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "iceArmorSetupMobile": {
+      "inheritSetup": 0,
+      "iceArmorPreset": {
+        "assetName": "CH_E_SuperSmasher_Variant_IceArmor_Mobile",
+        "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/SuperSmasher/Mobile/CH_E_SuperSmasher_Variant_IceArmor_Mobile.prefab",
+        "assetGUID": "5f6ab213030c9c247a26c209ba9cdac5",
+        "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/SuperSmasher/Mobile/CH_E_SuperSmasher_Variant_IceArmor_Mobile",
+        "isSubAsset": false
+      }
+    },
+    "exposedSpotsSetupPC": {
+      "inheritSetup": 0,
+      "exposedSpotsPreset": {
+        "assetName": "CH_E_SuperSmasher_Variant_ExposedSpots",
+        "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/SuperSmasher/PC/CH_E_SuperSmasher_Variant_ExposedSpots.prefab",
+        "assetGUID": "655da1664e76ff04499899983979bd92",
+        "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/SuperSmasher/PC/CH_E_SuperSmasher_Variant_ExposedSpots",
+        "isSubAsset": false
+      }
+    },
+    "exposedSpotsSetupPS4": {
+      "inheritSetup": 3,
+      "exposedSpotsPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "exposedSpotsSetupMobile": {
+      "inheritSetup": 0,
+      "exposedSpotsPreset": {
+        "assetName": "CH_E_SuperSmasher_Variant_ExposedSpots_Mobile",
+        "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/SuperSmasher/Mobile/CH_E_SuperSmasher_Variant_ExposedSpots_Mobile.prefab",
+        "assetGUID": "57bf0c76ee00f6e489ace0cb9403e2c8",
+        "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/SuperSmasher/Mobile/CH_E_SuperSmasher_Variant_ExposedSpots_Mobile",
+        "isSubAsset": false
+      }
+    },
+    "textureArraySlotsPc": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 4
+      },
+      {
+        "slotId": 1,
+        "textureArraySettings": 5
+      }
+    ],
+    "textureArraySlotsPs4": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 4
+      }
+    ],
+    "textureArraySlotsMobile": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 4
+      }
+    ],
+    "combinedSkinShaderPc": {
+      "assetName": "Vertigo/Infected/PBR/Infected_Combined",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_PBR_Combined.shader",
+      "assetGUID": "af37203610c1e7741a759ba657740fd5",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_PBR_Combined",
+      "isSubAsset": false
+    },
+    "combinedSkinShaderPs4": {
+      "assetName": "Vertigo/Infected/Mobile/Infected_Combined",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined.shader",
+      "assetGUID": "90107dfb9ad327344b5809b660a55d59",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined",
+      "isSubAsset": false
+    },
+    "combinedSkinShaderMobile": {
+      "assetName": "Vertigo/Infected/Mobile/Infected_Combined",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined.shader",
+      "assetGUID": "90107dfb9ad327344b5809b660a55d59",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined",
+      "isSubAsset": false
+    },
+    "mutilationWoundMaterial": {
+      "assetName": "Mat_CH_Infected_Severed_Limb",
+      "assetPath": "Assets/Art/Characters/CH_Enemies/FBX/Materials/Mat_CH_Infected_Severed_Limb.mat",
+      "assetGUID": "871e48a6ddf43b04abb05b8593e6cd03",
+      "resourcePath": "Assets/Art/Characters/CH_Enemies/FBX/Materials/Mat_CH_Infected_Severed_Limb",
+      "isSubAsset": false
+    },
+    "gibbingSettings": 0,
+    "useFootstepFx": true,
+    "footstepFx": 2,
+    "paintBloodOnHeadHit": true,
+    "isPhysicsInteractorEnabled": true,
+    "physicsInteractorSettings": {
+      "interactableBones": [
+        6,
+        9,
+        10,
+        11
+      ],
+      "impactPhysicsForce": 10.0,
+      "verticalPhysicsForce": 5.0
+    },
+    "pcSkinMaxVertexCount": 50000,
+    "ps4SkinMaxVertexCount": 12000,
+    "mobileSkinMaxVertexCount": 12000,
+    "id": 24,
+    "name": "Supersmasher",
+    "category": ""
+  },
+  {
+    "skinPoolSize": 1,
+    "isSpecial": false,
+    "colorMultiplier": {
+      "color4": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "w": 1.0
+      }
+    },
+    "supportsAnimationMirroring": true,
+    "hipsBone": 1,
+    "headBone": 5,
+    "chestBone": 3,
+    "defaultHitBone": 3,
+    "torsoBoneIds": [
+      2,
+      3
+    ],
+    "leftArmBoneIds": [
+      6,
+      7
+    ],
+    "rightArmBoneIds": [
+      9,
+      10
+    ],
+    "leftLegBoneIds": [
+      13,
+      12
+    ],
+    "rightLegBoneIds": [
+      16,
+      15
+    ],
+    "physicsUpForceBone": 3,
+    "zombieAnimationRig": 5,
+    "supportsIK": true,
+    "supportsFootPlacementIk": true,
+    "physicsForceMultiplier": 1.0,
+    "colliderRadius": 0.75,
+    "colliderHeight": 2.0,
+    "colliderOffset": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0
+    },
+    "penetrationWeight": 1,
+    "zombieBlockerHeight": 3.0,
+    "zombieBlockerRadius": 0.75,
+    "zombieBlockerOffset": {
+      "x": 0.0,
+      "y": 0.5,
+      "z": 0.0
+    },
+    "zombieBlockerCrawlingRadius": 0.75,
+    "spawnMutilationChance": 0.0,
+    "spawnMutilatableParts": [],
+    "explosiveMutilatableParts": [
+      5,
+      6,
+      1,
+      2,
+      3,
+      4
+    ],
+    "minForce": 0.0,
+    "maxForce": 5.0,
+    "hitFresnelSettings": {
+      "fresnelHitEnabled": false,
+      "lerpInDuration": 0.1,
+      "activeDuration": 0.1,
+      "lerpOutDuration": 0.1
+    },
+    "skinSetupPC": {
+      "inheritSetup": 0,
+      "zombieBodyPresets": [
+        {
+          "description": "CH_E_LootGoblin",
+          "linkHeadToBodyMaterialIndex": true,
+          "headIndependentOfBody": false,
+          "mutilatedInnerBody": {
+            "assetName": "CH_E_LootGoblin_MutilatedBody",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/LootGoblin_M_A/PC/CH_E_LootGoblin_MutilatedBody.prefab",
+            "assetGUID": "4d5364b27182da34296d517af04e66ef",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/LootGoblin_M_A/PC/CH_E_LootGoblin_MutilatedBody",
+            "isSubAsset": false
+          },
+          "bodies": [
+            {
+              "assetName": "CH_E_LootGoblin",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/LootGoblin_M_A/PC/CH_E_LootGoblin.prefab",
+              "assetGUID": "b287937ecbb2fa14ea81778b6213efec",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/LootGoblin_M_A/PC/CH_E_LootGoblin",
+              "isSubAsset": false
+            }
+          ],
+          "heads": [],
+          "clothesPresets": [],
+          "overrideIceArmorSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          },
+          "overrideExposedSpotsSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          }
+        }
+      ]
+    },
+    "skinSetupPS4": {
+      "inheritSetup": 3,
+      "zombieBodyPresets": []
+    },
+    "skinSetupMobile": {
+      "inheritSetup": 0,
+      "zombieBodyPresets": [
+        {
+          "description": "CH_E_LootGoblin",
+          "linkHeadToBodyMaterialIndex": true,
+          "headIndependentOfBody": false,
+          "mutilatedInnerBody": {
+            "assetName": "CH_E_LootGoblin_Mobile_MutilatedBody",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/LootGoblin_M_A/Mobile/CH_E_LootGoblin_Mobile_MutilatedBody.prefab",
+            "assetGUID": "1d7dc717ae3fbaf4991116a762a71687",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/LootGoblin_M_A/Mobile/CH_E_LootGoblin_Mobile_MutilatedBody",
+            "isSubAsset": false
+          },
+          "bodies": [
+            {
+              "assetName": "CH_E_LootGoblin_Mobile",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/LootGoblin_M_A/Mobile/CH_E_LootGoblin_Mobile.prefab",
+              "assetGUID": "9444048ef22e591428410ee9db8ad9fa",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/LootGoblin_M_A/Mobile/CH_E_LootGoblin_Mobile",
+              "isSubAsset": false
+            }
+          ],
+          "heads": [],
+          "clothesPresets": [],
+          "overrideIceArmorSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          },
+          "overrideExposedSpotsSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          }
+        }
+      ]
+    },
+    "iceArmorSetupPC": {
+      "inheritSetup": 0,
+      "iceArmorPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "iceArmorSetupPS4": {
+      "inheritSetup": 1,
+      "iceArmorPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "iceArmorSetupMobile": {
+      "inheritSetup": 1,
+      "iceArmorPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "exposedSpotsSetupPC": {
+      "inheritSetup": 0,
+      "exposedSpotsPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "exposedSpotsSetupPS4": {
+      "inheritSetup": 0,
+      "exposedSpotsPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "exposedSpotsSetupMobile": {
+      "inheritSetup": 0,
+      "exposedSpotsPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "textureArraySlotsPc": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 0
+      },
+      {
+        "slotId": 1,
+        "textureArraySettings": 1
+      }
+    ],
+    "textureArraySlotsPs4": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 0
+      }
+    ],
+    "textureArraySlotsMobile": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 0
+      }
+    ],
+    "combinedSkinShaderPc": {
+      "assetName": "Vertigo/Infected/PBR/Goblin_Combined",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_PBR_Combined_Goblin.shader",
+      "assetGUID": "aac52417cacc94248bb7c94c52bfde71",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_PBR_Combined_Goblin",
+      "isSubAsset": false
+    },
+    "combinedSkinShaderPs4": {
+      "assetName": "Vertigo/Infected/Mobile/Goblin_Combined",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined_Goblin.shader",
+      "assetGUID": "39146e35372c9d34088367b673abe194",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined_Goblin",
+      "isSubAsset": false
+    },
+    "combinedSkinShaderMobile": {
+      "assetName": "Vertigo/Infected/Mobile/Goblin_Combined",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined_Goblin.shader",
+      "assetGUID": "39146e35372c9d34088367b673abe194",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined_Goblin",
+      "isSubAsset": false
+    },
+    "mutilationWoundMaterial": {
+      "assetName": "Mat_CH_Infected_Severed_Limb",
+      "assetPath": "Assets/Art/Characters/CH_Enemies/FBX/Materials/Mat_CH_Infected_Severed_Limb.mat",
+      "assetGUID": "871e48a6ddf43b04abb05b8593e6cd03",
+      "resourcePath": "Assets/Art/Characters/CH_Enemies/FBX/Materials/Mat_CH_Infected_Severed_Limb",
+      "isSubAsset": false
+    },
+    "gibbingSettings": 2,
+    "useFootstepFx": false,
+    "footstepFx": 0,
+    "paintBloodOnHeadHit": true,
+    "isPhysicsInteractorEnabled": false,
+    "physicsInteractorSettings": {
+      "interactableBones": [],
+      "impactPhysicsForce": 0.0,
+      "verticalPhysicsForce": 0.0
+    },
+    "pcSkinMaxVertexCount": 50000,
+    "ps4SkinMaxVertexCount": 12000,
+    "mobileSkinMaxVertexCount": 12000,
+    "id": 25,
+    "name": "Loot_Goblin",
+    "category": ""
+  },
+  {
+    "skinPoolSize": 4,
+    "isSpecial": true,
+    "colorMultiplier": {
+      "color4": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "w": 1.0
+      }
+    },
+    "supportsAnimationMirroring": false,
+    "hipsBone": 1,
+    "headBone": 5,
+    "chestBone": 3,
+    "defaultHitBone": 3,
+    "torsoBoneIds": [
+      2,
+      3
+    ],
+    "leftArmBoneIds": [
+      6,
+      7
+    ],
+    "rightArmBoneIds": [
+      9,
+      10
+    ],
+    "leftLegBoneIds": [
+      13,
+      12
+    ],
+    "rightLegBoneIds": [
+      16,
+      15
+    ],
+    "physicsUpForceBone": 3,
+    "zombieAnimationRig": 0,
+    "supportsIK": true,
+    "supportsFootPlacementIk": false,
+    "physicsForceMultiplier": 0.65,
+    "colliderRadius": 0.65,
+    "colliderHeight": 3.0,
+    "colliderOffset": {
+      "x": 0.0,
+      "y": 0.85,
+      "z": 0.0
+    },
+    "penetrationWeight": 1,
+    "zombieBlockerHeight": 3.0,
+    "zombieBlockerRadius": 0.75,
+    "zombieBlockerOffset": {
+      "x": 0.0,
+      "y": 0.5,
+      "z": 0.0
+    },
+    "zombieBlockerCrawlingRadius": 0.25,
+    "spawnMutilationChance": 0.0,
+    "spawnMutilatableParts": [],
+    "explosiveMutilatableParts": [
+      5
+    ],
+    "minForce": 5.0,
+    "maxForce": 10.0,
+    "hitFresnelSettings": {
+      "fresnelHitEnabled": true,
+      "lerpInDuration": 0.1,
+      "activeDuration": 0.15,
+      "lerpOutDuration": 0.1
+    },
+    "skinSetupPC": {
+      "inheritSetup": 0,
+      "zombieBodyPresets": [
+        {
+          "description": "CH_E_Jock_A01",
+          "linkHeadToBodyMaterialIndex": true,
+          "headIndependentOfBody": false,
+          "mutilatedInnerBody": {
+            "assetName": "CH_E_Juggernaut_MutilatedBody",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Jock_M_A/Juggernaut_Twins/PC/CH_E_Juggernaut_MutilatedBody.prefab",
+            "assetGUID": "f78d32b96952bde4eaeda45078b9014e",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Jock_M_A/Juggernaut_Twins/PC/CH_E_Juggernaut_MutilatedBody",
+            "isSubAsset": false
+          },
+          "bodies": [
+            {
+              "assetName": "CH_E_Juggernaut_B_PC",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Jock_M_A/Juggernaut_Twins/PC/CH_E_Juggernaut_B_PC.prefab",
+              "assetGUID": "6a079a5ed9734c746878c047eb4f28c8",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Jock_M_A/Juggernaut_Twins/PC/CH_E_Juggernaut_B_PC",
+              "isSubAsset": false
+            }
+          ],
+          "heads": [],
+          "clothesPresets": [],
+          "overrideIceArmorSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          },
+          "overrideExposedSpotsSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          }
+        }
+      ]
+    },
+    "skinSetupPS4": {
+      "inheritSetup": 3,
+      "zombieBodyPresets": []
+    },
+    "skinSetupMobile": {
+      "inheritSetup": 0,
+      "zombieBodyPresets": [
+        {
+          "description": "CH_E_Jock_A",
+          "linkHeadToBodyMaterialIndex": true,
+          "headIndependentOfBody": false,
+          "mutilatedInnerBody": {
+            "assetName": "CH_E_Juggernaut_MutilatedBody_Mobile",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Jock_M_A/Juggernaut_Twins/Mobile/CH_E_Juggernaut_MutilatedBody_Mobile.prefab",
+            "assetGUID": "e60c481c13425244a99069d588200e1a",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Jock_M_A/Juggernaut_Twins/Mobile/CH_E_Juggernaut_MutilatedBody_Mobile",
+            "isSubAsset": false
+          },
+          "bodies": [
+            {
+              "assetName": "CH_E_Juggernaut_B_Mobile",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Jock_M_A/Juggernaut_Twins/Mobile/CH_E_Juggernaut_B_Mobile.prefab",
+              "assetGUID": "9818e29d8b5b9c244a0b0d180a17faba",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Jock_M_A/Juggernaut_Twins/Mobile/CH_E_Juggernaut_B_Mobile",
+              "isSubAsset": false
+            }
+          ],
+          "heads": [],
+          "clothesPresets": [],
+          "overrideIceArmorSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          },
+          "overrideExposedSpotsSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          }
+        }
+      ]
+    },
+    "iceArmorSetupPC": {
+      "inheritSetup": 0,
+      "iceArmorPreset": {
+        "assetName": "CH_E_Juggernaut_B_MachineGun",
+        "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Jock_M_A/Juggernaut_Twins/PC/CH_E_Juggernaut_B_MachineGun.prefab",
+        "assetGUID": "58594664bc719ae4fb625dcf469da12f",
+        "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Jock_M_A/Juggernaut_Twins/PC/CH_E_Juggernaut_B_MachineGun",
+        "isSubAsset": false
+      }
+    },
+    "iceArmorSetupPS4": {
+      "inheritSetup": 3,
+      "iceArmorPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "iceArmorSetupMobile": {
+      "inheritSetup": 0,
+      "iceArmorPreset": {
+        "assetName": "CH_E_Juggernaut_B_MachineGun_Mobile",
+        "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Jock_M_A/Juggernaut_Twins/Mobile/CH_E_Juggernaut_B_MachineGun_Mobile.prefab",
+        "assetGUID": "c1addbc4b8a93b443895382d7182e366",
+        "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Jock_M_A/Juggernaut_Twins/Mobile/CH_E_Juggernaut_B_MachineGun_Mobile",
+        "isSubAsset": false
+      }
+    },
+    "exposedSpotsSetupPC": {
+      "inheritSetup": 0,
+      "exposedSpotsPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "exposedSpotsSetupPS4": {
+      "inheritSetup": 0,
+      "exposedSpotsPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "exposedSpotsSetupMobile": {
+      "inheritSetup": 0,
+      "exposedSpotsPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "textureArraySlotsPc": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 8
+      },
+      {
+        "slotId": 1,
+        "textureArraySettings": 9
+      }
+    ],
+    "textureArraySlotsPs4": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 8
+      }
+    ],
+    "textureArraySlotsMobile": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 8
+      }
+    ],
+    "combinedSkinShaderPc": {
+      "assetName": "Vertigo/Infected/PBR/Infected_Combined",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_PBR_Combined.shader",
+      "assetGUID": "af37203610c1e7741a759ba657740fd5",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_PBR_Combined",
+      "isSubAsset": false
+    },
+    "combinedSkinShaderPs4": {
+      "assetName": "Vertigo/Infected/Mobile/Infected_Combined",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined.shader",
+      "assetGUID": "90107dfb9ad327344b5809b660a55d59",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined",
+      "isSubAsset": false
+    },
+    "combinedSkinShaderMobile": {
+      "assetName": "Vertigo/Infected/Mobile/Infected_Combined",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined.shader",
+      "assetGUID": "90107dfb9ad327344b5809b660a55d59",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined",
+      "isSubAsset": false
+    },
+    "mutilationWoundMaterial": {
+      "assetName": "Mat_CH_Infected_Severed_Limb",
+      "assetPath": "Assets/Art/Characters/CH_Enemies/FBX/Materials/Mat_CH_Infected_Severed_Limb.mat",
+      "assetGUID": "871e48a6ddf43b04abb05b8593e6cd03",
+      "resourcePath": "Assets/Art/Characters/CH_Enemies/FBX/Materials/Mat_CH_Infected_Severed_Limb",
+      "isSubAsset": false
+    },
+    "gibbingSettings": 0,
+    "useFootstepFx": false,
+    "footstepFx": 0,
+    "paintBloodOnHeadHit": false,
+    "isPhysicsInteractorEnabled": false,
+    "physicsInteractorSettings": {
+      "interactableBones": [],
+      "impactPhysicsForce": 0.0,
+      "verticalPhysicsForce": 0.0
+    },
+    "pcSkinMaxVertexCount": 30000,
+    "ps4SkinMaxVertexCount": 7000,
+    "mobileSkinMaxVertexCount": 7000,
+    "id": 26,
+    "name": "Juggernaut_LMG",
+    "category": ""
+  },
+  {
+    "skinPoolSize": 4,
+    "isSpecial": true,
+    "colorMultiplier": {
+      "color4": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "w": 1.0
+      }
+    },
+    "supportsAnimationMirroring": false,
+    "hipsBone": 1,
+    "headBone": 5,
+    "chestBone": 3,
+    "defaultHitBone": 3,
+    "torsoBoneIds": [
+      2,
+      3
+    ],
+    "leftArmBoneIds": [
+      6,
+      7
+    ],
+    "rightArmBoneIds": [
+      9,
+      10
+    ],
+    "leftLegBoneIds": [
+      13,
+      12
+    ],
+    "rightLegBoneIds": [
+      16,
+      15
+    ],
+    "physicsUpForceBone": 3,
+    "zombieAnimationRig": 0,
+    "supportsIK": true,
+    "supportsFootPlacementIk": false,
+    "physicsForceMultiplier": 0.65,
+    "colliderRadius": 0.65,
+    "colliderHeight": 3.0,
+    "colliderOffset": {
+      "x": 0.0,
+      "y": 0.85,
+      "z": 0.0
+    },
+    "penetrationWeight": 1,
+    "zombieBlockerHeight": 3.0,
+    "zombieBlockerRadius": 0.75,
+    "zombieBlockerOffset": {
+      "x": 0.0,
+      "y": 0.5,
+      "z": 0.0
+    },
+    "zombieBlockerCrawlingRadius": 0.25,
+    "spawnMutilationChance": 0.0,
+    "spawnMutilatableParts": [],
+    "explosiveMutilatableParts": [
+      5
+    ],
+    "minForce": 5.0,
+    "maxForce": 10.0,
+    "hitFresnelSettings": {
+      "fresnelHitEnabled": true,
+      "lerpInDuration": 0.1,
+      "activeDuration": 0.15,
+      "lerpOutDuration": 0.1
+    },
+    "skinSetupPC": {
+      "inheritSetup": 0,
+      "zombieBodyPresets": [
+        {
+          "description": "CH_E_Jock_A01",
+          "linkHeadToBodyMaterialIndex": true,
+          "headIndependentOfBody": false,
+          "mutilatedInnerBody": {
+            "assetName": "CH_E_Juggernaut_MutilatedBody",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Jock_M_A/Juggernaut_Twins/PC/CH_E_Juggernaut_MutilatedBody.prefab",
+            "assetGUID": "f78d32b96952bde4eaeda45078b9014e",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Jock_M_A/Juggernaut_Twins/PC/CH_E_Juggernaut_MutilatedBody",
+            "isSubAsset": false
+          },
+          "bodies": [
+            {
+              "assetName": "CH_E_Juggernaut_C_PC",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Jock_M_A/Juggernaut_Twins/PC/CH_E_Juggernaut_C_PC.prefab",
+              "assetGUID": "24c448f338767d946af79415343276a1",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Jock_M_A/Juggernaut_Twins/PC/CH_E_Juggernaut_C_PC",
+              "isSubAsset": false
+            }
+          ],
+          "heads": [],
+          "clothesPresets": [],
+          "overrideIceArmorSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          },
+          "overrideExposedSpotsSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          }
+        }
+      ]
+    },
+    "skinSetupPS4": {
+      "inheritSetup": 3,
+      "zombieBodyPresets": []
+    },
+    "skinSetupMobile": {
+      "inheritSetup": 0,
+      "zombieBodyPresets": [
+        {
+          "description": "CH_E_Jock_A",
+          "linkHeadToBodyMaterialIndex": true,
+          "headIndependentOfBody": false,
+          "mutilatedInnerBody": {
+            "assetName": "CH_E_Juggernaut_MutilatedBody_Mobile",
+            "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Jock_M_A/Juggernaut_Twins/Mobile/CH_E_Juggernaut_MutilatedBody_Mobile.prefab",
+            "assetGUID": "e60c481c13425244a99069d588200e1a",
+            "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Jock_M_A/Juggernaut_Twins/Mobile/CH_E_Juggernaut_MutilatedBody_Mobile",
+            "isSubAsset": false
+          },
+          "bodies": [
+            {
+              "assetName": "CH_E_Juggernaut_C_Mobile",
+              "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Jock_M_A/Juggernaut_Twins/Mobile/CH_E_Juggernaut_C_Mobile.prefab",
+              "assetGUID": "3c3f28ecfa80b7e41aca54395e561bd1",
+              "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Jock_M_A/Juggernaut_Twins/Mobile/CH_E_Juggernaut_C_Mobile",
+              "isSubAsset": false
+            }
+          ],
+          "heads": [],
+          "clothesPresets": [],
+          "overrideIceArmorSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          },
+          "overrideExposedSpotsSetup": {
+            "assetName": "",
+            "assetPath": "",
+            "assetGUID": "",
+            "resourcePath": "",
+            "isSubAsset": false
+          }
+        }
+      ]
+    },
+    "iceArmorSetupPC": {
+      "inheritSetup": 0,
+      "iceArmorPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "iceArmorSetupPS4": {
+      "inheritSetup": 0,
+      "iceArmorPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "iceArmorSetupMobile": {
+      "inheritSetup": 0,
+      "iceArmorPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "exposedSpotsSetupPC": {
+      "inheritSetup": 0,
+      "exposedSpotsPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "exposedSpotsSetupPS4": {
+      "inheritSetup": 0,
+      "exposedSpotsPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "exposedSpotsSetupMobile": {
+      "inheritSetup": 0,
+      "exposedSpotsPreset": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      }
+    },
+    "textureArraySlotsPc": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 8
+      },
+      {
+        "slotId": 1,
+        "textureArraySettings": 9
+      }
+    ],
+    "textureArraySlotsPs4": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 8
+      }
+    ],
+    "textureArraySlotsMobile": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 8
+      }
+    ],
+    "combinedSkinShaderPc": {
+      "assetName": "Vertigo/Infected/PBR/Infected_Combined",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_PBR_Combined.shader",
+      "assetGUID": "af37203610c1e7741a759ba657740fd5",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_PBR_Combined",
+      "isSubAsset": false
+    },
+    "combinedSkinShaderPs4": {
+      "assetName": "Vertigo/Infected/Mobile/Infected_Combined",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined.shader",
+      "assetGUID": "90107dfb9ad327344b5809b660a55d59",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined",
+      "isSubAsset": false
+    },
+    "combinedSkinShaderMobile": {
+      "assetName": "Vertigo/Infected/Mobile/Infected_Combined",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined.shader",
+      "assetGUID": "90107dfb9ad327344b5809b660a55d59",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined",
+      "isSubAsset": false
+    },
+    "mutilationWoundMaterial": {
+      "assetName": "Mat_CH_Infected_Severed_Limb",
+      "assetPath": "Assets/Art/Characters/CH_Enemies/FBX/Materials/Mat_CH_Infected_Severed_Limb.mat",
+      "assetGUID": "871e48a6ddf43b04abb05b8593e6cd03",
+      "resourcePath": "Assets/Art/Characters/CH_Enemies/FBX/Materials/Mat_CH_Infected_Severed_Limb",
+      "isSubAsset": false
+    },
+    "gibbingSettings": 0,
+    "useFootstepFx": false,
+    "footstepFx": 0,
+    "paintBloodOnHeadHit": false,
+    "isPhysicsInteractorEnabled": false,
+    "physicsInteractorSettings": {
+      "interactableBones": [],
+      "impactPhysicsForce": 0.0,
+      "verticalPhysicsForce": 0.0
+    },
+    "pcSkinMaxVertexCount": 30000,
+    "ps4SkinMaxVertexCount": 7000,
+    "mobileSkinMaxVertexCount": 7000,
+    "id": 27,
+    "name": "Juggernaut_Charge",
+    "category": ""
+  }
+]
+}

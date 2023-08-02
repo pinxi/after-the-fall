@@ -1,0 +1,329 @@
+{
+  "TableId": 201,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "randomnessControlFactor": 0.0,
+    "lootPickupRange": 6.0,
+    "harvestLootCategory": 4,
+    "lootArtObject": {
+      "assetName": "ZombieLootObject",
+      "assetPath": "Assets/Prefabs/Loot/VertigoResources/ZombieLootObject.prefab",
+      "assetGUID": "fa0006db17fc0f74a914857ccea72a84",
+      "resourcePath": "ZombieLootObject",
+      "isSubAsset": false
+    },
+    "maxLootDropRadius": 3.0,
+    "navMeshSampleRadius": 1.0,
+    "lootHeightOffset": 0.0,
+    "minDropFlySpeed": 4.0,
+    "maxDropFlySpeed": 6.0,
+    "minDropHeightOffset": 0.5,
+    "maxDropHeightOffset": 1.25,
+    "dropHeightOffsetWeightedCurve": {
+      "weightByValueCurve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inTangent": -4.350812,
+            "outTangent": -4.350812,
+            "inWeight": 0.0,
+            "outWeight": 0.03962004,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.493401051,
+            "value": 0.114704467,
+            "inTangent": -0.412540317,
+            "outTangent": -0.412540317,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 0.05,
+            "inTangent": -0.01683348,
+            "outTangent": -0.01683348,
+            "inWeight": 0.08513516,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "valueByCumulativeWeightCurve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 0.0,
+            "outTangent": 0.244116813,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.124133319,
+            "value": 0.0303030312,
+            "inTangent": 0.264749318,
+            "outTangent": 0.264749318,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.265606672,
+            "value": 0.07070707,
+            "inTangent": 0.310579747,
+            "outTangent": 0.310579747,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.3558148,
+            "value": 0.101010107,
+            "inTangent": 0.365774423,
+            "outTangent": 0.365774423,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.457790762,
+            "value": 0.141414151,
+            "inTangent": 0.4377132,
+            "outTangent": 0.4377132,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.5418747,
+            "value": 0.181818172,
+            "inTangent": 0.5311662,
+            "outTangent": 0.5311662,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.611056,
+            "value": 0.2222222,
+            "inTangent": 0.645028949,
+            "outTangent": 0.645028949,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.6679939,
+            "value": 0.262626231,
+            "inTangent": 0.790723,
+            "outTangent": 0.790723,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.7254658,
+            "value": 0.313131332,
+            "inTangent": 0.9847224,
+            "outTangent": 0.9847224,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.7712456,
+            "value": 0.363636434,
+            "inTangent": 1.23533714,
+            "outTangent": 1.23533714,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.814939439,
+            "value": 0.424242556,
+            "inTangent": 1.54922283,
+            "outTangent": 1.54922283,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.84978056,
+            "value": 0.484848678,
+            "inTangent": 1.94608164,
+            "outTangent": 1.94608164,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.8820027,
+            "value": 0.5555558,
+            "inTangent": 2.45761442,
+            "outTangent": 2.45761442,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.9074356,
+            "value": 0.626262963,
+            "inTangent": 3.09238219,
+            "outTangent": 3.09238219,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.9336005,
+            "value": 0.717172146,
+            "inTangent": 3.88729453,
+            "outTangent": 3.88729453,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.9978386,
+            "value": 1.00000072,
+            "inTangent": 4.40281439,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "numSamples": 100,
+      "simplify": true,
+      "simplifyTolerance": 0.002
+    },
+    "dropHeightOffsetCurve": {
+      "keys": [
+        {
+          "time": 0.00183868408,
+          "value": 0.0164489746,
+          "inTangent": 4.18264961,
+          "outTangent": 4.18264961,
+          "inWeight": 0.333333343,
+          "outWeight": 0.0486579649,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.5,
+          "value": 1.0,
+          "inTangent": -0.02072634,
+          "outTangent": -0.02072634,
+          "inWeight": 0.333333343,
+          "outWeight": 0.3333917,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.998352051,
+          "value": 0.0,
+          "inTangent": -4.53279543,
+          "outTangent": -4.53279543,
+          "inWeight": 0.0324261822,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "dropLandAnimationEaseMode": 8,
+    "dropLandAnimationDuration": 0.25,
+    "pickupObjectAnimationEaseMode": 7,
+    "pickupObjectAnimationDuration": 0.25,
+    "pickupFractionModifierCurve": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 1.21405125,
+          "outTangent": 1.21405125,
+          "inWeight": 0.0,
+          "outWeight": 0.0602287762,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.740420043,
+          "value": 0.7839734,
+          "inTangent": 0.255996466,
+          "outTangent": 0.255996466,
+          "inWeight": 0.333333343,
+          "outWeight": 0.255554,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 1.5711273,
+          "outTangent": 1.5711273,
+          "inWeight": 0.171795189,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "pickupFlyTime": 0.5,
+    "minMaxPickupDelay": {
+      "x": 0.0,
+      "y": 0.4
+    },
+    "pickupControlPoint2MinRadiusFromPlayer": 2.0,
+    "pickupControlPoint2Height": 2.0,
+    "pickupControlPoint3MinMaxDistanceFromHead": {
+      "x": 2.0,
+      "y": 5.0
+    },
+    "pickupControlPoint3AngleFraction": 0.1,
+    "pickupControlPoint2MaxRandomOffset": 1.0,
+    "pickupControlPoint3MaxRandomOffset": 1.25,
+    "playHapticsOnPickup": true,
+    "lootPickupHapticsProfile": 15,
+    "playHapticsOnPouchEnter": false,
+    "lootPouchEnterHapticsProfile": 15,
+    "id": 0,
+    "name": "name",
+    "category": ""
+  }
+]
+}

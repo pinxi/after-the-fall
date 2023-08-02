@@ -1,0 +1,25 @@
+{
+  "TableId": 104,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "hitAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "id": 0,
+    "name": "Player",
+    "category": "",
+    "ignoreProjectiles": true,
+    "prefab": {
+      "assetName": "CD_Player",
+      "assetPath": "Assets/Prefabs/ArcadeGames/ColoradoDaylight/VertigoResources/CD_Player.prefab",
+      "assetGUID": "fee3fc1a46af465479c7c2b983549455",
+      "resourcePath": "CD_Player",
+      "isSubAsset": false
+    },
+    "poolSize": 1
+  }
+]
+}

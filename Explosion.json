@@ -1,0 +1,1171 @@
+{
+  "TableId": 119,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "ExplosionForce": {
+      "rangeStart": 3.0,
+      "rangeEnd": 3.5
+    },
+    "DamageModel": {
+      "splashRadius": 6.0,
+      "damageFalloff": 0.75,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 1350.0,
+        "rangeEnd": 1350.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 4000.0,
+        "rangeEnd": 4000.0
+      },
+      "criticalHitChance": 0.1,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 1,
+      "impactType": 36
+    },
+    "PvPDamageModel": {
+      "splashRadius": 6.0,
+      "damageFalloff": 0.5,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 500.0,
+        "rangeEnd": 500.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 4000.0,
+        "rangeEnd": 4000.0
+      },
+      "criticalHitChance": 0.1,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 1,
+      "impactType": 36
+    },
+    "SeparateDamageOnSnowbreed": false,
+    "SnowbreedDamageModel": {
+      "splashRadius": 0.0,
+      "damageFalloff": 0.0,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 30.0,
+        "rangeEnd": 40.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 5.0,
+        "rangeEnd": 5.0
+      },
+      "criticalHitChance": 0.1,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 8,
+      "impactType": 0
+    },
+    "AffectsHittables": false,
+    "AffectsNonHittableRigidbodies": true,
+    "AggroSignalRange": 10.0,
+    "explosionPrefab": {
+      "assetName": "FX Explosion",
+      "assetPath": "Assets/Art/FX Vertigo/FX Explosion/VertigoResources/FX Explosion.prefab",
+      "assetGUID": "9ea1c53fa7056df4d9cfe4aafec99193",
+      "resourcePath": "FX Explosion",
+      "isSubAsset": false
+    },
+    "randomBrokenPrefabs": [
+      {
+        "assetName": "BrokenBarrel_A",
+        "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Explosives/BrokenBarrel_A.prefab",
+        "assetGUID": "07ab050891ff83c439f6368faf328353",
+        "resourcePath": "Explosives/BrokenBarrel_A",
+        "isSubAsset": false
+      },
+      {
+        "assetName": "BrokenBarrel_B",
+        "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Explosives/BrokenBarrel_B.prefab",
+        "assetGUID": "99cc30593f3ee5c48bb409ad1c3ca78f",
+        "resourcePath": "Explosives/BrokenBarrel_B",
+        "isSubAsset": false
+      }
+    ],
+    "localizationString": "EXPLOSION_BARREL",
+    "audioExplosion": {
+      "eventPath": "event:/ATF_PC/Weapons/Barrel/Barrel_explosive",
+      "eventGuid": "56841d5c-9208-40f2-b9a4-0340b89dff4d",
+      "parameterSettings": []
+    },
+    "id": 0,
+    "name": "Barrel",
+    "category": ""
+  },
+  {
+    "ExplosionForce": {
+      "rangeStart": 4.0,
+      "rangeEnd": 5.0
+    },
+    "DamageModel": {
+      "splashRadius": 6.0,
+      "damageFalloff": 0.75,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 1450.0,
+        "rangeEnd": 1450.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 7500.0,
+        "rangeEnd": 7500.0
+      },
+      "criticalHitChance": 0.0,
+      "criticalHitDamageMulitplier": 1.0,
+      "mutilationType": 1,
+      "impactType": 36
+    },
+    "PvPDamageModel": {
+      "splashRadius": 4.5,
+      "damageFalloff": 0.75,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 150.0,
+        "rangeEnd": 150.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 4000.0,
+        "rangeEnd": 4000.0
+      },
+      "criticalHitChance": 0.0,
+      "criticalHitDamageMulitplier": 1.0,
+      "mutilationType": 1,
+      "impactType": 36
+    },
+    "SeparateDamageOnSnowbreed": false,
+    "SnowbreedDamageModel": {
+      "splashRadius": 0.0,
+      "damageFalloff": 0.0,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 30.0,
+        "rangeEnd": 40.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 5.0,
+        "rangeEnd": 5.0
+      },
+      "criticalHitChance": 0.1,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 8,
+      "impactType": 0
+    },
+    "AffectsHittables": false,
+    "AffectsNonHittableRigidbodies": false,
+    "AggroSignalRange": 10.0,
+    "explosionPrefab": {
+      "assetName": "FX Explosion Pipebomb",
+      "assetPath": "Assets/Art/FX Vertigo/FX Explosion/VertigoResources/FX Explosion Pipebomb.prefab",
+      "assetGUID": "cf1372219b53bcb489d710e3ec9cfe4c",
+      "resourcePath": "FX Explosion Pipebomb",
+      "isSubAsset": false
+    },
+    "randomBrokenPrefabs": [],
+    "localizationString": "EXPLOSION_PIPEBOMB",
+    "audioExplosion": {
+      "eventPath": "event:/ATF_PC/Weapons/Pipebomb/Pipebomb_explode",
+      "eventGuid": "601ea644-cc62-44ae-a603-8658ca3bdfdf",
+      "parameterSettings": []
+    },
+    "id": 1,
+    "name": "PipeBomb",
+    "category": ""
+  },
+  {
+    "ExplosionForce": {
+      "rangeStart": 0.1,
+      "rangeEnd": 1.0
+    },
+    "DamageModel": {
+      "splashRadius": 2.0,
+      "damageFalloff": 0.85,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 500.0,
+        "rangeEnd": 500.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 5000.0,
+        "rangeEnd": 5000.0
+      },
+      "criticalHitChance": 0.0,
+      "criticalHitDamageMulitplier": 1.0,
+      "mutilationType": 1,
+      "impactType": 4
+    },
+    "PvPDamageModel": {
+      "splashRadius": 2.0,
+      "damageFalloff": 0.85,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 500.0,
+        "rangeEnd": 500.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 5000.0,
+        "rangeEnd": 5000.0
+      },
+      "criticalHitChance": 0.0,
+      "criticalHitDamageMulitplier": 1.0,
+      "mutilationType": 1,
+      "impactType": 4
+    },
+    "SeparateDamageOnSnowbreed": false,
+    "SnowbreedDamageModel": {
+      "splashRadius": 0.0,
+      "damageFalloff": 0.0,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 30.0,
+        "rangeEnd": 40.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 5.0,
+        "rangeEnd": 5.0
+      },
+      "criticalHitChance": 0.1,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 8,
+      "impactType": 0
+    },
+    "AffectsHittables": false,
+    "AffectsNonHittableRigidbodies": true,
+    "AggroSignalRange": 10.0,
+    "explosionPrefab": {
+      "assetName": "Temp_SprawlPodExplosion",
+      "assetPath": "Assets/Art/FX Vertigo/FX Sprawl Pod/VertigoResources/Temp_SprawlPodExplosion.prefab",
+      "assetGUID": "6115f712ac729ba4c9da0020c3315efa",
+      "resourcePath": "Temp_SprawlPodExplosion",
+      "isSubAsset": false
+    },
+    "randomBrokenPrefabs": [],
+    "localizationString": "EXPLOSION_CRAWLER",
+    "audioExplosion": {
+      "eventPath": "event:/ATF_PC/Character/Enemy_eater/Enemy_eater_explode",
+      "eventGuid": "e309992b-4785-425b-8202-8f202a2b1b34",
+      "parameterSettings": []
+    },
+    "id": 2,
+    "name": "Crawler Self Destruct",
+    "category": ""
+  },
+  {
+    "ExplosionForce": {
+      "rangeStart": 2.0,
+      "rangeEnd": 2.75
+    },
+    "DamageModel": {
+      "splashRadius": 4.0,
+      "damageFalloff": 1.0,
+      "appliesInflictions": false,
+      "inflictionEffects": [
+        0
+      ],
+      "damageRange": {
+        "rangeStart": 750.0,
+        "rangeEnd": 750.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 7500.0,
+        "rangeEnd": 7500.0
+      },
+      "criticalHitChance": 0.0,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 8,
+      "impactType": 36
+    },
+    "PvPDamageModel": {
+      "splashRadius": 3.0,
+      "damageFalloff": 1.0,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 350.0,
+        "rangeEnd": 350.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 750.0,
+        "rangeEnd": 750.0
+      },
+      "criticalHitChance": 0.1,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 8,
+      "impactType": 36
+    },
+    "SeparateDamageOnSnowbreed": false,
+    "SnowbreedDamageModel": {
+      "splashRadius": 0.0,
+      "damageFalloff": 0.0,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 30.0,
+        "rangeEnd": 40.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 5.0,
+        "rangeEnd": 5.0
+      },
+      "criticalHitChance": 0.1,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 8,
+      "impactType": 0
+    },
+    "AffectsHittables": false,
+    "AffectsNonHittableRigidbodies": true,
+    "AggroSignalRange": 10.0,
+    "explosionPrefab": {
+      "assetName": "Explosion Missile",
+      "assetPath": "Assets/Art/FX Vertigo/FX Explosion/VertigoResources/Explosion Missile.prefab",
+      "assetGUID": "1101f9d02a43bb24e8020d1ff849aa69",
+      "resourcePath": "Explosion Missile",
+      "isSubAsset": false
+    },
+    "randomBrokenPrefabs": [],
+    "localizationString": "EXPLOSION_SEEKING_MISSILE",
+    "audioExplosion": {
+      "eventPath": "event:/ATF_PC/Weapons/Special 01/Weapon_power_missile_explode",
+      "eventGuid": "3a6f0dc6-ae74-487a-8c2f-c0eadae04b5d",
+      "parameterSettings": []
+    },
+    "id": 3,
+    "name": "Seeking Missle Explosion",
+    "category": ""
+  },
+  {
+    "ExplosionForce": {
+      "rangeStart": 3.25,
+      "rangeEnd": 3.75
+    },
+    "DamageModel": {
+      "splashRadius": 7.5,
+      "damageFalloff": 1.0,
+      "appliesInflictions": true,
+      "inflictionEffects": [
+        4
+      ],
+      "damageRange": {
+        "rangeStart": 50.0,
+        "rangeEnd": 50.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 8000.0,
+        "rangeEnd": 8000.0
+      },
+      "criticalHitChance": 0.0,
+      "criticalHitDamageMulitplier": 1.0,
+      "mutilationType": 1,
+      "impactType": 4
+    },
+    "PvPDamageModel": {
+      "splashRadius": 6.0,
+      "damageFalloff": 0.85,
+      "appliesInflictions": true,
+      "inflictionEffects": [
+        4
+      ],
+      "damageRange": {
+        "rangeStart": 10.0,
+        "rangeEnd": 30.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 8000.0,
+        "rangeEnd": 8000.0
+      },
+      "criticalHitChance": 0.0,
+      "criticalHitDamageMulitplier": 1.0,
+      "mutilationType": 1,
+      "impactType": 4
+    },
+    "SeparateDamageOnSnowbreed": true,
+    "SnowbreedDamageModel": {
+      "splashRadius": 6.0,
+      "damageFalloff": 1.0,
+      "appliesInflictions": true,
+      "inflictionEffects": [
+        4
+      ],
+      "damageRange": {
+        "rangeStart": 750.0,
+        "rangeEnd": 750.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 8000.0,
+        "rangeEnd": 8000.0
+      },
+      "criticalHitChance": 0.0,
+      "criticalHitDamageMulitplier": 1.0,
+      "mutilationType": 1,
+      "impactType": 4
+    },
+    "AffectsHittables": false,
+    "AffectsNonHittableRigidbodies": true,
+    "AggroSignalRange": 10.0,
+    "explosionPrefab": {
+      "assetName": "FX Eater Explosion",
+      "assetPath": "Assets/Art/FX Vertigo/FX Eater Explosion/VertigoResources/FX Eater Explosion.prefab",
+      "assetGUID": "14c3969ac52e8c4479c83a58737717a1",
+      "resourcePath": "FX Eater Explosion",
+      "isSubAsset": false
+    },
+    "randomBrokenPrefabs": [],
+    "localizationString": "EXPLOSION_EATER",
+    "audioExplosion": {
+      "eventPath": "event:/ATF_PC/Character/Enemy_eater/Enemy_eater_explode",
+      "eventGuid": "e309992b-4785-425b-8202-8f202a2b1b34",
+      "parameterSettings": []
+    },
+    "id": 4,
+    "name": "Eater Self Destruct",
+    "category": ""
+  },
+  {
+    "ExplosionForce": {
+      "rangeStart": 2.0,
+      "rangeEnd": 3.0
+    },
+    "DamageModel": {
+      "splashRadius": 5.5,
+      "damageFalloff": 0.25,
+      "appliesInflictions": true,
+      "inflictionEffects": [
+        5
+      ],
+      "damageRange": {
+        "rangeStart": 900.0,
+        "rangeEnd": 1100.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 7500.0,
+        "rangeEnd": 7500.0
+      },
+      "criticalHitChance": 0.1,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 1,
+      "impactType": 36
+    },
+    "PvPDamageModel": {
+      "splashRadius": 6.0,
+      "damageFalloff": 0.85,
+      "appliesInflictions": true,
+      "inflictionEffects": [
+        5
+      ],
+      "damageRange": {
+        "rangeStart": 5.0,
+        "rangeEnd": 5.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 0.0,
+        "rangeEnd": 0.0
+      },
+      "criticalHitChance": 0.1,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 1,
+      "impactType": 36
+    },
+    "SeparateDamageOnSnowbreed": false,
+    "SnowbreedDamageModel": {
+      "splashRadius": 0.0,
+      "damageFalloff": 0.0,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 30.0,
+        "rangeEnd": 40.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 5.0,
+        "rangeEnd": 5.0
+      },
+      "criticalHitChance": 0.1,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 8,
+      "impactType": 0
+    },
+    "AffectsHittables": false,
+    "AffectsNonHittableRigidbodies": true,
+    "AggroSignalRange": 10.0,
+    "explosionPrefab": {
+      "assetName": "FX Sprawl Pod Explosion",
+      "assetPath": "Assets/Art/FX Vertigo/FX Enemies/FX Explosive Sprawl Pod/VertigoResources/FX Sprawl Pod Explosion.prefab",
+      "assetGUID": "18643e9f237dd86459e254e6ab09be24",
+      "resourcePath": "FX Sprawl Pod Explosion",
+      "isSubAsset": false
+    },
+    "randomBrokenPrefabs": [],
+    "localizationString": "EXPLOSION_SPRAWL",
+    "audioExplosion": {
+      "eventPath": "event:/ATF_PC/Character/Enemy_sprawl/Enemy_sprawl_pod_explode",
+      "eventGuid": "5d9d2f8b-6042-48a4-b8ac-18f78e1a49c4",
+      "parameterSettings": []
+    },
+    "id": 5,
+    "name": "ExplosiveSprawl",
+    "category": ""
+  },
+  {
+    "ExplosionForce": {
+      "rangeStart": 2.0,
+      "rangeEnd": 6.0
+    },
+    "DamageModel": {
+      "splashRadius": 3.0,
+      "damageFalloff": 0.0,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 80.0,
+        "rangeEnd": 100.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 5.0,
+        "rangeEnd": 5.0
+      },
+      "criticalHitChance": 0.0,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 1,
+      "impactType": 4
+    },
+    "PvPDamageModel": {
+      "splashRadius": 3.0,
+      "damageFalloff": 0.0,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 80.0,
+        "rangeEnd": 100.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 5.0,
+        "rangeEnd": 5.0
+      },
+      "criticalHitChance": 0.0,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 1,
+      "impactType": 4
+    },
+    "SeparateDamageOnSnowbreed": true,
+    "SnowbreedDamageModel": {
+      "splashRadius": 4.0,
+      "damageFalloff": 0.0,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 400.0,
+        "rangeEnd": 400.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 5.0,
+        "rangeEnd": 5.0
+      },
+      "criticalHitChance": 0.0,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 8,
+      "impactType": 0
+    },
+    "AffectsHittables": false,
+    "AffectsNonHittableRigidbodies": true,
+    "AggroSignalRange": 10.0,
+    "explosionPrefab": {
+      "assetName": "Part_Smasher_Impact",
+      "assetPath": "Assets/Art/FX Vertigo/FX/VertigoResources/Particles/Infected/Part_Smasher_Impact.prefab",
+      "assetGUID": "7e54f448ec41f1148b610685245a36b1",
+      "resourcePath": "Particles/Infected/Part_Smasher_Impact",
+      "isSubAsset": false
+    },
+    "randomBrokenPrefabs": [],
+    "localizationString": "EXPLOSION_SMASHER_CHARGE",
+    "audioExplosion": {
+      "eventPath": "event:/ATF_PC/Character/Enemy_smasher/Enemy_smasher_attack_smash",
+      "eventGuid": "be0f0567-8db8-46ba-9234-0cd1d8fde1df",
+      "parameterSettings": []
+    },
+    "id": 6,
+    "name": "Smasher Charge Impact",
+    "category": ""
+  },
+  {
+    "ExplosionForce": {
+      "rangeStart": 3.25,
+      "rangeEnd": 3.75
+    },
+    "DamageModel": {
+      "splashRadius": 7.5,
+      "damageFalloff": 1.0,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 0.0,
+        "rangeEnd": 0.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 1000.0,
+        "rangeEnd": 1000.0
+      },
+      "criticalHitChance": 0.0,
+      "criticalHitDamageMulitplier": 1.0,
+      "mutilationType": 1,
+      "impactType": 4
+    },
+    "PvPDamageModel": {
+      "splashRadius": 6.0,
+      "damageFalloff": 0.85,
+      "appliesInflictions": true,
+      "inflictionEffects": [
+        4
+      ],
+      "damageRange": {
+        "rangeStart": 10.0,
+        "rangeEnd": 30.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 8000.0,
+        "rangeEnd": 8000.0
+      },
+      "criticalHitChance": 0.0,
+      "criticalHitDamageMulitplier": 1.0,
+      "mutilationType": 1,
+      "impactType": 4
+    },
+    "SeparateDamageOnSnowbreed": true,
+    "SnowbreedDamageModel": {
+      "splashRadius": 6.0,
+      "damageFalloff": 1.0,
+      "appliesInflictions": true,
+      "inflictionEffects": [
+        4
+      ],
+      "damageRange": {
+        "rangeStart": 200.0,
+        "rangeEnd": 200.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 8000.0,
+        "rangeEnd": 8000.0
+      },
+      "criticalHitChance": 0.0,
+      "criticalHitDamageMulitplier": 1.0,
+      "mutilationType": 1,
+      "impactType": 4
+    },
+    "AffectsHittables": false,
+    "AffectsNonHittableRigidbodies": true,
+    "AggroSignalRange": 10.0,
+    "explosionPrefab": {
+      "assetName": "FX Loot Goblin Explosion",
+      "assetPath": "Assets/Art/FX Vertigo/FX Enemies/FX Loot Goblin/VertigoResources/FX Loot Goblin Explosion.prefab",
+      "assetGUID": "249f8d2bb2a20684b879154b71dadf15",
+      "resourcePath": "FX Loot Goblin Explosion",
+      "isSubAsset": false
+    },
+    "randomBrokenPrefabs": [],
+    "localizationString": "EXPLOSION_GOBLIN",
+    "audioExplosion": {
+      "eventPath": "event:/ATF_PC/Character/Enemy_skimmer/Enemy_skimmer_explode",
+      "eventGuid": "3fc5ac88-f6ec-4409-aaad-7317df19bd0f",
+      "parameterSettings": []
+    },
+    "id": 7,
+    "name": "Loot Goblin Self Destruct",
+    "category": ""
+  },
+  {
+    "ExplosionForce": {
+      "rangeStart": 10.0,
+      "rangeEnd": 10.0
+    },
+    "DamageModel": {
+      "splashRadius": 8.0,
+      "damageFalloff": 0.5,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 9999.0,
+        "rangeEnd": 9999.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 0.0,
+        "rangeEnd": 0.0
+      },
+      "criticalHitChance": 0.0,
+      "criticalHitDamageMulitplier": 1.0,
+      "mutilationType": 1,
+      "impactType": 36
+    },
+    "PvPDamageModel": {
+      "splashRadius": 4.5,
+      "damageFalloff": 0.75,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 200.0,
+        "rangeEnd": 200.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 4000.0,
+        "rangeEnd": 4000.0
+      },
+      "criticalHitChance": 0.0,
+      "criticalHitDamageMulitplier": 1.0,
+      "mutilationType": 1,
+      "impactType": 36
+    },
+    "SeparateDamageOnSnowbreed": false,
+    "SnowbreedDamageModel": {
+      "splashRadius": 0.0,
+      "damageFalloff": 0.0,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 30.0,
+        "rangeEnd": 40.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 5.0,
+        "rangeEnd": 5.0
+      },
+      "criticalHitChance": 0.1,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 8,
+      "impactType": 0
+    },
+    "AffectsHittables": false,
+    "AffectsNonHittableRigidbodies": false,
+    "AggroSignalRange": 10.0,
+    "explosionPrefab": {
+      "assetName": "FX Explosion Warhead",
+      "assetPath": "Assets/Art/FX Vertigo/FX Explosion/VertigoResources/FX Explosion Warhead.prefab",
+      "assetGUID": "e5343ee0459f066409523524138e895e",
+      "resourcePath": "FX Explosion Warhead",
+      "isSubAsset": false
+    },
+    "randomBrokenPrefabs": [],
+    "localizationString": "",
+    "audioExplosion": {
+      "eventPath": "event:/ATF_PC/Weapons/Warhead/Warhead_explode",
+      "eventGuid": "9104edba-1129-4ba7-a9b2-5d985f13b9fc",
+      "parameterSettings": []
+    },
+    "id": 8,
+    "name": "Warhead Core",
+    "category": ""
+  },
+  {
+    "ExplosionForce": {
+      "rangeStart": 4.0,
+      "rangeEnd": 5.0
+    },
+    "DamageModel": {
+      "splashRadius": 10.0,
+      "damageFalloff": 1.0,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 750.0,
+        "rangeEnd": 750.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 9999.0,
+        "rangeEnd": 9999.0
+      },
+      "criticalHitChance": 0.0,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 8,
+      "impactType": 36
+    },
+    "PvPDamageModel": {
+      "splashRadius": 25.0,
+      "damageFalloff": 1.0,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 800.0,
+        "rangeEnd": 800.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 25.0,
+        "rangeEnd": 50.0
+      },
+      "criticalHitChance": 0.0,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 8,
+      "impactType": 36
+    },
+    "SeparateDamageOnSnowbreed": false,
+    "SnowbreedDamageModel": {
+      "splashRadius": 25.0,
+      "damageFalloff": 1.0,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 160.0,
+        "rangeEnd": 200.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 25.0,
+        "rangeEnd": 50.0
+      },
+      "criticalHitChance": 0.1,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 8,
+      "impactType": 36
+    },
+    "AffectsHittables": false,
+    "AffectsNonHittableRigidbodies": false,
+    "AggroSignalRange": 15.0,
+    "explosionPrefab": {
+      "assetName": "FX ShockwavePunch",
+      "assetPath": "Assets/Art/FX Vertigo/FX Explosion/VertigoResources/FX ShockwavePunch.prefab",
+      "assetGUID": "2ec4dcd3a94047146ab0cf6d261f5fe3",
+      "resourcePath": "FX ShockwavePunch",
+      "isSubAsset": false
+    },
+    "randomBrokenPrefabs": [],
+    "localizationString": "",
+    "audioExplosion": {
+      "eventPath": "event:/ATF_PC/Physics/Impact_break_survivor",
+      "eventGuid": "f2526e90-cdb0-43fe-b886-2f50266646d3",
+      "parameterSettings": []
+    },
+    "id": 9,
+    "name": "ShockwavePunch ",
+    "category": ""
+  },
+  {
+    "ExplosionForce": {
+      "rangeStart": 3.0,
+      "rangeEnd": 4.0
+    },
+    "DamageModel": {
+      "splashRadius": 15.0,
+      "damageFalloff": 1.0,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 500.0,
+        "rangeEnd": 500.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 9000.0,
+        "rangeEnd": 9000.0
+      },
+      "criticalHitChance": 0.0,
+      "criticalHitDamageMulitplier": 1.0,
+      "mutilationType": 1,
+      "impactType": 36
+    },
+    "PvPDamageModel": {
+      "splashRadius": 4.5,
+      "damageFalloff": 0.75,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 200.0,
+        "rangeEnd": 200.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 4000.0,
+        "rangeEnd": 4000.0
+      },
+      "criticalHitChance": 0.0,
+      "criticalHitDamageMulitplier": 1.0,
+      "mutilationType": 1,
+      "impactType": 36
+    },
+    "SeparateDamageOnSnowbreed": false,
+    "SnowbreedDamageModel": {
+      "splashRadius": 0.0,
+      "damageFalloff": 0.0,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 30.0,
+        "rangeEnd": 40.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 5.0,
+        "rangeEnd": 5.0
+      },
+      "criticalHitChance": 0.1,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 8,
+      "impactType": 0
+    },
+    "AffectsHittables": false,
+    "AffectsNonHittableRigidbodies": false,
+    "AggroSignalRange": 10.0,
+    "explosionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "randomBrokenPrefabs": [],
+    "localizationString": "",
+    "audioExplosion": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "id": 10,
+    "name": "Warhead Stagger",
+    "category": ""
+  },
+  {
+    "ExplosionForce": {
+      "rangeStart": 1.0,
+      "rangeEnd": 2.0
+    },
+    "DamageModel": {
+      "splashRadius": 1.0,
+      "damageFalloff": 0.0,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 1000.0,
+        "rangeEnd": 1000.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 9999.0,
+        "rangeEnd": 9999.0
+      },
+      "criticalHitChance": 0.0,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 8,
+      "impactType": 36
+    },
+    "PvPDamageModel": {
+      "splashRadius": 1.0,
+      "damageFalloff": 0.0,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 2500.0,
+        "rangeEnd": 2500.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 25.0,
+        "rangeEnd": 50.0
+      },
+      "criticalHitChance": 0.0,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 8,
+      "impactType": 36
+    },
+    "SeparateDamageOnSnowbreed": false,
+    "SnowbreedDamageModel": {
+      "splashRadius": 25.0,
+      "damageFalloff": 1.0,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 160.0,
+        "rangeEnd": 200.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 25.0,
+        "rangeEnd": 50.0
+      },
+      "criticalHitChance": 0.1,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 8,
+      "impactType": 36
+    },
+    "AffectsHittables": false,
+    "AffectsNonHittableRigidbodies": false,
+    "AggroSignalRange": 5.0,
+    "explosionPrefab": {
+      "assetName": "FX Sawblade Impact",
+      "assetPath": "Assets/Art/FX Vertigo/FX Explosion/VertigoResources/FX Sawblade Impact.prefab",
+      "assetGUID": "37e49827ef0d75f45a5a656f95165e4e",
+      "resourcePath": "FX Sawblade Impact",
+      "isSubAsset": false
+    },
+    "randomBrokenPrefabs": [],
+    "localizationString": "",
+    "audioExplosion": {
+      "eventPath": "event:/ATF_PC/Physics/Impact_break_survivor",
+      "eventGuid": "f2526e90-cdb0-43fe-b886-2f50266646d3",
+      "parameterSettings": []
+    },
+    "id": 11,
+    "name": "Sawblade",
+    "category": ""
+  },
+  {
+    "ExplosionForce": {
+      "rangeStart": 1.0,
+      "rangeEnd": 2.0
+    },
+    "DamageModel": {
+      "splashRadius": 5.0,
+      "damageFalloff": 0.0,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 1000.0,
+        "rangeEnd": 1000.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 9999.0,
+        "rangeEnd": 9999.0
+      },
+      "criticalHitChance": 0.0,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 8,
+      "impactType": 36
+    },
+    "PvPDamageModel": {
+      "splashRadius": 1.0,
+      "damageFalloff": 0.0,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 3000.0,
+        "rangeEnd": 3000.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 25.0,
+        "rangeEnd": 50.0
+      },
+      "criticalHitChance": 0.0,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 8,
+      "impactType": 36
+    },
+    "SeparateDamageOnSnowbreed": false,
+    "SnowbreedDamageModel": {
+      "splashRadius": 25.0,
+      "damageFalloff": 1.0,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 160.0,
+        "rangeEnd": 200.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 25.0,
+        "rangeEnd": 50.0
+      },
+      "criticalHitChance": 0.1,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 8,
+      "impactType": 36
+    },
+    "AffectsHittables": false,
+    "AffectsNonHittableRigidbodies": false,
+    "AggroSignalRange": 5.0,
+    "explosionPrefab": {
+      "assetName": "FX Sawblade Impact",
+      "assetPath": "Assets/Art/FX Vertigo/FX Explosion/VertigoResources/FX Sawblade Impact.prefab",
+      "assetGUID": "37e49827ef0d75f45a5a656f95165e4e",
+      "resourcePath": "FX Sawblade Impact",
+      "isSubAsset": false
+    },
+    "randomBrokenPrefabs": [],
+    "localizationString": "",
+    "audioExplosion": {
+      "eventPath": "event:/ATF_PC/Physics/Impact_break_survivor",
+      "eventGuid": "f2526e90-cdb0-43fe-b886-2f50266646d3",
+      "parameterSettings": []
+    },
+    "id": 12,
+    "name": "Sawblade Projectile",
+    "category": ""
+  },
+  {
+    "ExplosionForce": {
+      "rangeStart": 2.0,
+      "rangeEnd": 6.0
+    },
+    "DamageModel": {
+      "splashRadius": 3.7,
+      "damageFalloff": 1.0,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 50.0,
+        "rangeEnd": 50.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 0.0,
+        "rangeEnd": 0.0
+      },
+      "criticalHitChance": 0.0,
+      "criticalHitDamageMulitplier": 1.0,
+      "mutilationType": 1,
+      "impactType": 4
+    },
+    "PvPDamageModel": {
+      "splashRadius": 3.0,
+      "damageFalloff": 0.0,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 80.0,
+        "rangeEnd": 100.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 5.0,
+        "rangeEnd": 5.0
+      },
+      "criticalHitChance": 0.0,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 1,
+      "impactType": 4
+    },
+    "SeparateDamageOnSnowbreed": true,
+    "SnowbreedDamageModel": {
+      "splashRadius": 4.0,
+      "damageFalloff": 0.0,
+      "appliesInflictions": false,
+      "inflictionEffects": [],
+      "damageRange": {
+        "rangeStart": 0.0,
+        "rangeEnd": 0.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 7500.0,
+        "rangeEnd": 7500.0
+      },
+      "criticalHitChance": 0.0,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 8,
+      "impactType": 0
+    },
+    "AffectsHittables": false,
+    "AffectsNonHittableRigidbodies": true,
+    "AggroSignalRange": 10.0,
+    "explosionPrefab": {
+      "assetName": "Part_Smasher_Impact",
+      "assetPath": "Assets/Art/FX Vertigo/FX/VertigoResources/Particles/Infected/Part_Smasher_Impact.prefab",
+      "assetGUID": "7e54f448ec41f1148b610685245a36b1",
+      "resourcePath": "Particles/Infected/Part_Smasher_Impact",
+      "isSubAsset": false
+    },
+    "randomBrokenPrefabs": [],
+    "localizationString": "EXPLOSION_SMASHER_CHARGE",
+    "audioExplosion": {
+      "eventPath": "event:/ATF_PC/Character/Enemy_smasher/Enemy_smasher_attack_smash",
+      "eventGuid": "be0f0567-8db8-46ba-9234-0cd1d8fde1df",
+      "parameterSettings": []
+    },
+    "id": 13,
+    "name": "Charger Charge Impact",
+    "category": ""
+  }
+]
+}

@@ -1,0 +1,237 @@
+{
+  "TableId": 216,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "enabledSpots": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "id": 0,
+    "name": "Full",
+    "category": ""
+  },
+  {
+    "enabledSpots": [
+      10
+    ],
+    "id": 1,
+    "name": "Head",
+    "category": ""
+  },
+  {
+    "enabledSpots": [
+      8
+    ],
+    "id": 2,
+    "name": "None",
+    "category": ""
+  },
+  {
+    "enabledSpots": [
+      9,
+      8,
+      10
+    ],
+    "id": 3,
+    "name": "Head and Torso",
+    "category": ""
+  },
+  {
+    "enabledSpots": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "id": 4,
+    "name": "All Except Head",
+    "category": ""
+  },
+  {
+    "enabledSpots": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "id": 5,
+    "name": "All Except Arms",
+    "category": ""
+  },
+  {
+    "enabledSpots": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      9,
+      10
+    ],
+    "id": 6,
+    "name": "All Except Legs",
+    "category": ""
+  },
+  {
+    "enabledSpots": [
+      2,
+      3,
+      4,
+      5,
+      8,
+      10
+    ],
+    "id": 7,
+    "name": "Variation 01 - Common",
+    "category": ""
+  },
+  {
+    "enabledSpots": [
+      0,
+      1,
+      6,
+      7,
+      8,
+      10
+    ],
+    "id": 8,
+    "name": "Variation 02 - Common",
+    "category": ""
+  },
+  {
+    "enabledSpots": [
+      0,
+      3,
+      5,
+      6
+    ],
+    "id": 9,
+    "name": "Smasher Minor 01",
+    "category": ""
+  },
+  {
+    "enabledSpots": [
+      1,
+      2,
+      4,
+      7
+    ],
+    "id": 10,
+    "name": "Smasher Minor 02",
+    "category": ""
+  },
+  {
+    "enabledSpots": [
+      0,
+      3,
+      5,
+      6,
+      8
+    ],
+    "id": 11,
+    "name": "Smasher Major 01",
+    "category": ""
+  },
+  {
+    "enabledSpots": [
+      1,
+      2,
+      4,
+      7,
+      8
+    ],
+    "id": 12,
+    "name": "Smasher Major 02",
+    "category": ""
+  },
+  {
+    "enabledSpots": [
+      0,
+      9,
+      6
+    ],
+    "id": 13,
+    "name": "Smasher ExposedSpots 01",
+    "category": ""
+  },
+  {
+    "enabledSpots": [
+      8,
+      5,
+      2
+    ],
+    "id": 14,
+    "name": "Smasher ExposedSpots 02",
+    "category": ""
+  },
+  {
+    "enabledSpots": [
+      0,
+      9,
+      6
+    ],
+    "id": 15,
+    "name": "Brute ExposedSpots 01",
+    "category": ""
+  },
+  {
+    "enabledSpots": [
+      8,
+      5,
+      2
+    ],
+    "id": 16,
+    "name": "Brute ExposedSpots 02",
+    "category": ""
+  },
+  {
+    "enabledSpots": [
+      0,
+      2,
+      3,
+      4,
+      8
+    ],
+    "id": 17,
+    "name": "Supersmasher I",
+    "category": ""
+  },
+  {
+    "enabledSpots": [
+      0,
+      2,
+      3,
+      4,
+      8,
+      1,
+      10,
+      6,
+      7,
+      5,
+      9
+    ],
+    "id": 18,
+    "name": "Supersmasher II and III",
+    "category": ""
+  }
+]
+}

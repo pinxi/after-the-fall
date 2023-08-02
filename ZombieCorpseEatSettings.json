@@ -1,0 +1,13 @@
+{
+  "TableId": 190,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "corpseEatingRange": 0.5,
+    "corpseEatingMaxHeightDifference": 0.5,
+    "id": 0,
+    "name": "Generic",
+    "category": ""
+  }
+]
+}

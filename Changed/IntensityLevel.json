@@ -1,0 +1,41 @@
+{
+  "TableId": 139,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "intensityPercentage": 0,
+    "shouldIgnoreAudioSeekSpeed": false,
+    "id": 0,
+    "name": "Intensity 0",
+    "category": ""
+  },
+  {
+    "intensityPercentage": 5,
+    "shouldIgnoreAudioSeekSpeed": false,
+    "id": 1,
+    "name": "Intensity 1",
+    "category": ""
+  },
+  {
+    "intensityPercentage": 33,
+    "shouldIgnoreAudioSeekSpeed": false,
+    "id": 2,
+    "name": "Intensity 2",
+    "category": ""
+  },
+  {
+    "intensityPercentage": 66,
+    "shouldIgnoreAudioSeekSpeed": false,
+    "id": 3,
+    "name": "Intensity 3",
+    "category": ""
+  },
+  {
+    "intensityPercentage": 100,
+    "shouldIgnoreAudioSeekSpeed": false,
+    "id": 4,
+    "name": "Intensity 4",
+    "category": ""
+  }
+]
+}

@@ -1,0 +1,36 @@
+{
+  "TableId": 102,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "points": 100,
+    "id": 0,
+    "name": "100",
+    "category": "",
+    "ignoreProjectiles": true,
+    "prefab": {
+      "assetName": "CD_HitScore_100",
+      "assetPath": "Assets/PORT_CONTENT/ArcadeGames/ColoradoDaylight/VertigoResources/CD_HitScore_100.prefab",
+      "assetGUID": "cc2adb1559cb7b64896e288c489eaf98",
+      "resourcePath": "CD_HitScore_100",
+      "isSubAsset": false
+    },
+    "poolSize": 6
+  },
+  {
+    "points": 500,
+    "id": 1,
+    "name": "500",
+    "category": "",
+    "ignoreProjectiles": true,
+    "prefab": {
+      "assetName": "CD_HitScore_500",
+      "assetPath": "Assets/PORT_CONTENT/ArcadeGames/ColoradoDaylight/VertigoResources/CD_HitScore_500.prefab",
+      "assetGUID": "4d6f6763202425a4886f3f9d0713ac4c",
+      "resourcePath": "CD_HitScore_500",
+      "isSubAsset": false
+    },
+    "poolSize": 3
+  }
+]
+}

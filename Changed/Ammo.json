@@ -1,0 +1,6101 @@
+{
+  "TableId": 89,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "handPoseId": 27,
+    "isPosedOnTrigger": false,
+    "resourceType": 4,
+    "defaultMagazineSize": 8,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 1.0,
+    "outlineFadeSpeedAfterEject": 2.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": true,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_Pistol",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_Pistol.mesh",
+      "assetGUID": "cc6a3810dbfec934b8d08668c5dad7a5",
+      "resourcePath": "Bullet_Shell_Pistol",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 1,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": true
+    },
+    "itemIconType": 8,
+    "id": 0,
+    "name": "Falcon (BASE)",
+    "category": "",
+    "displayName": "Arizona Falcon Magazine",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "GUN_BROWNSTONE_FALCON",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_BASE",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": true
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Brownstone_Falcon_Magazine",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Brownstone_Falcon_Magazine.prefab",
+      "assetGUID": "c900f139dba890d4f9e06a2f41fd1ea6",
+      "resourcePath": "Weapons/AmmoClips/Brownstone_Falcon_Magazine",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "Brownstone_Falcon_Magazine_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/Brownstone_Falcon_Magazine_Collision.prefab",
+      "assetGUID": "e17d798b8f592c346908c9b6aa2ca75e",
+      "resourcePath": "Weapons/AmmoClips/Collisions/Brownstone_Falcon_Magazine_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 36,
+    "isPosedOnTrigger": false,
+    "resourceType": 15,
+    "defaultMagazineSize": 20,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 1.0,
+    "outlineFadeSpeedAfterEject": 2.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": true,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_SMG",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_SMG.mesh",
+      "assetGUID": "7aa8df3aaabaf5a4abc03f0256c3cfbc",
+      "resourcePath": "Bullet_Shell_SMG",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 3,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 9,
+    "id": 2,
+    "name": "SMG (BASE)",
+    "category": "",
+    "displayName": "Castle SMG Magazine",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "GUN_M11",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_BASE",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Castle_M11_Magazine",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Castle_M11_Magazine.prefab",
+      "assetGUID": "8e25ef35de5f9f643b229a2019c440a4",
+      "resourcePath": "Weapons/AmmoClips/Castle_M11_Magazine",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "Castle_M11_Magazine_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/Castle_M11_Magazine_Collision.prefab",
+      "assetGUID": "cde32c6518fccea48bcd6140a4e1aca9",
+      "resourcePath": "Weapons/AmmoClips/Collisions/Castle_M11_Magazine_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 30,
+    "isPosedOnTrigger": false,
+    "resourceType": 19,
+    "defaultMagazineSize": 20,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 5.0,
+    "outlineFadeSpeedAfterEject": 1.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": true,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_Assault_Rifle",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_Assault_Rifle.mesh",
+      "assetGUID": "073b6100b49abef4989b1d7342063e5c",
+      "resourcePath": "Bullet_Shell_Assault_Rifle",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 3,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 11,
+    "id": 3,
+    "name": "MT47 (BASE)",
+    "category": "",
+    "displayName": "Katrina Rifle Magazine",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "GUN_MT47",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_BASE",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "MT47_Magazine",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/MT47_Magazine.prefab",
+      "assetGUID": "a57950e97bdc2384c91074fabe7e30de",
+      "resourcePath": "Weapons/AmmoClips/MT47_Magazine",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "MT47_Magazine_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/MT47_Magazine_Collision.prefab",
+      "assetGUID": "741ce267431c1d14cb56766f027f1498",
+      "resourcePath": "Weapons/AmmoClips/Collisions/MT47_Magazine_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 75,
+    "isPosedOnTrigger": false,
+    "resourceType": 15,
+    "defaultMagazineSize": 32,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 5.0,
+    "outlineFadeSpeedAfterEject": 1.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": true,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_SMG",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_SMG.mesh",
+      "assetGUID": "7aa8df3aaabaf5a4abc03f0256c3cfbc",
+      "resourcePath": "Bullet_Shell_SMG",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 3,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 9,
+    "id": 4,
+    "name": "SMG (EXT)",
+    "category": "",
+    "displayName": "Castle M11 Extended Magazine",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "GUN_M11",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_EXTENDED",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Castle_M11_Magazine_Extended",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Castle_M11_Magazine_Extended.prefab",
+      "assetGUID": "cc156f61cd8c68d44b7a1fafdf73b954",
+      "resourcePath": "Weapons/AmmoClips/Castle_M11_Magazine_Extended",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "Castle_M11_Magazine_Extended_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/Castle_M11_Magazine_Extended_Collision.prefab",
+      "assetGUID": "cacca29e1b41ae44bb30a1224433b5d0",
+      "resourcePath": "Weapons/AmmoClips/Collisions/Castle_M11_Magazine_Extended_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 33,
+    "isPosedOnTrigger": false,
+    "resourceType": 17,
+    "defaultMagazineSize": 1,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 5.0,
+    "outlineFadeSpeedAfterEject": 1.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": true,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_Shotgun",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_Shotgun.mesh",
+      "assetGUID": "2239c79c78a2a3144a50b50a1e3b615a",
+      "resourcePath": "Bullet_Shell_Shotgun",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 2,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 10,
+    "id": 13,
+    "name": "Shotgun (BASE)",
+    "category": "",
+    "displayName": "Pump Shotgun Magazine",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "GUN_BROWNSTONE_500",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_BASE",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Brownstone_500_Welter_Magazine",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Brownstone_500_Welter_Magazine.prefab",
+      "assetGUID": "21cc91fccad75db40a75de65f7365fea",
+      "resourcePath": "Weapons/AmmoClips/Brownstone_500_Welter_Magazine",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "Brownstone_500_Welter_Magazine_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/Brownstone_500_Welter_Magazine_Collision.prefab",
+      "assetGUID": "a46f4b8b1b30d7045b4b2889c61650fe",
+      "resourcePath": "Weapons/AmmoClips/Collisions/Brownstone_500_Welter_Magazine_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 67,
+    "isPosedOnTrigger": false,
+    "resourceType": 17,
+    "defaultMagazineSize": 12,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 5.0,
+    "outlineFadeSpeedAfterEject": 1.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": true,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_Shotgun",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_Shotgun.mesh",
+      "assetGUID": "2239c79c78a2a3144a50b50a1e3b615a",
+      "resourcePath": "Bullet_Shell_Shotgun",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 2,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 10,
+    "id": 14,
+    "name": "Shotgun (DRUM)",
+    "category": "",
+    "displayName": "Pump Shotgun Drum Magazine",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "GUN_BROWNSTONE_500",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_DRUM",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Brownstone_500_Welter_Magazine_Drum",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Brownstone_500_Welter_Magazine_Drum.prefab",
+      "assetGUID": "155466a11c2beee44b720360e0b13683",
+      "resourcePath": "Weapons/AmmoClips/Brownstone_500_Welter_Magazine_Drum",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "Brownstone_500_Welter_Magazine_Drum_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/Brownstone_500_Welter_Magazine_Drum_Collision.prefab",
+      "assetGUID": "0bcda7adbfc031743863047ddec7760c",
+      "resourcePath": "Weapons/AmmoClips/Collisions/Brownstone_500_Welter_Magazine_Drum_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 78,
+    "isPosedOnTrigger": false,
+    "resourceType": 4,
+    "defaultMagazineSize": 12,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 1.0,
+    "outlineFadeSpeedAfterEject": 2.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": true,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_Pistol",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_Pistol.mesh",
+      "assetGUID": "cc6a3810dbfec934b8d08668c5dad7a5",
+      "resourcePath": "Bullet_Shell_Pistol",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 1,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 8,
+    "id": 15,
+    "name": "Falcon (EXT)",
+    "category": "",
+    "displayName": "Arizona Falcon Extended Magazine",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "GUN_BROWNSTONE_FALCON",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_EXTENDED",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Brownstone_Falcon_Magazine_Extended",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Brownstone_Falcon_Magazine_Extended.prefab",
+      "assetGUID": "435ac50c7afb7f44a99025acb1ed5683",
+      "resourcePath": "Weapons/AmmoClips/Brownstone_Falcon_Magazine_Extended",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "Brownstone_Falcon_Magazine_Extended_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/Brownstone_Falcon_Magazine_Extended_Collision.prefab",
+      "assetGUID": "cf20f5c462cf6bd4899e8e93f7c0ec85",
+      "resourcePath": "Weapons/AmmoClips/Collisions/Brownstone_Falcon_Magazine_Extended_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 79,
+    "isPosedOnTrigger": false,
+    "resourceType": 4,
+    "defaultMagazineSize": 18,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 1.0,
+    "outlineFadeSpeedAfterEject": 2.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": true,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_Pistol",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_Pistol.mesh",
+      "assetGUID": "cc6a3810dbfec934b8d08668c5dad7a5",
+      "resourcePath": "Bullet_Shell_Pistol",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 1,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 8,
+    "id": 16,
+    "name": "Falcon (DRUM)",
+    "category": "",
+    "displayName": "Arizona Falcon Drum Magazine",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "GUN_BROWNSTONE_FALCON",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_DRUM",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Brownstone_Falcon_Magazine_Drum",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Brownstone_Falcon_Magazine_Drum.prefab",
+      "assetGUID": "18b507ef5fa124b42ab6be0efb7a6c0b",
+      "resourcePath": "Weapons/AmmoClips/Brownstone_Falcon_Magazine_Drum",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "Brownstone_Falcon_Magazine_Drum_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/Brownstone_Falcon_Magazine_Drum_Collision.prefab",
+      "assetGUID": "dbcbd7f7b0998b242981a84d87c016fe",
+      "resourcePath": "Weapons/AmmoClips/Collisions/Brownstone_Falcon_Magazine_Drum_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 37,
+    "isPosedOnTrigger": false,
+    "resourceType": 19,
+    "defaultMagazineSize": 36,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 5.0,
+    "outlineFadeSpeedAfterEject": 1.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": true,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_Assault_Rifle",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_Assault_Rifle.mesh",
+      "assetGUID": "073b6100b49abef4989b1d7342063e5c",
+      "resourcePath": "Bullet_Shell_Assault_Rifle",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 3,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 11,
+    "id": 17,
+    "name": "MT47 (EXT)",
+    "category": "",
+    "displayName": "Katrina Rifle Extended Magazine",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "GUN_MT47",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_EXTENDED",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "MT47_Magazine_Extended",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/MT47_Magazine_Extended.prefab",
+      "assetGUID": "dc1d074ec5fef314a9cbbc0d8b4e99c5",
+      "resourcePath": "Weapons/AmmoClips/MT47_Magazine_Extended",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "MT47_Magazine_Extended_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/MT47_Magazine_Extended_Collision.prefab",
+      "assetGUID": "b8cb4a12e185ecb44b772aaade11c28a",
+      "resourcePath": "Weapons/AmmoClips/Collisions/MT47_Magazine_Extended_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 85,
+    "isPosedOnTrigger": false,
+    "resourceType": 19,
+    "defaultMagazineSize": 48,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 5.0,
+    "outlineFadeSpeedAfterEject": 1.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": true,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_Assault_Rifle",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_Assault_Rifle.mesh",
+      "assetGUID": "073b6100b49abef4989b1d7342063e5c",
+      "resourcePath": "Bullet_Shell_Assault_Rifle",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 3,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 11,
+    "id": 18,
+    "name": "MT47 (DRUM)",
+    "category": "",
+    "displayName": "Katrina Rifle Drum Magazine",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "GUN_MT47",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_DRUM",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "MT47_Magazine_Drum",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/MT47_Magazine_Drum.prefab",
+      "assetGUID": "9c2953f19a8e54240bf0786fc7707822",
+      "resourcePath": "Weapons/AmmoClips/MT47_Magazine_Drum",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "MT47_Magazine_Drum_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/MT47_Magazine_Drum_Collision.prefab",
+      "assetGUID": "ea83871585c459e4b921e5c861d04835",
+      "resourcePath": "Weapons/AmmoClips/Collisions/MT47_Magazine_Drum_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 76,
+    "isPosedOnTrigger": false,
+    "resourceType": 15,
+    "defaultMagazineSize": 48,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 5.0,
+    "outlineFadeSpeedAfterEject": 1.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": true,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_SMG",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_SMG.mesh",
+      "assetGUID": "7aa8df3aaabaf5a4abc03f0256c3cfbc",
+      "resourcePath": "Bullet_Shell_SMG",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 3,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 9,
+    "id": 19,
+    "name": "SMG (DRUM)",
+    "category": "",
+    "displayName": "Castle SMG Drum Magazine",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "GUN_M11",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_DRUM",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Castle_M11_Magazine_Drum",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Castle_M11_Magazine_Drum.prefab",
+      "assetGUID": "a74c1bd95713d8749a0e1e09ea39de8c",
+      "resourcePath": "Weapons/AmmoClips/Castle_M11_Magazine_Drum",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "Castle_M11_Magazine_Drum_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/Castle_M11_Magazine_Drum_Collision.prefab",
+      "assetGUID": "6c809923108ee3848909152c2529455c",
+      "resourcePath": "Weapons/AmmoClips/Collisions/Castle_M11_Magazine_Drum_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 68,
+    "isPosedOnTrigger": false,
+    "resourceType": 17,
+    "defaultMagazineSize": 6,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 5.0,
+    "outlineFadeSpeedAfterEject": 1.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": true,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_Shotgun",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_Shotgun.mesh",
+      "assetGUID": "2239c79c78a2a3144a50b50a1e3b615a",
+      "resourcePath": "Bullet_Shell_Shotgun",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 2,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 10,
+    "id": 20,
+    "name": "Shotgun (EXT)",
+    "category": "",
+    "displayName": "Pump Shotgun Extended Magazine",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "GUN_BROWNSTONE_500",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_EXTENDED",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Brownstone_500_Welter_Magazine_Extended",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Brownstone_500_Welter_Magazine_Extended.prefab",
+      "assetGUID": "908cfcf83ad8f4a40861fe87f0a9e1c9",
+      "resourcePath": "Weapons/AmmoClips/Brownstone_500_Welter_Magazine_Extended",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "Brownstone_500_Welter_Magazine_Extended_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/Brownstone_500_Welter_Magazine_Extended_Collision.prefab",
+      "assetGUID": "7900ff8783deae646b80031979c97057",
+      "resourcePath": "Weapons/AmmoClips/Collisions/Brownstone_500_Welter_Magazine_Extended_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 41,
+    "isPosedOnTrigger": false,
+    "resourceType": 19,
+    "defaultMagazineSize": 20,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 5.0,
+    "outlineFadeSpeedAfterEject": 1.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": true,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_Assault_Rifle",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_Assault_Rifle.mesh",
+      "assetGUID": "073b6100b49abef4989b1d7342063e5c",
+      "resourcePath": "Bullet_Shell_Assault_Rifle",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 1,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 11,
+    "id": 21,
+    "name": "M4 (BASE)",
+    "category": "",
+    "displayName": "Cold Carbine Magazine",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "GUN_M4",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_BASE",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Castle_M4_Magazine_Base",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Castle_M4_Magazine_Base.prefab",
+      "assetGUID": "7c73fa0a4169bc649a4758bba2e12174",
+      "resourcePath": "Weapons/AmmoClips/Castle_M4_Magazine_Base",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "Castle_M4_Magazine_Base_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/Castle_M4_Magazine_Base_Collision.prefab",
+      "assetGUID": "f8e139322226c074d89f6aca61395b1c",
+      "resourcePath": "Weapons/AmmoClips/Collisions/Castle_M4_Magazine_Base_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 41,
+    "isPosedOnTrigger": false,
+    "resourceType": 19,
+    "defaultMagazineSize": 36,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 5.0,
+    "outlineFadeSpeedAfterEject": 1.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": true,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_Assault_Rifle",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_Assault_Rifle.mesh",
+      "assetGUID": "073b6100b49abef4989b1d7342063e5c",
+      "resourcePath": "Bullet_Shell_Assault_Rifle",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 1,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 11,
+    "id": 22,
+    "name": "M4 (EXT)",
+    "category": "",
+    "displayName": "Cold Carbine Extended Magazine",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "GUN_M4",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_EXTENDED",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Castle_M4_Magazine_Extended",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Castle_M4_Magazine_Extended.prefab",
+      "assetGUID": "1fa2f362c2bd065479ef9893e03d1557",
+      "resourcePath": "Weapons/AmmoClips/Castle_M4_Magazine_Extended",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "Castle_M4_Magazine_Extended_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/Castle_M4_Magazine_Extended_Collision.prefab",
+      "assetGUID": "f1342d055e8ddd14ca646911bef4739e",
+      "resourcePath": "Weapons/AmmoClips/Collisions/Castle_M4_Magazine_Extended_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 61,
+    "isPosedOnTrigger": false,
+    "resourceType": 19,
+    "defaultMagazineSize": 48,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 5.0,
+    "outlineFadeSpeedAfterEject": 1.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": true,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_Assault_Rifle",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_Assault_Rifle.mesh",
+      "assetGUID": "073b6100b49abef4989b1d7342063e5c",
+      "resourcePath": "Bullet_Shell_Assault_Rifle",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 1,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 11,
+    "id": 23,
+    "name": "M4 (DRUM)",
+    "category": "",
+    "displayName": "Cold Carbine Drum Magazine",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "GUN_M4",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_DRUM",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Castle_M4_Magazine_Drum",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Castle_M4_Magazine_Drum.prefab",
+      "assetGUID": "674c3d25f39c0f947bbd25b703a13a1a",
+      "resourcePath": "Weapons/AmmoClips/Castle_M4_Magazine_Drum",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "Castle_M4_Magazine_Drum_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/Castle_M4_Magazine_Drum_Collision.prefab",
+      "assetGUID": "81341c4bad0570f49b5bb1658830e1bc",
+      "resourcePath": "Weapons/AmmoClips/Collisions/Castle_M4_Magazine_Drum_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 55,
+    "isPosedOnTrigger": false,
+    "resourceType": 15,
+    "defaultMagazineSize": 15,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 1.0,
+    "outlineFadeSpeedAfterEject": 2.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": true,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_Pistol",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_Pistol.mesh",
+      "assetGUID": "cc6a3810dbfec934b8d08668c5dad7a5",
+      "resourcePath": "Bullet_Shell_Pistol",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 1,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 8,
+    "id": 24,
+    "name": "Pistol (BASE)",
+    "category": "",
+    "displayName": "Spitfire Pistol Magazine",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "GUN_M9",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_BASE",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Castle_M9_Magazine_Base",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Castle_M9_Magazine_Base.prefab",
+      "assetGUID": "407953915aaa67345a6fad89f717a214",
+      "resourcePath": "Weapons/AmmoClips/Castle_M9_Magazine_Base",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "Castle_M9_Magazine_Base_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/Castle_M9_Magazine_Base_Collision.prefab",
+      "assetGUID": "81cd2cf0754d304438aee5fb4f1c11a1",
+      "resourcePath": "Weapons/AmmoClips/Collisions/Castle_M9_Magazine_Base_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 56,
+    "isPosedOnTrigger": false,
+    "resourceType": 15,
+    "defaultMagazineSize": 50,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 1.0,
+    "outlineFadeSpeedAfterEject": 2.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": true,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_Pistol",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_Pistol.mesh",
+      "assetGUID": "cc6a3810dbfec934b8d08668c5dad7a5",
+      "resourcePath": "Bullet_Shell_Pistol",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 1,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 8,
+    "id": 25,
+    "name": "Pistol (DRUM)",
+    "category": "",
+    "displayName": "Spitfire Pistol Drum Magazine",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "GUN_M9",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_DRUM",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Castle_M9_Magazine_Drum",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Castle_M9_Magazine_Drum.prefab",
+      "assetGUID": "e14c191b2a51f4143ae2960663d83317",
+      "resourcePath": "Weapons/AmmoClips/Castle_M9_Magazine_Drum",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "Castle_M9_Magazine_Drum_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/Castle_M9_Magazine_Drum_Collision.prefab",
+      "assetGUID": "c8fcaa13ba0ff7847860443367c71b85",
+      "resourcePath": "Weapons/AmmoClips/Collisions/Castle_M9_Magazine_Drum_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 59,
+    "isPosedOnTrigger": false,
+    "resourceType": 15,
+    "defaultMagazineSize": 20,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 1.0,
+    "outlineFadeSpeedAfterEject": 2.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": true,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_Pistol",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_Pistol.mesh",
+      "assetGUID": "cc6a3810dbfec934b8d08668c5dad7a5",
+      "resourcePath": "Bullet_Shell_Pistol",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 1,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 8,
+    "id": 26,
+    "name": "Pistol (EXT)",
+    "category": "",
+    "displayName": "Spitfire Pistol Extended Magazine",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "GUN_M9",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_EXTENDED",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Castle_M9_Magazine_Extended",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Castle_M9_Magazine_Extended.prefab",
+      "assetGUID": "e8c843a233cf8ee42ac96bd23ffce1c0",
+      "resourcePath": "Weapons/AmmoClips/Castle_M9_Magazine_Extended",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "Castle_M9_Magazine_Extended_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/Castle_M9_Magazine_Extended_Collision.prefab",
+      "assetGUID": "8e9fec5249ee1aa4daa32ade05423c67",
+      "resourcePath": "Weapons/AmmoClips/Collisions/Castle_M9_Magazine_Extended_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 89,
+    "isPosedOnTrigger": false,
+    "resourceType": 4,
+    "defaultMagazineSize": 6,
+    "hideOnEjectSpawn": true,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 2.0,
+    "outlineFadeSpeedAfterEject": 2.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": true,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_Pistol",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_Pistol.mesh",
+      "assetGUID": "cc6a3810dbfec934b8d08668c5dad7a5",
+      "resourcePath": "Bullet_Shell_Pistol",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 1,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 8,
+    "id": 27,
+    "name": "Revolver (BASE)",
+    "category": "",
+    "displayName": "Cobra Revolver Magazine",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "GUN_COBRA",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_BASE",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "BL_Cobra_Magazine",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/BL_Cobra_Magazine.prefab",
+      "assetGUID": "2a7c420e1e12ec843b8578042893fdf9",
+      "resourcePath": "Weapons/AmmoClips/BL_Cobra_Magazine",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "BL_Cobra_Magazine_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/BL_Cobra_Magazine_Collision.prefab",
+      "assetGUID": "28f58c638aa08dd4fac297ade11bc01e",
+      "resourcePath": "Weapons/AmmoClips/Collisions/BL_Cobra_Magazine_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 89,
+    "isPosedOnTrigger": false,
+    "resourceType": 4,
+    "defaultMagazineSize": 8,
+    "hideOnEjectSpawn": true,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 2.0,
+    "outlineFadeSpeedAfterEject": 2.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": true,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_Pistol",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_Pistol.mesh",
+      "assetGUID": "cc6a3810dbfec934b8d08668c5dad7a5",
+      "resourcePath": "Bullet_Shell_Pistol",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 1,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 8,
+    "id": 28,
+    "name": "Revolver (EXT)",
+    "category": "",
+    "displayName": "Cobra Revolver Extended Magazine",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "GUN_COBRA",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_EXTENDED",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "BL_Cobra_Magazine_Extended",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/BL_Cobra_Magazine_Extended.prefab",
+      "assetGUID": "6b42958058ed7a54cbd3338c7d1b7862",
+      "resourcePath": "Weapons/AmmoClips/BL_Cobra_Magazine_Extended",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "BL_Cobra_Magazine_Extended_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/BL_Cobra_Magazine_Extended_Collision.prefab",
+      "assetGUID": "53bc788077d8b9240bdfa94bd55ee0cf",
+      "resourcePath": "Weapons/AmmoClips/Collisions/BL_Cobra_Magazine_Extended_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 90,
+    "isPosedOnTrigger": false,
+    "resourceType": 4,
+    "defaultMagazineSize": 10,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 1.0,
+    "outlineFadeSpeedAfterEject": 2.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": true,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_Pistol",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_Pistol.mesh",
+      "assetGUID": "cc6a3810dbfec934b8d08668c5dad7a5",
+      "resourcePath": "Bullet_Shell_Pistol",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 1,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 8,
+    "id": 29,
+    "name": "Revolver (DRUM)",
+    "category": "",
+    "displayName": "Cobra Revolver Drum Magazine",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "GUN_COBRA",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_DRUM",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "BL_Cobra_Magazine_Drum",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/BL_Cobra_Magazine_Drum.prefab",
+      "assetGUID": "381f1e029ce0f9f46abe6397610bad02",
+      "resourcePath": "Weapons/AmmoClips/BL_Cobra_Magazine_Drum",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "BL_Cobra_Magazine_Drum_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/BL_Cobra_Magazine_Drum_Collision.prefab",
+      "assetGUID": "b428a9215aeab0b4d9058f73c4f86e7b",
+      "resourcePath": "Weapons/AmmoClips/Collisions/BL_Cobra_Magazine_Drum_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 90,
+    "isPosedOnTrigger": false,
+    "resourceType": 15,
+    "defaultMagazineSize": 240,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 1.0,
+    "outlineFadeSpeedAfterEject": 2.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": false,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_Pistol",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_Pistol.fbx",
+      "assetGUID": "ff2bd28e3ed263d4d8c0bc648ad5b61d",
+      "resourcePath": "Bullet_Shell_Pistol:Bullet_Shell_Pistol.Mesh",
+      "isSubAsset": true
+    },
+    "ammoPouchIconTextureId": 1,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 9,
+    "id": 30,
+    "name": "9mm (PACK)",
+    "category": "",
+    "displayName": " 9×19mm Parabellum Pack",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "ITEM_AMMO_9MM_2",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_9MM_SUBTITLE",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "9MM_Ammo_Pack",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/9MM_Ammo_Pack.prefab",
+      "assetGUID": "2eb63e9bb9dc55c40b41e2bb3165fe03",
+      "resourcePath": "Weapons/AmmoClips/9MM_Ammo_Pack",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "Ammo_Pack_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/Ammo_Pack_Collision.prefab",
+      "assetGUID": "35034e4c52d6c3f40a3f3aba95c8e56c",
+      "resourcePath": "Weapons/AmmoClips/Collisions/Ammo_Pack_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 90,
+    "isPosedOnTrigger": false,
+    "resourceType": 17,
+    "defaultMagazineSize": 40,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 1.0,
+    "outlineFadeSpeedAfterEject": 2.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": false,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_Pistol",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_Pistol.fbx",
+      "assetGUID": "ff2bd28e3ed263d4d8c0bc648ad5b61d",
+      "resourcePath": "Bullet_Shell_Pistol:Bullet_Shell_Pistol.Mesh",
+      "isSubAsset": true
+    },
+    "ammoPouchIconTextureId": 1,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 10,
+    "id": 31,
+    "name": "12G (PACK)",
+    "category": "",
+    "displayName": "12-Gauge Pack",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "ITEM_AMMO_12G_2",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_12G_SUBTITLE",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "12G_Ammo_Pack",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/12G_Ammo_Pack.prefab",
+      "assetGUID": "62089dec829b4834fa53fbd4fd46211f",
+      "resourcePath": "Weapons/AmmoClips/12G_Ammo_Pack",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "Ammo_Pack_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/Ammo_Pack_Collision.prefab",
+      "assetGUID": "35034e4c52d6c3f40a3f3aba95c8e56c",
+      "resourcePath": "Weapons/AmmoClips/Collisions/Ammo_Pack_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 90,
+    "isPosedOnTrigger": false,
+    "resourceType": 4,
+    "defaultMagazineSize": 80,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 1.0,
+    "outlineFadeSpeedAfterEject": 2.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": false,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_Pistol",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_Pistol.fbx",
+      "assetGUID": "ff2bd28e3ed263d4d8c0bc648ad5b61d",
+      "resourcePath": "Bullet_Shell_Pistol:Bullet_Shell_Pistol.Mesh",
+      "isSubAsset": true
+    },
+    "ammoPouchIconTextureId": 1,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 8,
+    "id": 32,
+    "name": ".44 (PACK)",
+    "category": "",
+    "displayName": ".44 Magnum Pack",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "ITEM_AMMO_44_2",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_44_SUBTITLE",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "44M_Ammo_Pack",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/44M_Ammo_Pack.prefab",
+      "assetGUID": "9e5cd75efa624944ca9d092ceb9f8307",
+      "resourcePath": "Weapons/AmmoClips/44M_Ammo_Pack",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "Ammo_Pack_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/Ammo_Pack_Collision.prefab",
+      "assetGUID": "35034e4c52d6c3f40a3f3aba95c8e56c",
+      "resourcePath": "Weapons/AmmoClips/Collisions/Ammo_Pack_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 90,
+    "isPosedOnTrigger": false,
+    "resourceType": 18,
+    "defaultMagazineSize": 40,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 1.0,
+    "outlineFadeSpeedAfterEject": 2.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": false,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_Pistol",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_Pistol.fbx",
+      "assetGUID": "ff2bd28e3ed263d4d8c0bc648ad5b61d",
+      "resourcePath": "Bullet_Shell_Pistol:Bullet_Shell_Pistol.Mesh",
+      "isSubAsset": true
+    },
+    "ammoPouchIconTextureId": 1,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 11,
+    "id": 33,
+    "name": "5.56 (PACK)",
+    "category": "",
+    "displayName": "5.56×45mm NATO Pack",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "ITEM_AMMO_556",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_556_SUBTITLE",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "556_Ammo_Pack",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/556_Ammo_Pack.prefab",
+      "assetGUID": "49ed0983723483140be21329108fbe62",
+      "resourcePath": "Weapons/AmmoClips/556_Ammo_Pack",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "Ammo_Pack_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/Ammo_Pack_Collision.prefab",
+      "assetGUID": "35034e4c52d6c3f40a3f3aba95c8e56c",
+      "resourcePath": "Weapons/AmmoClips/Collisions/Ammo_Pack_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 90,
+    "isPosedOnTrigger": false,
+    "resourceType": 19,
+    "defaultMagazineSize": 200,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 1.0,
+    "outlineFadeSpeedAfterEject": 2.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": false,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_Pistol",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_Pistol.fbx",
+      "assetGUID": "ff2bd28e3ed263d4d8c0bc648ad5b61d",
+      "resourcePath": "Bullet_Shell_Pistol:Bullet_Shell_Pistol.Mesh",
+      "isSubAsset": true
+    },
+    "ammoPouchIconTextureId": 1,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 11,
+    "id": 34,
+    "name": "7.62 (PACK)",
+    "category": "",
+    "displayName": " 7.62×51mm NATO Pack",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "ITEM_AMMO_762_2",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_762_SUBTITLE",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "762_Ammo_Pack",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/762_Ammo_Pack.prefab",
+      "assetGUID": "15aeae4f1ee36924aabcffca6664869c",
+      "resourcePath": "Weapons/AmmoClips/762_Ammo_Pack",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "Ammo_Pack_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/Ammo_Pack_Collision.prefab",
+      "assetGUID": "35034e4c52d6c3f40a3f3aba95c8e56c",
+      "resourcePath": "Weapons/AmmoClips/Collisions/Ammo_Pack_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 89,
+    "isPosedOnTrigger": false,
+    "resourceType": 4,
+    "defaultMagazineSize": 4294967295,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 2.0,
+    "outlineFadeSpeedAfterEject": 2.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": false,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_Pistol",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_Pistol.fbx",
+      "assetGUID": "ff2bd28e3ed263d4d8c0bc648ad5b61d",
+      "resourcePath": "Bullet_Shell_Pistol:Bullet_Shell_Pistol.Mesh",
+      "isSubAsset": true
+    },
+    "ammoPouchIconTextureId": 1,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 1,
+    "id": 35,
+    "name": "Repeater",
+    "category": "",
+    "displayName": "Cobra Revolver Magazine",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "ITEM_AMMO_REPEATER",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_REPEATER_SUBTITLE",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "BL_Cobra_Magazine",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/BL_Cobra_Magazine.prefab",
+      "assetGUID": "2a7c420e1e12ec843b8578042893fdf9",
+      "resourcePath": "Weapons/AmmoClips/BL_Cobra_Magazine",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "BL_Cobra_Magazine_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/BL_Cobra_Magazine_Collision.prefab",
+      "assetGUID": "28f58c638aa08dd4fac297ade11bc01e",
+      "resourcePath": "Weapons/AmmoClips/Collisions/BL_Cobra_Magazine_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 0,
+    "isPosedOnTrigger": true,
+    "resourceType": 3,
+    "defaultMagazineSize": 1,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 5.0,
+    "outlineFadeSpeedAfterEject": 1.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": false,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 0,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "Icon_ammo_rocket",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_ammo_rocket.png",
+      "assetGUID": "3d5a2e83ea997ef48ac0cb54f68eaeeb",
+      "resourcePath": "Tooltips/Icon_ammo_rocket:Icon_ammo_rocket.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 0,
+    "id": 36,
+    "name": "DeviceCharge (PACK)",
+    "category": "",
+    "displayName": "DeviceCharge",
+    "descriptionLocalizationKey": "ITEM_AMMO_DEVICECHARGE_DESC",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "ITEM_AMMO_DEVICECHARGE",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_DEVICECHARGE_DESC",
+    "inventoryIcon": {
+      "assetName": "Icon_ammo_rocket",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_ammo_rocket.png",
+      "assetGUID": "3d5a2e83ea997ef48ac0cb54f68eaeeb",
+      "resourcePath": "Tooltips/Icon_ammo_rocket:Icon_ammo_rocket.Sprite",
+      "isSubAsset": true
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "DeviceCharge_Ammo",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/DeviceCharge_Ammo.prefab",
+      "assetGUID": "374d45c36e70b714ab7e3593530c5594",
+      "resourcePath": "Weapons/AmmoClips/DeviceCharge_Ammo",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "DeviceCharge_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/DeviceCharge_Collision.prefab",
+      "assetGUID": "ab6715107e100114cb579c5e16bf0e93",
+      "resourcePath": "Weapons/AmmoClips/Collisions/DeviceCharge_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 1000,
+    "lockedDescriptionLocalizationKey": "ITEM_AMMO_DEVICECHARGE_DESC_LOCKED",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 5,
+      "DisplayName": "CombatDeviceTO",
+      "AssemblyQualifiedName": "Vertigo.Snowbreed.CombatDeviceTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    },
+    "vendorAvailabilityItemEquippedItems": [
+      0,
+      1
+    ],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 288,
+    "isPosedOnTrigger": false,
+    "resourceType": 19,
+    "defaultMagazineSize": 40,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 5.0,
+    "outlineFadeSpeedAfterEject": 1.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": true,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_Assault_Rifle",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_Assault_Rifle.mesh",
+      "assetGUID": "073b6100b49abef4989b1d7342063e5c",
+      "resourcePath": "Bullet_Shell_Assault_Rifle",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 1,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 11,
+    "id": 37,
+    "name": "LMG (BASE)",
+    "category": "",
+    "displayName": "Licht Machine Gun Base Magazine",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "GUN_LMG",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_BASE",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "LMG_Magazine_Base",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/LMG_Magazine_Base.prefab",
+      "assetGUID": "153528b92bd339948a8ec6945ece6a36",
+      "resourcePath": "Weapons/AmmoClips/LMG_Magazine_Base",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "LMG_Magazine_Base_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/LMG_Magazine_Base_Collision.prefab",
+      "assetGUID": "5fc5c65eb6ae68940aaec3a65fd8a97b",
+      "resourcePath": "Weapons/AmmoClips/Collisions/LMG_Magazine_Base_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 289,
+    "isPosedOnTrigger": false,
+    "resourceType": 19,
+    "defaultMagazineSize": 99,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 5.0,
+    "outlineFadeSpeedAfterEject": 1.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": true,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_Assault_Rifle",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_Assault_Rifle.mesh",
+      "assetGUID": "073b6100b49abef4989b1d7342063e5c",
+      "resourcePath": "Bullet_Shell_Assault_Rifle",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 1,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 11,
+    "id": 38,
+    "name": "LMG (DRUM)",
+    "category": "",
+    "displayName": "Licht Machine Gun Drum Magazine",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "GUN_LMG",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_DRUM",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "LMG_Magazine_Drum",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/LMG_Magazine_Drum.prefab",
+      "assetGUID": "bcc7fb95644020647856e236af7ca8be",
+      "resourcePath": "Weapons/AmmoClips/LMG_Magazine_Drum",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "LMG_Magazine_Drum_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/LMG_Magazine_Drum_Collision.prefab",
+      "assetGUID": "cf33c99e528bc774fabbe542a1b6a494",
+      "resourcePath": "Weapons/AmmoClips/Collisions/LMG_Magazine_Drum_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 316,
+    "isPosedOnTrigger": false,
+    "resourceType": 15,
+    "defaultMagazineSize": 20,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 5.0,
+    "outlineFadeSpeedAfterEject": 1.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": true,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_SMG",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_SMG.mesh",
+      "assetGUID": "7aa8df3aaabaf5a4abc03f0256c3cfbc",
+      "resourcePath": "Bullet_Shell_SMG",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 3,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 9,
+    "id": 39,
+    "name": "Tommy (BASE)",
+    "category": "",
+    "displayName": "Tommy Magazine",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "GUN_TOMMY",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_BASE",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Tommy_Magazine",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Tommy_Magazine.prefab",
+      "assetGUID": "3befe8864fce3af46a5872143d614cbf",
+      "resourcePath": "Weapons/AmmoClips/Tommy_Magazine",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "Tommy_Magazine_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/Tommy_Magazine_Collision.prefab",
+      "assetGUID": "bad0ce457a94ace44b65d22a64f586a7",
+      "resourcePath": "Weapons/AmmoClips/Collisions/Tommy_Magazine_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 330,
+    "isPosedOnTrigger": false,
+    "resourceType": 15,
+    "defaultMagazineSize": 30,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 5.0,
+    "outlineFadeSpeedAfterEject": 1.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": true,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_SMG",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_SMG.mesh",
+      "assetGUID": "7aa8df3aaabaf5a4abc03f0256c3cfbc",
+      "resourcePath": "Bullet_Shell_SMG",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 3,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 9,
+    "id": 40,
+    "name": "Tommy (EXT)",
+    "category": "",
+    "displayName": "Tommy Extended Magazine",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "GUN_TOMMY",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_EXTENDED",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Tommy_Magazine_Extended",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Tommy_Magazine_Extended.prefab",
+      "assetGUID": "1ca0c321beb0bb74294207dcbbf4a69d",
+      "resourcePath": "Weapons/AmmoClips/Tommy_Magazine_Extended",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "Tommy_Magazine_Extended_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/Tommy_Magazine_Extended_Collision.prefab",
+      "assetGUID": "f42f40ba09382ce4b8eff7cb2f170101",
+      "resourcePath": "Weapons/AmmoClips/Collisions/Tommy_Magazine_Extended_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 317,
+    "isPosedOnTrigger": false,
+    "resourceType": 15,
+    "defaultMagazineSize": 50,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 5.0,
+    "outlineFadeSpeedAfterEject": 1.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": true,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_SMG",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_SMG.mesh",
+      "assetGUID": "7aa8df3aaabaf5a4abc03f0256c3cfbc",
+      "resourcePath": "Bullet_Shell_SMG",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 3,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 9,
+    "id": 41,
+    "name": "Tommy (DRUM)",
+    "category": "",
+    "displayName": "Tommy Drum Magazine",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "GUN_TOMMY",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_DRUM",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Tommy_Magazine_Drum",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Tommy_Magazine_Drum.prefab",
+      "assetGUID": "9135e043cae597a4ebc1049aa50c162f",
+      "resourcePath": "Weapons/AmmoClips/Tommy_Magazine_Drum",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "Tommy_Magazine_Drum_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/Tommy_Magazine_Drum_Collision.prefab",
+      "assetGUID": "3a3a42168606ec34aa60e2238c24dff1",
+      "resourcePath": "Weapons/AmmoClips/Collisions/Tommy_Magazine_Drum_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 340,
+    "isPosedOnTrigger": false,
+    "resourceType": 17,
+    "defaultMagazineSize": 6,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 5.0,
+    "outlineFadeSpeedAfterEject": 1.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": true,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_Shotgun",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_Shotgun.mesh",
+      "assetGUID": "2239c79c78a2a3144a50b50a1e3b615a",
+      "resourcePath": "Bullet_Shell_Shotgun",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 2,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 10,
+    "id": 42,
+    "name": "Auto (BASE)",
+    "category": "",
+    "displayName": "Auto Shotgun Magazine",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "GUN_AUTOSHOTGUN",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_BASE",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "AutoShotgun_Magazine_Base",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/AutoShotgun_Magazine_Base.prefab",
+      "assetGUID": "b4e16e0853341114ea1f56e5e6299f58",
+      "resourcePath": "Weapons/AmmoClips/AutoShotgun_Magazine_Base",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "AutoShotgun_Magazine_Base_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/AutoShotgun_Magazine_Base_Collision.prefab",
+      "assetGUID": "64b63e14478ba8e41b862152cbe36017",
+      "resourcePath": "Weapons/AmmoClips/Collisions/AutoShotgun_Magazine_Base_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 341,
+    "isPosedOnTrigger": false,
+    "resourceType": 17,
+    "defaultMagazineSize": 10,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 5.0,
+    "outlineFadeSpeedAfterEject": 1.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": true,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_Shotgun",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_Shotgun.mesh",
+      "assetGUID": "2239c79c78a2a3144a50b50a1e3b615a",
+      "resourcePath": "Bullet_Shell_Shotgun",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 2,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 10,
+    "id": 43,
+    "name": "Auto (EXT)",
+    "category": "",
+    "displayName": "Auto Shotgun Extended Magazine",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "GUN_AUTOSHOTGUN",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_EXTENDED",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "AutoShotgun_Magazine_Extended",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/AutoShotgun_Magazine_Extended.prefab",
+      "assetGUID": "9d8f0845fadec96458fd562a0f04d261",
+      "resourcePath": "Weapons/AmmoClips/AutoShotgun_Magazine_Extended",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "AutoShotgun_Magazine_Extended_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/AutoShotgun_Magazine_Extended_Collision.prefab",
+      "assetGUID": "b25f022085f13984f940ed5abd4e5adc",
+      "resourcePath": "Weapons/AmmoClips/Collisions/AutoShotgun_Magazine_Extended_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 343,
+    "isPosedOnTrigger": false,
+    "resourceType": 17,
+    "defaultMagazineSize": 20,
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 5.0,
+    "outlineFadeSpeedAfterEject": 1.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": true,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_Shotgun",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_Shotgun.mesh",
+      "assetGUID": "2239c79c78a2a3144a50b50a1e3b615a",
+      "resourcePath": "Bullet_Shell_Shotgun",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 2,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 10,
+    "id": 44,
+    "name": "Auto (DRUM)",
+    "category": "",
+    "displayName": "Auto Shotgun Drum Magazine",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "GUN_AUTOSHOTGUN",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_DRUM",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "AutoShotgun_Magazine_Drum",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/AutoShotgun_Magazine_Drum.prefab",
+      "assetGUID": "5de09eb1a8ce2b943b500b24d983e2b6",
+      "resourcePath": "Weapons/AmmoClips/AutoShotgun_Magazine_Drum",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "AutoShotgun_Magazine_Drum_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/AutoShotgun_Magazine_Drum_Collision.prefab",
+      "assetGUID": "51093647959a52241b77ceddf9b4773a",
+      "resourcePath": "Weapons/AmmoClips/Collisions/AutoShotgun_Magazine_Drum_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 378,
+    "isPosedOnTrigger": false,
+    "resourceType": 19,
+    "defaultMagazineSize": 8,
+    "additionalResources": [],
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 5.0,
+    "outlineFadeSpeedAfterEject": 1.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": true,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_Assault_Rifle",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_Assault_Rifle.mesh",
+      "assetGUID": "073b6100b49abef4989b1d7342063e5c",
+      "resourcePath": "Bullet_Shell_Assault_Rifle",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 3,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 11,
+    "id": 45,
+    "name": "Lever Action (Base)",
+    "category": "",
+    "displayName": "",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_BASE",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "LeverActionRifle_Magazine_Base",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/LeverActionRifle_Magazine_Base.prefab",
+      "assetGUID": "c13db4f6e57bb714396438aec912a008",
+      "resourcePath": "Weapons/AmmoClips/LeverActionRifle_Magazine_Base",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "LeverActionRifle_Magazine_Base_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/LeverActionRifle_Magazine_Base_Collision.prefab",
+      "assetGUID": "111aaa20baa49a94b883d8a45824d08e",
+      "resourcePath": "Weapons/AmmoClips/Collisions/LeverActionRifle_Magazine_Base_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 380,
+    "isPosedOnTrigger": false,
+    "resourceType": 19,
+    "defaultMagazineSize": 12,
+    "additionalResources": [],
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 5.0,
+    "outlineFadeSpeedAfterEject": 1.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": true,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_Assault_Rifle",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_Assault_Rifle.mesh",
+      "assetGUID": "073b6100b49abef4989b1d7342063e5c",
+      "resourcePath": "Bullet_Shell_Assault_Rifle",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 3,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 11,
+    "id": 46,
+    "name": "Lever Action (EXT)",
+    "category": "",
+    "displayName": "",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_EXTENDED",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "LeverActionRifle_Magazine_Extended",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/LeverActionRifle_Magazine_Extended.prefab",
+      "assetGUID": "88237da11e341b9469be959bc334f30b",
+      "resourcePath": "Weapons/AmmoClips/LeverActionRifle_Magazine_Extended",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "LeverActionRifle_Magazine_Extended_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/LeverActionRifle_Magazine_Extended_Collision.prefab",
+      "assetGUID": "fdd770e576b21a74d9c7c29e84fd8b1e",
+      "resourcePath": "Weapons/AmmoClips/Collisions/LeverActionRifle_Magazine_Extended_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 379,
+    "isPosedOnTrigger": false,
+    "resourceType": 19,
+    "defaultMagazineSize": 22,
+    "additionalResources": [],
+    "hideOnEjectSpawn": false,
+    "isUnlocked": true,
+    "outlineFlashSpeed": 1.0,
+    "ejectionSpeed": 1.0,
+    "timeToWaitBeforeFadingOutlineAfterEject": 5.0,
+    "outlineFadeSpeedAfterEject": 1.0,
+    "timeToWaitBeforeReset": 2.0,
+    "transparentNormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "transparentHighlightedColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "overrideAmmunitionParticleMesh": true,
+    "ammunitionParticleMeshOverride": {
+      "assetName": "Bullet_Shell_Assault_Rifle",
+      "assetPath": "Assets/Art/Weapons/Bullets/FBX/VertigoResources/Bullet_Shell_Assault_Rifle.mesh",
+      "assetGUID": "073b6100b49abef4989b1d7342063e5c",
+      "resourcePath": "Bullet_Shell_Assault_Rifle",
+      "isSubAsset": false
+    },
+    "ammoPouchIconTextureId": 3,
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 11,
+    "id": 47,
+    "name": "Lever Action (DRUM)",
+    "category": "",
+    "displayName": "",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "",
+    "tooltipSubtitleDisplayName": "ITEM_AMMO_DRUM",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "LeverActionRifle_Magazine_Drum",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/LeverActionRifle_Magazine_Drum.prefab",
+      "assetGUID": "a4543d1544c1591498433ab3c4237612",
+      "resourcePath": "Weapons/AmmoClips/LeverActionRifle_Magazine_Drum",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "LeverActionRifle_Magazine_Drum_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/AmmoClips/Collisions/LeverActionRifle_Magazine_Drum_Collision.prefab",
+      "assetGUID": "77b1140036aefea4eb7822f187c6db88",
+      "resourcePath": "Weapons/AmmoClips/Collisions/LeverActionRifle_Magazine_Drum_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": true,
+    "poolSize": 8,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  }
+]
+}

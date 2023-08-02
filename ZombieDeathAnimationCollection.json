@@ -1,0 +1,3580 @@
+{
+  "TableId": 191,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "shouldRagdollOnDeath": true,
+    "supportsDeathAnimations": true,
+    "skipMatchToGroundPosition": false,
+    "animationTransitionDuration": 0.14,
+    "regularDeathAnimationSettings": {
+      "animations": [
+        {
+          "impactForce": 0,
+          "defaultSettingName": "Chest",
+          "boneSettings": [
+            {
+              "name": "Head",
+              "boneIds": [
+                5,
+                4
+              ],
+              "angleSettings": [
+                {
+                  "hitAngle": -135,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": -1.13845479,
+                        "y": 0.0,
+                        "z": -1.10601473
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_Head_01A",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Head_01A.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.14,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": -1.17579436,
+                        "y": 0.0,
+                        "z": -1.07557321
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_Head_01B",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Head_01B.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.14,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": -1.072026,
+                        "y": 0.0,
+                        "z": -1.09942532
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_Head_01C",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Head_01C.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.14,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": -90,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": -0.9999998,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_Head_04",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Head_04.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.14,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": -45,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": -0.703389764,
+                        "y": 0.0,
+                        "z": 0.6453611
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_Head_06",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Head_06.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.14,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": 0,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": -0.179769427,
+                        "y": 0.0,
+                        "z": 1.19999981
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_Head_07",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Head_07.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.14,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": 45,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.7257355,
+                        "y": 0.0,
+                        "z": 0.6442278
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_Head_08",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Head_08.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.14,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": 90,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.9999998,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_Head_05",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Head_05.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.14,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": 135,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 1.03271246,
+                        "y": 0.0,
+                        "z": -1.13734829
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_Head_03A",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Head_03A.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.14,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 1.03271246,
+                        "y": 0.0,
+                        "z": -1.13734829
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_Head_03B",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Head_03B.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.14,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 1.03271246,
+                        "y": 0.0,
+                        "z": -1.13734829
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_Head_03C",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Head_03C.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.14,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": 180,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": -0.143161416,
+                        "y": 0.0,
+                        "z": -1.4
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_Head_02A",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Head_02A.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.14,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": -1.19999981
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_Head_02B",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Head_02B.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.14,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": -1.19999981
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_Head_02C",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Head_02C.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.14,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_JumpFall_Bwd",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_JumpFall_Bwd.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.14,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Chest",
+              "boneIds": [
+                1,
+                2,
+                3,
+                26
+              ],
+              "angleSettings": [
+                {
+                  "hitAngle": -135,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": -1.13914824,
+                        "y": 0.0,
+                        "z": -1.12224841
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_Torso_01A",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Torso_01A.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.14,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": -1.17579436,
+                        "y": 0.0,
+                        "z": -1.07557321
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_Torso_01B",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Torso_01B.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.14,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": -1.072026,
+                        "y": 0.0,
+                        "z": -1.09942532
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_Torso_01C",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Torso_01C.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.14,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": -90,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": -0.9999998,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_Torso_04",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Torso_04.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.14,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": -45,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": -0.703686059,
+                        "y": 0.0,
+                        "z": 0.6504609
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_Torso_06",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Torso_06.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.14,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": 0,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_JumpFall_Fwd",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_JumpFall_Fwd.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.14,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": 45,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.716643751,
+                        "y": 0.0,
+                        "z": 0.6391635
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_Torso_08",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Torso_08.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.14,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": 90,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.9999998,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_Torso_05",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Torso_05.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.14,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": 135,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 1.03271246,
+                        "y": 0.0,
+                        "z": -1.13734829
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_Torso_03A",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Torso_03A.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.14,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 1.03271246,
+                        "y": 0.0,
+                        "z": -1.13734829
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_Torso_03B",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Torso_03B.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.14,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 1.03271246,
+                        "y": 0.0,
+                        "z": -1.13734829
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_Torso_03C",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Torso_03C.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.14,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": 180,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": -1.4
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_Torso_02B",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Torso_02B.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.14,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.122724809,
+                        "y": 0.0,
+                        "z": -1.4
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_Torso_02C",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Torso_02C.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.14,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_JumpFall_Bwd",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_JumpFall_Bwd.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.14,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Left Arm",
+              "boneIds": [
+                6,
+                7,
+                8
+              ],
+              "angleSettings": [
+                {
+                  "hitAngle": -135,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": -1.16679525,
+                        "y": 0.0,
+                        "z": -1.27773738
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_LeftArm_01A",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_LeftArm_01A.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": -1.25599921,
+                        "y": 0.0,
+                        "z": -1.29486859
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_LeftArm_01B",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_LeftArm_01B.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": -1.192611,
+                        "y": 0.0,
+                        "z": -1.21249568
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_LeftArm_01C",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_LeftArm_01C.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": -90,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": -0.9999998,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_LeftArm_04",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_LeftArm_04.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": -45,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": -0.6207797,
+                        "y": 0.0,
+                        "z": 0.681885
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_LeftArm_06",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_LeftArm_06.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": 0,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.9999998
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_LeftArm_07",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_LeftArm_07.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": 45,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.680107832,
+                        "y": 0.0,
+                        "z": 0.5983152
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_LeftArm_08",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_LeftArm_08.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": 90,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.9999998,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_LeftArm_05",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_LeftArm_05.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": 135,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 1.0381552,
+                        "y": 0.0,
+                        "z": -1.13606548
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_LeftArm_03A",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_LeftArm_03A.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 1.12300682,
+                        "y": 0.0,
+                        "z": -1.18652534
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_LeftArm_03B",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_LeftArm_03B.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.995623767,
+                        "y": 0.0,
+                        "z": -1.24111784
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_LeftArm_03C",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_LeftArm_03C.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": 180,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": -1.4
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_LeftArm_02A",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_LeftArm_02A.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": -1.4
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_LeftArm_02B",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_LeftArm_02B.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": -1.4
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_LeftArm_02C",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_LeftArm_02C.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Right Arm",
+              "boneIds": [
+                9,
+                10,
+                11
+              ],
+              "angleSettings": [
+                {
+                  "hitAngle": -135,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": -0.79070276,
+                        "y": 0.0,
+                        "z": -1.00462341
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_RightArm_01A",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_RightArm_01A.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": -0.7992341,
+                        "y": 0.0,
+                        "z": -1.02317035
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_RightArm_01B",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_RightArm_01B.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": -0.7945225,
+                        "y": 0.0,
+                        "z": -1.02639639
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_RightArm_01C",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_RightArm_01C.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": -90,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": -0.9999998,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_RightArm_04",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_RightArm_04.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": -45,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": -0.6274038,
+                        "y": 0.0,
+                        "z": 0.748382866
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_RightArm_06",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_RightArm_06.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": 0,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.9999998
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_RightArm_07",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_RightArm_07.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": 45,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.646358132,
+                        "y": 0.0,
+                        "z": 0.6704832
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_RightArm_08",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_RightArm_08.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": 90,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.9999998,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_RightArm_05",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_RightArm_05.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": 135,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 1.03423274,
+                        "y": 0.0,
+                        "z": -1.1529932
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_RightArm_03A",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_RightArm_03A.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 1.09116125,
+                        "y": 0.0,
+                        "z": -1.209272
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_RightArm_03B",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_RightArm_03B.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.9910745,
+                        "y": 0.0,
+                        "z": -1.24566734
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_RightArm_03C",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_RightArm_03C.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": 180,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.1124945,
+                        "y": 0.0,
+                        "z": -1.4
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_RightArm_02A",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_RightArm_02A.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.140146121,
+                        "y": 0.0,
+                        "z": -1.58620334
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_RightArm_02B",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_RightArm_02B.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.1839231,
+                        "y": 0.0,
+                        "z": -1.4
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_RightArm_02C",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_RightArm_02C.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Left Leg",
+              "boneIds": [
+                12,
+                13,
+                14
+              ],
+              "angleSettings": [
+                {
+                  "hitAngle": -135,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.633255363,
+                        "y": 0.0,
+                        "z": 0.6820295
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_LeftLeg_01A",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_LeftLeg_01A.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.6535295,
+                        "y": 0.0,
+                        "z": 0.679979
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_LeftLeg_01B",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_LeftLeg_01B.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.6645575,
+                        "y": 0.0,
+                        "z": 0.680078447
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_LeftLeg_01C",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_LeftLeg_01C.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": -90,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.9999998,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_LeftLeg_04",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_LeftLeg_04.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": -45,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.988282859,
+                        "y": 0.0,
+                        "z": -1.04718685
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_LeftLeg_06",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_LeftLeg_06.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": 0,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.1402758,
+                        "y": 0.0,
+                        "z": -1.45346546
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_LeftLeg_07",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_LeftLeg_07.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": 45,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": -0.805124044,
+                        "y": 0.0,
+                        "z": -1.02134609
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_LeftLeg_08",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_LeftLeg_08.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": 90,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": -0.9999998,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_LeftLeg_05",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_LeftLeg_05.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": 135,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": -0.6343001,
+                        "y": 0.0,
+                        "z": 0.74039495
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_LeftLeg_03A",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_LeftLeg_03A.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": -0.6398478,
+                        "y": 0.0,
+                        "z": 0.747648358
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_LeftLeg_03B",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_LeftLeg_03B.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": -0.6301252,
+                        "y": 0.0,
+                        "z": 0.7427629
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_LeftLeg_03C",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_LeftLeg_03C.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": 180,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.9999998
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_LeftLeg_02B",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_LeftLeg_02B.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": -0.0549285859,
+                        "y": 0.0,
+                        "z": 0.903897
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_LeftLeg_02C",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_LeftLeg_02C.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_JumpFall_Fwd",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_JumpFall_Fwd.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Right Leg",
+              "boneIds": [
+                15,
+                16,
+                17
+              ],
+              "angleSettings": [
+                {
+                  "hitAngle": -135,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.7128732,
+                        "y": 0.0,
+                        "z": 0.6500711
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_RightLeg_01A",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_RightLeg_01A.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.7025657,
+                        "y": 0.0,
+                        "z": 0.631553769
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_RightLeg_01B",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_RightLeg_01B.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.7074459,
+                        "y": 0.0,
+                        "z": 0.638209343
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_RightLeg_01C",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_RightLeg_01C.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": -90,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.9999998,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_RightLeg_04",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_RightLeg_04.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": -45,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.9567255,
+                        "y": 0.0,
+                        "z": -0.999160349
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_RightLeg_06",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_RightLeg_06.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": 0,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": -1.4
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_RightLeg_07",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_RightLeg_07.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": 45,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": -1.16932726,
+                        "y": 0.0,
+                        "z": -1.25089216
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_RightLeg_08",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_RightLeg_08.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": 90,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": -0.9999998,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_RightLeg_05",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_RightLeg_05.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": 135,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.9567255,
+                        "y": 0.0,
+                        "z": -0.999160349
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_RightLeg_06",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_RightLeg_06.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                },
+                {
+                  "hitAngle": 180,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_JumpFall_Fwd",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_JumpFall_Fwd.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.9999998
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_RightLeg_02B",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_RightLeg_02B.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 0.7,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.0294508915,
+                        "y": 0.0,
+                        "z": 1.01488364
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.0,
+                        "assetName": "Anim_CH_E_Horde_Ragdolls_RightLeg_02C",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_RightLeg_02C.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "name",
+                      "category": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "defaultBoneSetting": {
+            "name": "Chest",
+            "boneIds": [
+              1,
+              2,
+              3,
+              26
+            ],
+            "angleSettings": [
+              {
+                "hitAngle": -135,
+                "groundedAnimations": [
+                  {
+                    "hitGroundEventTime": 0.7,
+                    "rootPositionOffsetAtHitGround": {
+                      "x": -1.13914824,
+                      "y": 0.0,
+                      "z": -1.12224841
+                    },
+                    "angularRootRotationOffsetAtHitGround": 0.0,
+                    "animationClip": {
+                      "animationLength": 2.0,
+                      "assetName": "Anim_CH_E_Horde_Ragdolls_Torso_01A",
+                      "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                      "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                      "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Torso_01A.AnimationClip",
+                      "isSubAsset": true
+                    },
+                    "animationTransitionDuration": 0.14,
+                    "id": 0,
+                    "name": "name",
+                    "category": ""
+                  },
+                  {
+                    "hitGroundEventTime": 0.7,
+                    "rootPositionOffsetAtHitGround": {
+                      "x": -1.17579436,
+                      "y": 0.0,
+                      "z": -1.07557321
+                    },
+                    "angularRootRotationOffsetAtHitGround": 0.0,
+                    "animationClip": {
+                      "animationLength": 2.0,
+                      "assetName": "Anim_CH_E_Horde_Ragdolls_Torso_01B",
+                      "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                      "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                      "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Torso_01B.AnimationClip",
+                      "isSubAsset": true
+                    },
+                    "animationTransitionDuration": 0.14,
+                    "id": 0,
+                    "name": "name",
+                    "category": ""
+                  },
+                  {
+                    "hitGroundEventTime": 0.7,
+                    "rootPositionOffsetAtHitGround": {
+                      "x": -1.072026,
+                      "y": 0.0,
+                      "z": -1.09942532
+                    },
+                    "angularRootRotationOffsetAtHitGround": 0.0,
+                    "animationClip": {
+                      "animationLength": 2.0,
+                      "assetName": "Anim_CH_E_Horde_Ragdolls_Torso_01C",
+                      "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                      "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                      "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Torso_01C.AnimationClip",
+                      "isSubAsset": true
+                    },
+                    "animationTransitionDuration": 0.14,
+                    "id": 0,
+                    "name": "name",
+                    "category": ""
+                  }
+                ]
+              },
+              {
+                "hitAngle": -90,
+                "groundedAnimations": [
+                  {
+                    "hitGroundEventTime": 0.7,
+                    "rootPositionOffsetAtHitGround": {
+                      "x": -0.9999998,
+                      "y": 0.0,
+                      "z": 0.0
+                    },
+                    "angularRootRotationOffsetAtHitGround": 0.0,
+                    "animationClip": {
+                      "animationLength": 2.0,
+                      "assetName": "Anim_CH_E_Horde_Ragdolls_Torso_04",
+                      "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                      "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                      "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Torso_04.AnimationClip",
+                      "isSubAsset": true
+                    },
+                    "animationTransitionDuration": 0.14,
+                    "id": 0,
+                    "name": "name",
+                    "category": ""
+                  }
+                ]
+              },
+              {
+                "hitAngle": -45,
+                "groundedAnimations": [
+                  {
+                    "hitGroundEventTime": 0.7,
+                    "rootPositionOffsetAtHitGround": {
+                      "x": -0.703686059,
+                      "y": 0.0,
+                      "z": 0.6504609
+                    },
+                    "angularRootRotationOffsetAtHitGround": 0.0,
+                    "animationClip": {
+                      "animationLength": 2.0,
+                      "assetName": "Anim_CH_E_Horde_Ragdolls_Torso_06",
+                      "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                      "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                      "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Torso_06.AnimationClip",
+                      "isSubAsset": true
+                    },
+                    "animationTransitionDuration": 0.14,
+                    "id": 0,
+                    "name": "name",
+                    "category": ""
+                  }
+                ]
+              },
+              {
+                "hitAngle": 0,
+                "groundedAnimations": [
+                  {
+                    "hitGroundEventTime": 0.7,
+                    "rootPositionOffsetAtHitGround": {
+                      "x": 0.0,
+                      "y": 0.0,
+                      "z": 0.0
+                    },
+                    "angularRootRotationOffsetAtHitGround": 0.0,
+                    "animationClip": {
+                      "animationLength": 2.0,
+                      "assetName": "Anim_CH_E_Horde_Ragdolls_JumpFall_Fwd",
+                      "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                      "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                      "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_JumpFall_Fwd.AnimationClip",
+                      "isSubAsset": true
+                    },
+                    "animationTransitionDuration": 0.14,
+                    "id": 0,
+                    "name": "name",
+                    "category": ""
+                  }
+                ]
+              },
+              {
+                "hitAngle": 45,
+                "groundedAnimations": [
+                  {
+                    "hitGroundEventTime": 0.7,
+                    "rootPositionOffsetAtHitGround": {
+                      "x": 0.716643751,
+                      "y": 0.0,
+                      "z": 0.6391635
+                    },
+                    "angularRootRotationOffsetAtHitGround": 0.0,
+                    "animationClip": {
+                      "animationLength": 2.0,
+                      "assetName": "Anim_CH_E_Horde_Ragdolls_Torso_08",
+                      "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                      "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                      "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Torso_08.AnimationClip",
+                      "isSubAsset": true
+                    },
+                    "animationTransitionDuration": 0.14,
+                    "id": 0,
+                    "name": "name",
+                    "category": ""
+                  }
+                ]
+              },
+              {
+                "hitAngle": 90,
+                "groundedAnimations": [
+                  {
+                    "hitGroundEventTime": 0.7,
+                    "rootPositionOffsetAtHitGround": {
+                      "x": 0.9999998,
+                      "y": 0.0,
+                      "z": 0.0
+                    },
+                    "angularRootRotationOffsetAtHitGround": 0.0,
+                    "animationClip": {
+                      "animationLength": 2.0,
+                      "assetName": "Anim_CH_E_Horde_Ragdolls_Torso_05",
+                      "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                      "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                      "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Torso_05.AnimationClip",
+                      "isSubAsset": true
+                    },
+                    "animationTransitionDuration": 0.14,
+                    "id": 0,
+                    "name": "name",
+                    "category": ""
+                  }
+                ]
+              },
+              {
+                "hitAngle": 135,
+                "groundedAnimations": [
+                  {
+                    "hitGroundEventTime": 0.7,
+                    "rootPositionOffsetAtHitGround": {
+                      "x": 1.03271246,
+                      "y": 0.0,
+                      "z": -1.13734829
+                    },
+                    "angularRootRotationOffsetAtHitGround": 0.0,
+                    "animationClip": {
+                      "animationLength": 2.0,
+                      "assetName": "Anim_CH_E_Horde_Ragdolls_Torso_03A",
+                      "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                      "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                      "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Torso_03A.AnimationClip",
+                      "isSubAsset": true
+                    },
+                    "animationTransitionDuration": 0.14,
+                    "id": 0,
+                    "name": "name",
+                    "category": ""
+                  },
+                  {
+                    "hitGroundEventTime": 0.7,
+                    "rootPositionOffsetAtHitGround": {
+                      "x": 1.03271246,
+                      "y": 0.0,
+                      "z": -1.13734829
+                    },
+                    "angularRootRotationOffsetAtHitGround": 0.0,
+                    "animationClip": {
+                      "animationLength": 2.0,
+                      "assetName": "Anim_CH_E_Horde_Ragdolls_Torso_03B",
+                      "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                      "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                      "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Torso_03B.AnimationClip",
+                      "isSubAsset": true
+                    },
+                    "animationTransitionDuration": 0.14,
+                    "id": 0,
+                    "name": "name",
+                    "category": ""
+                  },
+                  {
+                    "hitGroundEventTime": 0.7,
+                    "rootPositionOffsetAtHitGround": {
+                      "x": 1.03271246,
+                      "y": 0.0,
+                      "z": -1.13734829
+                    },
+                    "angularRootRotationOffsetAtHitGround": 0.0,
+                    "animationClip": {
+                      "animationLength": 2.0,
+                      "assetName": "Anim_CH_E_Horde_Ragdolls_Torso_03C",
+                      "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                      "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                      "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Torso_03C.AnimationClip",
+                      "isSubAsset": true
+                    },
+                    "animationTransitionDuration": 0.14,
+                    "id": 0,
+                    "name": "name",
+                    "category": ""
+                  }
+                ]
+              },
+              {
+                "hitAngle": 180,
+                "groundedAnimations": [
+                  {
+                    "hitGroundEventTime": 0.7,
+                    "rootPositionOffsetAtHitGround": {
+                      "x": 0.0,
+                      "y": 0.0,
+                      "z": -1.4
+                    },
+                    "angularRootRotationOffsetAtHitGround": 0.0,
+                    "animationClip": {
+                      "animationLength": 2.0,
+                      "assetName": "Anim_CH_E_Horde_Ragdolls_Torso_02B",
+                      "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                      "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                      "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Torso_02B.AnimationClip",
+                      "isSubAsset": true
+                    },
+                    "animationTransitionDuration": 0.14,
+                    "id": 0,
+                    "name": "name",
+                    "category": ""
+                  },
+                  {
+                    "hitGroundEventTime": 0.7,
+                    "rootPositionOffsetAtHitGround": {
+                      "x": 0.122724809,
+                      "y": 0.0,
+                      "z": -1.4
+                    },
+                    "angularRootRotationOffsetAtHitGround": 0.0,
+                    "animationClip": {
+                      "animationLength": 2.0,
+                      "assetName": "Anim_CH_E_Horde_Ragdolls_Torso_02C",
+                      "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                      "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                      "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Torso_02C.AnimationClip",
+                      "isSubAsset": true
+                    },
+                    "animationTransitionDuration": 0.14,
+                    "id": 0,
+                    "name": "name",
+                    "category": ""
+                  },
+                  {
+                    "hitGroundEventTime": 0.7,
+                    "rootPositionOffsetAtHitGround": {
+                      "x": 0.0,
+                      "y": 0.0,
+                      "z": 0.0
+                    },
+                    "angularRootRotationOffsetAtHitGround": 0.0,
+                    "animationClip": {
+                      "animationLength": 2.0,
+                      "assetName": "Anim_CH_E_Horde_Ragdolls_JumpFall_Bwd",
+                      "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+                      "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+                      "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_JumpFall_Bwd.AnimationClip",
+                      "isSubAsset": true
+                    },
+                    "animationTransitionDuration": 0.14,
+                    "id": 0,
+                    "name": "name",
+                    "category": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "supportsCrawlingDeathAnimations": true,
+    "crawlDeathAnimations": {
+      "animations": [
+        {
+          "hitGroundEventTime": 0.7,
+          "rootPositionOffsetAtHitGround": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "angularRootRotationOffsetAtHitGround": 0.0,
+          "animationClip": {
+            "animationLength": 2.0,
+            "assetName": "Anim_CH_E_Horde_Ragdolls_Crawling_01",
+            "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+            "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+            "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Crawling_01.AnimationClip",
+            "isSubAsset": true
+          },
+          "animationTransitionDuration": 0.14,
+          "id": 0,
+          "name": "",
+          "category": ""
+        },
+        {
+          "hitGroundEventTime": 0.7,
+          "rootPositionOffsetAtHitGround": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "angularRootRotationOffsetAtHitGround": 0.0,
+          "animationClip": {
+            "animationLength": 2.0,
+            "assetName": "Anim_CH_E_Horde_Ragdolls_Crawling_02",
+            "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+            "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+            "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Crawling_02.AnimationClip",
+            "isSubAsset": true
+          },
+          "animationTransitionDuration": 0.14,
+          "id": 0,
+          "name": "",
+          "category": ""
+        }
+      ]
+    },
+    "supportsJumpDeathAnimations": true,
+    "jumpDeathAnimations": {
+      "animations": [
+        {
+          "hitGroundEventTime": 0.7,
+          "rootPositionOffsetAtHitGround": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "angularRootRotationOffsetAtHitGround": 0.0,
+          "animationClip": {
+            "animationLength": 2.0,
+            "assetName": "Anim_CH_E_Horde_Ragdolls_Falling",
+            "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+            "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+            "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Falling.AnimationClip",
+            "isSubAsset": true
+          },
+          "animationTransitionDuration": 0.14,
+          "id": 0,
+          "name": "",
+          "category": ""
+        }
+      ]
+    },
+    "supportsFallDeathAnimations": true,
+    "fallDeathAnimations": {
+      "animations": [
+        {
+          "hitGroundEventTime": 0.6588235,
+          "rootPositionOffsetAtHitGround": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "angularRootRotationOffsetAtHitGround": 0.0,
+          "animationClip": {
+            "animationLength": 2.0,
+            "assetName": "Anim_CH_E_Horde_Death_Fall_From_Ceiling(InPlace)",
+            "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Deaths.fbx",
+            "assetGUID": "6b92e75bce1ed8e4eb77d1534b2bbc15",
+            "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Deaths:Anim_CH_E_Horde_Death_Fall_From_Ceiling(InPlace).AnimationClip",
+            "isSubAsset": true
+          },
+          "animationTransitionDuration": 0.14,
+          "id": 0,
+          "name": "",
+          "category": ""
+        }
+      ]
+    },
+    "id": 0,
+    "name": "Generic Humanoid Deaths",
+    "category": ""
+  },
+  {
+    "shouldRagdollOnDeath": false,
+    "supportsDeathAnimations": true,
+    "skipMatchToGroundPosition": false,
+    "animationTransitionDuration": 0.25,
+    "regularDeathAnimationSettings": {
+      "animations": [
+        {
+          "impactForce": 0,
+          "defaultSettingName": "Default",
+          "boneSettings": [
+            {
+              "name": "Default",
+              "boneIds": [
+                1,
+                2,
+                3,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+              ],
+              "angleSettings": [
+                {
+                  "hitAngle": 0,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 9.187499,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 10.0000076,
+                        "assetName": "Anim_CH_E_Jock_Death_A",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Jock_DeathStagger.fbx",
+                        "assetGUID": "ebc74b731f63c10458366fdb108d7a7c",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Jock_DeathStagger:Anim_CH_E_Jock_Death_A.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.25,
+                      "id": 0,
+                      "name": "",
+                      "category": ""
+                    },
+                    {
+                      "hitGroundEventTime": 5.39318132,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 6.66667175,
+                        "assetName": "Anim_CH_E_Jock_Death_B",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Jock_DeathStagger.fbx",
+                        "assetGUID": "ebc74b731f63c10458366fdb108d7a7c",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Jock_DeathStagger:Anim_CH_E_Jock_Death_B.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.25,
+                      "id": 0,
+                      "name": "",
+                      "category": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "defaultBoneSetting": {
+            "name": "Default",
+            "boneIds": [
+              1,
+              2,
+              3,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17
+            ],
+            "angleSettings": [
+              {
+                "hitAngle": 0,
+                "groundedAnimations": [
+                  {
+                    "hitGroundEventTime": 9.187499,
+                    "rootPositionOffsetAtHitGround": {
+                      "x": 0.0,
+                      "y": 0.0,
+                      "z": 0.0
+                    },
+                    "angularRootRotationOffsetAtHitGround": 0.0,
+                    "animationClip": {
+                      "animationLength": 10.0000076,
+                      "assetName": "Anim_CH_E_Jock_Death_A",
+                      "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Jock_DeathStagger.fbx",
+                      "assetGUID": "ebc74b731f63c10458366fdb108d7a7c",
+                      "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Jock_DeathStagger:Anim_CH_E_Jock_Death_A.AnimationClip",
+                      "isSubAsset": true
+                    },
+                    "animationTransitionDuration": 0.25,
+                    "id": 0,
+                    "name": "",
+                    "category": ""
+                  },
+                  {
+                    "hitGroundEventTime": 5.39318132,
+                    "rootPositionOffsetAtHitGround": {
+                      "x": 0.0,
+                      "y": 0.0,
+                      "z": 0.0
+                    },
+                    "angularRootRotationOffsetAtHitGround": 0.0,
+                    "animationClip": {
+                      "animationLength": 6.66667175,
+                      "assetName": "Anim_CH_E_Jock_Death_B",
+                      "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Jock_DeathStagger.fbx",
+                      "assetGUID": "ebc74b731f63c10458366fdb108d7a7c",
+                      "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Jock_DeathStagger:Anim_CH_E_Jock_Death_B.AnimationClip",
+                      "isSubAsset": true
+                    },
+                    "animationTransitionDuration": 0.25,
+                    "id": 0,
+                    "name": "",
+                    "category": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "supportsCrawlingDeathAnimations": false,
+    "crawlDeathAnimations": {
+      "animations": []
+    },
+    "supportsJumpDeathAnimations": false,
+    "jumpDeathAnimations": {
+      "animations": []
+    },
+    "supportsFallDeathAnimations": false,
+    "fallDeathAnimations": {
+      "animations": []
+    },
+    "id": 1,
+    "name": "Jock Deaths",
+    "category": ""
+  },
+  {
+    "shouldRagdollOnDeath": false,
+    "supportsDeathAnimations": true,
+    "skipMatchToGroundPosition": false,
+    "animationTransitionDuration": 0.25,
+    "regularDeathAnimationSettings": {
+      "animations": [
+        {
+          "impactForce": 0,
+          "defaultSettingName": "Default",
+          "boneSettings": [
+            {
+              "name": "Default",
+              "boneIds": [
+                1,
+                2,
+                3,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+              ],
+              "angleSettings": [
+                {
+                  "hitAngle": 0,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 4.733216,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 10.833334,
+                        "assetName": "Anim_CH_E_Smasher_Death_Fwd_A",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Death.fbx",
+                        "assetGUID": "542fb4cee4ccd07439001c27737c5d44",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Death:Anim_CH_E_Smasher_Death_Fwd_A.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.25,
+                      "id": 0,
+                      "name": "",
+                      "category": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "defaultBoneSetting": {
+            "name": "Default",
+            "boneIds": [
+              1,
+              2,
+              3,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17
+            ],
+            "angleSettings": [
+              {
+                "hitAngle": 0,
+                "groundedAnimations": [
+                  {
+                    "hitGroundEventTime": 4.733216,
+                    "rootPositionOffsetAtHitGround": {
+                      "x": 0.0,
+                      "y": 0.0,
+                      "z": 0.0
+                    },
+                    "angularRootRotationOffsetAtHitGround": 0.0,
+                    "animationClip": {
+                      "animationLength": 10.833334,
+                      "assetName": "Anim_CH_E_Smasher_Death_Fwd_A",
+                      "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Death.fbx",
+                      "assetGUID": "542fb4cee4ccd07439001c27737c5d44",
+                      "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Death:Anim_CH_E_Smasher_Death_Fwd_A.AnimationClip",
+                      "isSubAsset": true
+                    },
+                    "animationTransitionDuration": 0.25,
+                    "id": 0,
+                    "name": "",
+                    "category": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "supportsCrawlingDeathAnimations": false,
+    "crawlDeathAnimations": {
+      "animations": []
+    },
+    "supportsJumpDeathAnimations": false,
+    "jumpDeathAnimations": {
+      "animations": []
+    },
+    "supportsFallDeathAnimations": false,
+    "fallDeathAnimations": {
+      "animations": []
+    },
+    "id": 2,
+    "name": "Smasher Deaths",
+    "category": ""
+  },
+  {
+    "shouldRagdollOnDeath": false,
+    "supportsDeathAnimations": false,
+    "skipMatchToGroundPosition": false,
+    "animationTransitionDuration": 0.25,
+    "regularDeathAnimationSettings": {
+      "animations": []
+    },
+    "supportsCrawlingDeathAnimations": false,
+    "crawlDeathAnimations": {
+      "animations": []
+    },
+    "supportsJumpDeathAnimations": false,
+    "jumpDeathAnimations": {
+      "animations": []
+    },
+    "supportsFallDeathAnimations": false,
+    "fallDeathAnimations": {
+      "animations": []
+    },
+    "id": 3,
+    "name": "Gib Death [Disabled]",
+    "category": ""
+  },
+  {
+    "shouldRagdollOnDeath": false,
+    "supportsDeathAnimations": true,
+    "skipMatchToGroundPosition": false,
+    "animationTransitionDuration": 0.25,
+    "regularDeathAnimationSettings": {
+      "animations": [
+        {
+          "impactForce": 0,
+          "defaultSettingName": "Default",
+          "boneSettings": [
+            {
+              "name": "Default",
+              "boneIds": [
+                1,
+                2,
+                3,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+              ],
+              "angleSettings": [
+                {
+                  "hitAngle": 0,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 3.97031236,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 4.0,
+                        "assetName": "Anim_CH_E_Eater_Death_Explode",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_Death.fbx",
+                        "assetGUID": "f5bee02e2950dbc4d8e9b88874d88580",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_Death:Anim_CH_E_Eater_Death_Explode.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.25,
+                      "id": 0,
+                      "name": "",
+                      "category": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "defaultBoneSetting": {
+            "name": "Default",
+            "boneIds": [
+              1,
+              2,
+              3,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17
+            ],
+            "angleSettings": [
+              {
+                "hitAngle": 0,
+                "groundedAnimations": [
+                  {
+                    "hitGroundEventTime": 3.97031236,
+                    "rootPositionOffsetAtHitGround": {
+                      "x": 0.0,
+                      "y": 0.0,
+                      "z": 0.0
+                    },
+                    "angularRootRotationOffsetAtHitGround": 0.0,
+                    "animationClip": {
+                      "animationLength": 4.0,
+                      "assetName": "Anim_CH_E_Eater_Death_Explode",
+                      "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_Death.fbx",
+                      "assetGUID": "f5bee02e2950dbc4d8e9b88874d88580",
+                      "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_Death:Anim_CH_E_Eater_Death_Explode.AnimationClip",
+                      "isSubAsset": true
+                    },
+                    "animationTransitionDuration": 0.25,
+                    "id": 0,
+                    "name": "",
+                    "category": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "supportsCrawlingDeathAnimations": false,
+    "crawlDeathAnimations": {
+      "animations": []
+    },
+    "supportsJumpDeathAnimations": false,
+    "jumpDeathAnimations": {
+      "animations": []
+    },
+    "supportsFallDeathAnimations": false,
+    "fallDeathAnimations": {
+      "animations": []
+    },
+    "id": 4,
+    "name": "Eater Selfdestruct Death",
+    "category": ""
+  },
+  {
+    "shouldRagdollOnDeath": true,
+    "supportsDeathAnimations": false,
+    "skipMatchToGroundPosition": false,
+    "animationTransitionDuration": 0.25,
+    "regularDeathAnimationSettings": {
+      "animations": [
+        {
+          "impactForce": 0,
+          "defaultSettingName": "Default",
+          "boneSettings": [
+            {
+              "name": "Default",
+              "boneIds": [
+                1,
+                2,
+                3,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+              ],
+              "angleSettings": [
+                {
+                  "hitAngle": 0,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 3.97031236,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 4.0,
+                        "assetName": "Anim_CH_E_Eater_Death_Explode",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_Death.fbx",
+                        "assetGUID": "f5bee02e2950dbc4d8e9b88874d88580",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_Death:Anim_CH_E_Eater_Death_Explode.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.0,
+                      "id": 0,
+                      "name": "",
+                      "category": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "defaultBoneSetting": {
+            "name": "Default",
+            "boneIds": [
+              1,
+              2,
+              3,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17
+            ],
+            "angleSettings": [
+              {
+                "hitAngle": 0,
+                "groundedAnimations": [
+                  {
+                    "hitGroundEventTime": 3.97031236,
+                    "rootPositionOffsetAtHitGround": {
+                      "x": 0.0,
+                      "y": 0.0,
+                      "z": 0.0
+                    },
+                    "angularRootRotationOffsetAtHitGround": 0.0,
+                    "animationClip": {
+                      "animationLength": 4.0,
+                      "assetName": "Anim_CH_E_Eater_Death_Explode",
+                      "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_Death.fbx",
+                      "assetGUID": "f5bee02e2950dbc4d8e9b88874d88580",
+                      "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_Death:Anim_CH_E_Eater_Death_Explode.AnimationClip",
+                      "isSubAsset": true
+                    },
+                    "animationTransitionDuration": 0.0,
+                    "id": 0,
+                    "name": "",
+                    "category": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "supportsCrawlingDeathAnimations": false,
+    "crawlDeathAnimations": {
+      "animations": []
+    },
+    "supportsJumpDeathAnimations": false,
+    "jumpDeathAnimations": {
+      "animations": []
+    },
+    "supportsFallDeathAnimations": false,
+    "fallDeathAnimations": {
+      "animations": []
+    },
+    "id": 5,
+    "name": "Crawler Selfdestruct Death",
+    "category": ""
+  },
+  {
+    "shouldRagdollOnDeath": false,
+    "supportsDeathAnimations": true,
+    "skipMatchToGroundPosition": true,
+    "animationTransitionDuration": 0.25,
+    "regularDeathAnimationSettings": {
+      "animations": [
+        {
+          "impactForce": 0,
+          "defaultSettingName": "Default",
+          "boneSettings": [
+            {
+              "name": "Default",
+              "boneIds": [
+                1,
+                2,
+                3,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+              ],
+              "angleSettings": [
+                {
+                  "hitAngle": 0,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 6.8,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.0,
+                        "y": -6.99193144,
+                        "z": 31.9219913
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 6.8,
+                        "assetName": "Anim_CH_E_Smasher_Death_Escape_Jump_01",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_CommsTower.fbx",
+                        "assetGUID": "769e71d39e972f54ea4a5dc85b062cfb",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_CommsTower:Anim_CH_E_Smasher_Death_Escape_Jump_01.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.25,
+                      "id": 0,
+                      "name": "",
+                      "category": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "defaultBoneSetting": {
+            "name": "Default",
+            "boneIds": [
+              1,
+              2,
+              3,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17
+            ],
+            "angleSettings": [
+              {
+                "hitAngle": 0,
+                "groundedAnimations": [
+                  {
+                    "hitGroundEventTime": 6.8,
+                    "rootPositionOffsetAtHitGround": {
+                      "x": 0.0,
+                      "y": -6.99193144,
+                      "z": 31.9219913
+                    },
+                    "angularRootRotationOffsetAtHitGround": 0.0,
+                    "animationClip": {
+                      "animationLength": 6.8,
+                      "assetName": "Anim_CH_E_Smasher_Death_Escape_Jump_01",
+                      "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_CommsTower.fbx",
+                      "assetGUID": "769e71d39e972f54ea4a5dc85b062cfb",
+                      "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_CommsTower:Anim_CH_E_Smasher_Death_Escape_Jump_01.AnimationClip",
+                      "isSubAsset": true
+                    },
+                    "animationTransitionDuration": 0.25,
+                    "id": 0,
+                    "name": "",
+                    "category": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "supportsCrawlingDeathAnimations": false,
+    "crawlDeathAnimations": {
+      "animations": []
+    },
+    "supportsJumpDeathAnimations": false,
+    "jumpDeathAnimations": {
+      "animations": []
+    },
+    "supportsFallDeathAnimations": false,
+    "fallDeathAnimations": {
+      "animations": []
+    },
+    "id": 6,
+    "name": "Smasher Death - Jump Away",
+    "category": ""
+  },
+  {
+    "shouldRagdollOnDeath": false,
+    "supportsDeathAnimations": true,
+    "skipMatchToGroundPosition": false,
+    "animationTransitionDuration": 0.25,
+    "regularDeathAnimationSettings": {
+      "animations": [
+        {
+          "impactForce": 0,
+          "defaultSettingName": "Default",
+          "boneSettings": [
+            {
+              "name": "Default",
+              "boneIds": [
+                1
+              ],
+              "angleSettings": [
+                {
+                  "hitAngle": 0,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 4.728836,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 10.833334,
+                        "assetName": "Anim_CH_E_Brute_Death",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Brute.fbx",
+                        "assetGUID": "6ffc2f896eeac0843ad6096de3e2936c",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Brute:Anim_CH_E_Brute_Death.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.25,
+                      "id": 0,
+                      "name": "",
+                      "category": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "defaultBoneSetting": {
+            "name": "Default",
+            "boneIds": [
+              1
+            ],
+            "angleSettings": [
+              {
+                "hitAngle": 0,
+                "groundedAnimations": [
+                  {
+                    "hitGroundEventTime": 4.728836,
+                    "rootPositionOffsetAtHitGround": {
+                      "x": 0.0,
+                      "y": 0.0,
+                      "z": 0.0
+                    },
+                    "angularRootRotationOffsetAtHitGround": 0.0,
+                    "animationClip": {
+                      "animationLength": 10.833334,
+                      "assetName": "Anim_CH_E_Brute_Death",
+                      "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Brute.fbx",
+                      "assetGUID": "6ffc2f896eeac0843ad6096de3e2936c",
+                      "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Brute:Anim_CH_E_Brute_Death.AnimationClip",
+                      "isSubAsset": true
+                    },
+                    "animationTransitionDuration": 0.25,
+                    "id": 0,
+                    "name": "",
+                    "category": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "supportsCrawlingDeathAnimations": false,
+    "crawlDeathAnimations": {
+      "animations": []
+    },
+    "supportsJumpDeathAnimations": false,
+    "jumpDeathAnimations": {
+      "animations": []
+    },
+    "supportsFallDeathAnimations": false,
+    "fallDeathAnimations": {
+      "animations": []
+    },
+    "id": 7,
+    "name": "Brute Deaths",
+    "category": ""
+  },
+  {
+    "shouldRagdollOnDeath": false,
+    "supportsDeathAnimations": true,
+    "skipMatchToGroundPosition": false,
+    "animationTransitionDuration": 0.25,
+    "regularDeathAnimationSettings": {
+      "animations": [
+        {
+          "impactForce": 0,
+          "defaultSettingName": "Default",
+          "boneSettings": [
+            {
+              "name": "Default",
+              "boneIds": [
+                1,
+                2,
+                3,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+              ],
+              "angleSettings": [
+                {
+                  "hitAngle": 0,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 0.543478251,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "angularRootRotationOffsetAtHitGround": 0.0,
+                      "animationClip": {
+                        "animationLength": 2.50000024,
+                        "assetName": "Anim_CH_E_LootGoblin_Death",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_LootGoblin.fbx",
+                        "assetGUID": "98171f3f74a5b3d41b992c2c6844a0fc",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_LootGoblin:Anim_CH_E_LootGoblin_Death.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.25,
+                      "id": 0,
+                      "name": "",
+                      "category": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "defaultBoneSetting": {
+            "name": "Default",
+            "boneIds": [
+              1,
+              2,
+              3,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17
+            ],
+            "angleSettings": [
+              {
+                "hitAngle": 0,
+                "groundedAnimations": [
+                  {
+                    "hitGroundEventTime": 0.543478251,
+                    "rootPositionOffsetAtHitGround": {
+                      "x": 0.0,
+                      "y": 0.0,
+                      "z": 0.0
+                    },
+                    "angularRootRotationOffsetAtHitGround": 0.0,
+                    "animationClip": {
+                      "animationLength": 2.50000024,
+                      "assetName": "Anim_CH_E_LootGoblin_Death",
+                      "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_LootGoblin.fbx",
+                      "assetGUID": "98171f3f74a5b3d41b992c2c6844a0fc",
+                      "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_LootGoblin:Anim_CH_E_LootGoblin_Death.AnimationClip",
+                      "isSubAsset": true
+                    },
+                    "animationTransitionDuration": 0.25,
+                    "id": 0,
+                    "name": "",
+                    "category": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "supportsCrawlingDeathAnimations": false,
+    "crawlDeathAnimations": {
+      "animations": []
+    },
+    "supportsJumpDeathAnimations": false,
+    "jumpDeathAnimations": {
+      "animations": []
+    },
+    "supportsFallDeathAnimations": false,
+    "fallDeathAnimations": {
+      "animations": []
+    },
+    "id": 8,
+    "name": "Loot Goblin Selfdestruct Death",
+    "category": ""
+  },
+  {
+    "shouldRagdollOnDeath": false,
+    "supportsDeathAnimations": true,
+    "skipMatchToGroundPosition": false,
+    "animationTransitionDuration": 0.25,
+    "regularDeathAnimationSettings": {
+      "animations": [
+        {
+          "impactForce": 0,
+          "defaultSettingName": "Default",
+          "boneSettings": [
+            {
+              "name": "Default",
+              "boneIds": [
+                1,
+                2,
+                3,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+              ],
+              "angleSettings": [
+                {
+                  "hitAngle": 0,
+                  "groundedAnimations": [
+                    {
+                      "hitGroundEventTime": 5.464365,
+                      "rootPositionOffsetAtHitGround": {
+                        "x": -0.0365596153,
+                        "y": -0.9279124,
+                        "z": 0.1980405
+                      },
+                      "angularRootRotationOffsetAtHitGround": -0.461980343,
+                      "animationClip": {
+                        "animationLength": 6.66667175,
+                        "assetName": "Anim_CH_E_Gunner_Death_C",
+                        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Gunner.fbx",
+                        "assetGUID": "d35f070f4d4f530469979f4ba6f37369",
+                        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Gunner:Anim_CH_E_Gunner_Death_C.AnimationClip",
+                        "isSubAsset": true
+                      },
+                      "animationTransitionDuration": 0.25,
+                      "id": 0,
+                      "name": "",
+                      "category": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "defaultBoneSetting": {
+            "name": "Default",
+            "boneIds": [
+              1,
+              2,
+              3,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17
+            ],
+            "angleSettings": [
+              {
+                "hitAngle": 0,
+                "groundedAnimations": [
+                  {
+                    "hitGroundEventTime": 5.464365,
+                    "rootPositionOffsetAtHitGround": {
+                      "x": -0.0365596153,
+                      "y": -0.9279124,
+                      "z": 0.1980405
+                    },
+                    "angularRootRotationOffsetAtHitGround": -0.461980343,
+                    "animationClip": {
+                      "animationLength": 6.66667175,
+                      "assetName": "Anim_CH_E_Gunner_Death_C",
+                      "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Gunner.fbx",
+                      "assetGUID": "d35f070f4d4f530469979f4ba6f37369",
+                      "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Gunner:Anim_CH_E_Gunner_Death_C.AnimationClip",
+                      "isSubAsset": true
+                    },
+                    "animationTransitionDuration": 0.25,
+                    "id": 0,
+                    "name": "",
+                    "category": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "supportsCrawlingDeathAnimations": false,
+    "crawlDeathAnimations": {
+      "animations": []
+    },
+    "supportsJumpDeathAnimations": false,
+    "jumpDeathAnimations": {
+      "animations": []
+    },
+    "supportsFallDeathAnimations": false,
+    "fallDeathAnimations": {
+      "animations": []
+    },
+    "id": 9,
+    "name": "Gunner Deaths",
+    "category": ""
+  }
+]
+}

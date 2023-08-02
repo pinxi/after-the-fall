@@ -1,0 +1,662 @@
+{
+  "TableId": 265,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "enabled": true,
+    "localizationKey": "GUN_M9",
+    "iconSprite": {
+      "assetName": "icon_pistol",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Crafting/icon_pistol.png",
+      "assetGUID": "8a06a477a8224cf48b56ae500215d563",
+      "resourcePath": "Crafting/icon_pistol",
+      "isSubAsset": false
+    },
+    "ammoResourceId": 15,
+    "harvestCost": 0,
+    "frameGunID": 2,
+    "frameGunWeaponParts": [
+      0,
+      11,
+      14,
+      26,
+      75
+    ],
+    "frameRequiredPartsToFunction": [
+      0,
+      2
+    ],
+    "meshFbxReferenceStandalone": {
+      "assetName": "View",
+      "assetPath": "Assets/Art/Weapons/Pistols/Castle M9/FBX/Castle_M9.fbx",
+      "assetGUID": "55b3abfa6863ddc4cbc1ee0ba518b3f1",
+      "resourcePath": "Assets/Art/Weapons/Pistols/Castle M9/FBX/Castle_M9:View.GameObject",
+      "isSubAsset": true
+    },
+    "meshFbxReferencePS4": {
+      "assetName": "View_PS4",
+      "assetPath": "Assets/Art/Weapons/Pistols/Castle M9/FBX/Castle_M9_PS4.fbx",
+      "assetGUID": "10c643f2a186f8544b4aedeb1d8c1e77",
+      "resourcePath": "Assets/Art/Weapons/Pistols/Castle M9/FBX/Castle_M9_PS4:View_PS4.GameObject",
+      "isSubAsset": true
+    },
+    "meshFbxReferenceMobile": {
+      "assetName": "View_Mobile",
+      "assetPath": "Assets/Art/Weapons/Pistols/Castle M9/FBX/Castle_M9_Mobile.fbx",
+      "assetGUID": "8752eb786502fd94cbd82cb60e2dde9d",
+      "resourcePath": "Assets/Art/Weapons/Pistols/Castle M9/FBX/Castle_M9_Mobile:View_Mobile.GameObject",
+      "isSubAsset": true
+    },
+    "material": {
+      "assetName": "Mat_Castle_M9_Skin_01_Starter",
+      "assetPath": "Assets/Art/Weapons/Pistols/Castle M9/Materials/VertigoResources/Mat_Castle_M9_Skin_01_Starter.mat",
+      "assetGUID": "30c250f18a0e0454ab92d171505c465f",
+      "resourcePath": "Mat_Castle_M9_Skin_01_Starter",
+      "isSubAsset": false
+    },
+    "isUnlockedByDefault": false,
+    "id": 0,
+    "name": "Service Pistol",
+    "category": ""
+  },
+  {
+    "enabled": true,
+    "localizationKey": "GUN_BROWNSTONE_FALCON",
+    "iconSprite": {
+      "assetName": "icon_falcon",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Crafting/icon_falcon.png",
+      "assetGUID": "761833e989b02604894754c4efffe446",
+      "resourcePath": "Crafting/icon_falcon",
+      "isSubAsset": false
+    },
+    "ammoResourceId": 4,
+    "harvestCost": 3000,
+    "frameGunID": 1,
+    "frameGunWeaponParts": [
+      0,
+      11,
+      14,
+      26,
+      75
+    ],
+    "frameRequiredPartsToFunction": [
+      0,
+      2
+    ],
+    "meshFbxReferenceStandalone": {
+      "assetName": "View",
+      "assetPath": "Assets/Art/Weapons/Pistols/Brownstone_Falcon/FBX/BrownStone_Falcon.fbx",
+      "assetGUID": "2e1a167baefc6dd4a91cf5393c65af85",
+      "resourcePath": "Assets/Art/Weapons/Pistols/Brownstone_Falcon/FBX/BrownStone_Falcon:View.GameObject",
+      "isSubAsset": true
+    },
+    "meshFbxReferencePS4": {
+      "assetName": "View_PS4",
+      "assetPath": "Assets/Art/Weapons/Pistols/Brownstone_Falcon/FBX/BrownStone_Falcon_PS4.fbx",
+      "assetGUID": "b8d66be88db534c488cb71ffd297e0d5",
+      "resourcePath": "Assets/Art/Weapons/Pistols/Brownstone_Falcon/FBX/BrownStone_Falcon_PS4:View_PS4.GameObject",
+      "isSubAsset": true
+    },
+    "meshFbxReferenceMobile": {
+      "assetName": "View_Mobile",
+      "assetPath": "Assets/Art/Weapons/Pistols/Brownstone_Falcon/FBX/BrownStone_Falcon_Mobile.fbx",
+      "assetGUID": "8b3ce74466f28b94fb4bb3e2e35bdb1b",
+      "resourcePath": "Assets/Art/Weapons/Pistols/Brownstone_Falcon/FBX/BrownStone_Falcon_Mobile:View_Mobile.GameObject",
+      "isSubAsset": true
+    },
+    "material": {
+      "assetName": "Mat_BrownstoneFalcon_Skin_01_Starter",
+      "assetPath": "Assets/Art/Weapons/Pistols/Brownstone_Falcon/Materials/VertigoResources/Mat_BrownstoneFalcon_Skin_01_Starter.mat",
+      "assetGUID": "dfbf27d98ed030c4a877dbcf2a5e97b6",
+      "resourcePath": "Mat_BrownstoneFalcon_Skin_01_Starter",
+      "isSubAsset": false
+    },
+    "isUnlockedByDefault": false,
+    "id": 1,
+    "name": "Arizona Falcon",
+    "category": ""
+  },
+  {
+    "enabled": true,
+    "localizationKey": "GUN_BROWNSTONE_500",
+    "iconSprite": {
+      "assetName": "icon_shotgun",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Crafting/icon_shotgun.png",
+      "assetGUID": "548cdb16ce354034eb5b72a90fbe6ad8",
+      "resourcePath": "Crafting/icon_shotgun",
+      "isSubAsset": false
+    },
+    "ammoResourceId": 17,
+    "harvestCost": 12000,
+    "frameGunID": 15,
+    "frameGunWeaponParts": [
+      0,
+      11,
+      33,
+      14,
+      26,
+      75
+    ],
+    "frameRequiredPartsToFunction": [
+      0,
+      2,
+      3
+    ],
+    "meshFbxReferenceStandalone": {
+      "assetName": "View",
+      "assetPath": "Assets/Art/Weapons/Shotguns/Brownstone 500 Welter/FBX/Brownstone_500_Welter.fbx",
+      "assetGUID": "fd6a3526e8adb1f4fb4c5f754f95a807",
+      "resourcePath": "Assets/Art/Weapons/Shotguns/Brownstone 500 Welter/FBX/Brownstone_500_Welter:View.GameObject",
+      "isSubAsset": true
+    },
+    "meshFbxReferencePS4": {
+      "assetName": "View_PS4",
+      "assetPath": "Assets/Art/Weapons/Shotguns/Brownstone 500 Welter/FBX/Brownstone_500_Welter_PS4.fbx",
+      "assetGUID": "f4f62ab5ad50fdc47a7ed31db86a28b1",
+      "resourcePath": "Assets/Art/Weapons/Shotguns/Brownstone 500 Welter/FBX/Brownstone_500_Welter_PS4:View_PS4.GameObject",
+      "isSubAsset": true
+    },
+    "meshFbxReferenceMobile": {
+      "assetName": "View_Mobile",
+      "assetPath": "Assets/Art/Weapons/Shotguns/Brownstone 500 Welter/FBX/Brownstone_500_Welter_Mobile.fbx",
+      "assetGUID": "e070b8bde4da0b54b9a35cdf85cb86f0",
+      "resourcePath": "Assets/Art/Weapons/Shotguns/Brownstone 500 Welter/FBX/Brownstone_500_Welter_Mobile:View_Mobile.GameObject",
+      "isSubAsset": true
+    },
+    "material": {
+      "assetName": "Mat_Brownstone_500_Welter_Skin_01_Starter",
+      "assetPath": "Assets/Art/Weapons/Shotguns/Brownstone 500 Welter/Materials/VertigoResources/Mat_Brownstone_500_Welter_Skin_01_Starter.mat",
+      "assetGUID": "cfbf9ef3258bf694d897862255b930a0",
+      "resourcePath": "Mat_Brownstone_500_Welter_Skin_01_Starter",
+      "isSubAsset": false
+    },
+    "isUnlockedByDefault": false,
+    "id": 2,
+    "name": "Pump Shotgun",
+    "category": ""
+  },
+  {
+    "enabled": true,
+    "localizationKey": "GUN_M11",
+    "iconSprite": {
+      "assetName": "icon_uzi",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Crafting/icon_uzi.png",
+      "assetGUID": "212c333c7e8de0b4aadfb7896af1f4c6",
+      "resourcePath": "Crafting/icon_uzi",
+      "isSubAsset": false
+    },
+    "ammoResourceId": 15,
+    "harvestCost": 4000,
+    "frameGunID": 4,
+    "frameGunWeaponParts": [
+      0,
+      11,
+      14,
+      75,
+      26
+    ],
+    "frameRequiredPartsToFunction": [
+      0,
+      2
+    ],
+    "meshFbxReferenceStandalone": {
+      "assetName": "View",
+      "assetPath": "Assets/Art/Weapons/SMGs/Castle M11/FBX/Castle_M11.fbx",
+      "assetGUID": "435de514a3212134b821c499d9270789",
+      "resourcePath": "Assets/Art/Weapons/SMGs/Castle M11/FBX/Castle_M11:View.GameObject",
+      "isSubAsset": true
+    },
+    "meshFbxReferencePS4": {
+      "assetName": "View_PS4",
+      "assetPath": "Assets/Art/Weapons/SMGs/Castle M11/FBX/Castle_M11_PS4.fbx",
+      "assetGUID": "a2ee4ca55425f2d4dbd58b8987bb6704",
+      "resourcePath": "Assets/Art/Weapons/SMGs/Castle M11/FBX/Castle_M11_PS4:View_PS4.GameObject",
+      "isSubAsset": true
+    },
+    "meshFbxReferenceMobile": {
+      "assetName": "View_Mobile",
+      "assetPath": "Assets/Art/Weapons/SMGs/Castle M11/FBX/Castle_M11_Mobile.fbx",
+      "assetGUID": "6282c11a92d7b01429a8abdb7fb7eb64",
+      "resourcePath": "Assets/Art/Weapons/SMGs/Castle M11/FBX/Castle_M11_Mobile:View_Mobile.GameObject",
+      "isSubAsset": true
+    },
+    "material": {
+      "assetName": "Mat_Castle_M11_Skin_01_Starter",
+      "assetPath": "Assets/Art/Weapons/SMGs/Castle M11/Materials/VertigoResources/Mat_Castle_M11_Skin_01_Starter.mat",
+      "assetGUID": "1a6ca192e4e56184dbd95e38c3223c9d",
+      "resourcePath": "Mat_Castle_M11_Skin_01_Starter",
+      "isSubAsset": false
+    },
+    "isUnlockedByDefault": false,
+    "id": 3,
+    "name": "SMG",
+    "category": ""
+  },
+  {
+    "enabled": true,
+    "localizationKey": "GUN_M4",
+    "iconSprite": {
+      "assetName": "icon_m4",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Crafting/icon_m4.png",
+      "assetGUID": "eff6547546b25b34b978eca52283f566",
+      "resourcePath": "Crafting/icon_m4",
+      "isSubAsset": false
+    },
+    "ammoResourceId": 19,
+    "harvestCost": 6500,
+    "frameGunID": 20,
+    "frameGunWeaponParts": [
+      0,
+      11,
+      33,
+      14,
+      29,
+      26,
+      75
+    ],
+    "frameRequiredPartsToFunction": [
+      0,
+      2,
+      3
+    ],
+    "meshFbxReferenceStandalone": {
+      "assetName": "View",
+      "assetPath": "Assets/Art/Weapons/Assault Rifles/Castle M4/FBX/Castle_M4.fbx",
+      "assetGUID": "77e08e3d89b81ce4284925f54f942777",
+      "resourcePath": "Assets/Art/Weapons/Assault Rifles/Castle M4/FBX/Castle_M4:View.GameObject",
+      "isSubAsset": true
+    },
+    "meshFbxReferencePS4": {
+      "assetName": "View_PS4",
+      "assetPath": "Assets/Art/Weapons/Assault Rifles/Castle M4/FBX/Castle_M4_PS4.fbx",
+      "assetGUID": "1449909ae6181ff488663b5724f5ad33",
+      "resourcePath": "Assets/Art/Weapons/Assault Rifles/Castle M4/FBX/Castle_M4_PS4:View_PS4.GameObject",
+      "isSubAsset": true
+    },
+    "meshFbxReferenceMobile": {
+      "assetName": "View_Mobile",
+      "assetPath": "Assets/Art/Weapons/Assault Rifles/Castle M4/FBX/Castle_M4_Mobile.fbx",
+      "assetGUID": "a34f9d6d20b64a143b2f158089ed475a",
+      "resourcePath": "Assets/Art/Weapons/Assault Rifles/Castle M4/FBX/Castle_M4_Mobile:View_Mobile.GameObject",
+      "isSubAsset": true
+    },
+    "material": {
+      "assetName": "Mat_Castle_M4_Skin_01_Starter",
+      "assetPath": "Assets/Art/Weapons/Assault Rifles/Castle M4/Materials/VertigoResources/Mat_Castle_M4_Skin_01_Starter.mat",
+      "assetGUID": "4e99bd7b2066b704e8287f0ffcc6cc28",
+      "resourcePath": "Mat_Castle_M4_Skin_01_Starter",
+      "isSubAsset": false
+    },
+    "isUnlockedByDefault": false,
+    "id": 4,
+    "name": "Assault Carbine",
+    "category": ""
+  },
+  {
+    "enabled": true,
+    "localizationKey": "GUN_MT47",
+    "iconSprite": {
+      "assetName": "icon_m47",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Crafting/icon_m47.png",
+      "assetGUID": "6ea62bf975e5cc8438f85b3d58e34a51",
+      "resourcePath": "Crafting/icon_m47",
+      "isSubAsset": false
+    },
+    "ammoResourceId": 19,
+    "harvestCost": 7000,
+    "frameGunID": 3,
+    "frameGunWeaponParts": [
+      0,
+      11,
+      33,
+      14,
+      29,
+      26,
+      75
+    ],
+    "frameRequiredPartsToFunction": [
+      0,
+      2,
+      3
+    ],
+    "meshFbxReferenceStandalone": {
+      "assetName": "View",
+      "assetPath": "Assets/Art/Weapons/Assault Rifles/MT47/FBX/MT47.fbx",
+      "assetGUID": "3d1f610947ad41c458f9f3bacb76442f",
+      "resourcePath": "Assets/Art/Weapons/Assault Rifles/MT47/FBX/MT47:View.GameObject",
+      "isSubAsset": true
+    },
+    "meshFbxReferencePS4": {
+      "assetName": "View_PS4",
+      "assetPath": "Assets/Art/Weapons/Assault Rifles/MT47/FBX/MT47_PS4.fbx",
+      "assetGUID": "35a9501bdcf3bae448b166372fa3b258",
+      "resourcePath": "Assets/Art/Weapons/Assault Rifles/MT47/FBX/MT47_PS4:View_PS4.GameObject",
+      "isSubAsset": true
+    },
+    "meshFbxReferenceMobile": {
+      "assetName": "View_Mobile",
+      "assetPath": "Assets/Art/Weapons/Assault Rifles/MT47/FBX/MT47_Mobile.fbx",
+      "assetGUID": "38fc8dab077d89c42bf7914e80684483",
+      "resourcePath": "Assets/Art/Weapons/Assault Rifles/MT47/FBX/MT47_Mobile:View_Mobile.GameObject",
+      "isSubAsset": true
+    },
+    "material": {
+      "assetName": "Mat_MT47_Skin_01_Starter",
+      "assetPath": "Assets/Art/Weapons/Assault Rifles/MT47/Materials/VertigoResources/Mat_MT47_Skin_01_Starter.mat",
+      "assetGUID": "3ef14d7e4632ec648802e4a1ed00d099",
+      "resourcePath": "Mat_MT47_Skin_01_Starter",
+      "isSubAsset": false
+    },
+    "isUnlockedByDefault": false,
+    "id": 5,
+    "name": "MT-47",
+    "category": ""
+  },
+  {
+    "enabled": true,
+    "localizationKey": "GUN_COBRA",
+    "iconSprite": {
+      "assetName": "icon_revolver",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Crafting/icon_revolver.png",
+      "assetGUID": "c0a3402e7dd2a6a4baa1024814f0f4b7",
+      "resourcePath": "Crafting/icon_revolver",
+      "isSubAsset": false
+    },
+    "ammoResourceId": 4,
+    "harvestCost": 4000,
+    "frameGunID": 25,
+    "frameGunWeaponParts": [
+      0,
+      11,
+      14,
+      26,
+      75
+    ],
+    "frameRequiredPartsToFunction": [
+      0,
+      2
+    ],
+    "meshFbxReferenceStandalone": {
+      "assetName": "View",
+      "assetPath": "Assets/Art/Weapons/Revolvers/BL Cobra/FBX/BL_Cobra.fbx",
+      "assetGUID": "630035f89583d4c4f97c294aa1cabd01",
+      "resourcePath": "Assets/Art/Weapons/Revolvers/BL Cobra/FBX/BL_Cobra:View.GameObject",
+      "isSubAsset": true
+    },
+    "meshFbxReferencePS4": {
+      "assetName": "View_PS4",
+      "assetPath": "Assets/Art/Weapons/Revolvers/BL Cobra/FBX/BL_Cobra_PS4.fbx",
+      "assetGUID": "0fca93b5fa008344aa577c415f2588f2",
+      "resourcePath": "Assets/Art/Weapons/Revolvers/BL Cobra/FBX/BL_Cobra_PS4:View_PS4.GameObject",
+      "isSubAsset": true
+    },
+    "meshFbxReferenceMobile": {
+      "assetName": "View_Mobile",
+      "assetPath": "Assets/Art/Weapons/Revolvers/BL Cobra/FBX/BL_Cobra_Mobile.fbx",
+      "assetGUID": "df84e9ee350d49a45b5d2954b18ae330",
+      "resourcePath": "Assets/Art/Weapons/Revolvers/BL Cobra/FBX/BL_Cobra_Mobile:View_Mobile.GameObject",
+      "isSubAsset": true
+    },
+    "material": {
+      "assetName": "Mat_BL_Cobra_Skin_01_Starter",
+      "assetPath": "Assets/Art/Weapons/Revolvers/BL Cobra/Materials/VertigoResources/Mat_BL_Cobra_Skin_01_Starter.mat",
+      "assetGUID": "3f451fffaa33e3a41a70111cdbb22dcb",
+      "resourcePath": "Mat_BL_Cobra_Skin_01_Starter",
+      "isSubAsset": false
+    },
+    "isUnlockedByDefault": false,
+    "id": 6,
+    "name": "Revolver",
+    "category": ""
+  },
+  {
+    "enabled": true,
+    "localizationKey": "GUN_LMG",
+    "iconSprite": {
+      "assetName": "icon_lmg",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Crafting/icon_lmg.png",
+      "assetGUID": "489b02e94ece5914b97981f13e3a4155",
+      "resourcePath": "Crafting/icon_lmg",
+      "isSubAsset": false
+    },
+    "ammoResourceId": 19,
+    "harvestCost": 10000,
+    "frameGunID": 52,
+    "frameGunWeaponParts": [
+      1,
+      11,
+      33,
+      14,
+      29,
+      26,
+      55,
+      75
+    ],
+    "frameRequiredPartsToFunction": [
+      0,
+      2,
+      3,
+      5
+    ],
+    "meshFbxReferenceStandalone": {
+      "assetName": "View",
+      "assetPath": "Assets/Art/Weapons/LMG/FBX/LMG.fbx",
+      "assetGUID": "a03921e7083544745b1acef7c570a5c5",
+      "resourcePath": "Assets/Art/Weapons/LMG/FBX/LMG:View.GameObject",
+      "isSubAsset": true
+    },
+    "meshFbxReferencePS4": {
+      "assetName": "View_PS4",
+      "assetPath": "Assets/Art/Weapons/LMG/FBX/LMG_PS4.fbx",
+      "assetGUID": "2f0e4f3fce4e08e4aae9efcb7034052f",
+      "resourcePath": "Assets/Art/Weapons/LMG/FBX/LMG_PS4:View_PS4.GameObject",
+      "isSubAsset": true
+    },
+    "meshFbxReferenceMobile": {
+      "assetName": "View_Mobile",
+      "assetPath": "Assets/Art/Weapons/LMG/FBX/LMG_Mobile.fbx",
+      "assetGUID": "561030b9786043b41a8d6c3e3740da14",
+      "resourcePath": "Assets/Art/Weapons/LMG/FBX/LMG_Mobile:View_Mobile.GameObject",
+      "isSubAsset": true
+    },
+    "material": {
+      "assetName": "Mat_LMG_01_Skin_Starter",
+      "assetPath": "Assets/Art/Weapons/LMG/Materials/VertigoResources/Mat_LMG_01_Skin_Starter.mat",
+      "assetGUID": "817eaf2764483a34d929c8b8e50bee87",
+      "resourcePath": "Mat_LMG_01_Skin_Starter",
+      "isSubAsset": false
+    },
+    "isUnlockedByDefault": false,
+    "id": 7,
+    "name": "LMG",
+    "category": ""
+  },
+  {
+    "enabled": true,
+    "localizationKey": "GUN_TOMMYGUN",
+    "iconSprite": {
+      "assetName": "icon_tommy",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Crafting/icon_tommy.png",
+      "assetGUID": "39981d1b69c652240b7a848af6765857",
+      "resourcePath": "Crafting/icon_tommy",
+      "isSubAsset": false
+    },
+    "ammoResourceId": 15,
+    "harvestCost": 5000,
+    "frameGunID": 53,
+    "frameGunWeaponParts": [
+      0,
+      11,
+      33,
+      14,
+      29,
+      26,
+      55,
+      75
+    ],
+    "frameRequiredPartsToFunction": [
+      0,
+      2,
+      3,
+      5
+    ],
+    "meshFbxReferenceStandalone": {
+      "assetName": "View",
+      "assetPath": "Assets/Art/Weapons/SMGs/Tommy/FBX/Tommy.fbx",
+      "assetGUID": "52ff27993fb9781429221ade95ea607f",
+      "resourcePath": "Assets/Art/Weapons/SMGs/Tommy/FBX/Tommy:View.GameObject",
+      "isSubAsset": true
+    },
+    "meshFbxReferencePS4": {
+      "assetName": "View_PS4",
+      "assetPath": "Assets/Art/Weapons/SMGs/Tommy/FBX/Tommy_PS4.fbx",
+      "assetGUID": "946837b6002584a4991067b19630b3e0",
+      "resourcePath": "Assets/Art/Weapons/SMGs/Tommy/FBX/Tommy_PS4:View_PS4.GameObject",
+      "isSubAsset": true
+    },
+    "meshFbxReferenceMobile": {
+      "assetName": "View_Mobile",
+      "assetPath": "Assets/Art/Weapons/SMGs/Tommy/FBX/Tommy_Mobile.fbx",
+      "assetGUID": "66b7c9651476ba041869381f27e30e6c",
+      "resourcePath": "Assets/Art/Weapons/SMGs/Tommy/FBX/Tommy_Mobile:View_Mobile.GameObject",
+      "isSubAsset": true
+    },
+    "material": {
+      "assetName": "Mat_Tommy_01_Skin_Starter",
+      "assetPath": "Assets/Art/Weapons/SMGs/Tommy/Materials/VertigoResources/Mat_Tommy_01_Skin_Starter.mat",
+      "assetGUID": "bd0871f2d6f3c17469fa2eb4a25489dc",
+      "resourcePath": "Mat_Tommy_01_Skin_Starter",
+      "isSubAsset": false
+    },
+    "isUnlockedByDefault": false,
+    "id": 8,
+    "name": "Tommy Gun",
+    "category": ""
+  },
+  {
+    "enabled": true,
+    "localizationKey": "GUN_AUTOSHOTGUN",
+    "iconSprite": {
+      "assetName": "icon_AutoShotgun",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Crafting/icon_AutoShotgun.png",
+      "assetGUID": "6af47a82ce24e8d4c877f8a030ba3701",
+      "resourcePath": "Crafting/icon_AutoShotgun",
+      "isSubAsset": false
+    },
+    "ammoResourceId": 17,
+    "harvestCost": 15000,
+    "frameGunID": 54,
+    "frameGunWeaponParts": [
+      0,
+      11,
+      33,
+      14,
+      26,
+      55,
+      29,
+      75
+    ],
+    "frameRequiredPartsToFunction": [
+      0,
+      2,
+      3,
+      5,
+      7
+    ],
+    "meshFbxReferenceStandalone": {
+      "assetName": "View",
+      "assetPath": "Assets/Art/Weapons/Shotguns/Auto Shotgun/FBX/AutoShotgun.fbx",
+      "assetGUID": "5b8b8ba46db099b409649237fac4fc79",
+      "resourcePath": "Assets/Art/Weapons/Shotguns/Auto Shotgun/FBX/AutoShotgun:View.GameObject",
+      "isSubAsset": true
+    },
+    "meshFbxReferencePS4": {
+      "assetName": "View_PS4",
+      "assetPath": "Assets/Art/Weapons/Shotguns/Auto Shotgun/FBX/AutoShotgun_PS4.fbx",
+      "assetGUID": "2381c6f5de7ffd94ba2cb365b14dd359",
+      "resourcePath": "Assets/Art/Weapons/Shotguns/Auto Shotgun/FBX/AutoShotgun_PS4:View_PS4.GameObject",
+      "isSubAsset": true
+    },
+    "meshFbxReferenceMobile": {
+      "assetName": "View_Mobile",
+      "assetPath": "Assets/Art/Weapons/Shotguns/Auto Shotgun/FBX/AutoShotgun_Mobile.fbx",
+      "assetGUID": "d0a672263fa0d184c9d1ca142a2d738e",
+      "resourcePath": "Assets/Art/Weapons/Shotguns/Auto Shotgun/FBX/AutoShotgun_Mobile:View_Mobile.GameObject",
+      "isSubAsset": true
+    },
+    "material": {
+      "assetName": "Mat_AutoShotgun_01_Skin_Starter",
+      "assetPath": "Assets/Art/Weapons/Shotguns/Auto Shotgun/Materials/VertigoResources/Mat_AutoShotgun_01_Skin_Starter.mat",
+      "assetGUID": "2c684316ef40dbc46ba669c49c61342e",
+      "resourcePath": "Mat_AutoShotgun_01_Skin_Starter",
+      "isSubAsset": false
+    },
+    "isUnlockedByDefault": false,
+    "id": 9,
+    "name": "Auto-Shotgun",
+    "category": ""
+  },
+  {
+    "enabled": false,
+    "localizationKey": "",
+    "iconSprite": {
+      "assetName": "icon_LeverAction",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Crafting/icon_LeverAction.png",
+      "assetGUID": "1ce493286b3623e48a22f37465e8e4ca",
+      "resourcePath": "Crafting/icon_LeverAction",
+      "isSubAsset": false
+    },
+    "ammoResourceId": 19,
+    "harvestCost": 4500,
+    "frameGunID": 55,
+    "frameGunWeaponParts": [
+      0,
+      26,
+      55,
+      33,
+      11,
+      14,
+      29
+    ],
+    "frameRequiredPartsToFunction": [
+      0,
+      5,
+      3,
+      2,
+      7
+    ],
+    "meshFbxReferenceStandalone": {
+      "assetName": "View",
+      "assetPath": "Assets/Art/Weapons/Rifles/Lever Action Rifle/FBX/LeverActionRifle.fbx",
+      "assetGUID": "d543742030c17c549873b088963e16bf",
+      "resourcePath": "Assets/Art/Weapons/Rifles/Lever Action Rifle/FBX/LeverActionRifle:View.GameObject",
+      "isSubAsset": true
+    },
+    "meshFbxReferencePS4": {
+      "assetName": "View_PS4",
+      "assetPath": "Assets/Art/Weapons/Rifles/Lever Action Rifle/FBX/LeverActionRifle_PS4.fbx",
+      "assetGUID": "83736923087376c489c5d8a073b6e8b8",
+      "resourcePath": "Assets/Art/Weapons/Rifles/Lever Action Rifle/FBX/LeverActionRifle_PS4:View_PS4.GameObject",
+      "isSubAsset": true
+    },
+    "meshFbxReferenceMobile": {
+      "assetName": "View_Mobile",
+      "assetPath": "Assets/Art/Weapons/Rifles/Lever Action Rifle/FBX/LeverActionRifle_Mobile.fbx",
+      "assetGUID": "9578d0b38ebf91149a6dfda98f1b1d41",
+      "resourcePath": "Assets/Art/Weapons/Rifles/Lever Action Rifle/FBX/LeverActionRifle_Mobile:View_Mobile.GameObject",
+      "isSubAsset": true
+    },
+    "material": {
+      "assetName": "Mat_LeverActionRifle_01_Skin_Starter",
+      "assetPath": "Assets/Art/Weapons/Rifles/Lever Action Rifle/Materials/VertigoResources/Mat_LeverActionRifle_01_Skin_Starter.mat",
+      "assetGUID": "6da87b10e0c38e04e86eef15275ef38c",
+      "resourcePath": "Mat_LeverActionRifle_01_Skin_Starter",
+      "isSubAsset": false
+    },
+    "isUnlockedByDefault": false,
+    "id": 10,
+    "name": "Lever Action Rifle",
+    "category": ""
+  }
+]
+}

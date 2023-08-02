@@ -1,0 +1,635 @@
+{
+  "TableId": 263,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "shouldPlayFaceAnimation": true,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 3.5,
+      "assetName": "Luna_Idle_GenBrief_406-2_002_F",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Luna_Idle_GenBrief_406-2_002_F.fbx",
+      "assetGUID": "9fd683aeae18d9443b920b5cf0e24587",
+      "resourcePath": "Luna_Idle_GenBrief_406-2_002_F:Luna_Idle_GenBrief_406-2_002_F.AnimationClip",
+      "isSubAsset": true
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "406_GenBrief",
+    "id": 0,
+    "name": "406 Luna Generic Briefing",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": true,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 5.0,
+      "assetName": "Luna_Idle_GenDebrief_407-1_002_F",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Luna_Idle_GenDebrief_407-1_002_F.fbx",
+      "assetGUID": "582aee63afdc91c4196a88b107199c46",
+      "resourcePath": "Luna_Idle_GenDebrief_407-1_002_F:Luna_Idle_GenDebrief_407-1_002_F.AnimationClip",
+      "isSubAsset": true
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "407_GenDebrief",
+    "id": 1,
+    "name": "407 Luna Generic Debrief",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": true,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 4.5,
+      "assetName": "Luna_GenReward_434-1_002_F",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Luna_GenReward_434-1_002_F.fbx",
+      "assetGUID": "b1af93dbf08c7a342a84848dec2fcdc4",
+      "resourcePath": "Luna_GenReward_434-1_002_F:Luna_GenReward_434-1_002_F.AnimationClip",
+      "isSubAsset": true
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "434_Reward",
+    "id": 2,
+    "name": "434 Luna Generic Reward",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": true,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 14.4833345,
+      "assetName": "Anim_NPC_Luna_Briefing_Skidrow_409",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Luna_Briefing_Skidrow_409.fbx",
+      "assetGUID": "1e8090a548198754fb27d0dee8cdce8d",
+      "resourcePath": "Luna_Briefing_Skidrow_409:Anim_NPC_Luna_Briefing_Skidrow_409.AnimationClip",
+      "isSubAsset": true
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "409 Skidrow Briefing",
+    "id": 3,
+    "name": "409 Luna Skidrow Briefing",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": true,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 14.500001,
+      "assetName": "Luna_DebriefSkidrow_408_005_F",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Luna_DebriefSkidrow_408_005_F.fbx",
+      "assetGUID": "b64364d348ad1f640b6816ddd63fffd7",
+      "resourcePath": "Luna_DebriefSkidrow_408_005_F:Luna_DebriefSkidrow_408_005_F.AnimationClip",
+      "isSubAsset": true
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "408 Luna Skidrow Debriefing",
+    "id": 4,
+    "name": "408 Luna Skidrow Debriefing",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": true,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 9.0,
+      "assetName": "Luna_BriefDowntown_410_006_F",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Luna_BriefDowntown_410_006_F.fbx",
+      "assetGUID": "091068b764d513846beb4977cc136f9b",
+      "resourcePath": "Luna_BriefDowntown_410_006_F:Luna_BriefDowntown_410_006_F.AnimationClip",
+      "isSubAsset": true
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "410 Luna Downtown Briefing",
+    "id": 5,
+    "name": "410 Luna Downtown Briefing",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": true,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 17.0,
+      "assetName": "Luna_DebriefDowntown_411_005_F",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Luna_DebriefDowntown_411_005_F.fbx",
+      "assetGUID": "f8013fd65323e1e4a904482ff46955b7",
+      "resourcePath": "Luna_DebriefDowntown_411_005_F:Luna_DebriefDowntown_411_005_F.AnimationClip",
+      "isSubAsset": true
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "411 Luna Downtown Debriefing",
+    "id": 6,
+    "name": "411 Luna Downtown Debriefing",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": true,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 12.000001,
+      "assetName": "Luna_BriefChinatown_412_006_F",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Luna_BriefChinatown_412_006_F.fbx",
+      "assetGUID": "3fd032a48acb52344a045c47a3bbf3f0",
+      "resourcePath": "Luna_BriefChinatown_412_006_F:Luna_BriefChinatown_412_006_F.AnimationClip",
+      "isSubAsset": true
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "412 Luna Chinatown Briefing",
+    "id": 7,
+    "name": "412 Luna Chinatown Briefing",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": false,
+    "differentAnimationRaisesDialogue": true,
+    "faceAnimationOverride": {
+      "animationLength": 17.0,
+      "assetName": "Luna_DebriefChinatown_413_004_F",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Luna_DebriefChinatown_413_004_F.fbx",
+      "assetGUID": "4563cae960a4264429ff8d9c9573902b",
+      "resourcePath": "Luna_DebriefChinatown_413_004_F:Luna_DebriefChinatown_413_004_F.AnimationClip",
+      "isSubAsset": true
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "413 Luna Chinatown Debriefing",
+    "id": 8,
+    "name": "413 Luna Chinatown Debriefing",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": true,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 17.5,
+      "assetName": "Luna_BriefUnionTower_414_006_F",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Luna_BriefUnionTower_414_006_F.fbx",
+      "assetGUID": "204f53dfca164e3479debbaddeeac7eb",
+      "resourcePath": "Luna_BriefUnionTower_414_006_F:Luna_BriefUnionTower_414_006_F.AnimationClip",
+      "isSubAsset": true
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "414 Luna UnionTower Briefing",
+    "id": 9,
+    "name": "414 Luna UnionTower Briefing",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": true,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 12.500001,
+      "assetName": "Luna_DebriefUnionTower_415_005_F",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Luna_DebriefUnionTower_415_005_F.fbx",
+      "assetGUID": "3ce47f05880fa1540b40aecc41aa1275",
+      "resourcePath": "Luna_DebriefUnionTower_415_005_F:Luna_DebriefUnionTower_415_005_F.AnimationClip",
+      "isSubAsset": true
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "415 Luna UnionTower Debriefing",
+    "id": 10,
+    "name": "415 Luna UnionTower Debriefing",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": false,
+    "differentAnimationRaisesDialogue": true,
+    "faceAnimationOverride": {
+      "animationLength": 0.0,
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "402 Luna Hub Intro",
+    "id": 11,
+    "name": "402 Luna Hub Intro",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": false,
+    "differentAnimationRaisesDialogue": true,
+    "faceAnimationOverride": {
+      "animationLength": 0.0,
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "416 Luna EndTower Briefing (Earthquake)",
+    "id": 12,
+    "name": "416 Luna EndTower Briefing (Earthquake)",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": false,
+    "differentAnimationRaisesDialogue": true,
+    "faceAnimationOverride": {
+      "animationLength": 0.0,
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "418 Luna EndTower Debriefing",
+    "id": 13,
+    "name": "418 Luna EndTower Debriefing",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": true,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 2.0,
+      "assetName": "Luna_Idle_GenGreeting_447-1_002_F",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Luna_Idle_GenGreeting_447-1_002_F.fbx",
+      "assetGUID": "a466b5b59b0f47a47ba0f06df6eb24ef",
+      "resourcePath": "Luna_Idle_GenGreeting_447-1_002_F:Luna_Idle_GenGreeting_447-1_002_F.AnimationClip",
+      "isSubAsset": true
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "OnLunaWelcome",
+    "id": 14,
+    "name": "447 Luna Welcome",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": true,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 2.30000019,
+      "assetName": "Anim_NPC_Luna_GenericGoodbye_457_1",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Luna_GenericGoodbye_457.fbx",
+      "assetGUID": "132bb411a215d0c4c868da0a4cb4850f",
+      "resourcePath": "Luna_GenericGoodbye_457:Anim_NPC_Luna_GenericGoodbye_457_1.AnimationClip",
+      "isSubAsset": true
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "OnLunaGoodbye",
+    "id": 15,
+    "name": "457 Luna Goodbye",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": true,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 4.5,
+      "assetName": "Frank_Idle_Chair_Greeting_435-2_002_F",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Frank_Idle_Chair_Greeting_435-2_002_F.fbx",
+      "assetGUID": "bf7dc0066ccec594db27fb66fc02ffbe",
+      "resourcePath": "Frank_Idle_Chair_Greeting_435-2_002_F:Frank_Idle_Chair_Greeting_435-2_002_F.AnimationClip",
+      "isSubAsset": true
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "OnFrankWelcome",
+    "id": 16,
+    "name": "435 Frank Welcome",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": true,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 0.0,
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "OnFrankGoodbye",
+    "id": 17,
+    "name": "458 Frank Goodbye",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": false,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 0.0,
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "401 Hub Arrival",
+    "id": 18,
+    "name": "401 Frank Hub Arrival",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": true,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 4.9666667,
+      "assetName": "Luna_Reminder_Crafting_499_1_4_F",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Luna_Reminder_Crafting_499_1_4_F.fbx",
+      "assetGUID": "c3f757ecd4e6aef45a49dc2ab6ebce72",
+      "resourcePath": "Luna_Reminder_Crafting_499_1_4_F:Luna_Reminder_Crafting_499_1_4_F.AnimationClip",
+      "isSubAsset": true
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "499_1 Luna Reminder Crafting",
+    "id": 19,
+    "name": "499_1 Luna Reminder Crafting",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": true,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 5.966667,
+      "assetName": "Luna_Reminder_Crafting_499_2_5_F",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Luna_Reminder_Crafting_499_2_5_F.fbx",
+      "assetGUID": "69329dd55f433b447b1f1c37bd124f4d",
+      "resourcePath": "Luna_Reminder_Crafting_499_2_5_F:Luna_Reminder_Crafting_499_2_5_F.AnimationClip",
+      "isSubAsset": true
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "499_2 Luna Reminder Crafting",
+    "id": 20,
+    "name": "499_2 Luna Reminder Crafting",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": true,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 8.966667,
+      "assetName": "Luna_Reminder_TundraDome_499_3_7_F",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Luna_Reminder_TundraDome_499_3_7_F.fbx",
+      "assetGUID": "09558627893515f42938e888be6a23f6",
+      "resourcePath": "Luna_Reminder_TundraDome_499_3_7_F:Luna_Reminder_TundraDome_499_3_7_F.AnimationClip",
+      "isSubAsset": true
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "499_3 Luna Reminder TundraDome",
+    "id": 21,
+    "name": "499_3 Luna Reminder TundraDome",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": true,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 6.000004,
+      "assetName": "Luna_Reminder_TundraDome_499_4_4_F",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Luna_Reminder_TundraDome_499_4_4_F.fbx",
+      "assetGUID": "eaf9982bc5db5df4a9b3aa5ffdd3863d",
+      "resourcePath": "Luna_Reminder_TundraDome_499_4_4_F:Luna_Reminder_TundraDome_499_4_4_F.AnimationClip",
+      "isSubAsset": true
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "499_4 Luna Reminder TundraDome",
+    "id": 22,
+    "name": "499_4 Luna Reminder TundraDome",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": true,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 5.966667,
+      "assetName": "Luna_Reminder_HordeMode_499_5_4_F",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Luna_Reminder_HordeMode_499_5_4_F.fbx",
+      "assetGUID": "298c8fe5c12040e45a3accea907d5da3",
+      "resourcePath": "Luna_Reminder_HordeMode_499_5_4_F:Luna_Reminder_HordeMode_499_5_4_F.AnimationClip",
+      "isSubAsset": true
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "499_5 Luna Reminder HordeMode",
+    "id": 23,
+    "name": "499_5 Luna Reminder HordeMode",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": true,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 5.966669,
+      "assetName": "Luna_Reminder_HordeMode_499_6_5_F",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Luna_Reminder_HordeMode_499_6_5_F.fbx",
+      "assetGUID": "13010cca08c61544db5a72f9e3515d8d",
+      "resourcePath": "Luna_Reminder_HordeMode_499_6_5_F:Luna_Reminder_HordeMode_499_6_5_F.AnimationClip",
+      "isSubAsset": true
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "499_6 Luna Reminder HordeMode",
+    "id": 24,
+    "name": "499_6 Luna Reminder HordeMode",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": true,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 8.966667,
+      "assetName": "Luna_Reminder_GameModes_499_7_8_F",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Luna_Reminder_GameModes_499_7_8_F.fbx",
+      "assetGUID": "8d028376af280c5428a6d37fd6956040",
+      "resourcePath": "Luna_Reminder_GameModes_499_7_8_F:Luna_Reminder_GameModes_499_7_8_F.AnimationClip",
+      "isSubAsset": true
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "499_7 Luna Reminder GameModes",
+    "id": 25,
+    "name": "499_7 Luna Reminder GameModes",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": true,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 6.98333359,
+      "assetName": "Luna_Reminder_Skidrow_457_6",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Luna_Reminder_Skidrow_457_6_F.fbx",
+      "assetGUID": "31e3e70f810b2c64aa3019cb7a563ecc",
+      "resourcePath": "Luna_Reminder_Skidrow_457_6_F:Luna_Reminder_Skidrow_457_6.AnimationClip",
+      "isSubAsset": true
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "457_6 Luna Skid Row mission reminder",
+    "id": 26,
+    "name": "457_6 Luna Reminder Skid Row mission",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": true,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 5.98333359,
+      "assetName": "Luna_Reminder_Skidrow_457_7",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Luna_Reminder_Skidrow_457_7_F.fbx",
+      "assetGUID": "df32f5f543d426b4eaef9e88179f8743",
+      "resourcePath": "Luna_Reminder_Skidrow_457_7_F:Luna_Reminder_Skidrow_457_7.AnimationClip",
+      "isSubAsset": true
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "457_7 Luna Skid Row mission reminder",
+    "id": 27,
+    "name": "457_7 Luna Reminder Skid Row mission",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": true,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 4.98333359,
+      "assetName": "Luna_Reminder_Chinatown_457_8",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Luna_Reminder_Chinatown_457_8_F.fbx",
+      "assetGUID": "53adcfd1a4d18fd4ab89a1b7e88afebf",
+      "resourcePath": "Luna_Reminder_Chinatown_457_8_F:Luna_Reminder_Chinatown_457_8.AnimationClip",
+      "isSubAsset": true
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "457_8 Luna Chinatown mission reminder",
+    "id": 28,
+    "name": "457_8 Luna Reminder Chinatown mission",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": true,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 4.98333359,
+      "assetName": "Luna_Reminder_Chinatown_457_9",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Luna_Reminder_Chinatown_457_9_F.fbx",
+      "assetGUID": "46663ec8fb046e9468f4eb381cfb071e",
+      "resourcePath": "Luna_Reminder_Chinatown_457_9_F:Luna_Reminder_Chinatown_457_9.AnimationClip",
+      "isSubAsset": true
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "457_9 Luna Chinatown mission reminder",
+    "id": 29,
+    "name": "457_9 Luna Reminder Chinatown mission",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": true,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 7.98333549,
+      "assetName": "Luna_Reminder_Downtown_457_10",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Luna_Reminder_Downtown_457_10_F.fbx",
+      "assetGUID": "5b63b9c79de887647afd2c885cce61a1",
+      "resourcePath": "Luna_Reminder_Downtown_457_10_F:Luna_Reminder_Downtown_457_10.AnimationClip",
+      "isSubAsset": true
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "457_10 Luna Downtown mission reminder",
+    "id": 30,
+    "name": "457_10 Luna Reminder Downtown mission",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": true,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 5.98333359,
+      "assetName": "Luna_Reminder_Downtown_457_11",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Luna_Reminder_Downtown_457_11_F.fbx",
+      "assetGUID": "29beddf3c0ac1064bb7bce0ace9fea12",
+      "resourcePath": "Luna_Reminder_Downtown_457_11_F:Luna_Reminder_Downtown_457_11.AnimationClip",
+      "isSubAsset": true
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "457_11 Luna Downtown mission reminder",
+    "id": 31,
+    "name": "457_11 Luna Reminder Downtown mission",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": true,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 5.9833374,
+      "assetName": "Luna_Reminder_UnionTower_457_12",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Luna_Reminder_UnionTower_457_12_F.fbx",
+      "assetGUID": "996cd4f0f99c26a4baf5fbafc5f10502",
+      "resourcePath": "Luna_Reminder_UnionTower_457_12_F:Luna_Reminder_UnionTower_457_12.AnimationClip",
+      "isSubAsset": true
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "457_12 Luna Union Tower mission reminder",
+    "id": 32,
+    "name": "457_12 Luna Reminder Union Tower mission",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": true,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 6.9833374,
+      "assetName": "Luna_Reminder_UnionTower_457_13",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Luna_Reminder_UnionTower_457_13_F.fbx",
+      "assetGUID": "a7285551941e1584fb877bbd05e9d252",
+      "resourcePath": "Luna_Reminder_UnionTower_457_13_F:Luna_Reminder_UnionTower_457_13.AnimationClip",
+      "isSubAsset": true
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "457_13 Luna Union Tower mission reminder",
+    "id": 33,
+    "name": "457_13 Luna Reminder Union Tower mission",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": true,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 5.76667,
+      "assetName": "Luna_Reminder_CommsTower_457_14",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Luna_Reminder_CommsTower_457_14_F.fbx",
+      "assetGUID": "ffd4c12a15f59bd46870fbf84b9ecac1",
+      "resourcePath": "Luna_Reminder_CommsTower_457_14_F:Luna_Reminder_CommsTower_457_14.AnimationClip",
+      "isSubAsset": true
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "457_14 Luna RelayTower mission reminder",
+    "id": 34,
+    "name": "457_14 Luna Reminder Relay Tower mission",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": true,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 7.4833374,
+      "assetName": "Luna_Reminder_CommsTower_457_15",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Luna_Reminder_CommsTower_457_15_F.fbx",
+      "assetGUID": "f1d6a03c9afa3c24088ddedda467859f",
+      "resourcePath": "Luna_Reminder_CommsTower_457_15_F:Luna_Reminder_CommsTower_457_15.AnimationClip",
+      "isSubAsset": true
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "457_15 Luna RelayTower mission reminder",
+    "id": 35,
+    "name": "457_15 Luna Reminder Relay Tower mission",
+    "category": ""
+  },
+  {
+    "shouldPlayFaceAnimation": true,
+    "differentAnimationRaisesDialogue": false,
+    "faceAnimationOverride": {
+      "animationLength": 9.166668,
+      "assetName": "Luna_Reminder_Floppy_402_Alt",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Luna_Reminder_Floppy_402_Alt_F.fbx",
+      "assetGUID": "d5e879c2b2addb34489dd10735216a36",
+      "resourcePath": "Luna_Reminder_Floppy_402_Alt_F:Luna_Reminder_Floppy_402_Alt.AnimationClip",
+      "isSubAsset": true
+    },
+    "dispatchConversationEventOnAnimationEvent": true,
+    "conversationEventToDispatch": "402 Luna Reminder Floppy",
+    "id": 36,
+    "name": "402 Luna Reminder Floppy",
+    "category": ""
+  }
+]
+}

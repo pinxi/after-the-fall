@@ -1,0 +1,30 @@
+{
+  "TableId": 50008,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "movementAnimation": {
+      "animationLength": 2.13333344,
+      "assetName": "Anims_CH_Player_JumpDown_4M",
+      "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_JumpDown_4M.fbx",
+      "assetGUID": "e616b1bf679fae24a99b6b3f9f2a5128",
+      "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_JumpDown_4M:Anims_CH_Player_JumpDown_4M.AnimationClip",
+      "isSubAsset": true
+    },
+    "matchTargetData": [
+      {
+        "targetBodyPart": 0,
+        "positionWeight": 1.0,
+        "rotationWeight": 0.0,
+        "startNormalizedTime": 0.165,
+        "targetNormalizedTime": 0.44
+      }
+    ],
+    "startAnimationFraction": 0.05,
+    "completedAnimationFraction": 0.65,
+    "id": 0,
+    "name": "JumpDown 4M",
+    "category": ""
+  }
+]
+}

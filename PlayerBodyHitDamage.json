@@ -1,0 +1,258 @@
+{
+  "TableId": 159,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "isDefault": true,
+    "relatedBone": 0,
+    "bodyDamages": [
+      {
+        "supportedGameMode": 1,
+        "damageMultiplier": 1.0,
+        "flatAdditionalDamage": 0.0
+      }
+    ],
+    "id": 0,
+    "name": "Default",
+    "category": ""
+  },
+  {
+    "isDefault": false,
+    "relatedBone": 17,
+    "bodyDamages": [
+      {
+        "supportedGameMode": 1,
+        "damageMultiplier": 0.7,
+        "flatAdditionalDamage": 0.0
+      }
+    ],
+    "id": 1,
+    "name": "Left Hand",
+    "category": ""
+  },
+  {
+    "isDefault": false,
+    "relatedBone": 18,
+    "bodyDamages": [
+      {
+        "supportedGameMode": 1,
+        "damageMultiplier": 0.7,
+        "flatAdditionalDamage": 0.0
+      }
+    ],
+    "id": 2,
+    "name": "Right Hand",
+    "category": ""
+  },
+  {
+    "isDefault": false,
+    "relatedBone": 15,
+    "bodyDamages": [
+      {
+        "supportedGameMode": 1,
+        "damageMultiplier": 0.8,
+        "flatAdditionalDamage": 0.0
+      }
+    ],
+    "id": 3,
+    "name": "Left Lower Arm",
+    "category": ""
+  },
+  {
+    "isDefault": false,
+    "relatedBone": 16,
+    "bodyDamages": [
+      {
+        "supportedGameMode": 1,
+        "damageMultiplier": 0.8,
+        "flatAdditionalDamage": 0.0
+      }
+    ],
+    "id": 4,
+    "name": "Right Lower Arm",
+    "category": ""
+  },
+  {
+    "isDefault": false,
+    "relatedBone": 13,
+    "bodyDamages": [
+      {
+        "supportedGameMode": 1,
+        "damageMultiplier": 0.9,
+        "flatAdditionalDamage": 0.0
+      }
+    ],
+    "id": 5,
+    "name": "Left Upper Arm",
+    "category": ""
+  },
+  {
+    "isDefault": false,
+    "relatedBone": 14,
+    "bodyDamages": [
+      {
+        "supportedGameMode": 1,
+        "damageMultiplier": 0.9,
+        "flatAdditionalDamage": 0.0
+      }
+    ],
+    "id": 6,
+    "name": "Right Upper Arm",
+    "category": ""
+  },
+  {
+    "isDefault": false,
+    "relatedBone": 10,
+    "bodyDamages": [
+      {
+        "supportedGameMode": 1,
+        "damageMultiplier": 3.0,
+        "flatAdditionalDamage": 0.0
+      }
+    ],
+    "id": 7,
+    "name": "Head",
+    "category": ""
+  },
+  {
+    "isDefault": false,
+    "relatedBone": 0,
+    "bodyDamages": [
+      {
+        "supportedGameMode": 1,
+        "damageMultiplier": 1.0,
+        "flatAdditionalDamage": 0.0
+      }
+    ],
+    "id": 8,
+    "name": "Hips",
+    "category": ""
+  },
+  {
+    "isDefault": false,
+    "relatedBone": 7,
+    "bodyDamages": [
+      {
+        "supportedGameMode": 1,
+        "damageMultiplier": 1.0,
+        "flatAdditionalDamage": 0.0
+      }
+    ],
+    "id": 9,
+    "name": "Spine",
+    "category": ""
+  },
+  {
+    "isDefault": false,
+    "relatedBone": 8,
+    "bodyDamages": [
+      {
+        "supportedGameMode": 1,
+        "damageMultiplier": 1.0,
+        "flatAdditionalDamage": 0.0
+      }
+    ],
+    "id": 10,
+    "name": "Chest",
+    "category": ""
+  },
+  {
+    "isDefault": false,
+    "relatedBone": 54,
+    "bodyDamages": [
+      {
+        "supportedGameMode": 1,
+        "damageMultiplier": 1.0,
+        "flatAdditionalDamage": 0.0
+      }
+    ],
+    "id": 11,
+    "name": "UpperChest",
+    "category": ""
+  },
+  {
+    "isDefault": false,
+    "relatedBone": 1,
+    "bodyDamages": [
+      {
+        "supportedGameMode": 1,
+        "damageMultiplier": 0.9,
+        "flatAdditionalDamage": 0.0
+      }
+    ],
+    "id": 12,
+    "name": "Left Upper Leg",
+    "category": ""
+  },
+  {
+    "isDefault": false,
+    "relatedBone": 2,
+    "bodyDamages": [
+      {
+        "supportedGameMode": 1,
+        "damageMultiplier": 0.9,
+        "flatAdditionalDamage": 0.0
+      }
+    ],
+    "id": 13,
+    "name": "Right Upper Leg",
+    "category": ""
+  },
+  {
+    "isDefault": false,
+    "relatedBone": 3,
+    "bodyDamages": [
+      {
+        "supportedGameMode": 1,
+        "damageMultiplier": 0.8,
+        "flatAdditionalDamage": 0.0
+      }
+    ],
+    "id": 14,
+    "name": "Left Lower Leg",
+    "category": ""
+  },
+  {
+    "isDefault": false,
+    "relatedBone": 4,
+    "bodyDamages": [
+      {
+        "supportedGameMode": 1,
+        "damageMultiplier": 0.9,
+        "flatAdditionalDamage": 0.0
+      }
+    ],
+    "id": 15,
+    "name": "Right lower Leg",
+    "category": ""
+  },
+  {
+    "isDefault": false,
+    "relatedBone": 5,
+    "bodyDamages": [
+      {
+        "supportedGameMode": 1,
+        "damageMultiplier": 0.7,
+        "flatAdditionalDamage": 0.0
+      }
+    ],
+    "id": 16,
+    "name": "Left Foot",
+    "category": ""
+  },
+  {
+    "isDefault": false,
+    "relatedBone": 4,
+    "bodyDamages": [
+      {
+        "supportedGameMode": 1,
+        "damageMultiplier": 0.7,
+        "flatAdditionalDamage": 0.0
+      }
+    ],
+    "id": 17,
+    "name": "Right Foot",
+    "category": ""
+  }
+]
+}

@@ -1,0 +1,55 @@
+{
+  "TableId": 150,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "levelTypeSettings": [
+      {
+        "levelType": 0,
+        "pveLevelType": 0,
+        "pvpLevelType": 0,
+        "playerSettingsID": 0,
+        "platformSpecificActivityId": ""
+      },
+      {
+        "levelType": 1,
+        "pveLevelType": 0,
+        "pvpLevelType": 0,
+        "playerSettingsID": 2,
+        "platformSpecificActivityId": ""
+      },
+      {
+        "levelType": 2,
+        "pveLevelType": 0,
+        "pvpLevelType": 0,
+        "playerSettingsID": 0,
+        "platformSpecificActivityId": "DEST_HARVEST"
+      },
+      {
+        "levelType": 3,
+        "pveLevelType": 0,
+        "pvpLevelType": 0,
+        "playerSettingsID": 1,
+        "platformSpecificActivityId": "DEST_PVP_TDM"
+      },
+      {
+        "levelType": 3,
+        "pveLevelType": 1,
+        "pvpLevelType": 1,
+        "playerSettingsID": 3,
+        "platformSpecificActivityId": "DEST_PVP_FFA"
+      },
+      {
+        "levelType": 2,
+        "pveLevelType": 1,
+        "pvpLevelType": 1,
+        "playerSettingsID": 4,
+        "platformSpecificActivityId": ""
+      }
+    ],
+    "id": 0,
+    "name": "leveltypesettings",
+    "category": ""
+  }
+]
+}

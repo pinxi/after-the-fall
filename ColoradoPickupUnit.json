@@ -1,0 +1,81 @@
+{
+  "TableId": 103,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "item": 3,
+    "id": 0,
+    "name": "Rifle",
+    "category": "",
+    "ignoreProjectiles": true,
+    "prefab": {
+      "assetName": "CD_Pickup_Rifle",
+      "assetPath": "Assets/Prefabs/ArcadeGames/ColoradoDaylight/VertigoResources/CD_Pickup_Rifle.prefab",
+      "assetGUID": "8679d385447270141be1cccf6f881039",
+      "resourcePath": "CD_Pickup_Rifle",
+      "isSubAsset": false
+    },
+    "poolSize": 2
+  },
+  {
+    "item": 2,
+    "id": 1,
+    "name": "Assault Rifle",
+    "category": "",
+    "ignoreProjectiles": true,
+    "prefab": {
+      "assetName": "CD_Pickup_AssaultRifle",
+      "assetPath": "Assets/Prefabs/ArcadeGames/ColoradoDaylight/VertigoResources/CD_Pickup_AssaultRifle.prefab",
+      "assetGUID": "30fde22ddcf467040994966803a29c70",
+      "resourcePath": "CD_Pickup_AssaultRifle",
+      "isSubAsset": false
+    },
+    "poolSize": 1
+  },
+  {
+    "item": 4,
+    "id": 2,
+    "name": "Uzi",
+    "category": "",
+    "ignoreProjectiles": true,
+    "prefab": {
+      "assetName": "CD_Pickup_Uzi",
+      "assetPath": "Assets/Prefabs/ArcadeGames/ColoradoDaylight/VertigoResources/CD_Pickup_Uzi.prefab",
+      "assetGUID": "9b6704874aa3a22489bb8a592d31648c",
+      "resourcePath": "CD_Pickup_Uzi",
+      "isSubAsset": false
+    },
+    "poolSize": 1
+  },
+  {
+    "item": 5,
+    "id": 3,
+    "name": "Shotgun",
+    "category": "",
+    "ignoreProjectiles": true,
+    "prefab": {
+      "assetName": "CD_Pickup_Shotgun",
+      "assetPath": "Assets/Prefabs/ArcadeGames/ColoradoDaylight/VertigoResources/CD_Pickup_Shotgun.prefab",
+      "assetGUID": "1ea82deef47979944aefa78d330a4dd9",
+      "resourcePath": "CD_Pickup_Shotgun",
+      "isSubAsset": false
+    },
+    "poolSize": 1
+  },
+  {
+    "item": 6,
+    "id": 4,
+    "name": "Launcher",
+    "category": "",
+    "ignoreProjectiles": true,
+    "prefab": {
+      "assetName": "CD_Pickup_Launcher",
+      "assetPath": "Assets/Prefabs/ArcadeGames/ColoradoDaylight/VertigoResources/CD_Pickup_Launcher.prefab",
+      "assetGUID": "3ddcc176721f34543b1491299f8b2f32",
+      "resourcePath": "CD_Pickup_Launcher",
+      "isSubAsset": false
+    },
+    "poolSize": 1
+  }
+]
+}

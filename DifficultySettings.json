@@ -1,0 +1,186 @@
+{
+  "TableId": 252,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "ZombieCountMultiplier": 1.0,
+    "MaxAmmoMultiplier": 1.0,
+    "HarvestMultiplier": 1.0,
+    "HarvestCostMultiplier": 0.4,
+    "floppyDiskWeightSettings": [
+      {
+        "weight": 0,
+        "type": 0
+      },
+      {
+        "weight": 90,
+        "type": 1
+      },
+      {
+        "weight": 10,
+        "type": 2
+      },
+      {
+        "weight": 0,
+        "type": 3
+      },
+      {
+        "weight": 0,
+        "type": 4
+      }
+    ],
+    "floppyDiskSpawnAmount": 2,
+    "difficultyRewardSettings": {
+      "floppyDiskItemId": 1,
+      "bonusHarvest": 0
+    },
+    "id": 0,
+    "name": "Survivor",
+    "category": ""
+  },
+  {
+    "ZombieCountMultiplier": 1.05,
+    "MaxAmmoMultiplier": 1.0,
+    "HarvestMultiplier": 1.5,
+    "HarvestCostMultiplier": 0.6,
+    "floppyDiskWeightSettings": [
+      {
+        "weight": 0,
+        "type": 0
+      },
+      {
+        "weight": 135,
+        "type": 1
+      },
+      {
+        "weight": 45,
+        "type": 2
+      },
+      {
+        "weight": 20,
+        "type": 3
+      },
+      {
+        "weight": 0,
+        "type": 4
+      }
+    ],
+    "floppyDiskSpawnAmount": 2,
+    "difficultyRewardSettings": {
+      "floppyDiskItemId": 2,
+      "bonusHarvest": 0
+    },
+    "id": 1,
+    "name": "Veteran",
+    "category": ""
+  },
+  {
+    "ZombieCountMultiplier": 1.2,
+    "MaxAmmoMultiplier": 1.0,
+    "HarvestMultiplier": 2.0,
+    "HarvestCostMultiplier": 1.0,
+    "floppyDiskWeightSettings": [
+      {
+        "weight": 0,
+        "type": 0
+      },
+      {
+        "weight": 0,
+        "type": 1
+      },
+      {
+        "weight": 150,
+        "type": 2
+      },
+      {
+        "weight": 35,
+        "type": 3
+      },
+      {
+        "weight": 15,
+        "type": 4
+      }
+    ],
+    "floppyDiskSpawnAmount": 2,
+    "difficultyRewardSettings": {
+      "floppyDiskItemId": 3,
+      "bonusHarvest": 0
+    },
+    "id": 2,
+    "name": "Master",
+    "category": ""
+  },
+  {
+    "ZombieCountMultiplier": 1.35,
+    "MaxAmmoMultiplier": 1.0,
+    "HarvestMultiplier": 3.0,
+    "HarvestCostMultiplier": 1.6,
+    "floppyDiskWeightSettings": [
+      {
+        "weight": 0,
+        "type": 0
+      },
+      {
+        "weight": 0,
+        "type": 1
+      },
+      {
+        "weight": 0,
+        "type": 2
+      },
+      {
+        "weight": 80,
+        "type": 3
+      },
+      {
+        "weight": 20,
+        "type": 4
+      }
+    ],
+    "floppyDiskSpawnAmount": 2,
+    "difficultyRewardSettings": {
+      "floppyDiskItemId": 4,
+      "bonusHarvest": 0
+    },
+    "id": 3,
+    "name": "Nightmare",
+    "category": ""
+  },
+  {
+    "ZombieCountMultiplier": 1.7,
+    "MaxAmmoMultiplier": 2.0,
+    "HarvestMultiplier": 4.0,
+    "HarvestCostMultiplier": 2.0,
+    "floppyDiskWeightSettings": [
+      {
+        "weight": 0,
+        "type": 0
+      },
+      {
+        "weight": 0,
+        "type": 1
+      },
+      {
+        "weight": 0,
+        "type": 2
+      },
+      {
+        "weight": 0,
+        "type": 3
+      },
+      {
+        "weight": 100,
+        "type": 4
+      }
+    ],
+    "floppyDiskSpawnAmount": 4,
+    "difficultyRewardSettings": {
+      "floppyDiskItemId": 4,
+      "bonusHarvest": 0
+    },
+    "id": 4,
+    "name": "Horror",
+    "category": ""
+  }
+]
+}

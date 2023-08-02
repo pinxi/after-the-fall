@@ -1,0 +1,48 @@
+{
+  "TableId": 254,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "npcId": 0,
+    "numberOfIdleAnimationsForState": 3,
+    "id": 0,
+    "name": "Luna default idle state",
+    "category": ""
+  },
+  {
+    "npcId": 1,
+    "numberOfIdleAnimationsForState": 1,
+    "id": 1,
+    "name": "Frank default idle state",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "numberOfIdleAnimationsForState": 1,
+    "id": 2,
+    "name": "402 Luna Hub Intro",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "numberOfIdleAnimationsForState": 1,
+    "id": 3,
+    "name": "Luna 418 Endtower debriefing  idle set",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "numberOfIdleAnimationsForState": 1,
+    "id": 4,
+    "name": "Luna 413 Chinatown Debriefing Idle Set",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "numberOfIdleAnimationsForState": 1,
+    "id": 5,
+    "name": "Luna 416 Endtower briefing idle set",
+    "category": ""
+  }
+]
+}

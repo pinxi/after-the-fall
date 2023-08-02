@@ -1,0 +1,23 @@
+{
+  "TableId": 186,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "idleAnimationSet": 0,
+    "idleWalkAnimations": 0,
+    "deathAnimations": [
+      {
+        "animationLength": 2.66666675,
+        "assetName": "Anim_CH_E_Horde_Ragdolls_Falling",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Falling.AnimationClip",
+        "isSubAsset": true
+      }
+    ],
+    "id": 0,
+    "name": "Common",
+    "category": ""
+  }
+]
+}

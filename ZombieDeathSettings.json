@@ -1,0 +1,46 @@
+{
+  "TableId": 192,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "bloodPoolMinSize": 1.5,
+    "bloodPoolMaxSize": 2.0,
+    "bloodPoolMinSpawnDuration": 5.0,
+    "bloodPoolMaxSpawnDuration": 7.5,
+    "kinematicAfterRagdollSleep": false,
+    "id": 0,
+    "name": "Generic Death",
+    "category": ""
+  },
+  {
+    "bloodPoolMinSize": 5.5,
+    "bloodPoolMaxSize": 6.5,
+    "bloodPoolMinSpawnDuration": 4.0,
+    "bloodPoolMaxSpawnDuration": 5.0,
+    "kinematicAfterRagdollSleep": true,
+    "id": 1,
+    "name": "Smasher Death",
+    "category": ""
+  },
+  {
+    "bloodPoolMinSize": 1.5,
+    "bloodPoolMaxSize": 2.0,
+    "bloodPoolMinSpawnDuration": 5.0,
+    "bloodPoolMaxSpawnDuration": 7.5,
+    "kinematicAfterRagdollSleep": true,
+    "id": 2,
+    "name": "Crawler Death",
+    "category": ""
+  },
+  {
+    "bloodPoolMinSize": 1.5,
+    "bloodPoolMaxSize": 2.0,
+    "bloodPoolMinSpawnDuration": 5.0,
+    "bloodPoolMaxSpawnDuration": 7.5,
+    "kinematicAfterRagdollSleep": false,
+    "id": 3,
+    "name": "Eater Death",
+    "category": ""
+  }
+]
+}

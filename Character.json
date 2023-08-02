@@ -1,0 +1,212 @@
+{
+  "TableId": 96,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "localizationKey": "CHARACTER_MALIA",
+    "talkativeness": 0.3,
+    "icon": {
+      "assetName": "Charactor_Icons_F02",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Characters/Charactor_Icons_F02.png",
+      "assetGUID": "5c8b622fd45b924478737e4dc80e3f21",
+      "resourcePath": "Characters/Charactor_Icons_F02:Charactor_Icons_F02.Sprite",
+      "isSubAsset": true
+    },
+    "id": 0,
+    "name": "Malia",
+    "category": ""
+  },
+  {
+    "localizationKey": "CHARACTER_MICHAEL",
+    "talkativeness": 0.1,
+    "icon": {
+      "assetName": "Charactor_Icons_Trevor",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Characters/Charactor_Icons_Trevor.png",
+      "assetGUID": "124718bbd124b204785fa148a44f2447",
+      "resourcePath": "Characters/Charactor_Icons_Trevor:Charactor_Icons_Trevor.Sprite",
+      "isSubAsset": true
+    },
+    "id": 1,
+    "name": "Michael",
+    "category": ""
+  },
+  {
+    "localizationKey": "CHARACTER_JEN",
+    "talkativeness": 0.3,
+    "icon": {
+      "assetName": "Charactor_Icons_Jen",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Characters/Charactor_Icons_Jen.png",
+      "assetGUID": "6b8f602d81a3f9a448852f2fd7710f7a",
+      "resourcePath": "Characters/Charactor_Icons_Jen:Charactor_Icons_Jen.Sprite",
+      "isSubAsset": true
+    },
+    "id": 2,
+    "name": "Jen",
+    "category": ""
+  },
+  {
+    "localizationKey": "CHARACTER_JIMMY",
+    "talkativeness": 0.3,
+    "icon": {
+      "assetName": "Charactor_Icons_Jimmy",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Characters/Charactor_Icons_Jimmy.png",
+      "assetGUID": "5074e7b847f26fd43827da1cf091981f",
+      "resourcePath": "Characters/Charactor_Icons_Jimmy:Charactor_Icons_Jimmy.Sprite",
+      "isSubAsset": true
+    },
+    "id": 3,
+    "name": "Jimmy",
+    "category": ""
+  },
+  {
+    "localizationKey": "CHARACTER_FRANK",
+    "talkativeness": 0.5,
+    "icon": {
+      "assetName": "Charactor_Icons_Frank",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Characters/Charactor_Icons_Frank.png",
+      "assetGUID": "c268ea5c0bfc9624e81fabb67d1f708a",
+      "resourcePath": "Characters/Charactor_Icons_Frank:Charactor_Icons_Frank.Sprite",
+      "isSubAsset": true
+    },
+    "id": 4,
+    "name": "Frank",
+    "category": ""
+  },
+  {
+    "localizationKey": "CHARACTER_LUNA",
+    "talkativeness": 0.5,
+    "icon": {
+      "assetName": "Charactor_Icons_Luna",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Characters/Charactor_Icons_Luna.png",
+      "assetGUID": "5e00c4e0413091340a79731299817ecb",
+      "resourcePath": "Characters/Charactor_Icons_Luna:Charactor_Icons_Luna.Sprite",
+      "isSubAsset": true
+    },
+    "id": 5,
+    "name": "Luna",
+    "category": ""
+  },
+  {
+    "localizationKey": "CHARACTER_PA",
+    "talkativeness": 0.5,
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "id": 6,
+    "name": "PA System",
+    "category": ""
+  },
+  {
+    "localizationKey": "CHARACTER_NM1",
+    "talkativeness": 0.5,
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "id": 7,
+    "name": "NM1 NPC Male 1",
+    "category": ""
+  },
+  {
+    "localizationKey": "CHARACTER_NM2",
+    "talkativeness": 0.5,
+    "icon": null,
+    "id": 8,
+    "name": "NM2 NPC Male 2",
+    "category": ""
+  },
+  {
+    "localizationKey": "CHARACTER_NF1",
+    "talkativeness": 0.5,
+    "icon": null,
+    "id": 9,
+    "name": "NF1 NPC Female 1",
+    "category": ""
+  },
+  {
+    "localizationKey": "CHARACTER_NF2",
+    "talkativeness": 0.5,
+    "icon": null,
+    "id": 10,
+    "name": "NF2 NPC Female 2",
+    "category": ""
+  },
+  {
+    "localizationKey": "CHARACTER_JOHNNY",
+    "talkativeness": 0.5,
+    "icon": {
+      "assetName": "Charactor_Icons_Pinata",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Characters/Charactor_Icons_Pinata.png",
+      "assetGUID": "f3c57b7fc579c0d449c2fcfcfecfa7af",
+      "resourcePath": "Characters/Charactor_Icons_Pinata:Charactor_Icons_Pinata.Sprite",
+      "isSubAsset": true
+    },
+    "id": 11,
+    "name": "Johnny",
+    "category": ""
+  },
+  {
+    "localizationKey": "CHARACTER_INTERCOM",
+    "talkativeness": 1.0,
+    "icon": {
+      "assetName": "icon_party",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/icon_party.png",
+      "assetGUID": "3e91deeee2ee9794784d9a16be9f9c62",
+      "resourcePath": "Assets/Art_Code/UI/Textures/Icons/icon_party:icon_party.Sprite",
+      "isSubAsset": true
+    },
+    "id": 12,
+    "name": "Intercom",
+    "category": ""
+  },
+  {
+    "localizationKey": "CHARACTER_PVP",
+    "talkativeness": 0.5,
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "id": 13,
+    "name": "PVP Announcer",
+    "category": ""
+  },
+  {
+    "localizationKey": "CHARACTER_HARRY",
+    "talkativeness": 0.5,
+    "icon": {
+      "assetName": "Charactor_Icons_Harry",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Characters/Charactor_Icons_Harry.png",
+      "assetGUID": "a8b854b9bf647854b97a7bf67afe5cb8",
+      "resourcePath": "Characters/Charactor_Icons_Harry:Charactor_Icons_Harry.Sprite",
+      "isSubAsset": true
+    },
+    "id": 14,
+    "name": "Harry",
+    "category": ""
+  },
+  {
+    "localizationKey": "CHARACTER_VOM",
+    "talkativeness": 0.5,
+    "icon": {
+      "assetName": "Charactor_Icons_VHS",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Characters/Charactor_Icons_VHS.png",
+      "assetGUID": "8fe1f019bb7b0654cb05d726bc8dd994",
+      "resourcePath": "Characters/Charactor_Icons_VHS:Charactor_Icons_VHS.Sprite",
+      "isSubAsset": true
+    },
+    "id": 15,
+    "name": "VOM",
+    "category": ""
+  }
+]
+}

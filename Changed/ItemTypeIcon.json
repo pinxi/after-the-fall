@@ -1,0 +1,314 @@
+{
+  "TableId": 50006,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "itemType": 0,
+    "iconSpriteArrayIdx": 0,
+    "id": 0,
+    "name": "Nothing",
+    "category": ""
+  },
+  {
+    "itemType": 0,
+    "iconSpriteArrayIdx": 1,
+    "id": 1,
+    "name": "Pistol",
+    "category": ""
+  },
+  {
+    "itemType": 0,
+    "iconSpriteArrayIdx": 2,
+    "id": 2,
+    "name": "Deagle",
+    "category": ""
+  },
+  {
+    "itemType": 0,
+    "iconSpriteArrayIdx": 3,
+    "id": 3,
+    "name": "SMG",
+    "category": ""
+  },
+  {
+    "itemType": 0,
+    "iconSpriteArrayIdx": 4,
+    "id": 4,
+    "name": "Shotgun",
+    "category": ""
+  },
+  {
+    "itemType": 0,
+    "iconSpriteArrayIdx": 6,
+    "id": 5,
+    "name": "M4",
+    "category": ""
+  },
+  {
+    "itemType": 0,
+    "iconSpriteArrayIdx": 5,
+    "id": 6,
+    "name": "MT47",
+    "category": ""
+  },
+  {
+    "itemType": 2,
+    "iconSpriteArrayIdx": 0,
+    "id": 7,
+    "name": "No Ammo",
+    "category": ""
+  },
+  {
+    "itemType": 2,
+    "iconSpriteArrayIdx": 1,
+    "id": 8,
+    "name": "Pistol Ammo",
+    "category": ""
+  },
+  {
+    "itemType": 2,
+    "iconSpriteArrayIdx": 2,
+    "id": 9,
+    "name": "SMG Ammo",
+    "category": ""
+  },
+  {
+    "itemType": 2,
+    "iconSpriteArrayIdx": 3,
+    "id": 10,
+    "name": "Shotgun Ammo",
+    "category": ""
+  },
+  {
+    "itemType": 2,
+    "iconSpriteArrayIdx": 4,
+    "id": 11,
+    "name": "Rifle Ammo",
+    "category": ""
+  },
+  {
+    "itemType": 1,
+    "iconSpriteArrayIdx": 1,
+    "id": 12,
+    "name": "Booster Juice",
+    "category": ""
+  },
+  {
+    "itemType": 1,
+    "iconSpriteArrayIdx": 2,
+    "id": 13,
+    "name": "Grenade Pipebomb",
+    "category": ""
+  },
+  {
+    "itemType": 1,
+    "iconSpriteArrayIdx": 3,
+    "id": 14,
+    "name": "Floppy",
+    "category": ""
+  },
+  {
+    "itemType": 0,
+    "iconSpriteArrayIdx": 7,
+    "id": 15,
+    "name": "Revolver",
+    "category": ""
+  },
+  {
+    "itemType": 1,
+    "iconSpriteArrayIdx": 4,
+    "id": 16,
+    "name": "KeyCard",
+    "category": ""
+  },
+  {
+    "itemType": 0,
+    "iconSpriteArrayIdx": 8,
+    "id": 17,
+    "name": "LMG",
+    "category": ""
+  },
+  {
+    "itemType": 0,
+    "iconSpriteArrayIdx": 9,
+    "id": 18,
+    "name": "Tommy",
+    "category": ""
+  },
+  {
+    "itemType": 1,
+    "iconSpriteArrayIdx": 5,
+    "id": 19,
+    "name": "Booster Rage",
+    "category": ""
+  },
+  {
+    "itemType": 1,
+    "iconSpriteArrayIdx": 6,
+    "id": 20,
+    "name": "Grenade Warhead",
+    "category": ""
+  },
+  {
+    "itemType": 3,
+    "iconSpriteArrayIdx": 1,
+    "id": 21,
+    "name": "Execution",
+    "category": ""
+  },
+  {
+    "itemType": 3,
+    "iconSpriteArrayIdx": 0,
+    "id": 22,
+    "name": "Neutral Chipset",
+    "category": ""
+  },
+  {
+    "itemType": 3,
+    "iconSpriteArrayIdx": 2,
+    "id": 23,
+    "name": "Insta-Kill",
+    "category": ""
+  },
+  {
+    "itemType": 3,
+    "iconSpriteArrayIdx": 3,
+    "id": 24,
+    "name": "Semi-Auto",
+    "category": ""
+  },
+  {
+    "itemType": 3,
+    "iconSpriteArrayIdx": 4,
+    "id": 25,
+    "name": "Full-Auto",
+    "category": ""
+  },
+  {
+    "itemType": 3,
+    "iconSpriteArrayIdx": 5,
+    "id": 26,
+    "name": "Burst-Fire",
+    "category": ""
+  },
+  {
+    "itemType": 3,
+    "iconSpriteArrayIdx": 6,
+    "id": 27,
+    "name": "Charged-Up",
+    "category": ""
+  },
+  {
+    "itemType": 3,
+    "iconSpriteArrayIdx": 7,
+    "id": 28,
+    "name": "Frozen-Pool",
+    "category": ""
+  },
+  {
+    "itemType": 3,
+    "iconSpriteArrayIdx": 8,
+    "id": 29,
+    "name": "Mutilator",
+    "category": ""
+  },
+  {
+    "itemType": 3,
+    "iconSpriteArrayIdx": 9,
+    "id": 30,
+    "name": "Shatter",
+    "category": ""
+  },
+  {
+    "itemType": 3,
+    "iconSpriteArrayIdx": 10,
+    "id": 31,
+    "name": "Last-Stand",
+    "category": ""
+  },
+  {
+    "itemType": 3,
+    "iconSpriteArrayIdx": 11,
+    "id": 32,
+    "name": "Bloodfest",
+    "category": ""
+  },
+  {
+    "itemType": 3,
+    "iconSpriteArrayIdx": 12,
+    "id": 33,
+    "name": "Mag-Min",
+    "category": ""
+  },
+  {
+    "itemType": 3,
+    "iconSpriteArrayIdx": 13,
+    "id": 34,
+    "name": "Pouched",
+    "category": ""
+  },
+  {
+    "itemType": 3,
+    "iconSpriteArrayIdx": 14,
+    "id": 35,
+    "name": "Flat-Rate",
+    "category": ""
+  },
+  {
+    "itemType": 3,
+    "iconSpriteArrayIdx": 15,
+    "id": 36,
+    "name": "Flat-Recoil",
+    "category": ""
+  },
+  {
+    "itemType": 3,
+    "iconSpriteArrayIdx": 16,
+    "id": 37,
+    "name": "Flat-Damage",
+    "category": ""
+  },
+  {
+    "itemType": 3,
+    "iconSpriteArrayIdx": 17,
+    "id": 38,
+    "name": "Flat-Mag",
+    "category": ""
+  },
+  {
+    "itemType": 3,
+    "iconSpriteArrayIdx": 18,
+    "id": 39,
+    "name": "Flat-Crit",
+    "category": ""
+  },
+  {
+    "itemType": 3,
+    "iconSpriteArrayIdx": 19,
+    "id": 40,
+    "name": "Flat-Special",
+    "category": ""
+  },
+  {
+    "itemType": 0,
+    "iconSpriteArrayIdx": 10,
+    "id": 41,
+    "name": "Auto Shotgun",
+    "category": ""
+  },
+  {
+    "itemType": 0,
+    "iconSpriteArrayIdx": 11,
+    "id": 42,
+    "name": "Lever Action",
+    "category": ""
+  },
+  {
+    "itemType": 1,
+    "iconSpriteArrayIdx": 7,
+    "id": 43,
+    "name": "Generator FuelCell",
+    "category": ""
+  }
+]
+}

@@ -1,0 +1,96 @@
+{
+  "TableId": 98,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "zombieWalkSpeedIntroScreen": 2.0,
+    "zombieWalkSpeed": 2.5,
+    "pickupSpawnChance": 0.065,
+    "playerWalkSpeed": 7.0,
+    "playerWalkSpeedCurve": {
+      "keys": [
+        {
+          "time": 0.5,
+          "value": 0.0,
+          "inTangent": 2.0,
+          "outTangent": 2.0,
+          "inWeight": 0.0,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 2.0,
+          "outTangent": 2.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "joystickShootAxisThreshold": 0.75,
+    "bulletSpeed": 30.0,
+    "defaultGun": 1,
+    "defaultZombie": 0,
+    "playerInvulnerableBlinksPerSecond": 12,
+    "freezeUnitsOnHitTime": 0.5,
+    "invulnerableTime": 3.0,
+    "musicAudio": {
+      "eventPath": "event:/ATF_PC/Scripted/Arcade_arizona/Arcade_arizona_music",
+      "eventGuid": "58fbc65b-0a51-4951-bb0b-3f34baabf061",
+      "parameterSettings": []
+    },
+    "musicStartAudio": {
+      "eventPath": "event:/ATF_PC/Scripted/Arcade_arizona/Arcade_arizona_start",
+      "eventGuid": "23b99fd9-e882-4495-92c9-893a5cab4175",
+      "parameterSettings": []
+    },
+    "zombieHitAudio": {
+      "eventPath": "event:/ATF_PC/Scripted/Arcade_arizona/Arcade_arizona_kill",
+      "eventGuid": "d4d334f7-4489-411a-a76c-3c04a358e4cb",
+      "parameterSettings": []
+    },
+    "pickupAudio": {
+      "eventPath": "event:/ATF_PC/Scripted/Arcade_arizona/Arcade_arizona_pickup",
+      "eventGuid": "b288561a-9cf0-4ddf-bf62-5af9343325cc",
+      "parameterSettings": []
+    },
+    "id": 0,
+    "name": "Colorado Daylight",
+    "category": "",
+    "gameResolution": {
+      "x": 448,
+      "y": 640
+    },
+    "pixelsPerUnit": 10,
+    "pixelsPerUnitScale": 2,
+    "isCoinRequired": false,
+    "playSessionsPerCoin": 3,
+    "startState": 1,
+    "baseUnitTOType": {
+      "CurrentIndex": 0,
+      "DisplayName": "ColoradoDaylightUnitTO",
+      "AssemblyQualifiedName": "Vertigo.Snowbreed.Client.ColoradoDaylightUnitTO, Snowbreed.Client, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    },
+    "renderTextureData": {
+      "resolutionScale": 1.0,
+      "format": 0,
+      "filterMode": 2,
+      "antiAliasing": 1
+    },
+    "maxLeaderboardEntries": 128,
+    "playerScorePrefab": {
+      "assetName": "PlayerScoreView",
+      "assetPath": "Assets/Prefabs/ArcadeGames/ColoradoDaylight/VertigoResources/PlayerScoreView.prefab",
+      "assetGUID": "ce255ce8f5f10044ebafc545078b378b",
+      "resourcePath": "PlayerScoreView",
+      "isSubAsset": false
+    }
+  }
+]
+}

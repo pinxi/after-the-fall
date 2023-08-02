@@ -1,0 +1,14 @@
+{
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "DepthOffset": 0.5,
+    "HeightOffset": 0.25,
+    "SlotSpacing": 0.3,
+    "StoreTime": 3.0,
+    "id": 0,
+    "name": "name",
+    "category": ""
+  }
+]
+}

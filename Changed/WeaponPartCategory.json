@@ -1,0 +1,165 @@
+{
+  "TableId": 251,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "enabled": true,
+    "uiLocked": false,
+    "localizationKey": "PART_TYPE_BARREL",
+    "uiCategory": 0,
+    "incompatibleCategories": [],
+    "voLineOnPurchase": 541,
+    "fallbackDefaultPart": 0,
+    "overrideFallbackPartPerGunMeshData": [
+      {
+        "gunMeshDataId": 7,
+        "fallbackPartId": 1
+      }
+    ],
+    "id": 0,
+    "name": "Barrel",
+    "category": ""
+  },
+  {
+    "enabled": true,
+    "uiLocked": false,
+    "localizationKey": "PART_TYPE_SIGHT",
+    "uiCategory": 1,
+    "incompatibleCategories": [],
+    "voLineOnPurchase": 542,
+    "fallbackDefaultPart": 14,
+    "overrideFallbackPartPerGunMeshData": null,
+    "id": 1,
+    "name": "Sights",
+    "category": ""
+  },
+  {
+    "enabled": true,
+    "uiLocked": false,
+    "localizationKey": "PART_TYPE_MAG",
+    "uiCategory": 2,
+    "incompatibleCategories": [],
+    "voLineOnPurchase": 543,
+    "fallbackDefaultPart": 11,
+    "overrideFallbackPartPerGunMeshData": null,
+    "id": 2,
+    "name": "Magazine",
+    "category": ""
+  },
+  {
+    "enabled": true,
+    "uiLocked": false,
+    "localizationKey": "PART_TYPE_GRIP",
+    "uiCategory": 3,
+    "incompatibleCategories": [
+      10
+    ],
+    "voLineOnPurchase": 545,
+    "fallbackDefaultPart": 33,
+    "overrideFallbackPartPerGunMeshData": null,
+    "id": 3,
+    "name": "Grip",
+    "category": ""
+  },
+  {
+    "enabled": true,
+    "uiLocked": false,
+    "localizationKey": "MOD",
+    "uiCategory": 4,
+    "incompatibleCategories": [],
+    "voLineOnPurchase": 556,
+    "fallbackDefaultPart": 17,
+    "overrideFallbackPartPerGunMeshData": null,
+    "id": 4,
+    "name": "MOD",
+    "category": ""
+  },
+  {
+    "enabled": true,
+    "uiLocked": false,
+    "localizationKey": "PART_TYPE_FOREND",
+    "uiCategory": 5,
+    "incompatibleCategories": [],
+    "voLineOnPurchase": 544,
+    "fallbackDefaultPart": 23,
+    "overrideFallbackPartPerGunMeshData": [
+      {
+        "gunMeshDataId": 7,
+        "fallbackPartId": 55
+      },
+      {
+        "gunMeshDataId": 8,
+        "fallbackPartId": 55
+      },
+      {
+        "gunMeshDataId": 9,
+        "fallbackPartId": 55
+      },
+      {
+        "gunMeshDataId": 10,
+        "fallbackPartId": 55
+      }
+    ],
+    "id": 5,
+    "name": "Forend",
+    "category": ""
+  },
+  {
+    "enabled": true,
+    "uiLocked": false,
+    "localizationKey": "PART_TYPE_STOCK",
+    "uiCategory": 7,
+    "incompatibleCategories": [
+      10
+    ],
+    "voLineOnPurchase": 546,
+    "fallbackDefaultPart": 29,
+    "overrideFallbackPartPerGunMeshData": null,
+    "id": 7,
+    "name": "Stock",
+    "category": ""
+  },
+  {
+    "enabled": true,
+    "uiLocked": false,
+    "localizationKey": "GripAndStock",
+    "uiCategory": 7,
+    "incompatibleCategories": [
+      3,
+      7
+    ],
+    "voLineOnPurchase": 546,
+    "fallbackDefaultPart": 34,
+    "overrideFallbackPartPerGunMeshData": null,
+    "id": 10,
+    "name": "GripAndStock",
+    "category": ""
+  },
+  {
+    "enabled": true,
+    "uiLocked": false,
+    "localizationKey": "PART_TYPE_ACCESSOIRES",
+    "uiCategory": 11,
+    "incompatibleCategories": [],
+    "voLineOnPurchase": 193,
+    "fallbackDefaultPart": 26,
+    "overrideFallbackPartPerGunMeshData": null,
+    "id": 11,
+    "name": "Utility",
+    "category": ""
+  },
+  {
+    "enabled": true,
+    "uiLocked": false,
+    "localizationKey": "PART_TYPE_CHIPSET",
+    "uiCategory": 12,
+    "incompatibleCategories": [],
+    "voLineOnPurchase": 547,
+    "fallbackDefaultPart": 59,
+    "overrideFallbackPartPerGunMeshData": [],
+    "id": 12,
+    "name": "Chipset",
+    "category": ""
+  }
+]
+}

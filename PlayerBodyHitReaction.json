@@ -1,0 +1,290 @@
+{
+  "TableId": 160,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "repeatHitFadeoutDuration": 0.05,
+    "randomHeightWeightCurve": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 3.40849161,
+          "outTangent": 3.40849161,
+          "inWeight": 0.333333343,
+          "outWeight": 0.14315106,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.255945534,
+          "value": 0.5261101,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.669068933,
+          "value": 0.7359818,
+          "inTangent": 0.263950318,
+          "outTangent": 0.263950318,
+          "inWeight": 0.333333343,
+          "outWeight": 0.148408115,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 2.2679317,
+          "outTangent": 2.2679317,
+          "inWeight": 0.120871156,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "randomLeftRightWeightCurve": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 3.48101282,
+          "outTangent": 3.48101282,
+          "inWeight": 0.333333343,
+          "outWeight": 0.0236363634,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.5,
+          "value": 0.5,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 3.48101664,
+          "outTangent": 3.48101664,
+          "inWeight": 0.0272727013,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "headConfig": {
+      "duration": 1.0,
+      "headRotationForceDirectionCurveId": 0,
+      "headRotationForceDirectionAngle": 60.0,
+      "affectedAffectors": [
+        {
+          "effector": 1,
+          "forceDirectionCurveId": 1,
+          "forceDirectionWeight": 0.125
+        },
+        {
+          "effector": 2,
+          "forceDirectionCurveId": 1,
+          "forceDirectionWeight": 0.125
+        },
+        {
+          "effector": 5,
+          "forceDirectionCurveId": 1,
+          "forceDirectionWeight": 0.05
+        },
+        {
+          "effector": 6,
+          "forceDirectionCurveId": 1,
+          "forceDirectionWeight": 0.05
+        }
+      ]
+    },
+    "leftShoulderConfig": {
+      "duration": 1.0,
+      "headRotationForceDirectionCurveId": 2,
+      "headRotationForceDirectionAngle": 30.0,
+      "affectedAffectors": [
+        {
+          "effector": 1,
+          "forceDirectionCurveId": 0,
+          "forceDirectionWeight": 0.25
+        },
+        {
+          "effector": 5,
+          "forceDirectionCurveId": 1,
+          "forceDirectionWeight": 0.175
+        },
+        {
+          "effector": 0,
+          "forceDirectionCurveId": 1,
+          "forceDirectionWeight": 0.05
+        },
+        {
+          "effector": 2,
+          "forceDirectionCurveId": 1,
+          "forceDirectionWeight": 0.05
+        },
+        {
+          "effector": 6,
+          "forceDirectionCurveId": 1,
+          "forceDirectionWeight": 0.05
+        },
+        {
+          "effector": 3,
+          "forceDirectionCurveId": 1,
+          "forceDirectionWeight": 0.025
+        }
+      ]
+    },
+    "centerLowerChestConfig": {
+      "duration": 1.0,
+      "headRotationForceDirectionCurveId": 2,
+      "headRotationForceDirectionAngle": 10.0,
+      "affectedAffectors": [
+        {
+          "effector": 0,
+          "forceDirectionCurveId": 0,
+          "forceDirectionWeight": 0.1
+        },
+        {
+          "effector": 3,
+          "forceDirectionCurveId": 1,
+          "forceDirectionWeight": 0.025
+        },
+        {
+          "effector": 4,
+          "forceDirectionCurveId": 1,
+          "forceDirectionWeight": 0.025
+        },
+        {
+          "effector": 1,
+          "forceDirectionCurveId": 1,
+          "forceDirectionWeight": 0.09
+        },
+        {
+          "effector": 2,
+          "forceDirectionCurveId": 1,
+          "forceDirectionWeight": 0.09
+        },
+        {
+          "effector": 5,
+          "forceDirectionCurveId": 1,
+          "forceDirectionWeight": 0.025
+        },
+        {
+          "effector": 6,
+          "forceDirectionCurveId": 1,
+          "forceDirectionWeight": 0.025
+        }
+      ]
+    },
+    "leftHipConfig": {
+      "duration": 1.0,
+      "headRotationForceDirectionCurveId": 0,
+      "headRotationForceDirectionAngle": 0.0,
+      "affectedAffectors": [
+        {
+          "effector": 7,
+          "forceDirectionCurveId": 1,
+          "forceDirectionWeight": 0.05
+        },
+        {
+          "effector": 3,
+          "forceDirectionCurveId": 0,
+          "forceDirectionWeight": 0.15
+        },
+        {
+          "effector": 4,
+          "forceDirectionCurveId": 1,
+          "forceDirectionWeight": 0.05
+        },
+        {
+          "effector": 0,
+          "forceDirectionCurveId": 1,
+          "forceDirectionWeight": 0.1
+        },
+        {
+          "effector": 1,
+          "forceDirectionCurveId": 1,
+          "forceDirectionWeight": 0.05
+        },
+        {
+          "effector": 2,
+          "forceDirectionCurveId": 1,
+          "forceDirectionWeight": -0.05
+        },
+        {
+          "effector": 5,
+          "forceDirectionCurveId": 1,
+          "forceDirectionWeight": 0.025
+        },
+        {
+          "effector": 6,
+          "forceDirectionCurveId": 1,
+          "forceDirectionWeight": -0.025
+        }
+      ]
+    },
+    "leftHandConfig": {
+      "duration": 1.0,
+      "headRotationForceDirectionCurveId": 2,
+      "headRotationForceDirectionAngle": 10.0,
+      "affectedAffectors": [
+        {
+          "effector": 5,
+          "forceDirectionCurveId": 0,
+          "forceDirectionWeight": 0.25
+        },
+        {
+          "effector": 1,
+          "forceDirectionCurveId": 1,
+          "forceDirectionWeight": 0.125
+        }
+      ]
+    },
+    "leftFootConfig": {
+      "duration": 0.75,
+      "headRotationForceDirectionCurveId": 0,
+      "headRotationForceDirectionAngle": 0.0,
+      "affectedAffectors": [
+        {
+          "effector": 7,
+          "forceDirectionCurveId": 0,
+          "forceDirectionWeight": 0.15
+        }
+      ]
+    },
+    "id": 0,
+    "name": "Hit Impact Config",
+    "category": ""
+  },
+  {
+    "repeatHitFadeoutDuration": 0.0,
+    "randomHeightWeightCurve": null,
+    "randomLeftRightWeightCurve": null,
+    "headConfig": null,
+    "leftShoulderConfig": null,
+    "centerLowerChestConfig": null,
+    "leftHipConfig": null,
+    "leftHandConfig": null,
+    "leftFootConfig": null,
+    "id": 1,
+    "name": "Male 01",
+    "category": ""
+  }
+]
+}

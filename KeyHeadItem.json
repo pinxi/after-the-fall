@@ -1,0 +1,119 @@
+{
+  "TableId": 148,
+  "DefaultCellId": 6,
+  "Cells": [
+  {
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "icon_empty",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/icon_empty.png",
+      "assetGUID": "6971d8585ceccd549bf035fba3ec2e8c",
+      "resourcePath": "icon_empty:icon_empty.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 0,
+    "id": 6,
+    "name": "HarvesterKeyHead",
+    "category": "",
+    "handPoseId": 93,
+    "isPosedOnTrigger": false,
+    "canInsertInInventory": true,
+    "itemStartedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemStoppedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "displayName": "Harvester Head",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "",
+    "tooltipSubtitleDisplayName": "",
+    "inventoryIcon": {
+      "assetName": "icon_empty",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/icon_empty.png",
+      "assetGUID": "6971d8585ceccd549bf035fba3ec2e8c",
+      "resourcePath": "icon_empty:icon_empty.Sprite",
+      "isSubAsset": true
+    },
+    "slotItemScale": {
+      "x": 0.15,
+      "y": 0.15,
+      "z": 0.15
+    },
+    "artPrefab": {
+      "assetName": "HarvesterKeyHead",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Grabbables/HarvesterKeyHead.prefab",
+      "assetGUID": "f6d1187d509bff34582347d82519654c",
+      "resourcePath": "Grabbables/HarvesterKeyHead",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": true,
+    "correctionStrategy": 1,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  }
+]
+}

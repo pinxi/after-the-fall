@@ -1,0 +1,230 @@
+{
+  "TableId": 101,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "isGun": false,
+    "gunData": {
+      "hasInfiniteAmmo": false,
+      "ammo": 0,
+      "projectile": 0,
+      "shootInterval": 0.25,
+      "bulletsPerShot": 1,
+      "damagePerProjectile": 1,
+      "projectileHasMaxDistance": false,
+      "projectileMaxDistance": 6.0,
+      "sprayPattern": 0,
+      "coneAngle": 30.0
+    },
+    "useAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "id": 0,
+    "name": "Helmet",
+    "category": "",
+    "ignoreProjectiles": true,
+    "prefab": {
+      "assetName": "CD_Helmet",
+      "assetPath": "Assets/Prefabs/ArcadeGames/ColoradoDaylight/VertigoResources/CD_Helmet.prefab",
+      "assetGUID": "eee9caa6f060d5d42ba10f211881ae6b",
+      "resourcePath": "CD_Helmet",
+      "isSubAsset": false
+    },
+    "poolSize": 2
+  },
+  {
+    "isGun": true,
+    "gunData": {
+      "hasInfiniteAmmo": true,
+      "ammo": 0,
+      "projectile": 0,
+      "shootInterval": 0.33,
+      "bulletsPerShot": 1,
+      "damagePerProjectile": 1,
+      "projectileHasMaxDistance": false,
+      "projectileMaxDistance": 6.0,
+      "sprayPattern": 0,
+      "coneAngle": 30.0
+    },
+    "useAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "id": 1,
+    "name": "Pistol",
+    "category": "",
+    "ignoreProjectiles": true,
+    "prefab": {
+      "assetName": "CD_Gun_Pistol",
+      "assetPath": "Assets/Prefabs/ArcadeGames/ColoradoDaylight/VertigoResources/CD_Gun_Pistol.prefab",
+      "assetGUID": "091b5cf44611c72408268870e1f5d0ab",
+      "resourcePath": "CD_Gun_Pistol",
+      "isSubAsset": false
+    },
+    "poolSize": 1
+  },
+  {
+    "isGun": true,
+    "gunData": {
+      "hasInfiniteAmmo": false,
+      "ammo": 32,
+      "projectile": 0,
+      "shootInterval": 0.1,
+      "bulletsPerShot": 1,
+      "damagePerProjectile": 1,
+      "projectileHasMaxDistance": false,
+      "projectileMaxDistance": 6.0,
+      "sprayPattern": 0,
+      "coneAngle": 30.0
+    },
+    "useAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "id": 2,
+    "name": "Rifle",
+    "category": "",
+    "ignoreProjectiles": true,
+    "prefab": {
+      "assetName": "CD_Gun_Rifle",
+      "assetPath": "Assets/Prefabs/ArcadeGames/ColoradoDaylight/VertigoResources/CD_Gun_Rifle.prefab",
+      "assetGUID": "fb491c569c3d78c4da96a54491067c13",
+      "resourcePath": "CD_Gun_Rifle",
+      "isSubAsset": false
+    },
+    "poolSize": 1
+  },
+  {
+    "isGun": true,
+    "gunData": {
+      "hasInfiniteAmmo": false,
+      "ammo": 8,
+      "projectile": 1,
+      "shootInterval": 0.33,
+      "bulletsPerShot": 1,
+      "damagePerProjectile": 3,
+      "projectileHasMaxDistance": false,
+      "projectileMaxDistance": 6.0,
+      "sprayPattern": 0,
+      "coneAngle": 30.0
+    },
+    "useAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "id": 3,
+    "name": "Assault Rifle",
+    "category": "",
+    "ignoreProjectiles": true,
+    "prefab": {
+      "assetName": "CD_Gun_AssaultRifle",
+      "assetPath": "Assets/Prefabs/ArcadeGames/ColoradoDaylight/VertigoResources/CD_Gun_AssaultRifle.prefab",
+      "assetGUID": "9a4199a2746551c4ab3b898b9f83f936",
+      "resourcePath": "CD_Gun_AssaultRifle",
+      "isSubAsset": false
+    },
+    "poolSize": 1
+  },
+  {
+    "isGun": true,
+    "gunData": {
+      "hasInfiniteAmmo": false,
+      "ammo": 32,
+      "projectile": 0,
+      "shootInterval": 0.1,
+      "bulletsPerShot": 1,
+      "damagePerProjectile": 1,
+      "projectileHasMaxDistance": true,
+      "projectileMaxDistance": 10.0,
+      "sprayPattern": 2,
+      "coneAngle": 25.0
+    },
+    "useAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "id": 4,
+    "name": "Uzi",
+    "category": "",
+    "ignoreProjectiles": true,
+    "prefab": {
+      "assetName": "CD_Gun_Uzi",
+      "assetPath": "Assets/PORT_CONTENT/ArcadeGames/ColoradoDaylight/VertigoResources/CD_Gun_Uzi.prefab",
+      "assetGUID": "9c02c4ce2da2cb7479d358033e2760a0",
+      "resourcePath": "CD_Gun_Uzi",
+      "isSubAsset": false
+    },
+    "poolSize": 1
+  },
+  {
+    "isGun": true,
+    "gunData": {
+      "hasInfiniteAmmo": false,
+      "ammo": 8,
+      "projectile": 1,
+      "shootInterval": 0.33,
+      "bulletsPerShot": 5,
+      "damagePerProjectile": 1,
+      "projectileHasMaxDistance": true,
+      "projectileMaxDistance": 8.0,
+      "sprayPattern": 1,
+      "coneAngle": 20.0
+    },
+    "useAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "id": 5,
+    "name": "Shotgun",
+    "category": "",
+    "ignoreProjectiles": true,
+    "prefab": {
+      "assetName": "CD_Gun_Shotgun",
+      "assetPath": "Assets/Prefabs/ArcadeGames/ColoradoDaylight/VertigoResources/CD_Gun_Shotgun.prefab",
+      "assetGUID": "f85f4d822ee16f840b1b5fe71ba48d7f",
+      "resourcePath": "CD_Gun_Shotgun",
+      "isSubAsset": false
+    },
+    "poolSize": 1
+  },
+  {
+    "isGun": true,
+    "gunData": {
+      "hasInfiniteAmmo": false,
+      "ammo": 3,
+      "projectile": 2,
+      "shootInterval": 0.33,
+      "bulletsPerShot": 1,
+      "damagePerProjectile": 3,
+      "projectileHasMaxDistance": false,
+      "projectileMaxDistance": 6.0,
+      "sprayPattern": 0,
+      "coneAngle": 30.0
+    },
+    "useAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "id": 6,
+    "name": "Launcher",
+    "category": "",
+    "ignoreProjectiles": true,
+    "prefab": {
+      "assetName": "CD_Gun_Launcher",
+      "assetPath": "Assets/PORT_CONTENT/ArcadeGames/ColoradoDaylight/VertigoResources/CD_Gun_Launcher.prefab",
+      "assetGUID": "c62a970b118804c49b3495978ae6d15a",
+      "resourcePath": "CD_Gun_Launcher",
+      "isSubAsset": false
+    },
+    "poolSize": 1
+  }
+]
+}

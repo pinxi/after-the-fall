@@ -1,0 +1,139 @@
+{
+  "TableId": 50034,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "isEnabled": true,
+    "displayNameKey": "MUTATOR_PKG_SPEEDRUNNER",
+    "icon": {
+      "assetName": "Mutator_Ico_Speedrun",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/MutatorIcons/Mutator_Ico_Speedrun.png",
+      "assetGUID": "9ed6e59201bf7b442a56c26da10bafc2",
+      "resourcePath": "MutatorIcons/Mutator_Ico_Speedrun:Mutator_Ico_Speedrun.Sprite",
+      "isSubAsset": true
+    },
+    "mutators": [
+      4,
+      3,
+      0
+    ],
+    "id": 0,
+    "name": "SpeedRunner",
+    "category": ""
+  },
+  {
+    "isEnabled": false,
+    "displayNameKey": "MUTATOR_PKG_COLDTURKEY",
+    "icon": {
+      "assetName": "Mutator_Ico_ColdTurkey",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/MutatorIcons/Mutator_Ico_ColdTurkey.png",
+      "assetGUID": "21d57bb9462028d4492dd9f4563179a5",
+      "resourcePath": "MutatorIcons/Mutator_Ico_ColdTurkey:Mutator_Ico_ColdTurkey.Sprite",
+      "isSubAsset": true
+    },
+    "mutators": [
+      1,
+      0,
+      3
+    ],
+    "id": 1,
+    "name": "ColdTurkey",
+    "category": ""
+  },
+  {
+    "isEnabled": true,
+    "displayNameKey": "MUTATOR_PKG_GUNSLINGER",
+    "icon": {
+      "assetName": "Mutator_Ico_Gunslinger",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/MutatorIcons/Mutator_Ico_Gunslinger.png",
+      "assetGUID": "fb9d835185ee93f4cb3caadc3e7d84de",
+      "resourcePath": "MutatorIcons/Mutator_Ico_Gunslinger:Mutator_Ico_Gunslinger.Sprite",
+      "isSubAsset": true
+    },
+    "mutators": [
+      0,
+      5,
+      8
+    ],
+    "id": 2,
+    "name": "GunSlinger",
+    "category": ""
+  },
+  {
+    "isEnabled": false,
+    "displayNameKey": "MUTATOR_PKG_THAWPALS",
+    "icon": {
+      "assetName": "Mutator_Ico_ThawPals",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/MutatorIcons/Mutator_Ico_ThawPals.png",
+      "assetGUID": "4e575aa9d9bdf454da7fd5f087b6f916",
+      "resourcePath": "MutatorIcons/Mutator_Ico_ThawPals:Mutator_Ico_ThawPals.Sprite",
+      "isSubAsset": true
+    },
+    "mutators": [
+      5,
+      3,
+      1
+    ],
+    "id": 5,
+    "name": "ThawPals",
+    "category": ""
+  },
+  {
+    "isEnabled": true,
+    "displayNameKey": "MUTATOR_PKG_SNAPPINGTURTLE",
+    "icon": {
+      "assetName": "Mutator_Ico_SnappingTurtle",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/MutatorIcons/Mutator_Ico_SnappingTurtle.png",
+      "assetGUID": "dc50cf3a364a2b849a699243a928af16",
+      "resourcePath": "MutatorIcons/Mutator_Ico_SnappingTurtle:Mutator_Ico_SnappingTurtle.Sprite",
+      "isSubAsset": true
+    },
+    "mutators": [
+      9,
+      10,
+      11
+    ],
+    "id": 6,
+    "name": "SnappingTurtle",
+    "category": ""
+  },
+  {
+    "isEnabled": true,
+    "displayNameKey": "MUTATOR_PKG_CROWDCONTROL",
+    "icon": {
+      "assetName": "Mutator_Ico_CrowdControl",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/MutatorIcons/Mutator_Ico_CrowdControl.png",
+      "assetGUID": "75edc258d5b96a54e938cdf4a8eff29d",
+      "resourcePath": "MutatorIcons/Mutator_Ico_CrowdControl:Mutator_Ico_CrowdControl.Sprite",
+      "isSubAsset": true
+    },
+    "mutators": [
+      9,
+      6,
+      7
+    ],
+    "id": 7,
+    "name": "CrowdControl",
+    "category": ""
+  },
+  {
+    "isEnabled": true,
+    "displayNameKey": "MUTATOR_PKG_SNOWPLOW",
+    "icon": {
+      "assetName": "Mutator_Ico_Snowplow",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/MutatorIcons/Mutator_Ico_Snowplow.png",
+      "assetGUID": "2d4bbacf435410242be7ab06fc070e2e",
+      "resourcePath": "MutatorIcons/Mutator_Ico_Snowplow:Mutator_Ico_Snowplow.Sprite",
+      "isSubAsset": true
+    },
+    "mutators": [
+      12,
+      13,
+      14
+    ],
+    "id": 8,
+    "name": "SnowPlow",
+    "category": ""
+  }
+]
+}

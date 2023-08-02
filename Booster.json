@@ -1,0 +1,632 @@
+{
+  "TableId": 95,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "isUnlocked": true,
+    "previewScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "Icon_Booster_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Icon_Booster_01.png",
+      "assetGUID": "fe7aced50c4480b489ef28dff888fa4c",
+      "resourcePath": "Icon_Booster_01:Icon_Booster_01.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 12,
+    "id": 0,
+    "name": "Juice Booster",
+    "category": "",
+    "primaryCommand": {
+      "boosterType": 0,
+      "commandCost": 1,
+      "commandDuration": 0.1,
+      "healingSettings": {
+        "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "rowCount": 1,
+        "colCount": 5,
+        "rowLabels": [
+          "0"
+        ],
+        "colLabels": [
+          "Survivor",
+          "Veteran",
+          "Master",
+          "Nightmare",
+          "Horror"
+        ],
+        "values": [
+          {
+            "HealingFraction": 1.0
+          },
+          {
+            "HealingFraction": 1.0
+          },
+          {
+            "HealingFraction": 1.0
+          },
+          {
+            "HealingFraction": 1.0
+          },
+          {
+            "HealingFraction": 1.0
+          }
+        ]
+      },
+      "revivingAmount": 45,
+      "speedMultiplier": 0.0
+    },
+    "secondaryCommand": {
+      "boosterType": 2,
+      "commandCost": 1,
+      "commandDuration": 0.1,
+      "healingSettings": {
+        "rowType": null,
+        "colType": null,
+        "rowCount": 0,
+        "colCount": 0,
+        "rowLabels": [],
+        "colLabels": [],
+        "values": []
+      },
+      "revivingAmount": 0,
+      "speedMultiplier": 1.2
+    },
+    "specialCommand": {
+      "boosterType": 1,
+      "commandCost": 1,
+      "commandDuration": 0.1,
+      "healingSettings": {
+        "rowType": null,
+        "colType": null,
+        "rowCount": 0,
+        "colCount": 0,
+        "rowLabels": [],
+        "colLabels": [],
+        "values": []
+      },
+      "revivingAmount": 50,
+      "speedMultiplier": 0.0
+    },
+    "applyAfflictions": true,
+    "afflictions": [
+      6
+    ],
+    "removeAfflictions": true,
+    "afflictionsToRemove": [
+      5,
+      3,
+      4
+    ],
+    "boostHandLockCurve": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.00302694,
+          "outTangent": 0.00302694,
+          "inWeight": 0.0,
+          "outWeight": 0.779166639,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.59274286,
+          "value": 0.066399686,
+          "inTangent": 0.308584958,
+          "outTangent": 0.308584958,
+          "inWeight": 0.268262357,
+          "outWeight": 0.8678621,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.773583233,
+          "value": 0.232592985,
+          "inTangent": 1.89036262,
+          "outTangent": 1.89036262,
+          "inWeight": 0.338104218,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 4.811325,
+          "outTangent": 4.811325,
+          "inWeight": 0.114632249,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "lockReleaseDistance": 0.085,
+    "neutralHandPoseId": 23,
+    "triggerPressedHandPoseId": 24,
+    "isPosedOnTrigger": false,
+    "animationBoosting": {
+      "assetName": "booster_use",
+      "assetPath": "Assets/Art/Weapons/Boosters/Juice_Booster/Animations/VertigoResources/booster_use.anim",
+      "assetGUID": "4a5e7d2f2eba8744bb32ce5f0826505b",
+      "resourcePath": "booster_use",
+      "isSubAsset": false
+    },
+    "intersectRumble": 0,
+    "interactRumble": 0,
+    "startBoostAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/JuiceBooster/Juice_booster_heal_activate",
+      "eventGuid": "879c919c-09ab-4874-aced-2e270637a499",
+      "parameterSettings": []
+    },
+    "startBoostAudioOutOfRange": {
+      "eventPath": "event:/ATF_PC/Weapons/JuiceBooster/Juice_booster_out_range",
+      "eventGuid": "7f27b1f5-7151-4d9c-beab-97f6ccc285f4",
+      "parameterSettings": []
+    },
+    "startBoostAudioEmpty": {
+      "eventPath": "event:/ATF_PC/Weapons/JuiceBooster/Juice_booster_heal_empty",
+      "eventGuid": "7c9116cc-e5b4-4b70-9414-6f8c47415c3a",
+      "parameterSettings": []
+    },
+    "inRangeAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/JuiceBooster/Juice_booster_in_range",
+      "eventGuid": "321721e7-2673-44c0-8a13-a4dc32c8149f",
+      "parameterSettings": []
+    },
+    "outOfRangeAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "lastBulletUsedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "changeModeAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "canInsertInInventory": true,
+    "proximityRange": 2.0,
+    "meleeDamageModel": {
+      "damageRange": {
+        "rangeStart": 30.0,
+        "rangeEnd": 40.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 5.0,
+        "rangeEnd": 5.0
+      },
+      "criticalHitChance": 0.1,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 1,
+      "impactType": 0
+    },
+    "meleeSettings": 1,
+    "meleeAggroRadius": 10.0,
+    "meleePhysicsForceMultiplier": 1.0,
+    "displayName": "Juice Booster",
+    "descriptionLocalizationKey": "ITEM_JUICEBOOSTER_DESCRIPTION",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "ITEM_JUICEBOOSTER",
+    "tooltipSubtitleDisplayName": "ITEM_JUICEBOOSTER_SUBTITLE",
+    "inventoryIcon": {
+      "assetName": "Icon_Booster_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_Booster_01.png",
+      "assetGUID": "9a076552cc4fffb42ab90edb49813adc",
+      "resourcePath": "Tooltips/Icon_Booster_01:Icon_Booster_01.Sprite",
+      "isSubAsset": true
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Juice_Booster",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/Boosters/Juice_Booster.prefab",
+      "assetGUID": "5aa1561635a387644ae1df9f4d60f325",
+      "resourcePath": "Weapons/Boosters/Juice_Booster",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "Booster_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/Boosters/Collisions/Booster_Collision.prefab",
+      "assetGUID": "181173fe8fa7e9a47aecec0944f3a1c0",
+      "resourcePath": "Weapons/Boosters/Collisions/Booster_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 250,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_liquid",
+      "eventGuid": "153947f4-52e3-4cdb-9d24-3771f53bede1"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_pickup_object_booster",
+      "eventGuid": "7db4efce-da57-4f0e-839f-b2863932d5b1",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_drop_object",
+      "eventGuid": "2adb75c6-6512-419b-8fed-6e3e456bd7e0",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "isUnlocked": false,
+    "previewScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "Icon_Booster_02",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Icon_Booster_02.png",
+      "assetGUID": "fa517d6a965aff541bfc80992e269b3f",
+      "resourcePath": "Icon_Booster_02:Icon_Booster_02.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 19,
+    "id": 1,
+    "name": "Rage Booster",
+    "category": "",
+    "primaryCommand": {
+      "boosterType": 0,
+      "commandCost": 1,
+      "commandDuration": 0.1,
+      "healingSettings": {
+        "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "rowCount": 1,
+        "colCount": 5,
+        "rowLabels": [
+          "0"
+        ],
+        "colLabels": [
+          "Survivor",
+          "Veteran",
+          "Master",
+          "Nightmare",
+          "Horror"
+        ],
+        "values": [
+          {
+            "HealingFraction": 0.5
+          },
+          {
+            "HealingFraction": 0.5
+          },
+          {
+            "HealingFraction": 0.5
+          },
+          {
+            "HealingFraction": 0.5
+          },
+          {
+            "HealingFraction": 0.5
+          }
+        ]
+      },
+      "revivingAmount": 45,
+      "speedMultiplier": 0.0
+    },
+    "secondaryCommand": {
+      "boosterType": 2,
+      "commandCost": 1,
+      "commandDuration": 0.1,
+      "healingSettings": {
+        "rowType": null,
+        "colType": null,
+        "rowCount": 0,
+        "colCount": 0,
+        "rowLabels": [],
+        "colLabels": [],
+        "values": []
+      },
+      "revivingAmount": 0,
+      "speedMultiplier": 1.0
+    },
+    "specialCommand": {
+      "boosterType": 1,
+      "commandCost": 1,
+      "commandDuration": 0.1,
+      "healingSettings": {
+        "rowType": null,
+        "colType": null,
+        "rowCount": 0,
+        "colCount": 0,
+        "rowLabels": [],
+        "colLabels": [],
+        "values": []
+      },
+      "revivingAmount": 20,
+      "speedMultiplier": 0.0
+    },
+    "applyAfflictions": true,
+    "afflictions": [
+      5
+    ],
+    "removeAfflictions": false,
+    "afflictionsToRemove": [],
+    "boostHandLockCurve": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.00302694,
+          "outTangent": 0.00302694,
+          "inWeight": 0.0,
+          "outWeight": 0.779166639,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.59274286,
+          "value": 0.066399686,
+          "inTangent": 0.308584958,
+          "outTangent": 0.308584958,
+          "inWeight": 0.268262357,
+          "outWeight": 0.8678621,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.773583233,
+          "value": 0.232592985,
+          "inTangent": 1.89036262,
+          "outTangent": 1.89036262,
+          "inWeight": 0.338104218,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 4.811325,
+          "outTangent": 4.811325,
+          "inWeight": 0.114632249,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "lockReleaseDistance": 0.085,
+    "neutralHandPoseId": 23,
+    "triggerPressedHandPoseId": 24,
+    "isPosedOnTrigger": false,
+    "animationBoosting": {
+      "assetName": "booster_use",
+      "assetPath": "Assets/Art/Weapons/Boosters/Juice_Booster/Animations/VertigoResources/booster_use.anim",
+      "assetGUID": "4a5e7d2f2eba8744bb32ce5f0826505b",
+      "resourcePath": "booster_use",
+      "isSubAsset": false
+    },
+    "intersectRumble": 0,
+    "interactRumble": 0,
+    "startBoostAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/RageBooster/Rage_booster_activate",
+      "eventGuid": "0e444025-208b-493c-8ad6-add8471218e6",
+      "parameterSettings": []
+    },
+    "startBoostAudioOutOfRange": {
+      "eventPath": "event:/ATF_PC/Weapons/RageBooster/Rage_booster_out_range",
+      "eventGuid": "8ea1c0dc-fd5d-48ac-a581-a9e331d3f1fd",
+      "parameterSettings": []
+    },
+    "startBoostAudioEmpty": {
+      "eventPath": "event:/ATF_PC/Weapons/RageBooster/Rage_booster_empty",
+      "eventGuid": "fb268e23-e925-46ee-bfcc-23abd4aeab01",
+      "parameterSettings": []
+    },
+    "inRangeAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/RageBooster/Rage_booster_in_range",
+      "eventGuid": "14a62540-fff9-4ff7-8517-ac270121e9ca",
+      "parameterSettings": []
+    },
+    "outOfRangeAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/RageBooster/Rage_booster_out_range",
+      "eventGuid": "8ea1c0dc-fd5d-48ac-a581-a9e331d3f1fd",
+      "parameterSettings": []
+    },
+    "lastBulletUsedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "changeModeAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "canInsertInInventory": true,
+    "proximityRange": 2.0,
+    "meleeDamageModel": {
+      "damageRange": {
+        "rangeStart": 30.0,
+        "rangeEnd": 40.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 5.0,
+        "rangeEnd": 5.0
+      },
+      "criticalHitChance": 0.1,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 1,
+      "impactType": 0
+    },
+    "meleeSettings": 1,
+    "meleeAggroRadius": 10.0,
+    "meleePhysicsForceMultiplier": 1.0,
+    "displayName": "Rage Booster",
+    "descriptionLocalizationKey": "ITEM_RAGEBOOSTER_DESCRIPTION",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "ITEM_RAGEBOOSTER",
+    "tooltipSubtitleDisplayName": "ITEM_RAGEBOOSTER_SUBTITLE",
+    "inventoryIcon": {
+      "assetName": "Icon_Booster_02",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_Booster_02.png",
+      "assetGUID": "0f5786a670b38444f8abbdb91ed4b45f",
+      "resourcePath": "Tooltips/Icon_Booster_02:Icon_Booster_02.Sprite",
+      "isSubAsset": true
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Rage_Booster",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/Boosters/Rage_Booster.prefab",
+      "assetGUID": "cfa88ed025d33e841acd3e9d754febf9",
+      "resourcePath": "Weapons/Boosters/Rage_Booster",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "Booster_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/Boosters/Collisions/Booster_Collision.prefab",
+      "assetGUID": "181173fe8fa7e9a47aecec0944f3a1c0",
+      "resourcePath": "Weapons/Boosters/Collisions/Booster_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 750,
+    "lockedDescriptionLocalizationKey": "VENDOR_LOCKED_IMPORT_RARITY",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_liquid",
+      "eventGuid": "153947f4-52e3-4cdb-9d24-3771f53bede1"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_pickup_object_booster",
+      "eventGuid": "7db4efce-da57-4f0e-839f-b2863932d5b1",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_drop_object",
+      "eventGuid": "2adb75c6-6512-419b-8fed-6e3e456bd7e0",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  }
+]
+}

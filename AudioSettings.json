@@ -1,0 +1,592 @@
+{
+  "TableId": 92,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "levelLoadingSnapshot": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "SnapshotIntensity",
+          "paramData1": -633574483,
+          "paramData2": 1293063099,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "SnapshotIntensity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "snapshot:/Mix_game_start",
+      "eventGuid": "df446270-e39b-40a6-bf3d-521b6656c5c0"
+    },
+    "defaultBackgroundMusic": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "Intensity",
+          "paramData1": -1675308532,
+          "paramData2": 66256437,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Intensity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "Music_special_jock",
+          "paramData1": 1738184193,
+          "paramData2": 1967933882,
+          "isStatic": false,
+          "staticValue": 1.0,
+          "gameParameterName": "Music_special_jock",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "Music_special_smasher",
+          "paramData1": 2090724369,
+          "paramData2": 1264953484,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Music_special_smasher",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Music/OLD/Music_track_03",
+      "eventGuid": "2cecb9d4-1378-498d-9d11-9d79ff47461c"
+    },
+    "minimalIntensityLevelWaveStartedAudioEventPercentage": 50.0,
+    "intenseWaveStartingAudio": {
+      "eventPath": "event:/ATF_PC/Music/Stinger_combat_up",
+      "eventGuid": "87bc5703-0bdc-4e9c-831d-916b3e030ad7",
+      "parameterSettings": []
+    },
+    "minimalIntensityLevelWaveCompletedAudioEventPercentage": 50.0,
+    "intenseWaveCompletedAudio": {
+      "eventPath": "event:/ATF_PC/Music/Stinger_combat_down",
+      "eventGuid": "425ec3a1-2f02-43ad-af10-ce77de09cbd6",
+      "parameterSettings": []
+    },
+    "audioVolumeFalloffStartPercentage": 85,
+    "audioVolumeFalloffSmoothTime": 0.07,
+    "minDistanceForRangedGrabAudio": 0.5,
+    "defaultItemEquipAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_pickup_object",
+      "eventGuid": "a75ca7a4-e10a-4f59-91d7-c91ec206ff42",
+      "parameterSettings": []
+    },
+    "defaultLootPickupAudio": {
+      "eventPath": "event:/ATF_PC/UI/UI_Gameplay_loot_pickup",
+      "eventGuid": "639e7a8c-8547-4952-afc7-cce5d50c7884",
+      "parameterSettings": []
+    },
+    "defaultResourcePickupAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "defaultItemUnequipAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "defaultItemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_pickup_object",
+      "eventGuid": "a75ca7a4-e10a-4f59-91d7-c91ec206ff42",
+      "parameterSettings": []
+    },
+    "defaultItemRangedGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/UI/UI_Gameplay_loot_ranged",
+      "eventGuid": "b2213d58-f317-4abf-8202-a254ace1f4fa",
+      "parameterSettings": []
+    },
+    "defaultItemReleasedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_drop_object",
+      "eventGuid": "2adb75c6-6512-419b-8fed-6e3e456bd7e0",
+      "parameterSettings": []
+    },
+    "defaultLootCollectedAudio": {
+      "eventPath": "event:/ATF_PC/UI/UI_Gameplay_loot_collect",
+      "eventGuid": "8f0e5466-5a8e-461b-9720-37c2561d31c2",
+      "parameterSettings": []
+    },
+    "defaultLootResourceFullAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "defaultItemThrowAudio": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "ThrowVelocity",
+          "paramData1": 825615767,
+          "paramData2": -71513471,
+          "isStatic": false,
+          "staticValue": 0.75,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_throw",
+      "eventGuid": "64676d97-d623-4dad-a289-cb45908906cc"
+    },
+    "defaultAttachmentAttachedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Crafting/Weapon_crafting_attachment_add",
+      "eventGuid": "2137cc68-3517-42fd-ad6e-50119cdf0bf3",
+      "parameterSettings": []
+    },
+    "defaultAttachmentDetachedAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Crafting/Weapon_crafting_attachment_remove",
+      "eventGuid": "161bc724-4bc2-48a8-b3a7-b6b52b7614ef",
+      "parameterSettings": []
+    },
+    "failedToInsertNonStickyIntoNonStickyHolsterSlotAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "equippedItemsAndHandPhysicsSoundsMultiplierPercentage": 100.0,
+    "itemsNonLocalPlayerVolumeMultiplierPercentage": 40.0,
+    "defaultMovableHandleFullyClosedAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "defaultMovableHandleFullyOpenedAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "defaultMovableHandleFractionChangedAudio": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "Velocity",
+          "paramData1": 0,
+          "paramData2": 0,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "defaultMovableHandleGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab",
+      "eventGuid": "c15f1454-a82d-4583-a089-38c50e7a6fa5",
+      "parameterSettings": []
+    },
+    "defaultMovableHandleReleasedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_drop_object",
+      "eventGuid": "2adb75c6-6512-419b-8fed-6e3e456bd7e0",
+      "parameterSettings": []
+    },
+    "handlesNonLocalPlayerVolumeMultiplierPercentage": 60.0,
+    "defaultCombatDevicePreparedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "defaultCombatDeviceUnpreparedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "defaultCombatDeviceActivatedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "defaultCombatDeviceFailedActivatedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "teleportAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_footstep_concrete",
+      "eventGuid": "d5cddc5c-7316-4fa1-ba33-98f2c6644da4",
+      "parameterSettings": [
+        {
+          "audioParameterName": "WalkSpeed",
+          "paramData1": 347070984,
+          "paramData2": -686781812,
+          "isStatic": true,
+          "staticValue": 30.0,
+          "gameParameterName": "",
+          "updateOnPlayingInstances": true
+        }
+      ]
+    },
+    "dashAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_footstep_concrete",
+      "eventGuid": "d5cddc5c-7316-4fa1-ba33-98f2c6644da4",
+      "parameterSettings": [
+        {
+          "audioParameterName": "WalkSpeed",
+          "paramData1": 347070984,
+          "paramData2": -686781812,
+          "isStatic": true,
+          "staticValue": 30.0,
+          "gameParameterName": "",
+          "updateOnPlayingInstances": false
+        }
+      ]
+    },
+    "distanceBetweenTeleportSections": 1.0,
+    "teleportTimeBetweenSections": 0.15,
+    "maximumTeleportSectionsSounds": 4,
+    "defaultHandMovement": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_hands_move",
+      "eventGuid": "f235632e-7712-4c50-a9bd-57e01631d482"
+    },
+    "defaultSwingAudio": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "Velocity",
+          "paramData1": 2071308761,
+          "paramData2": 470795094,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/_OLD/Weapons/Melee/Attack_melee_swing",
+      "eventGuid": "fd947f6a-5c15-4199-8086-fcbe2754d019"
+    },
+    "defaultAudioFire": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "Ammo",
+          "paramData1": -1377727257,
+          "paramData2": 1496315860,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Ammo remaining",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "Strenght",
+          "paramData1": 466290923,
+          "paramData2": 847985857,
+          "isStatic": true,
+          "staticValue": 0.0,
+          "gameParameterName": "Ammo remaining",
+          "updateOnPlayingInstances": false
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_fire",
+      "eventGuid": "ab8a9984-706b-4c6b-a6e8-3494e395e3e0"
+    },
+    "defaultAudioFireCritical": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Weapons/Impacts/Impact_bullet_critical",
+      "eventGuid": "815a6bad-fba6-4981-9cb7-82ffb5f4681c"
+    },
+    "defaultAudioFireRepeat": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "defaultAudioFireTailOutdoors": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_tail_outdoor",
+      "eventGuid": "18e5563f-a70a-461b-a271-121b0e35c6a9"
+    },
+    "defaultAudioFireTailIndoors": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_tail_indoor",
+      "eventGuid": "e71b1abc-0ea5-42e7-bf92-4a852b27ca52"
+    },
+    "defaultAudioFireShells": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_shells_hard",
+      "eventGuid": "3f498dd1-c209-4f8c-8961-6014e19281c3"
+    },
+    "defaultAudioFireEffect": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "defaultAudioFireEmpty": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_empty",
+      "eventGuid": "51e2fa20-a782-470c-8cf1-754db14c23fb"
+    },
+    "defaultAudioEjectClip": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_eject",
+      "eventGuid": "680c3c14-6888-4e11-8f8e-fd4139e68353"
+    },
+    "defaultAudioInsertClip": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_insert",
+      "eventGuid": "76172d2f-3687-47e1-ba2c-6cffcf67d359"
+    },
+    "defaultAudioEquipReloadedGun": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898"
+    },
+    "defaultAudioDoneReloading": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_insert",
+      "eventGuid": "76172d2f-3687-47e1-ba2c-6cffcf67d359"
+    },
+    "defaultAudioCannotInsertClip": {
+      "eventPath": "event:/ATF_PC/Weapons/Weapon_all_reload_error",
+      "eventGuid": "fec551c4-78fd-458f-aa3b-0af41bd47d94",
+      "parameterSettings": []
+    },
+    "defaultAudioPumpEjectShell": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "defaultAudioPumpEjectShellFailed": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "defaultAudioPumpChamberBullet": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "defaultAudioPumpChamberBulletEmpty": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "defaultOneRoundRemaining": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_fire_pre-last",
+      "eventGuid": "8c30f3a1-2074-4017-b29b-8f85cbaad7fc",
+      "parameterSettings": []
+    },
+    "defaultLastRoundFired": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_fire_last",
+      "eventGuid": "9394a1cd-d0b5-46db-8ae5-39422464cfc6",
+      "parameterSettings": []
+    },
+    "defaultAudioReloadWithoutResource": {
+      "eventPath": "event:/ATF_PC/Weapons/Weapon_all_reload_error",
+      "eventGuid": "fec551c4-78fd-458f-aa3b-0af41bd47d94",
+      "parameterSettings": []
+    },
+    "defaultAudioConsumeAmmo": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "defaultAudioQuickReload": {
+      "eventPath": "event:/ATF_PC/Weapons/Weapon_quick_reload",
+      "eventGuid": "5754a2e8-213f-40a9-bbaf-0b09e0af3a8a",
+      "parameterSettings": []
+    },
+    "defaultAudioOpenCylinder": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "defaultAudioCloseCylinder": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "defaultAudioPinRemoved": {
+      "eventPath": "event:/ATF_PC/Weapons/Pipebomb/Pipebomb_arm",
+      "eventGuid": "77fe0cdc-c3d7-4e6f-9c56-46013943c597",
+      "parameterSettings": []
+    },
+    "defaultAudioExplosiveArmed": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "defaultAudioExplosiveItemCountdown": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "Pipebomb_countdown",
+          "paramData1": 1871643668,
+          "paramData2": 387136066,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Countdown",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Weapons/Pipebomb/Pipebomb_beep",
+      "eventGuid": "fb0485a8-f6ad-442c-89dc-ea906a3ad3f2"
+    },
+    "partsExplodeAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Impacts/Impact_bullet_headshot",
+      "eventGuid": "e106e092-02bd-4d92-924e-2aa039edacf0",
+      "parameterSettings": []
+    },
+    "limbMutilationAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Impacts/Impact_melee_flesh",
+      "eventGuid": "3756c272-e1e7-4562-a142-edb04b7b25ad",
+      "parameterSettings": []
+    },
+    "electricStunAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "tooltipOpenAudio": {
+      "eventPath": "event:/ATF_PC/UI/UI_Weapon_overlay",
+      "eventGuid": "59adfe8a-bc27-487d-97a8-a84647e63af4",
+      "parameterSettings": []
+    },
+    "projectileFlyByAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Impacts/Impact_bullet_flyby",
+      "eventGuid": "8480fe39-602e-46ca-907b-d00619a107bf",
+      "parameterSettings": []
+    },
+    "swingVelocityInputMin": 0.2,
+    "swingVelocityInputMax": 2.5,
+    "meleeImpulseInputMin": 3.0,
+    "meleeImpulseInputMax": 10.0,
+    "physicsHitImpulseInputThreshold": 0.05,
+    "physicsObjectImpactSoundMultiplierPercentage": 100.0,
+    "physicsSurfaceImpactSoundMultiplier": 50.0,
+    "hordeIncomming": {
+      "eventPath": "event:/ATF_PC/Music/Stinger_wave_novoice",
+      "eventGuid": "ae78def9-58fa-44ea-a3af-603dd25276c5",
+      "parameterSettings": []
+    },
+    "sprawlGateSpawnAudio": {
+      "eventPath": "event:/ATF_PC/Character/Enemy_sprawl/Enemy_sprawl_gate_appear",
+      "eventGuid": "175ff03c-1201-4922-a3ba-df4422af2ac3",
+      "parameterSettings": []
+    },
+    "sprawlGateDespawnAudio": {
+      "eventPath": "event:/ATF_PC/Character/Enemy_sprawl/Enemy_sprawl_gate_disappear",
+      "eventGuid": "61eed6c0-fed8-4cd9-95ca-317e2f0e059f",
+      "parameterSettings": []
+    },
+    "sprawlTentacleAppearAudio": {
+      "eventPath": "event:/ATF_PC/Character/Enemy_sprawl/Enemy_sprawl_appear_regular",
+      "eventGuid": "72af6b36-015f-4fd6-9ebc-3b3102413f1e",
+      "parameterSettings": []
+    },
+    "sprawlTentacleRetractAudio": {
+      "eventPath": "event:/ATF_PC/Character/Enemy_sprawl/Enemy_sprawl_disappear",
+      "eventGuid": "ea818a42-b5cb-4b48-88db-d461c011b679",
+      "parameterSettings": []
+    },
+    "sprawlTentacleLoopAudio": {
+      "eventPath": "event:/ATF_PC/Character/Enemy_sprawl/Enemy_sprawl_idle",
+      "eventGuid": "717f8872-350a-4bf2-868d-d96539ee8d0c",
+      "parameterSettings": []
+    },
+    "ammoPouchEnterAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_select",
+      "eventGuid": "27e5b85d-964d-41e2-9154-f164c4d4149d",
+      "parameterSettings": []
+    },
+    "ammoPouchGrabAmmoAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_clip_grab",
+      "eventGuid": "253102c3-5733-4031-969a-46e656547898",
+      "parameterSettings": []
+    },
+    "ammoPouchNoAmmoRemainingAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Weapon_all_reload_error",
+      "eventGuid": "fec551c4-78fd-458f-aa3b-0af41bd47d94",
+      "parameterSettings": []
+    },
+    "beltAdjustmentViewVolumeEnter": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "beltAdjustmentViewVolumeGrab": {
+      "eventPath": "event:/ATF_PC/Weapons/Weapon_grab_belt",
+      "eventGuid": "437ca404-2d87-486a-b040-ba667c2d3789",
+      "parameterSettings": []
+    },
+    "ziplineAudio": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "ziplinePercentage",
+          "paramData1": -28672323,
+          "paramData2": -482172640,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "ziplinePercentage",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Interaction/Interact_zipline",
+      "eventGuid": "99e7f8d5-a58c-4209-8f9f-b4d3532ca457"
+    },
+    "downedStateEnteredAudioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Music/Stinger_freeze_death",
+      "eventGuid": "e7abf387-866e-47a7-a0ef-bc97b61fbf98"
+    },
+    "revivedAudioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Music/Stinger_revive",
+      "eventGuid": "f2a0ae84-4675-4c54-8fe9-f7e58c986298"
+    },
+    "downedHeartbeatAudioEvent": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "Player_health",
+          "paramData1": -1615590342,
+          "paramData2": -1003109100,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "fraction",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_heartbeat",
+      "eventGuid": "7608f4d2-555a-4c34-b363-c46ec6d98e7b"
+    },
+    "downedHeartbeatAudioHealthParamDuration": 60.0,
+    "pvpPlayerHitAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Impacts/Impact_player_hit_PVP",
+      "eventGuid": "f28c6cc6-1a6d-472e-a04f-67fff854b7eb",
+      "parameterSettings": []
+    },
+    "pvpPlayerHitHeadshotAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Impacts/Impact_player_headshot_PVP",
+      "eventGuid": "f65eda98-5e49-481f-9cd2-2cb6af554166",
+      "parameterSettings": []
+    },
+    "pvpPlayerKilledAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Impacts/Impact_player_death_PVP",
+      "eventGuid": "8f693fd8-f4de-4130-913e-17650ee6e343",
+      "parameterSettings": []
+    },
+    "pvpGetHitAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Impacts/Impact_melee_flesh",
+      "eventGuid": "3756c272-e1e7-4562-a142-edb04b7b25ad",
+      "parameterSettings": [
+        {
+          "audioParameterName": "Velocity",
+          "paramData1": 2071308761,
+          "paramData2": 470795094,
+          "isStatic": true,
+          "staticValue": 25.0,
+          "gameParameterName": "",
+          "updateOnPlayingInstances": false
+        }
+      ]
+    },
+    "id": 0,
+    "name": "Main Audio Settings",
+    "category": ""
+  }
+]
+}

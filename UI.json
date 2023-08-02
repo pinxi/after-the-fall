@@ -1,0 +1,59 @@
+{
+  "TableId": 231,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "missionCompletedIcon": {
+      "assetName": "Icon_Notification_CompleteMission_02",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_Notification_CompleteMission_02.png",
+      "assetGUID": "c1e043097a6bf0b45ade1a3ae213d1b3",
+      "resourcePath": "Tooltips/Icon_Notification_CompleteMission_02",
+      "isSubAsset": false
+    },
+    "missionCompletedIconBorder": {
+      "assetName": "Icon_Notification_Background",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_Notification_Background.png",
+      "assetGUID": "4b64561bc652db64d8371316e7ede72f",
+      "resourcePath": "Tooltips/Icon_Notification_Background",
+      "isSubAsset": false
+    },
+    "questMarkerIcon": {
+      "assetName": "Icon_Notification_NewMission_02",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_Notification_NewMission_02.png",
+      "assetGUID": "56664c31d1b99ed4ba2cea5e6174684f",
+      "resourcePath": "Tooltips/Icon_Notification_NewMission_02",
+      "isSubAsset": false
+    },
+    "tutorialLineMaterial": {
+      "assetName": "TutorialLine",
+      "assetPath": "Assets/Prefabs/Tutorial/VertigoResources/TutorialLine.mat",
+      "assetGUID": "ccc676c02b13693448537bfcd2d21149",
+      "resourcePath": "TutorialLine",
+      "isSubAsset": false
+    },
+    "anchorTutorialPrefab": {
+      "assetName": "SimpleInstructionTutorial",
+      "assetPath": "Assets/Prefabs/Tutorial/VertigoResources/SimpleInstructionTutorial.prefab",
+      "assetGUID": "56bafa04dc7595442b4317124e67ee33",
+      "resourcePath": "SimpleInstructionTutorial",
+      "isSubAsset": false
+    },
+    "anchorToAnchorTutorialPrefab": {
+      "assetName": "TargetedInstructionTutorial",
+      "assetPath": "Assets/Prefabs/Tutorial/VertigoResources/TargetedInstructionTutorial.prefab",
+      "assetGUID": "46e98b91c7a0f804aa718ac13379ce47",
+      "resourcePath": "TargetedInstructionTutorial",
+      "isSubAsset": false
+    },
+    "upcomingContent": [
+      0
+    ],
+    "excludingSpecialsFromKillfeed": [
+      14
+    ],
+    "id": 0,
+    "name": "name",
+    "category": ""
+  }
+]
+}

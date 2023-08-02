@@ -1,0 +1,812 @@
+{
+  "TableId": 156,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "enabled": true,
+    "impactsHandPosition": true,
+    "velocity": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 2.0,
+          "outTangent": 2.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "velocityMultiplier": 4.0,
+    "impactsHandRotation": true,
+    "angluarVelocity": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 2.0,
+          "outTangent": 2.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "angularVelocityMultiplier": 4.0,
+    "id": 0,
+    "name": "Default Disabled",
+    "category": ""
+  },
+  {
+    "enabled": true,
+    "impactsHandPosition": true,
+    "velocity": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "velocityMultiplier": 22.0,
+    "impactsHandRotation": true,
+    "angluarVelocity": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "angularVelocityMultiplier": 24.0,
+    "id": 1,
+    "name": "Service Pistol",
+    "category": ""
+  },
+  {
+    "enabled": true,
+    "impactsHandPosition": true,
+    "velocity": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "velocityMultiplier": 17.0,
+    "impactsHandRotation": true,
+    "angluarVelocity": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "angularVelocityMultiplier": 15.0,
+    "id": 2,
+    "name": "Arizona Falcon",
+    "category": ""
+  },
+  {
+    "enabled": true,
+    "impactsHandPosition": true,
+    "velocity": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "velocityMultiplier": 18.0,
+    "impactsHandRotation": true,
+    "angluarVelocity": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "angularVelocityMultiplier": 17.0,
+    "id": 3,
+    "name": "Revolver",
+    "category": ""
+  },
+  {
+    "enabled": true,
+    "impactsHandPosition": true,
+    "velocity": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "velocityMultiplier": 16.0,
+    "impactsHandRotation": true,
+    "angluarVelocity": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "angularVelocityMultiplier": 13.0,
+    "id": 4,
+    "name": "Pump Shotgun",
+    "category": ""
+  },
+  {
+    "enabled": true,
+    "impactsHandPosition": true,
+    "velocity": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "velocityMultiplier": 18.5,
+    "impactsHandRotation": true,
+    "angluarVelocity": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "angularVelocityMultiplier": 17.0,
+    "id": 6,
+    "name": "SMG",
+    "category": ""
+  },
+  {
+    "enabled": true,
+    "impactsHandPosition": true,
+    "velocity": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "velocityMultiplier": 16.5,
+    "impactsHandRotation": true,
+    "angluarVelocity": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "angularVelocityMultiplier": 14.0,
+    "id": 7,
+    "name": "Assault Carbine",
+    "category": ""
+  },
+  {
+    "enabled": true,
+    "impactsHandPosition": true,
+    "velocity": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "velocityMultiplier": 16.0,
+    "impactsHandRotation": true,
+    "angluarVelocity": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "angularVelocityMultiplier": 13.0,
+    "id": 8,
+    "name": "MT-47",
+    "category": ""
+  },
+  {
+    "enabled": true,
+    "impactsHandPosition": true,
+    "velocity": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 2.0,
+          "outTangent": 2.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "velocityMultiplier": 0.0,
+    "impactsHandRotation": true,
+    "angluarVelocity": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 2.0,
+          "outTangent": 2.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "angularVelocityMultiplier": 0.0,
+    "id": 9,
+    "name": "Infected Weight",
+    "category": ""
+  },
+  {
+    "enabled": true,
+    "impactsHandPosition": true,
+    "velocity": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "velocityMultiplier": 13.0,
+    "impactsHandRotation": true,
+    "angluarVelocity": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "angularVelocityMultiplier": 10.0,
+    "id": 24,
+    "name": "LMG",
+    "category": ""
+  },
+  {
+    "enabled": true,
+    "impactsHandPosition": true,
+    "velocity": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "velocityMultiplier": 18.0,
+    "impactsHandRotation": true,
+    "angluarVelocity": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "angularVelocityMultiplier": 16.0,
+    "id": 25,
+    "name": "Tommy Gun",
+    "category": ""
+  },
+  {
+    "enabled": true,
+    "impactsHandPosition": true,
+    "velocity": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "velocityMultiplier": 12.0,
+    "impactsHandRotation": true,
+    "angluarVelocity": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "angularVelocityMultiplier": 9.0,
+    "id": 26,
+    "name": "Auto-Shotgun",
+    "category": ""
+  },
+  {
+    "enabled": true,
+    "impactsHandPosition": true,
+    "velocity": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "velocityMultiplier": 13.0,
+    "impactsHandRotation": true,
+    "angluarVelocity": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "angularVelocityMultiplier": 10.0,
+    "id": 27,
+    "name": "Lever-Action Rifle",
+    "category": ""
+  }
+]
+}

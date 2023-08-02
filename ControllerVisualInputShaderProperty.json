@@ -1,0 +1,2700 @@
+{
+  "TableId": 50004,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "highlightPropertyPerInputs": [
+      {
+        "inputName": "Oculus/Touch/Left/X/Touch",
+        "shaderPropertyNameX": "_XAHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Oculus/Touch/Left/X/Button",
+        "shaderPropertyNameX": "_XAHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Oculus/Touch/Left/Y/Touch",
+        "shaderPropertyNameX": "_YBHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Oculus/Touch/Left/Y/Button",
+        "shaderPropertyNameX": "_YBHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Oculus/Touch/Left/Grip",
+        "shaderPropertyNameX": "_GripHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Oculus/Touch/Left/ThumbStick/Touch",
+        "shaderPropertyNameX": "_JoystickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Oculus/Touch/Left/ThumbStick/Button",
+        "shaderPropertyNameX": "_JoystickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Oculus/Touch/Left/ThumbStick/Axis",
+        "shaderPropertyNameX": "_JoystickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Oculus/Touch/Left/Trigger/Touch",
+        "shaderPropertyNameX": "_TriggerHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Oculus/Touch/Left/Trigger/Axis",
+        "shaderPropertyNameX": "_TriggerHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Oculus/Touch/Left/Menu",
+        "shaderPropertyNameX": "_OculusHighlight",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "joystickAxisMultiplier": 0.45,
+    "invertJoystickXAxis": true,
+    "invertJoystickYAxis": false,
+    "inputPropertyPerInputs": [
+      {
+        "inputName": "Oculus/Touch/Left/X/Button",
+        "shaderPropertyNameX": "_XAPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Oculus/Touch/Left/Y/Button",
+        "shaderPropertyNameX": "_YBPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Oculus/Touch/Left/Trigger/Axis",
+        "shaderPropertyNameX": "_TriggerPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Oculus/Touch/Left/Menu",
+        "shaderPropertyNameX": "_OculusButtonPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Oculus/Touch/Left/ThumbStick/Axis",
+        "shaderPropertyNameX": "_JoystickXAxis",
+        "shaderPropertyNameY": "_JoystickYAxis"
+      },
+      {
+        "inputName": "Oculus/Touch/Left/Grip",
+        "shaderPropertyNameX": "_GripPressed",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "id": 0,
+    "name": "OculusLeft",
+    "category": ""
+  },
+  {
+    "highlightPropertyPerInputs": [
+      {
+        "inputName": "Oculus/Touch/Right/A/Touch",
+        "shaderPropertyNameX": "_XAHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Oculus/Touch/Right/A/Button",
+        "shaderPropertyNameX": "_XAHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Oculus/Touch/Right/B/Touch",
+        "shaderPropertyNameX": "_YBHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Oculus/Touch/Right/B/Button",
+        "shaderPropertyNameX": "_YBHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Oculus/Touch/Right/Grip",
+        "shaderPropertyNameX": "_GripHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Oculus/Touch/Right/ThumbStick/Touch",
+        "shaderPropertyNameX": "_JoystickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Oculus/Touch/Right/ThumbStick/Button",
+        "shaderPropertyNameX": "_JoystickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Oculus/Touch/Right/ThumbStick/Axis",
+        "shaderPropertyNameX": "_JoystickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Oculus/Touch/Right/Trigger/Touch",
+        "shaderPropertyNameX": "_TriggerHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Oculus/Touch/Right/Trigger/Axis",
+        "shaderPropertyNameX": "_TriggerHighlight",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "joystickAxisMultiplier": 0.45,
+    "invertJoystickXAxis": true,
+    "invertJoystickYAxis": false,
+    "inputPropertyPerInputs": [
+      {
+        "inputName": "Oculus/Touch/Right/A/Button",
+        "shaderPropertyNameX": "_XAPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Oculus/Touch/Right/B/Button",
+        "shaderPropertyNameX": "_YBPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Oculus/Touch/Right/Trigger/Axis",
+        "shaderPropertyNameX": "_TriggerPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Oculus/Touch/Right/ThumbStick/Axis",
+        "shaderPropertyNameX": "_JoystickXAxis",
+        "shaderPropertyNameY": "_JoystickYAxis"
+      },
+      {
+        "inputName": "Oculus/Touch/Right/Grip",
+        "shaderPropertyNameX": "_GripPressed",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "id": 1,
+    "name": "OculusRight",
+    "category": ""
+  },
+  {
+    "highlightPropertyPerInputs": [
+      {
+        "inputName": "Playstation/Aim/Cross",
+        "shaderPropertyNameX": "_CrossHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Dualshock/Cross",
+        "shaderPropertyNameX": "_CrossHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Aim/Circle",
+        "shaderPropertyNameX": "_CircleHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Dualshock/Circle",
+        "shaderPropertyNameX": "_CircleHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Aim/Square",
+        "shaderPropertyNameX": "_SquareHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Dualshock/Square",
+        "shaderPropertyNameX": "_SquareHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Aim/Triangle",
+        "shaderPropertyNameX": "_TriangleHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Dualshock/Triangle",
+        "shaderPropertyNameX": "_TriangleHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Aim/PSHome",
+        "shaderPropertyNameX": "_PS4Highlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Dualshock/PSHome",
+        "shaderPropertyNameX": "_PS4Highlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Aim/Options",
+        "shaderPropertyNameX": "_OptionHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Dualshock/Options",
+        "shaderPropertyNameX": "_OptionHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Aim/Share",
+        "shaderPropertyNameX": "_ShareHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Dualshock/Share",
+        "shaderPropertyNameX": "_ShareHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Aim/R1",
+        "shaderPropertyNameX": "_R1Highlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Dualshock/R1",
+        "shaderPropertyNameX": "_R1Highlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Aim/R2",
+        "shaderPropertyNameX": "_R2Highlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Dualshock/R2",
+        "shaderPropertyNameX": "_R2Highlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Aim/R3",
+        "shaderPropertyNameX": "_R3Highlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Aim/BackStick",
+        "shaderPropertyNameX": "_R3Highlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Dualshock/R3",
+        "shaderPropertyNameX": "_R3Highlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Dualshock/RightStick",
+        "shaderPropertyNameX": "_R3Highlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Aim/L1",
+        "shaderPropertyNameX": "_L1Highlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Dualshock/L1",
+        "shaderPropertyNameX": "_L1Highlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Aim/L2",
+        "shaderPropertyNameX": "_L2Highlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Dualshock/L2",
+        "shaderPropertyNameX": "_L2Highlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Aim/L3",
+        "shaderPropertyNameX": "_L3Highlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Dualshock/L3",
+        "shaderPropertyNameX": "_L3Highlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Aim/FrontStick",
+        "shaderPropertyNameX": "_L3Highlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Dualshock/LeftStick",
+        "shaderPropertyNameX": "_L3Highlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Aim/DPad",
+        "shaderPropertyNameX": "_ArrowsHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Dualshock/DPad",
+        "shaderPropertyNameX": "_ArrowsHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Dualshock/TouchPadPress",
+        "shaderPropertyNameX": "_TouchPadHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Dualshock/TouchPadTouchOne",
+        "shaderPropertyNameX": "_TouchPadHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Dualshock/TouchPadTouchTwo",
+        "shaderPropertyNameX": "_TouchPadHighlight",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "joystickAxisMultiplier": 1.0,
+    "invertJoystickXAxis": false,
+    "invertJoystickYAxis": false,
+    "inputPropertyPerInputs": [
+      {
+        "inputName": "Playstation/Aim/Cross",
+        "shaderPropertyNameX": "_CrossPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Dualshock/Cross",
+        "shaderPropertyNameX": "_CrossPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Aim/Circle",
+        "shaderPropertyNameX": "_CirclePressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Dualshock/Circle",
+        "shaderPropertyNameX": "_CirclePressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Aim/Square",
+        "shaderPropertyNameX": "_SquarePressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Dualshock/Square",
+        "shaderPropertyNameX": "_SquarePressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Aim/Triangle",
+        "shaderPropertyNameX": "_TrianglePressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Dualshock/Triangle",
+        "shaderPropertyNameX": "_TrianglePressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Aim/PSHome",
+        "shaderPropertyNameX": "_PS4Pressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Dualshock/PSHome",
+        "shaderPropertyNameX": "_PS4Pressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Aim/Options",
+        "shaderPropertyNameX": "_OptionPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Dualshock/Options",
+        "shaderPropertyNameX": "_OptionPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Aim/Share",
+        "shaderPropertyNameX": "_SharePressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Dualshock/Share",
+        "shaderPropertyNameX": "_SharePressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Aim/R1",
+        "shaderPropertyNameX": "_R1Pressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Dualshock/R1",
+        "shaderPropertyNameX": "_R1Pressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Aim/R2",
+        "shaderPropertyNameX": "_R2",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Dualshock/R2",
+        "shaderPropertyNameX": "_R2",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Aim/R3",
+        "shaderPropertyNameX": "_R3Pressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Dualshock/R3",
+        "shaderPropertyNameX": "_R3Pressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Aim/BackStick",
+        "shaderPropertyNameX": "_R3X",
+        "shaderPropertyNameY": "_R3Y"
+      },
+      {
+        "inputName": "Playstation/Dualshock/RightStick",
+        "shaderPropertyNameX": "_R3X",
+        "shaderPropertyNameY": "_R3Y"
+      },
+      {
+        "inputName": "Playstation/Aim/L1",
+        "shaderPropertyNameX": "_L1Pressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Dualshock/L1",
+        "shaderPropertyNameX": "_L1Pressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Aim/L2",
+        "shaderPropertyNameX": "_L2",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Dualshock/L2",
+        "shaderPropertyNameX": "_L2",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Aim/L3",
+        "shaderPropertyNameX": "_L3Pressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Dualshock/L3",
+        "shaderPropertyNameX": "_L3Pressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Aim/FrontStick",
+        "shaderPropertyNameX": "_L3X",
+        "shaderPropertyNameY": "_L3Y"
+      },
+      {
+        "inputName": "Playstation/Dualshock/LeftStick",
+        "shaderPropertyNameX": "_L3X",
+        "shaderPropertyNameY": "_L3Y"
+      },
+      {
+        "inputName": "Playstation/Aim/DPad",
+        "shaderPropertyNameX": "_ArrowsX",
+        "shaderPropertyNameY": "_ArrowsY"
+      }
+    ],
+    "id": 2,
+    "name": "PlaystationAimDualshock",
+    "category": ""
+  },
+  {
+    "highlightPropertyPerInputs": [
+      {
+        "inputName": "Playstation/Move/Left/Cross",
+        "shaderPropertyNameX": "_CrossHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Move/Left/Circle",
+        "shaderPropertyNameX": "_CircleHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Move/Left/Square",
+        "shaderPropertyNameX": "_SquareHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Move/Left/Triangle",
+        "shaderPropertyNameX": "_TriangleHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Move/Left/PSHome",
+        "shaderPropertyNameX": "_PS4Highlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Move/Left/Select",
+        "shaderPropertyNameX": "_SelectHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Move/Left/Start",
+        "shaderPropertyNameX": "_StartHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Move/Left/Action",
+        "shaderPropertyNameX": "_MoveHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Move/Left/Trigger",
+        "shaderPropertyNameX": "_TriggerHighlight",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "joystickAxisMultiplier": 1.0,
+    "invertJoystickXAxis": false,
+    "invertJoystickYAxis": false,
+    "inputPropertyPerInputs": [
+      {
+        "inputName": "Playstation/Move/Left/Cross",
+        "shaderPropertyNameX": "_CrossPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Move/Left/Circle",
+        "shaderPropertyNameX": "_CirclePressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Move/Left/Square",
+        "shaderPropertyNameX": "_SquarePressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Move/Left/Triangle",
+        "shaderPropertyNameX": "_TrianglePressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Move/Left/PSHome",
+        "shaderPropertyNameX": "_PS4Pressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Move/Left/Select",
+        "shaderPropertyNameX": "_SelectPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Move/Left/Start",
+        "shaderPropertyNameX": "_StartPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Move/Left/Action",
+        "shaderPropertyNameX": "_MovePressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Move/Left/Trigger",
+        "shaderPropertyNameX": "_TriggerPressed",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "id": 3,
+    "name": "PlaystationMoveLeft",
+    "category": ""
+  },
+  {
+    "highlightPropertyPerInputs": [
+      {
+        "inputName": "Playstation/Move/Right/Cross",
+        "shaderPropertyNameX": "_CrossHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Move/Right/Circle",
+        "shaderPropertyNameX": "_CircleHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Move/Right/Square",
+        "shaderPropertyNameX": "_SquareHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Move/Right/Triangle",
+        "shaderPropertyNameX": "_TriangleHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Move/Right/PSHome",
+        "shaderPropertyNameX": "_PS4Highlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Move/Right/Select",
+        "shaderPropertyNameX": "_SelectHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Move/Right/Start",
+        "shaderPropertyNameX": "_StartHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Move/Right/Action",
+        "shaderPropertyNameX": "_MoveHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Move/Right/Trigger",
+        "shaderPropertyNameX": "_TriggerHighlight",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "joystickAxisMultiplier": 1.0,
+    "invertJoystickXAxis": false,
+    "invertJoystickYAxis": false,
+    "inputPropertyPerInputs": [
+      {
+        "inputName": "Playstation/Move/Right/Cross",
+        "shaderPropertyNameX": "_CrossPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Move/Right/Circle",
+        "shaderPropertyNameX": "_CirclePressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Move/Right/Square",
+        "shaderPropertyNameX": "_SquarePressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Move/Right/Triangle",
+        "shaderPropertyNameX": "_TrianglePressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Move/Right/PSHome",
+        "shaderPropertyNameX": "_PS4Pressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Move/Right/Select",
+        "shaderPropertyNameX": "_SelectPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Move/Right/Start",
+        "shaderPropertyNameX": "_StartPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Move/Right/Action",
+        "shaderPropertyNameX": "_MovePressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Playstation/Move/Right/Trigger",
+        "shaderPropertyNameX": "_TriggerPressed",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "id": 4,
+    "name": "PlaystationMoveRight",
+    "category": ""
+  },
+  {
+    "highlightPropertyPerInputs": [
+      {
+        "inputName": "Vive/Wand/Left/Touchpad/Touch",
+        "shaderPropertyNameX": "_TouchHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Wand/Left/Touchpad/Button",
+        "shaderPropertyNameX": "_TouchHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Wand/Left/Touchpad/Axis",
+        "shaderPropertyNameX": "_TouchHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Wand/Left/Trigger",
+        "shaderPropertyNameX": "_TriggerHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Wand/Left/Grip",
+        "shaderPropertyNameX": "_GripLHighLight",
+        "shaderPropertyNameY": "_GripRHighLight"
+      },
+      {
+        "inputName": "Vive/Wand/Left/Menu",
+        "shaderPropertyNameX": "_MenuHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Wand/Left/SteamButton",
+        "shaderPropertyNameX": "_SystemHighLight",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "joystickAxisMultiplier": 1.0,
+    "invertJoystickXAxis": false,
+    "invertJoystickYAxis": false,
+    "inputPropertyPerInputs": [
+      {
+        "inputName": "Vive/Wand/Left/Touchpad/Axis",
+        "shaderPropertyNameX": "_TouchPadX",
+        "shaderPropertyNameY": "_TouchPadY"
+      },
+      {
+        "inputName": "Vive/Wand/Left/Trigger",
+        "shaderPropertyNameX": "_Trigger",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Wand/Left/Grip",
+        "shaderPropertyNameX": "_Grip_L",
+        "shaderPropertyNameY": "_Grip_R"
+      },
+      {
+        "inputName": "Vive/Wand/Left/Menu",
+        "shaderPropertyNameX": "_MenuButton",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Wand/Left/SteamButton",
+        "shaderPropertyNameX": "_SystemButton",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "id": 5,
+    "name": "HTCViveWandLeft",
+    "category": ""
+  },
+  {
+    "highlightPropertyPerInputs": [
+      {
+        "inputName": "Vive/Wand/Right/Touchpad/Touch",
+        "shaderPropertyNameX": "_TouchHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Wand/Right/Touchpad/Button",
+        "shaderPropertyNameX": "_TouchHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Wand/Right/Touchpad/Axis",
+        "shaderPropertyNameX": "_TouchHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Wand/Right/Trigger",
+        "shaderPropertyNameX": "_TriggerHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Wand/Right/Grip",
+        "shaderPropertyNameX": "_GripLHighLight",
+        "shaderPropertyNameY": "_GripRHighLight"
+      },
+      {
+        "inputName": "Vive/Wand/Right/Menu",
+        "shaderPropertyNameX": "_MenuHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Wand/Right/SteamButton",
+        "shaderPropertyNameX": "_SystemHighLight",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "joystickAxisMultiplier": 1.0,
+    "invertJoystickXAxis": false,
+    "invertJoystickYAxis": false,
+    "inputPropertyPerInputs": [
+      {
+        "inputName": "Vive/Wand/Right/Touchpad/Axis",
+        "shaderPropertyNameX": "_TouchPadX",
+        "shaderPropertyNameY": "_TouchPadY"
+      },
+      {
+        "inputName": "Vive/Wand/Right/Trigger",
+        "shaderPropertyNameX": "_Trigger",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Wand/Right/Grip",
+        "shaderPropertyNameX": "_Grip_L",
+        "shaderPropertyNameY": "_Grip_R"
+      },
+      {
+        "inputName": "Vive/Wand/Right/Menu",
+        "shaderPropertyNameX": "_MenuButton",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Wand/Right/SteamButton",
+        "shaderPropertyNameX": "_SystemButton",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "id": 6,
+    "name": "HTCViveWandRight",
+    "category": ""
+  },
+  {
+    "highlightPropertyPerInputs": [
+      {
+        "inputName": "Vive/Cosmos/Left/X",
+        "shaderPropertyNameX": "_XHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Cosmos/Left/Y",
+        "shaderPropertyNameX": "_YHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Cosmos/Left/ThumbStick/Touch",
+        "shaderPropertyNameX": "_ThumbStickHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Cosmos/Left/ThumbStick/Button",
+        "shaderPropertyNameX": "_ThumbStickHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Cosmos/Left/ThumbStick/Axis",
+        "shaderPropertyNameX": "_ThumbStickHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Cosmos/Left/Grip",
+        "shaderPropertyNameX": "_GripHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Cosmos/Left/Bumper",
+        "shaderPropertyNameX": "_L1HighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Cosmos/Left/Trigger/Touch",
+        "shaderPropertyNameX": "_L2HighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Cosmos/Left/Trigger/Button",
+        "shaderPropertyNameX": "_L2HighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Cosmos/Left/Trigger/Axis",
+        "shaderPropertyNameX": "_L2HighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Cosmos/Left/ViveButton",
+        "shaderPropertyNameX": "_HomeHighLight",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "joystickAxisMultiplier": 1.0,
+    "invertJoystickXAxis": true,
+    "invertJoystickYAxis": false,
+    "inputPropertyPerInputs": [
+      {
+        "inputName": "Vive/Cosmos/Left/X",
+        "shaderPropertyNameX": "_XButton",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Cosmos/Left/Y",
+        "shaderPropertyNameX": "_YButton",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Cosmos/Left/ThumbStick/Axis",
+        "shaderPropertyNameX": "_ThumbStickX",
+        "shaderPropertyNameY": "_ThumbStickY"
+      },
+      {
+        "inputName": "Vive/Cosmos/Left/ThumbStick/Button",
+        "shaderPropertyNameX": "_ThumbStick",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Cosmos/Left/Grip",
+        "shaderPropertyNameX": "_GripButton",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Cosmos/Left/Bumper",
+        "shaderPropertyNameX": "_L1Button",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Cosmos/Left/Trigger/Axis",
+        "shaderPropertyNameX": "_L2Button",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Cosmos/Left/ViveButton",
+        "shaderPropertyNameX": "_HomeButton",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "id": 7,
+    "name": "HTCViveCosmosLeft",
+    "category": ""
+  },
+  {
+    "highlightPropertyPerInputs": [
+      {
+        "inputName": "Vive/Cosmos/Right/A",
+        "shaderPropertyNameX": "_XHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Cosmos/Right/B",
+        "shaderPropertyNameX": "_YHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Cosmos/Right/ThumbStick/Touch",
+        "shaderPropertyNameX": "_ThumbStickHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Cosmos/Right/ThumbStick/Button",
+        "shaderPropertyNameX": "_ThumbStickHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Cosmos/Right/ThumbStick/Axis",
+        "shaderPropertyNameX": "_ThumbStickHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Cosmos/Right/Grip",
+        "shaderPropertyNameX": "_GripHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Cosmos/Right/Bumper",
+        "shaderPropertyNameX": "_L1HighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Cosmos/Right/Trigger/Touch",
+        "shaderPropertyNameX": "_L2HighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Cosmos/Right/Trigger/Button",
+        "shaderPropertyNameX": "_L2HighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Cosmos/Right/Trigger/Axis",
+        "shaderPropertyNameX": "_L2HighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Cosmos/Right/ViveButton",
+        "shaderPropertyNameX": "_HomeHighLight",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "joystickAxisMultiplier": 1.0,
+    "invertJoystickXAxis": true,
+    "invertJoystickYAxis": false,
+    "inputPropertyPerInputs": [
+      {
+        "inputName": "Vive/Cosmos/Right/A",
+        "shaderPropertyNameX": "_XButton",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Cosmos/Right/B",
+        "shaderPropertyNameX": "_YButton",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Cosmos/Right/ThumbStick/Axis",
+        "shaderPropertyNameX": "_ThumbStickX",
+        "shaderPropertyNameY": "_ThumbStickY"
+      },
+      {
+        "inputName": "Vive/Cosmos/Right/ThumbStick/Button",
+        "shaderPropertyNameX": "_ThumbStick",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Cosmos/Right/Grip",
+        "shaderPropertyNameX": "_GripButton",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Cosmos/Right/Bumper",
+        "shaderPropertyNameX": "_L1Button",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Cosmos/Right/Trigger/Axis",
+        "shaderPropertyNameX": "_L2Button",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Vive/Cosmos/Right/ViveButton",
+        "shaderPropertyNameX": "_HomeButton",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "id": 8,
+    "name": "HTCViveCosmosRight",
+    "category": ""
+  },
+  {
+    "highlightPropertyPerInputs": [
+      {
+        "inputName": "Valve/Knuckle/Left/ThumbStick/Touch",
+        "shaderPropertyNameX": "_ThumbStickHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Valve/Knuckle/Left/ThumbStick/Button",
+        "shaderPropertyNameX": "_ThumbStickHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Valve/Knuckle/Left/ThumbStick/Axis",
+        "shaderPropertyNameX": "_ThumbStickHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Valve/Knuckle/Left/A/Touch",
+        "shaderPropertyNameX": "_AHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Valve/Knuckle/Left/A/Button",
+        "shaderPropertyNameX": "_AHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Valve/Knuckle/Left/B/Touch",
+        "shaderPropertyNameX": "_BHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Valve/Knuckle/Left/B/Button",
+        "shaderPropertyNameX": "_BHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Valve/Knuckle/Left/Trigger/Touch",
+        "shaderPropertyNameX": "_TriggerHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Valve/Knuckle/Left/Trigger/Axis",
+        "shaderPropertyNameX": "_TriggerHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Valve/Knuckle/Left/Touchpad/Touch",
+        "shaderPropertyNameX": "_TouchHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Valve/Knuckle/Left/Touchpad/Button",
+        "shaderPropertyNameX": "_TouchHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Valve/Knuckle/Left/Touchpad/Axis",
+        "shaderPropertyNameX": "_TouchHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Valve/Knuckle/Left/Grip",
+        "shaderPropertyNameX": "_GripHighLight",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "joystickAxisMultiplier": 1.0,
+    "invertJoystickXAxis": false,
+    "invertJoystickYAxis": false,
+    "inputPropertyPerInputs": [
+      {
+        "inputName": "Valve/Knuckle/Left/ThumbStick/Button",
+        "shaderPropertyNameX": "_ThumbStickButton",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Valve/Knuckle/Left/ThumbStick/Axis",
+        "shaderPropertyNameX": "_ThumbStickX",
+        "shaderPropertyNameY": "_ThumbStickY"
+      },
+      {
+        "inputName": "Valve/Knuckle/Left/A/Button",
+        "shaderPropertyNameX": "_A",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Valve/Knuckle/Left/B/Button",
+        "shaderPropertyNameX": "_B",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Valve/Knuckle/Left/Trigger/Axis",
+        "shaderPropertyNameX": "_Trigger",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "id": 9,
+    "name": "ValveKnuckleLeft",
+    "category": ""
+  },
+  {
+    "highlightPropertyPerInputs": [
+      {
+        "inputName": "Valve/Knuckle/Right/ThumbStick/Touch",
+        "shaderPropertyNameX": "_ThumbStickHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Valve/Knuckle/Right/ThumbStick/Button",
+        "shaderPropertyNameX": "_ThumbStickHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Valve/Knuckle/Right/ThumbStick/Axis",
+        "shaderPropertyNameX": "_ThumbStickHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Valve/Knuckle/Right/A/Touch",
+        "shaderPropertyNameX": "_AHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Valve/Knuckle/Right/A/Button",
+        "shaderPropertyNameX": "_AHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Valve/Knuckle/Right/B/Touch",
+        "shaderPropertyNameX": "_BHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Valve/Knuckle/Right/B/Button",
+        "shaderPropertyNameX": "_BHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Valve/Knuckle/Right/Trigger/Touch",
+        "shaderPropertyNameX": "_TriggerHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Valve/Knuckle/Right/Trigger/Axis",
+        "shaderPropertyNameX": "_TriggerHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Valve/Knuckle/Right/Touchpad/Touch",
+        "shaderPropertyNameX": "_TouchHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Valve/Knuckle/Right/Touchpad/Button",
+        "shaderPropertyNameX": "_TouchHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Valve/Knuckle/Right/Touchpad/Axis",
+        "shaderPropertyNameX": "_TouchHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Valve/Knuckle/Right/Grip",
+        "shaderPropertyNameX": "_GripHighLight",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "joystickAxisMultiplier": 1.0,
+    "invertJoystickXAxis": false,
+    "invertJoystickYAxis": false,
+    "inputPropertyPerInputs": [
+      {
+        "inputName": "Valve/Knuckle/Right/ThumbStick/Button",
+        "shaderPropertyNameX": "_ThumbStickButton",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Valve/Knuckle/Right/ThumbStick/Axis",
+        "shaderPropertyNameX": "_ThumbStickX",
+        "shaderPropertyNameY": "_ThumbStickY"
+      },
+      {
+        "inputName": "Valve/Knuckle/Right/A/Button",
+        "shaderPropertyNameX": "_A",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Valve/Knuckle/Right/B/Button",
+        "shaderPropertyNameX": "_B",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Valve/Knuckle/Right/Trigger/Axis",
+        "shaderPropertyNameX": "_Trigger",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "id": 10,
+    "name": "ValveKnuckleRight",
+    "category": ""
+  },
+  {
+    "highlightPropertyPerInputs": [
+      {
+        "inputName": "WMR/HP Motion Controller/Left/X",
+        "shaderPropertyNameX": "_XHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/HP Motion Controller/Left/Y",
+        "shaderPropertyNameX": "_YHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/HP Motion Controller/Left/Stick/Touch",
+        "shaderPropertyNameX": "_ThumbStickHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/HP Motion Controller/Left/Stick/Button",
+        "shaderPropertyNameX": "_ThumbStickHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/HP Motion Controller/Left/Stick/Axis",
+        "shaderPropertyNameX": "_ThumbStickHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/HP Motion Controller/Left/Menu",
+        "shaderPropertyNameX": "_ButtonHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/HP Motion Controller/Left/WindowsHome",
+        "shaderPropertyNameX": "_WindowsHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/HP Motion Controller/Left/Trigger",
+        "shaderPropertyNameX": "_TriggerHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/HP Motion Controller/Left/Grip/Touch",
+        "shaderPropertyNameX": "_GripHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/HP Motion Controller/Left/Grip/Axis",
+        "shaderPropertyNameX": "_GripHighLight",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "joystickAxisMultiplier": 1.0,
+    "invertJoystickXAxis": true,
+    "invertJoystickYAxis": false,
+    "inputPropertyPerInputs": [
+      {
+        "inputName": "WMR/HP Motion Controller/Left/X",
+        "shaderPropertyNameX": "_X",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/HP Motion Controller/Left/Y",
+        "shaderPropertyNameX": "_Y",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/HP Motion Controller/Left/Stick/Button",
+        "shaderPropertyNameX": "_ThubStick",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/HP Motion Controller/Left/Stick/Axis",
+        "shaderPropertyNameX": "_ThumbStickX",
+        "shaderPropertyNameY": "_ThumbStickY"
+      },
+      {
+        "inputName": "WMR/HP Motion Controller/Left/Menu",
+        "shaderPropertyNameX": "_Button",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/HP Motion Controller/Left/WindowsHome",
+        "shaderPropertyNameX": "_Windows",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/HP Motion Controller/Left/Trigger",
+        "shaderPropertyNameX": "_Trigger",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/HP Motion Controller/Left/Grip/Axis",
+        "shaderPropertyNameX": "_Grip",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "id": 11,
+    "name": "HPMotionControllerLeft",
+    "category": ""
+  },
+  {
+    "highlightPropertyPerInputs": [
+      {
+        "inputName": "WMR/HP Motion Controller/Right/A",
+        "shaderPropertyNameX": "_XHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/HP Motion Controller/Right/B",
+        "shaderPropertyNameX": "_YHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/HP Motion Controller/Right/Stick/Touch",
+        "shaderPropertyNameX": "_ThumbStickHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/HP Motion Controller/Right/Stick/Button",
+        "shaderPropertyNameX": "_ThumbStickHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/HP Motion Controller/Right/Stick/Axis",
+        "shaderPropertyNameX": "_ThumbStickHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/HP Motion Controller/Right/Menu",
+        "shaderPropertyNameX": "_ButtonHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/HP Motion Controller/Right/WindowsHome",
+        "shaderPropertyNameX": "_WindowsHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/HP Motion Controller/Right/Trigger",
+        "shaderPropertyNameX": "_TriggerHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/HP Motion Controller/Right/Grip/Touch",
+        "shaderPropertyNameX": "_GripHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/HP Motion Controller/Right/Grip/Axis",
+        "shaderPropertyNameX": "_GripHighLight",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "joystickAxisMultiplier": 1.0,
+    "invertJoystickXAxis": true,
+    "invertJoystickYAxis": false,
+    "inputPropertyPerInputs": [
+      {
+        "inputName": "WMR/HP Motion Controller/Right/A",
+        "shaderPropertyNameX": "_X",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/HP Motion Controller/Right/B",
+        "shaderPropertyNameX": "_Y",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/HP Motion Controller/Right/Stick/Button",
+        "shaderPropertyNameX": "_ThubStick",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/HP Motion Controller/Right/Stick/Axis",
+        "shaderPropertyNameX": "_ThumbStickX",
+        "shaderPropertyNameY": "_ThumbStickY"
+      },
+      {
+        "inputName": "WMR/HP Motion Controller/Right/Menu",
+        "shaderPropertyNameX": "_Button",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/HP Motion Controller/Right/WindowsHome",
+        "shaderPropertyNameX": "_Windows",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/HP Motion Controller/Right/Trigger",
+        "shaderPropertyNameX": "_Trigger",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/HP Motion Controller/Right/Grip/Axis",
+        "shaderPropertyNameX": "_Grip",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "id": 12,
+    "name": "HPMotionControllerRight",
+    "category": ""
+  },
+  {
+    "highlightPropertyPerInputs": [
+      {
+        "inputName": "WMR/Spatial Controller/Left/Stick/Button",
+        "shaderPropertyNameX": "_ThumbStickHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/Spatial Controller/Left/Stick/Axis",
+        "shaderPropertyNameX": "_ThumbStickHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/Spatial Controller/Left/Touchpad/Button",
+        "shaderPropertyNameX": "_TouchPadHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/Spatial Controller/Left/Touchpad/Axis",
+        "shaderPropertyNameX": "_TouchPadHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/Spatial Controller/Left/Menu",
+        "shaderPropertyNameX": "_ButtonHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/Spatial Controller/Left/WindowsHome",
+        "shaderPropertyNameX": "_WindowsHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/Spatial Controller/Left/Trigger",
+        "shaderPropertyNameX": "_TriggerHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/Spatial Controller/Left/Grip",
+        "shaderPropertyNameX": "_GripHighLight",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "joystickAxisMultiplier": 1.0,
+    "invertJoystickXAxis": false,
+    "invertJoystickYAxis": false,
+    "inputPropertyPerInputs": [
+      {
+        "inputName": "WMR/Spatial Controller/Left/Stick/Button",
+        "shaderPropertyNameX": "_ThumbStick",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/Spatial Controller/Left/Stick/Axis",
+        "shaderPropertyNameX": "_ThumbStick_X",
+        "shaderPropertyNameY": "_ThumbStick_Y"
+      },
+      {
+        "inputName": "WMR/Spatial Controller/Left/Touchpad/Button",
+        "shaderPropertyNameX": "_TouchPad",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/Spatial Controller/Left/Menu",
+        "shaderPropertyNameX": "_Button",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/Spatial Controller/Left/WindowsHome",
+        "shaderPropertyNameX": "_WindowsButton",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/Spatial Controller/Left/Trigger",
+        "shaderPropertyNameX": "_Trigger",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/Spatial Controller/Left/Grip",
+        "shaderPropertyNameX": "_Grip",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "id": 13,
+    "name": "SpatialControllerLeft",
+    "category": ""
+  },
+  {
+    "highlightPropertyPerInputs": [
+      {
+        "inputName": "WMR/Spatial Controller/Right/Stick/Button",
+        "shaderPropertyNameX": "_ThumbStickHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/Spatial Controller/Right/Stick/Axis",
+        "shaderPropertyNameX": "_ThumbStickHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/Spatial Controller/Right/Touchpad/Button",
+        "shaderPropertyNameX": "_TouchPadHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/Spatial Controller/Right/Touchpad/Axis",
+        "shaderPropertyNameX": "_TouchPadHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/Spatial Controller/Right/Menu",
+        "shaderPropertyNameX": "_ButtonHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/Spatial Controller/Right/WindowsHome",
+        "shaderPropertyNameX": "_WindowsHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/Spatial Controller/Right/Trigger",
+        "shaderPropertyNameX": "_TriggerHighLight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/Spatial Controller/Right/Grip",
+        "shaderPropertyNameX": "_GripHighLight",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "joystickAxisMultiplier": 1.0,
+    "invertJoystickXAxis": false,
+    "invertJoystickYAxis": false,
+    "inputPropertyPerInputs": [
+      {
+        "inputName": "WMR/Spatial Controller/Right/Stick/Button",
+        "shaderPropertyNameX": "_ThumbStick",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/Spatial Controller/Right/Stick/Axis",
+        "shaderPropertyNameX": "_ThumbStick_X",
+        "shaderPropertyNameY": "_ThumbStick_Y"
+      },
+      {
+        "inputName": "WMR/Spatial Controller/Right/Touchpad/Button",
+        "shaderPropertyNameX": "_TouchPad",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/Spatial Controller/Right/Menu",
+        "shaderPropertyNameX": "_Button",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/Spatial Controller/Right/WindowsHome",
+        "shaderPropertyNameX": "_WindowsButton",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/Spatial Controller/Right/Trigger",
+        "shaderPropertyNameX": "_Trigger",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "WMR/Spatial Controller/Right/Grip",
+        "shaderPropertyNameX": "_Grip",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "id": 14,
+    "name": "SpatialControllerRight",
+    "category": ""
+  },
+  {
+    "highlightPropertyPerInputs": [
+      {
+        "inputName": "Qiyu/Qiyu3/Left/X/Button",
+        "shaderPropertyNameX": "_XAHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Left/Y/Button",
+        "shaderPropertyNameX": "_YBHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Left/Menu",
+        "shaderPropertyNameX": "_OculusHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Left/ThumbStick/Axis",
+        "shaderPropertyNameX": "_JoystickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Left/ThumbStick/Button",
+        "shaderPropertyNameX": "_JoystickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Left/Trigger/Axis",
+        "shaderPropertyNameX": "_TriggerHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Left/Grip",
+        "shaderPropertyNameX": "_GripHighlight",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "joystickAxisMultiplier": 1.0,
+    "invertJoystickXAxis": false,
+    "invertJoystickYAxis": false,
+    "inputPropertyPerInputs": [
+      {
+        "inputName": "Qiyu/Qiyu3/Left/X/Button",
+        "shaderPropertyNameX": "_XAPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Left/Y/Button",
+        "shaderPropertyNameX": "_YBPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Left/Menu",
+        "shaderPropertyNameX": "_OculusButtonPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Left/ThumbStick/Axis",
+        "shaderPropertyNameX": "_JoystickXAxis",
+        "shaderPropertyNameY": "_JoystickYAxis"
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Left/ThumbStick/Button",
+        "shaderPropertyNameX": "_JoystickXAxis",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Left/Trigger/Axis",
+        "shaderPropertyNameX": "_TriggerPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Left/Grip",
+        "shaderPropertyNameX": "_GripPressed",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "id": 15,
+    "name": "Qiyu3ControllerLeft",
+    "category": ""
+  },
+  {
+    "highlightPropertyPerInputs": [
+      {
+        "inputName": "Qiyu/Qiyu3/Right/A/Button",
+        "shaderPropertyNameX": "_XAHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Right/B/Button",
+        "shaderPropertyNameX": "_YBHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Right/ThumbStick/Axis",
+        "shaderPropertyNameX": "_JoystickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Right/ThumbStick/Button",
+        "shaderPropertyNameX": "_JoystickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Right/Trigger/Axis",
+        "shaderPropertyNameX": "_TriggerHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Right/Grip",
+        "shaderPropertyNameX": "_GripHighlight",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "joystickAxisMultiplier": 1.0,
+    "invertJoystickXAxis": false,
+    "invertJoystickYAxis": false,
+    "inputPropertyPerInputs": [
+      {
+        "inputName": "Qiyu/Qiyu3/Right/A/Button",
+        "shaderPropertyNameX": "_XAPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Right/B/Button",
+        "shaderPropertyNameX": "_YBPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Right/ThumbStick/Axis",
+        "shaderPropertyNameX": "_JoystickXAxis",
+        "shaderPropertyNameY": "_JoystickYAxis"
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Right/ThumbStick/Button",
+        "shaderPropertyNameX": "_JoystickXAxis",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Right/Trigger/Axis",
+        "shaderPropertyNameX": "_TriggerPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Right/Grip",
+        "shaderPropertyNameX": "_GripPressed",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "id": 16,
+    "name": "Qiyu3ControllerRight",
+    "category": ""
+  },
+  {
+    "highlightPropertyPerInputs": [
+      {
+        "inputName": "Qiyu/Qiyu3/Left/X/Button",
+        "shaderPropertyNameX": "_XAHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Left/Y/Button",
+        "shaderPropertyNameX": "_YBHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Left/Menu",
+        "shaderPropertyNameX": "_OculusHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Left/ThumbStick/Axis",
+        "shaderPropertyNameX": "_JoystickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Left/ThumbStick/Button",
+        "shaderPropertyNameX": "_JoystickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Left/Trigger/Axis",
+        "shaderPropertyNameX": "_TriggerHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Left/Grip",
+        "shaderPropertyNameX": "_GripHighlight",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "joystickAxisMultiplier": 1.0,
+    "invertJoystickXAxis": false,
+    "invertJoystickYAxis": false,
+    "inputPropertyPerInputs": [
+      {
+        "inputName": "Qiyu/Qiyu3/Left/X/Button",
+        "shaderPropertyNameX": "_XAPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Left/Y/Button",
+        "shaderPropertyNameX": "_YBPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Left/Menu",
+        "shaderPropertyNameX": "_OculusButtonPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Left/ThumbStick/Axis",
+        "shaderPropertyNameX": "_JoystickXAxis",
+        "shaderPropertyNameY": "_JoystickYAxis"
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Left/ThumbStick/Button",
+        "shaderPropertyNameX": "_JoystickXAxis",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Left/Trigger/Axis",
+        "shaderPropertyNameX": "_TriggerPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Left/Grip",
+        "shaderPropertyNameX": "_GripPressed",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "id": 17,
+    "name": "QiyuDreamControllerLeft",
+    "category": ""
+  },
+  {
+    "highlightPropertyPerInputs": [
+      {
+        "inputName": "Qiyu/Qiyu3/Right/A/Button",
+        "shaderPropertyNameX": "_XAHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Right/B/Button",
+        "shaderPropertyNameX": "_YBHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Right/ThumbStick/Axis",
+        "shaderPropertyNameX": "_JoystickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Right/ThumbStick/Button",
+        "shaderPropertyNameX": "_JoystickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Right/Trigger/Axis",
+        "shaderPropertyNameX": "_TriggerHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Right/Grip",
+        "shaderPropertyNameX": "_GripHighlight",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "joystickAxisMultiplier": 1.0,
+    "invertJoystickXAxis": false,
+    "invertJoystickYAxis": false,
+    "inputPropertyPerInputs": [
+      {
+        "inputName": "Qiyu/Qiyu3/Right/A/Button",
+        "shaderPropertyNameX": "_XAPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Right/B/Button",
+        "shaderPropertyNameX": "_YBPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Right/ThumbStick/Axis",
+        "shaderPropertyNameX": "_JoystickXAxis",
+        "shaderPropertyNameY": "_JoystickYAxis"
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Right/ThumbStick/Button",
+        "shaderPropertyNameX": "_JoystickXAxis",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Right/Trigger/Axis",
+        "shaderPropertyNameX": "_TriggerPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Qiyu/Qiyu3/Right/Grip",
+        "shaderPropertyNameX": "_GripPressed",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "id": 18,
+    "name": "QiyuDreamControllerRight",
+    "category": ""
+  },
+  {
+    "highlightPropertyPerInputs": [
+      {
+        "inputName": "Pico/PicoNeo3/Left/X/Button",
+        "shaderPropertyNameX": "_XAHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/PicoNeo3/Left/Y/Button",
+        "shaderPropertyNameX": "_YBHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/PicoNeo3/Left/Menu",
+        "shaderPropertyNameX": "_OculusHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/PicoNeo3/Left/ThumbStick/Axis",
+        "shaderPropertyNameX": "_JoystickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/PicoNeo3/Left/ThumbStick/Button",
+        "shaderPropertyNameX": "_JoystickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/PicoNeo3/Left/Trigger/Axis",
+        "shaderPropertyNameX": "_TriggerHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/PicoNeo3/Left/Grip",
+        "shaderPropertyNameX": "_GripHighlight",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "joystickAxisMultiplier": 1.0,
+    "invertJoystickXAxis": false,
+    "invertJoystickYAxis": false,
+    "inputPropertyPerInputs": [
+      {
+        "inputName": "Pico/PicoNeo3/Left/X/Button",
+        "shaderPropertyNameX": "_XAPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/PicoNeo3/Left/Y/Button",
+        "shaderPropertyNameX": "_YBPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/PicoNeo3/Left/Menu",
+        "shaderPropertyNameX": "_OculusButtonPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/PicoNeo3/Left/ThumbStick/Axis",
+        "shaderPropertyNameX": "_JoystickXAxis",
+        "shaderPropertyNameY": "_JoystickYAxis"
+      },
+      {
+        "inputName": "Pico/PicoNeo3/Left/ThumbStick/Button",
+        "shaderPropertyNameX": "_JoystickXAxis",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/PicoNeo3/Left/Trigger/Axis",
+        "shaderPropertyNameX": "_TriggerPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/PicoNeo3/Left/Grip",
+        "shaderPropertyNameX": "_GripPressed",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "id": 19,
+    "name": "PicoNeo3ControllerLeft",
+    "category": ""
+  },
+  {
+    "highlightPropertyPerInputs": [
+      {
+        "inputName": "Pico/PicoNeo3/Right/A/Button",
+        "shaderPropertyNameX": "_XAHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/PicoNeo3/Right/B/Button",
+        "shaderPropertyNameX": "_YBHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/PicoNeo3/Right/ThumbStick/Axis",
+        "shaderPropertyNameX": "_JoystickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/PicoNeo3/Right/ThumbStick/Button",
+        "shaderPropertyNameX": "_JoystickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/PicoNeo3/Right/Trigger/Axis",
+        "shaderPropertyNameX": "_TriggerHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/PicoNeo3/Right/Grip",
+        "shaderPropertyNameX": "_GripHighlight",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "joystickAxisMultiplier": 1.0,
+    "invertJoystickXAxis": false,
+    "invertJoystickYAxis": false,
+    "inputPropertyPerInputs": [
+      {
+        "inputName": "Pico/PicoNeo3/Right/A/Button",
+        "shaderPropertyNameX": "_XAPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/PicoNeo3/Right/B/Button",
+        "shaderPropertyNameX": "_YBPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/PicoNeo3/Right/ThumbStick/Axis",
+        "shaderPropertyNameX": "_JoystickXAxis",
+        "shaderPropertyNameY": "_JoystickYAxis"
+      },
+      {
+        "inputName": "Pico/PicoNeo3/Right/ThumbStick/Button",
+        "shaderPropertyNameX": "_JoystickXAxis",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/PicoNeo3/Right/Trigger/Axis",
+        "shaderPropertyNameX": "_TriggerPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/PicoNeo3/Right/Grip",
+        "shaderPropertyNameX": "_GripPressed",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "id": 20,
+    "name": "PicoNeo3ControllerRight",
+    "category": ""
+  },
+  {
+    "highlightPropertyPerInputs": [
+      {
+        "inputName": "YVR/Left/X/Touch",
+        "shaderPropertyNameX": "_XAHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "YVR/Left/X/Button",
+        "shaderPropertyNameX": "_XAHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "YVR/Left/Y/Touch",
+        "shaderPropertyNameX": "_YBHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "YVR/Left/Y/Button",
+        "shaderPropertyNameX": "_YBHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "YVR/Left/Grip",
+        "shaderPropertyNameX": "_GripHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "YVR/Left/ThumbStick/Touch",
+        "shaderPropertyNameX": "_JoystickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "YVR/Left/ThumbStick/Button",
+        "shaderPropertyNameX": "_JoystickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "YVR/Left/ThumbStick/Axis",
+        "shaderPropertyNameX": "_JoystickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "YVR/Left/Trigger/Touch",
+        "shaderPropertyNameX": "_TriggerHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "YVR/Left/Trigger/Axis",
+        "shaderPropertyNameX": "_TriggerHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "YVR/Left/Menu",
+        "shaderPropertyNameX": "_OculusHighlight",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "joystickAxisMultiplier": 0.45,
+    "invertJoystickXAxis": true,
+    "invertJoystickYAxis": false,
+    "inputPropertyPerInputs": [
+      {
+        "inputName": "YVR/Left/X/Button",
+        "shaderPropertyNameX": "_XAPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "YVR/Left/Y/Button",
+        "shaderPropertyNameX": "_YBPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "YVR/Left/Trigger/Axis",
+        "shaderPropertyNameX": "_TriggerPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "YVR/Left/Menu",
+        "shaderPropertyNameX": "_OculusButtonPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "YVR/Left/ThumbStick/Axis",
+        "shaderPropertyNameX": "_JoystickXAxis",
+        "shaderPropertyNameY": "_JoystickYAxis"
+      },
+      {
+        "inputName": "YVR/Left/Grip",
+        "shaderPropertyNameX": "_GripPressed",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "id": 21,
+    "name": "YVRLeft",
+    "category": ""
+  },
+  {
+    "highlightPropertyPerInputs": [
+      {
+        "inputName": "YVR/Right/A/Touch",
+        "shaderPropertyNameX": "_XAHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "YVR/Right/A/Button",
+        "shaderPropertyNameX": "_XAHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "YVR/Right/B/Touch",
+        "shaderPropertyNameX": "_YBHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "YVR/Right/B/Button",
+        "shaderPropertyNameX": "_YBHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "YVR/Right/Grip",
+        "shaderPropertyNameX": "_GripHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "YVR/Right/ThumbStick/Touch",
+        "shaderPropertyNameX": "_JoystickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "YVR/Right/ThumbStick/Button",
+        "shaderPropertyNameX": "_JoystickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "YVR/Right/ThumbStick/Axis",
+        "shaderPropertyNameX": "_JoystickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "YVR/Right/Trigger/Touch",
+        "shaderPropertyNameX": "_TriggerHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "YVR/Right/Trigger/Axis",
+        "shaderPropertyNameX": "_TriggerHighlight",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "joystickAxisMultiplier": 0.45,
+    "invertJoystickXAxis": true,
+    "invertJoystickYAxis": false,
+    "inputPropertyPerInputs": [
+      {
+        "inputName": "YVR/Right/A/Button",
+        "shaderPropertyNameX": "_XAPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "YVR/Right/B/Button",
+        "shaderPropertyNameX": "_YBPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "YVR/Right/Trigger/Axis",
+        "shaderPropertyNameX": "_TriggerPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "YVR/Right/ThumbStick/Axis",
+        "shaderPropertyNameX": "_JoystickXAxis",
+        "shaderPropertyNameY": "_JoystickYAxis"
+      },
+      {
+        "inputName": "YVR/Right/Grip",
+        "shaderPropertyNameX": "_GripPressed",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "id": 22,
+    "name": "YVRRight",
+    "category": ""
+  },
+  {
+    "highlightPropertyPerInputs": [
+      {
+        "inputName": "Pico/Phoenix/Left/X/Touch",
+        "shaderPropertyNameX": "_XAHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/Phoenix/Left/X/Button",
+        "shaderPropertyNameX": "_XAHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/Phoenix/Left/Y/Touch",
+        "shaderPropertyNameX": "_YBHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/Phoenix/Left/Y/Button",
+        "shaderPropertyNameX": "_YBHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/Phoenix/Left/Grip",
+        "shaderPropertyNameX": "_GripHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/Phoenix/Left/ThumbStick/Touch",
+        "shaderPropertyNameX": "_JoystickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/Phoenix/Left/ThumbStick/Button",
+        "shaderPropertyNameX": "_JoystickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/Phoenix/Left/ThumbStick/Axis",
+        "shaderPropertyNameX": "_JoystickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/Phoenix/Left/Trigger/Touch",
+        "shaderPropertyNameX": "_TriggerHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/Phoenix/Left/Trigger/Axis",
+        "shaderPropertyNameX": "_TriggerHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/Phoenix/Left/Menu",
+        "shaderPropertyNameX": "_OculusHighlight",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "joystickAxisMultiplier": 0.45,
+    "invertJoystickXAxis": true,
+    "invertJoystickYAxis": false,
+    "inputPropertyPerInputs": [
+      {
+        "inputName": "Pico/Phoenix/Left/X/Button",
+        "shaderPropertyNameX": "_XAPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/Phoenix/Left/Y/Button",
+        "shaderPropertyNameX": "_YBPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/Phoenix/Left/Trigger/Axis",
+        "shaderPropertyNameX": "_TriggerPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/Phoenix/Left/Menu",
+        "shaderPropertyNameX": "_OculusButtonPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/Phoenix/Left/Trigger/Axis",
+        "shaderPropertyNameX": "_JoystickXAxis",
+        "shaderPropertyNameY": "_JoystickYAxis"
+      },
+      {
+        "inputName": "Pico/Phoenix/Left/Grip",
+        "shaderPropertyNameX": "_GripPressed",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "id": 23,
+    "name": "PicoPhoenixControllerLeft",
+    "category": ""
+  },
+  {
+    "highlightPropertyPerInputs": [
+      {
+        "inputName": "Pico/Phoenix/Right/A/Touch",
+        "shaderPropertyNameX": "_XAHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/Phoenix/Right/A/Button",
+        "shaderPropertyNameX": "_XAHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/Phoenix/Right/B/Touch",
+        "shaderPropertyNameX": "_YBHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/Phoenix/Right/B/Button",
+        "shaderPropertyNameX": "_YBHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/Phoenix/Right/Grip",
+        "shaderPropertyNameX": "_GripHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/Phoenix/Right/ThumbStick/Touch",
+        "shaderPropertyNameX": "_JoystickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/Phoenix/Right/ThumbStick/Button",
+        "shaderPropertyNameX": "_JoystickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/Phoenix/Right/ThumbStick/Axis",
+        "shaderPropertyNameX": "_JoystickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/Phoenix/Right/Trigger/Touch",
+        "shaderPropertyNameX": "_TriggerHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/Phoenix/Right/Trigger/Axis",
+        "shaderPropertyNameX": "_TriggerHighlight",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "joystickAxisMultiplier": 0.45,
+    "invertJoystickXAxis": true,
+    "invertJoystickYAxis": false,
+    "inputPropertyPerInputs": [
+      {
+        "inputName": "Pico/Phoenix/Right/A/Button",
+        "shaderPropertyNameX": "_XAPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/Phoenix/Right/B/Button",
+        "shaderPropertyNameX": "_YBPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/Phoenix/Right/Trigger/Axis",
+        "shaderPropertyNameX": "_TriggerPressed",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "Pico/Phoenix/Right/ThumbStick/Axis",
+        "shaderPropertyNameX": "_JoystickXAxis",
+        "shaderPropertyNameY": "_JoystickYAxis"
+      },
+      {
+        "inputName": "Pico/Phoenix/Right/Grip",
+        "shaderPropertyNameX": "_GripPressed",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "id": 24,
+    "name": "PicoPhoenixControllerRight",
+    "category": ""
+  },
+  {
+    "highlightPropertyPerInputs": [
+      {
+        "inputName": "PSVR2/Sense/Left/Triangle/Touch",
+        "shaderPropertyNameX": "_OHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "PSVR2/Sense/Left/Triangle/Button",
+        "shaderPropertyNameX": "_OHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "PSVR2/Sense/Left/Square/Touch",
+        "shaderPropertyNameX": "_XHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "PSVR2/Sense/Left/Square/Button",
+        "shaderPropertyNameX": "_XHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "PSVR2/Sense/Left/Thumbstick/Touch",
+        "shaderPropertyNameX": "_ThumbstickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "PSVR2/Sense/Left/Thumbstick/Button",
+        "shaderPropertyNameX": "_ThumbstickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "PSVR2/Sense/Left/Thumbstick/Axis",
+        "shaderPropertyNameX": "_ThumbstickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "PSVR2/Sense/Left/Trigger/Touch",
+        "shaderPropertyNameX": "_TriggerHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "PSVR2/Sense/Left/Trigger/Axis",
+        "shaderPropertyNameX": "_TriggerHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "PSVR2/Sense/Left/Grip/Touch",
+        "shaderPropertyNameX": "_GripHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "PSVR2/Sense/Left/Grip/Button",
+        "shaderPropertyNameX": "_GripHighlight",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "joystickAxisMultiplier": 1.0,
+    "invertJoystickXAxis": false,
+    "invertJoystickYAxis": true,
+    "inputPropertyPerInputs": [
+      {
+        "inputName": "PSVR2/Sense/Left/Triangle/Button",
+        "shaderPropertyNameX": "_OButton",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "PSVR2/Sense/Left/Square/Button",
+        "shaderPropertyNameX": "_XButton",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "PSVR2/Sense/Left/Thumbstick/Button",
+        "shaderPropertyNameX": "_ThumbstickButton",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "PSVR2/Sense/Left/Thumbstick/Axis",
+        "shaderPropertyNameX": "_ThumbstickRotationX",
+        "shaderPropertyNameY": "_ThumbstickRotationY"
+      },
+      {
+        "inputName": "PSVR2/Sense/Left/Trigger/Axis",
+        "shaderPropertyNameX": "_Trigger",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "PSVR2/Sense/Left/Grip/Button",
+        "shaderPropertyNameX": "_GripButton",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "id": 25,
+    "name": "PSVR2SenseControllerLeft",
+    "category": ""
+  },
+  {
+    "highlightPropertyPerInputs": [
+      {
+        "inputName": "PSVR2/Sense/Right/Circle/Touch",
+        "shaderPropertyNameX": "_OHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "PSVR2/Sense/Right/Circle/Button",
+        "shaderPropertyNameX": "_OHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "PSVR2/Sense/Right/Cross/Touch",
+        "shaderPropertyNameX": "_XHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "PSVR2/Sense/Right/Cross/Button",
+        "shaderPropertyNameX": "_XHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "PSVR2/Sense/Right/Thumbstick/Touch",
+        "shaderPropertyNameX": "_ThumbstickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "PSVR2/Sense/Right/Thumbstick/Button",
+        "shaderPropertyNameX": "_ThumbstickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "PSVR2/Sense/Right/Thumbstick/Axis",
+        "shaderPropertyNameX": "_ThumbstickHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "PSVR2/Sense/Right/Trigger/Touch",
+        "shaderPropertyNameX": "_TriggerHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "PSVR2/Sense/Right/Trigger/Axis",
+        "shaderPropertyNameX": "_TriggerHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "PSVR2/Sense/Right/Grip/Touch",
+        "shaderPropertyNameX": "_GripHighlight",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "PSVR2/Sense/Right/Grip/Button",
+        "shaderPropertyNameX": "_GripHighlight",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "joystickAxisMultiplier": 1.0,
+    "invertJoystickXAxis": false,
+    "invertJoystickYAxis": true,
+    "inputPropertyPerInputs": [
+      {
+        "inputName": "PSVR2/Sense/Right/Circle/Button",
+        "shaderPropertyNameX": "_OButton",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "PSVR2/Sense/Right/Cross/Button",
+        "shaderPropertyNameX": "_XButton",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "PSVR2/Sense/Right/Thumbstick/Button",
+        "shaderPropertyNameX": "_ThumbstickButton",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "PSVR2/Sense/Right/Thumbstick/Axis",
+        "shaderPropertyNameX": "_ThumbstickRotationX",
+        "shaderPropertyNameY": "_ThumbstickRotationY"
+      },
+      {
+        "inputName": "PSVR2/Sense/Right/Trigger/Axis",
+        "shaderPropertyNameX": "_Trigger",
+        "shaderPropertyNameY": ""
+      },
+      {
+        "inputName": "PSVR2/Sense/Right/Grip/Button",
+        "shaderPropertyNameX": "_GripButton",
+        "shaderPropertyNameY": ""
+      }
+    ],
+    "id": 26,
+    "name": "PSVR2SenseControllerRight",
+    "category": ""
+  }
+]
+}

@@ -1,0 +1,90 @@
+{
+  "TableId": 105,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "isPenetrating": false,
+    "spawnHazardsOnHit": false,
+    "hazards": [],
+    "id": 0,
+    "name": "Default Projectile",
+    "category": "",
+    "ignoreProjectiles": true,
+    "prefab": {
+      "assetName": "CD_Projectile",
+      "assetPath": "Assets/Prefabs/ArcadeGames/ColoradoDaylight/VertigoResources/CD_Projectile.prefab",
+      "assetGUID": "726989af6ded7624896c8700637b19e2",
+      "resourcePath": "CD_Projectile",
+      "isSubAsset": false
+    },
+    "poolSize": 12
+  },
+  {
+    "isPenetrating": true,
+    "spawnHazardsOnHit": false,
+    "hazards": [],
+    "id": 1,
+    "name": "Penetrating Projectile",
+    "category": "",
+    "ignoreProjectiles": true,
+    "prefab": {
+      "assetName": "CD_Projectile",
+      "assetPath": "Assets/Prefabs/ArcadeGames/ColoradoDaylight/VertigoResources/CD_Projectile.prefab",
+      "assetGUID": "726989af6ded7624896c8700637b19e2",
+      "resourcePath": "CD_Projectile",
+      "isSubAsset": false
+    },
+    "poolSize": 4
+  },
+  {
+    "isPenetrating": false,
+    "spawnHazardsOnHit": true,
+    "hazards": [
+      {
+        "hazard": 0,
+        "offset": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "spawnDelay": 0.0
+      },
+      {
+        "hazard": 0,
+        "offset": {
+          "x": 1.31,
+          "y": 2.55
+        },
+        "spawnDelay": 0.2
+      },
+      {
+        "hazard": 0,
+        "offset": {
+          "x": 1.93,
+          "y": -2.21
+        },
+        "spawnDelay": 0.28
+      },
+      {
+        "hazard": 0,
+        "offset": {
+          "x": -3.14,
+          "y": -1.06
+        },
+        "spawnDelay": 0.35
+      }
+    ],
+    "id": 2,
+    "name": "Explosive Projectile",
+    "category": "",
+    "ignoreProjectiles": true,
+    "prefab": {
+      "assetName": "CD_Projectile",
+      "assetPath": "Assets/Prefabs/ArcadeGames/ColoradoDaylight/VertigoResources/CD_Projectile.prefab",
+      "assetGUID": "726989af6ded7624896c8700637b19e2",
+      "resourcePath": "CD_Projectile",
+      "isSubAsset": false
+    },
+    "poolSize": 3
+  }
+]
+}

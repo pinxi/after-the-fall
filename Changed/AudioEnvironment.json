@@ -1,0 +1,406 @@
+{
+  "TableId": 91,
+  "DefaultCellId": 3,
+  "Cells": [
+  {
+    "IsOutDoor": false,
+    "Snapshot": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "SnapshotIntensity",
+          "paramData1": -633574483,
+          "paramData2": 1293063099,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "SnapshotIntensity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "snapshot:/Env_CM01_SemiOpen",
+      "eventGuid": "11a29921-d152-4951-97df-8d67e7327452"
+    },
+    "id": 0,
+    "name": "CM01_SemiOpen",
+    "category": ""
+  },
+  {
+    "IsOutDoor": false,
+    "Snapshot": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "SnapshotIntensity",
+          "paramData1": -633574483,
+          "paramData2": 1293063099,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "SnapshotIntensity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "snapshot:/Env_CM01_Closed",
+      "eventGuid": "bc4b2877-bda2-419d-8899-f96686700520"
+    },
+    "id": 1,
+    "name": "CM01_Closed",
+    "category": ""
+  },
+  {
+    "IsOutDoor": true,
+    "Snapshot": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "id": 2,
+    "name": "Global_Outdoor",
+    "category": ""
+  },
+  {
+    "IsOutDoor": false,
+    "Snapshot": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "id": 3,
+    "name": "None",
+    "category": ""
+  },
+  {
+    "IsOutDoor": true,
+    "Snapshot": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "SnapshotIntensity",
+          "paramData1": -633574483,
+          "paramData2": 1293063099,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "SnapshotIntensity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "snapshot:/Env_CM01_Shelter",
+      "eventGuid": "ae892e43-7ce3-4821-a77b-ad08c83ed8cd"
+    },
+    "id": 4,
+    "name": "CM01_Shelter",
+    "category": ""
+  },
+  {
+    "IsOutDoor": false,
+    "Snapshot": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "SnapshotIntensity",
+          "paramData1": -633574483,
+          "paramData2": 1293063099,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "SnapshotIntensity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "snapshot:/Env_CM01_Closed",
+      "eventGuid": "bc4b2877-bda2-419d-8899-f96686700520"
+    },
+    "id": 5,
+    "name": "CM02_Closed",
+    "category": ""
+  },
+  {
+    "IsOutDoor": false,
+    "Snapshot": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "SnapshotIntensity",
+          "paramData1": -633574483,
+          "paramData2": 1293063099,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "SnapshotIntensity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "snapshot:/Env_CM01_SemiOpen",
+      "eventGuid": "11a29921-d152-4951-97df-8d67e7327452"
+    },
+    "id": 6,
+    "name": "CM02_SemiOpen",
+    "category": ""
+  },
+  {
+    "IsOutDoor": true,
+    "Snapshot": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "SnapshotIntensity",
+          "paramData1": -633574483,
+          "paramData2": 1293063099,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "SnapshotIntensity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "snapshot:/Env_CM01_Shelter",
+      "eventGuid": "ae892e43-7ce3-4821-a77b-ad08c83ed8cd"
+    },
+    "id": 7,
+    "name": "CM02_Shelter",
+    "category": ""
+  },
+  {
+    "IsOutDoor": false,
+    "Snapshot": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "SnapshotIntensity",
+          "paramData1": -633574483,
+          "paramData2": 1293063099,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "SnapshotIntensity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "snapshot:/Env_CM04_Closed",
+      "eventGuid": "d5d69bf4-f1db-4236-b9a3-b5cb328f787f"
+    },
+    "id": 8,
+    "name": "CM04_Closed",
+    "category": ""
+  },
+  {
+    "IsOutDoor": true,
+    "Snapshot": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "SnapshotIntensity",
+          "paramData1": -633574483,
+          "paramData2": 1293063099,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "SnapshotIntensity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "snapshot:/Env_CM04_SemiOpen",
+      "eventGuid": "60b28add-0e5f-456d-8192-a44791d264fd"
+    },
+    "id": 9,
+    "name": "CM04_SemiOpen",
+    "category": ""
+  },
+  {
+    "IsOutDoor": false,
+    "Snapshot": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "SnapshotIntensity",
+          "paramData1": -633574483,
+          "paramData2": 1293063099,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "SnapshotIntensity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "snapshot:/Env_CM04_Destroyed",
+      "eventGuid": "f8099fab-da69-49d1-abee-7bcf68e2e97c"
+    },
+    "id": 10,
+    "name": "CM04_Destroyed",
+    "category": ""
+  },
+  {
+    "IsOutDoor": false,
+    "Snapshot": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "SnapshotIntensity",
+          "paramData1": -633574483,
+          "paramData2": 1293063099,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "SnapshotIntensity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "snapshot:/Env_CM06_Closed",
+      "eventGuid": "86a2083c-a724-442f-913d-421e721399fb"
+    },
+    "id": 11,
+    "name": "CM06_Closed",
+    "category": ""
+  },
+  {
+    "IsOutDoor": true,
+    "Snapshot": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "SnapshotIntensity",
+          "paramData1": -633574483,
+          "paramData2": 1293063099,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "SnapshotIntensity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "snapshot:/Env_CM06_SemiOpen",
+      "eventGuid": "996b0f63-6c43-4d9a-8fed-3a0fb4a44d61"
+    },
+    "id": 12,
+    "name": "CM06_SemiOpen",
+    "category": ""
+  },
+  {
+    "IsOutDoor": true,
+    "Snapshot": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "SnapshotIntensity",
+          "paramData1": -633574483,
+          "paramData2": 1293063099,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "SnapshotIntensity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "snapshot:/Env_CM06_Destroyed",
+      "eventGuid": "11eea1e4-cdf8-4a87-8e35-c9b475e5101b"
+    },
+    "id": 13,
+    "name": "CM06_Destroyed",
+    "category": ""
+  },
+  {
+    "IsOutDoor": false,
+    "Snapshot": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "SnapshotIntensity",
+          "paramData1": -633574483,
+          "paramData2": 1293063099,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "SnapshotIntensity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "snapshot:/Env_HUB_Closed",
+      "eventGuid": "9f255754-6f03-4cbb-80a8-3066212164c3"
+    },
+    "id": 14,
+    "name": "HUB_Closed",
+    "category": ""
+  },
+  {
+    "IsOutDoor": false,
+    "Snapshot": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "SnapshotIntensity",
+          "paramData1": -633574483,
+          "paramData2": 1293063099,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "SnapshotIntensity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "snapshot:/Env_DLC03_Closed",
+      "eventGuid": "ef6f793e-8072-4da3-a41b-d39fd4108212"
+    },
+    "id": 15,
+    "name": "DLC03_Closed",
+    "category": ""
+  },
+  {
+    "IsOutDoor": false,
+    "Snapshot": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "SnapshotIntensity",
+          "paramData1": -633574483,
+          "paramData2": 1293063099,
+          "isStatic": true,
+          "staticValue": 100.0,
+          "gameParameterName": "SnapshotIntensity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "snapshot:/Env_DLC01_Closed",
+      "eventGuid": "9a66ccff-f576-4020-a752-c7b80240f023"
+    },
+    "id": 16,
+    "name": "DLC01_Closed",
+    "category": ""
+  },
+  {
+    "IsOutDoor": false,
+    "Snapshot": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "SnapshotIntensity",
+          "paramData1": -633574483,
+          "paramData2": 1293063099,
+          "isStatic": false,
+          "staticValue": 100.0,
+          "gameParameterName": "SnapshotIntensity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "snapshot:/Env_DLC01_Parkinglot",
+      "eventGuid": "79d76d7b-80c1-4905-bc63-16d2fac3f3f4"
+    },
+    "id": 17,
+    "name": "DLC01_Parkinglot",
+    "category": ""
+  },
+  {
+    "IsOutDoor": false,
+    "Snapshot": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "SnapshotIntensity",
+          "paramData1": -633574483,
+          "paramData2": 1293063099,
+          "isStatic": false,
+          "staticValue": 100.0,
+          "gameParameterName": "SnapshotIntensity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "snapshot:/Env_DLC01_Destroyed",
+      "eventGuid": "5f01fe17-4d52-49ad-b1ab-01d6e2236f32"
+    },
+    "id": 18,
+    "name": "DLC01_Destroyed",
+    "category": ""
+  },
+  {
+    "IsOutDoor": false,
+    "Snapshot": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "SnapshotIntensity",
+          "paramData1": -633574483,
+          "paramData2": 1293063099,
+          "isStatic": false,
+          "staticValue": 100.0,
+          "gameParameterName": "SnapshotIntensity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "snapshot:/Env_DLC04_SectionOpenIndoor",
+      "eventGuid": "a4da6664-50e7-49c7-b24c-82b574a2c482"
+    },
+    "id": 19,
+    "name": "DLC04_SectionOpenIndoor",
+    "category": ""
+  }
+]
+}

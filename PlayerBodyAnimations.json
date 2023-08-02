@@ -1,0 +1,879 @@
+{
+  "TableId": 158,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "crouchMovementSet": {
+      "idleMovementSet": {
+        "animationClipIdle": {
+          "animationLength": 6.666667,
+          "assetName": "CH_P_M_Crouch_Idle_C_Loop",
+          "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Idle.fbx",
+          "assetGUID": "70e0c9eedcdabba41bdbb5b019dfa2c5",
+          "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Idle:CH_P_M_Crouch_Idle_C_Loop.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipTurnLeft90": {
+          "angularVelocity": -0.000425577484,
+          "animationClip": {
+            "animationLength": 6.666667,
+            "assetName": "CH_P_M_Crouch_Idle_C_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Idle.fbx",
+            "assetGUID": "70e0c9eedcdabba41bdbb5b019dfa2c5",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Idle:CH_P_M_Crouch_Idle_C_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipTurnLeft180": {
+          "angularVelocity": -0.000425577484,
+          "animationClip": {
+            "animationLength": 6.666667,
+            "assetName": "CH_P_M_Crouch_Idle_C_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Idle.fbx",
+            "assetGUID": "70e0c9eedcdabba41bdbb5b019dfa2c5",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Idle:CH_P_M_Crouch_Idle_C_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipTurnRight90": {
+          "angularVelocity": -0.000425577484,
+          "animationClip": {
+            "animationLength": 6.666667,
+            "assetName": "CH_P_M_Crouch_Idle_C_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Idle.fbx",
+            "assetGUID": "70e0c9eedcdabba41bdbb5b019dfa2c5",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Idle:CH_P_M_Crouch_Idle_C_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipTurnRight180": {
+          "angularVelocity": -0.000425577484,
+          "animationClip": {
+            "animationLength": 6.666667,
+            "assetName": "CH_P_M_Crouch_Idle_C_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Idle.fbx",
+            "assetGUID": "70e0c9eedcdabba41bdbb5b019dfa2c5",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Idle:CH_P_M_Crouch_Idle_C_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        }
+      },
+      "walkMovementSet": {
+        "animationClipForward": {
+          "velocity": {
+            "x": 0.05813993,
+            "y": 0.957807064
+          },
+          "animationClipForward": {
+            "animationLength": 1.0,
+            "assetName": "CH_P_M_CrouchWalk_Fwd_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchWalk.fbx",
+            "assetGUID": "41f72329a1645c2409841d8ff529fdb0",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchWalk:CH_P_M_CrouchWalk_Fwd_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipRight45": {
+          "velocity": {
+            "x": 1.18980968,
+            "y": 0.7098607
+          },
+          "animationClipForward": {
+            "animationLength": 1.0,
+            "assetName": "CH_P_M_CrouchWalk_Right45_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchWalk.fbx",
+            "assetGUID": "41f72329a1645c2409841d8ff529fdb0",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchWalk:CH_P_M_CrouchWalk_Right45_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipRight90": {
+          "velocity": {
+            "x": 1.64419532,
+            "y": 0.0347690433
+          },
+          "animationClipForward": {
+            "animationLength": 1.0,
+            "assetName": "CH_P_M_CrouchWalk_Right_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchWalk.fbx",
+            "assetGUID": "41f72329a1645c2409841d8ff529fdb0",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchWalk:CH_P_M_CrouchWalk_Right_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipRight135": {
+          "velocity": {
+            "x": 1.09932661,
+            "y": -0.632787
+          },
+          "animationClipForward": {
+            "animationLength": 1.0,
+            "assetName": "CH_P_M_CrouchWalk_Right135_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchWalk.fbx",
+            "assetGUID": "41f72329a1645c2409841d8ff529fdb0",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchWalk:CH_P_M_CrouchWalk_Right135_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipBackward": {
+          "velocity": {
+            "x": -0.058282394,
+            "y": -0.960139632
+          },
+          "animationClipForward": {
+            "animationLength": 1.0,
+            "assetName": "CH_P_M_CrouchWalk_Bwd_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchWalk.fbx",
+            "assetGUID": "41f72329a1645c2409841d8ff529fdb0",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchWalk:CH_P_M_CrouchWalk_Bwd_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipLeft135": {
+          "velocity": {
+            "x": -1.19050956,
+            "y": -0.7102768
+          },
+          "animationClipForward": {
+            "animationLength": 1.0,
+            "assetName": "CH_P_M_CrouchWalk_Left135_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchWalk.fbx",
+            "assetGUID": "41f72329a1645c2409841d8ff529fdb0",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchWalk:CH_P_M_CrouchWalk_Left135_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipLeft90": {
+          "velocity": {
+            "x": -1.64269662,
+            "y": -0.08137058
+          },
+          "animationClipForward": {
+            "animationLength": 1.0,
+            "assetName": "CH_P_M_CrouchWalk_Left_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchWalk.fbx",
+            "assetGUID": "41f72329a1645c2409841d8ff529fdb0",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchWalk:CH_P_M_CrouchWalk_Left_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipLeft45": {
+          "velocity": {
+            "x": -1.10510552,
+            "y": 0.6361144
+          },
+          "animationClipForward": {
+            "animationLength": 1.0,
+            "assetName": "CH_P_M_CrouchWalk_Left45_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchWalk.fbx",
+            "assetGUID": "41f72329a1645c2409841d8ff529fdb0",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchWalk:CH_P_M_CrouchWalk_Left45_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        }
+      },
+      "runMovementSet": {
+        "animationClipForward": {
+          "velocity": {
+            "x": 0.154192492,
+            "y": 1.95771718
+          },
+          "animationClipForward": {
+            "animationLength": 0.7666667,
+            "assetName": "CH_P_M_CrouchRun_Fwd_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchRun.fbx",
+            "assetGUID": "95c223eb7f2827a4bbac5aecff40b860",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchRun:CH_P_M_CrouchRun_Fwd_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipRight45": {
+          "velocity": {
+            "x": 1.67229974,
+            "y": 1.046345
+          },
+          "animationClipForward": {
+            "animationLength": 0.7666667,
+            "assetName": "CH_P_M_CrouchRun_Right45_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchRun.fbx",
+            "assetGUID": "95c223eb7f2827a4bbac5aecff40b860",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchRun:CH_P_M_CrouchRun_Right45_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipRight90": {
+          "velocity": {
+            "x": 2.39190149,
+            "y": -0.0940921754
+          },
+          "animationClipForward": {
+            "animationLength": 0.8000001,
+            "assetName": "CH_P_M_CrouchRun_Right_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchRun.fbx",
+            "assetGUID": "95c223eb7f2827a4bbac5aecff40b860",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchRun:CH_P_M_CrouchRun_Right_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipRight135": {
+          "velocity": {
+            "x": 1.60815775,
+            "y": -1.25741363
+          },
+          "animationClipForward": {
+            "animationLength": 0.8000001,
+            "assetName": "CH_P_M_CrouchRun_Right135_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchRun.fbx",
+            "assetGUID": "95c223eb7f2827a4bbac5aecff40b860",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchRun:CH_P_M_CrouchRun_Right135_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipBackward": {
+          "velocity": {
+            "x": -0.119770423,
+            "y": -1.59132135
+          },
+          "animationClipForward": {
+            "animationLength": 0.7666667,
+            "assetName": "CH_P_M_CrouchRun_Bwd_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchRun.fbx",
+            "assetGUID": "95c223eb7f2827a4bbac5aecff40b860",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchRun:CH_P_M_CrouchRun_Bwd_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipLeft135": {
+          "velocity": {
+            "x": -1.58058321,
+            "y": -1.1979717
+          },
+          "animationClipForward": {
+            "animationLength": 0.8000001,
+            "assetName": "CH_P_M_CrouchRun_Left135_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchRun.fbx",
+            "assetGUID": "95c223eb7f2827a4bbac5aecff40b860",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchRun:CH_P_M_CrouchRun_Left135_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipLeft90": {
+          "velocity": {
+            "x": -2.33560514,
+            "y": -0.215690613
+          },
+          "animationClipForward": {
+            "animationLength": 0.8000001,
+            "assetName": "CH_P_M_CrouchRun_Left_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchRun.fbx",
+            "assetGUID": "95c223eb7f2827a4bbac5aecff40b860",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchRun:CH_P_M_CrouchRun_Left_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipLeft45": {
+          "velocity": {
+            "x": -1.519754,
+            "y": 0.9917437
+          },
+          "animationClipForward": {
+            "animationLength": 0.7666667,
+            "assetName": "CH_P_M_CrouchRun_Left45_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchRun.fbx",
+            "assetGUID": "95c223eb7f2827a4bbac5aecff40b860",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchRun:CH_P_M_CrouchRun_Left45_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        }
+      },
+      "sprintMovementSet": {
+        "animationClipForward": {
+          "velocity": {
+            "x": 0.188197225,
+            "y": 3.436851
+          },
+          "animationClipForward": {
+            "animationLength": 0.6333334,
+            "assetName": "CH_P_M_CrouchSprint_Fwd_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchSprint.fbx",
+            "assetGUID": "6b6899d54a1f254458fce7243429f450",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchSprint:CH_P_M_CrouchSprint_Fwd_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipRight45": {
+          "velocity": {
+            "x": 3.28299332,
+            "y": 2.41989374
+          },
+          "animationClipForward": {
+            "animationLength": 0.6333334,
+            "assetName": "CH_P_M_CrouchSprint_Right45_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchSprint.fbx",
+            "assetGUID": "6b6899d54a1f254458fce7243429f450",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchSprint:CH_P_M_CrouchSprint_Right45_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipRight90": {
+          "velocity": {
+            "x": 4.631917,
+            "y": 0.0282101985
+          },
+          "animationClipForward": {
+            "animationLength": 0.6333334,
+            "assetName": "CH_P_M_CrouchSprint_Right_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchSprint.fbx",
+            "assetGUID": "6b6899d54a1f254458fce7243429f450",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchSprint:CH_P_M_CrouchSprint_Right_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipRight135": {
+          "velocity": {
+            "x": 3.25412822,
+            "y": -3.201641
+          },
+          "animationClipForward": {
+            "animationLength": 0.6333334,
+            "assetName": "CH_P_M_CrouchSprint_Right135_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchSprint.fbx",
+            "assetGUID": "6b6899d54a1f254458fce7243429f450",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchSprint:CH_P_M_CrouchSprint_Right135_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipBackward": {
+          "velocity": {
+            "x": -0.1878538,
+            "y": -3.430238
+          },
+          "animationClipForward": {
+            "animationLength": 0.6333334,
+            "assetName": "CH_P_M_CrouchSprint_Bwd_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchSprint.fbx",
+            "assetGUID": "6b6899d54a1f254458fce7243429f450",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchSprint:CH_P_M_CrouchSprint_Bwd_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipLeft135": {
+          "velocity": {
+            "x": -3.2837348,
+            "y": -3.23125648
+          },
+          "animationClipForward": {
+            "animationLength": 0.6333334,
+            "assetName": "CH_P_M_CrouchSprint_Left135_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchSprint.fbx",
+            "assetGUID": "6b6899d54a1f254458fce7243429f450",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchSprint:CH_P_M_CrouchSprint_Left135_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipLeft90": {
+          "velocity": {
+            "x": -4.471015,
+            "y": -0.4150451
+          },
+          "animationClipForward": {
+            "animationLength": 0.6333334,
+            "assetName": "CH_P_M_CrouchSprint_Left_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchSprint.fbx",
+            "assetGUID": "6b6899d54a1f254458fce7243429f450",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchSprint:CH_P_M_CrouchSprint_Left_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipLeft45": {
+          "velocity": {
+            "x": -2.59588957,
+            "y": 2.456134
+          },
+          "animationClipForward": {
+            "animationLength": 0.6333334,
+            "assetName": "CH_P_M_CrouchSprint_Left45_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchSprint.fbx",
+            "assetGUID": "6b6899d54a1f254458fce7243429f450",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_CrouchSprint:CH_P_M_CrouchSprint_Left45_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        }
+      }
+    },
+    "standingMovementSet": {
+      "idleMovementSet": {
+        "animationClipIdle": {
+          "animationLength": 6.666667,
+          "assetName": "CH_P_M_Idle",
+          "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Idle.fbx",
+          "assetGUID": "70e0c9eedcdabba41bdbb5b019dfa2c5",
+          "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Idle:CH_P_M_Idle.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipTurnLeft90": {
+          "angularVelocity": -69.2307,
+          "animationClip": {
+            "animationLength": 1.30000007,
+            "assetName": "CH_P_M_Idle_Left_Turn90",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Idle.fbx",
+            "assetGUID": "70e0c9eedcdabba41bdbb5b019dfa2c5",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Idle:CH_P_M_Idle_Left_Turn90.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipTurnLeft180": {
+          "angularVelocity": -107.892105,
+          "animationClip": {
+            "animationLength": 1.66666675,
+            "assetName": "CH_P_M_Idle_Left_Turn180",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Idle.fbx",
+            "assetGUID": "70e0c9eedcdabba41bdbb5b019dfa2c5",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Idle:CH_P_M_Idle_Left_Turn180.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipTurnRight90": {
+          "angularVelocity": 69.23076,
+          "animationClip": {
+            "animationLength": 1.30000007,
+            "assetName": "CH_P_M_Idle_Right_Turn90",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Idle.fbx",
+            "assetGUID": "70e0c9eedcdabba41bdbb5b019dfa2c5",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Idle:CH_P_M_Idle_Right_Turn90.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipTurnRight180": {
+          "angularVelocity": 107.999992,
+          "animationClip": {
+            "animationLength": 1.66666675,
+            "assetName": "CH_P_M_Idle_Right_Turn180",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Idle.fbx",
+            "assetGUID": "70e0c9eedcdabba41bdbb5b019dfa2c5",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Idle:CH_P_M_Idle_Right_Turn180.AnimationClip",
+            "isSubAsset": true
+          }
+        }
+      },
+      "walkMovementSet": {
+        "animationClipForward": {
+          "velocity": {
+            "x": -0.0009809438,
+            "y": 1.6415869
+          },
+          "animationClipForward": {
+            "animationLength": 1.0,
+            "assetName": "CH_P_M_Walk_Fwd_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Walk.fbx",
+            "assetGUID": "ca976ee0d2fff3b4f83035d500fe65fa",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Walk:CH_P_M_Walk_Fwd_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipRight45": {
+          "velocity": {
+            "x": 1.161008,
+            "y": 1.15919518
+          },
+          "animationClipForward": {
+            "animationLength": 1.0,
+            "assetName": "CH_P_M_Walk_Right45_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Walk.fbx",
+            "assetGUID": "ca976ee0d2fff3b4f83035d500fe65fa",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Walk:CH_P_M_Walk_Right45_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipRight90": {
+          "velocity": {
+            "x": 1.64473629,
+            "y": 0.000423977559
+          },
+          "animationClipForward": {
+            "animationLength": 1.0,
+            "assetName": "CH_P_M_Walk_Right_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Walk.fbx",
+            "assetGUID": "ca976ee0d2fff3b4f83035d500fe65fa",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Walk:CH_P_M_Walk_Right_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipRight135": {
+          "velocity": {
+            "x": 1.16529667,
+            "y": -1.16278148
+          },
+          "animationClipForward": {
+            "animationLength": 1.0,
+            "assetName": "CH_P_M_Walk_Right135_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Walk.fbx",
+            "assetGUID": "ca976ee0d2fff3b4f83035d500fe65fa",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Walk:CH_P_M_Walk_Right135_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipBackward": {
+          "velocity": {
+            "x": 0.0009828476,
+            "y": -1.64605784
+          },
+          "animationClipForward": {
+            "animationLength": 1.0,
+            "assetName": "CH_P_M_Walk_Bwd_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Walk.fbx",
+            "assetGUID": "ca976ee0d2fff3b4f83035d500fe65fa",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Walk:CH_P_M_Walk_Bwd_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipLeft135": {
+          "velocity": {
+            "x": -1.163104,
+            "y": -1.16128647
+          },
+          "animationClipForward": {
+            "animationLength": 1.0,
+            "assetName": "CH_P_M_Walk_Left135_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Walk.fbx",
+            "assetGUID": "ca976ee0d2fff3b4f83035d500fe65fa",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Walk:CH_P_M_Walk_Left135_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipLeft90": {
+          "velocity": {
+            "x": -1.65031624,
+            "y": 0.002250153
+          },
+          "animationClipForward": {
+            "animationLength": 1.0,
+            "assetName": "CH_P_M_Walk_Left_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Walk.fbx",
+            "assetGUID": "ca976ee0d2fff3b4f83035d500fe65fa",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Walk:CH_P_M_Walk_Left_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipLeft45": {
+          "velocity": {
+            "x": -1.16281509,
+            "y": 1.160312
+          },
+          "animationClipForward": {
+            "animationLength": 1.0,
+            "assetName": "CH_P_M_Walk_Left45_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Walk.fbx",
+            "assetGUID": "ca976ee0d2fff3b4f83035d500fe65fa",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Walk:CH_P_M_Walk_Left45_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        }
+      },
+      "runMovementSet": {
+        "animationClipForward": {
+          "velocity": {
+            "x": 0.04413237,
+            "y": 3.02787924
+          },
+          "animationClipForward": {
+            "animationLength": 0.7666667,
+            "assetName": "CH_P_M_Run_Fwd_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Run.fbx",
+            "assetGUID": "3dc129ef1c9f4874a99a19eec0864042",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Run:CH_P_M_Run_Fwd_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipRight45": {
+          "velocity": {
+            "x": 2.399814,
+            "y": 2.19615316
+          },
+          "animationClipForward": {
+            "animationLength": 0.7666667,
+            "assetName": "CH_P_M_Run_Right45_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Run.fbx",
+            "assetGUID": "3dc129ef1c9f4874a99a19eec0864042",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Run:CH_P_M_Run_Right45_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipRight90": {
+          "velocity": {
+            "x": 2.85978222,
+            "y": -0.0134067563
+          },
+          "animationClipForward": {
+            "animationLength": 0.8000001,
+            "assetName": "CH_P_M_Run_Right_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Run.fbx",
+            "assetGUID": "3dc129ef1c9f4874a99a19eec0864042",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Run:CH_P_M_Run_Right_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipRight135": {
+          "velocity": {
+            "x": 1.71566653,
+            "y": -1.70631886
+          },
+          "animationClipForward": {
+            "animationLength": 0.8000001,
+            "assetName": "CH_P_M_Run_Right135_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Run.fbx",
+            "assetGUID": "3dc129ef1c9f4874a99a19eec0864042",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Run:CH_P_M_Run_Right135_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipBackward": {
+          "velocity": {
+            "x": -0.00177605357,
+            "y": -2.50058675
+          },
+          "animationClipForward": {
+            "animationLength": 0.8000001,
+            "assetName": "CH_P_M_Run_Bwd_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Run.fbx",
+            "assetGUID": "3dc129ef1c9f4874a99a19eec0864042",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Run:CH_P_M_Run_Bwd_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipLeft135": {
+          "velocity": {
+            "x": -1.71790528,
+            "y": -1.70691133
+          },
+          "animationClipForward": {
+            "animationLength": 0.8000001,
+            "assetName": "CH_P_M_Run_Left135_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Run.fbx",
+            "assetGUID": "3dc129ef1c9f4874a99a19eec0864042",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Run:CH_P_M_Run_Left135_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipLeft90": {
+          "velocity": {
+            "x": -2.84501481,
+            "y": -0.0353711173
+          },
+          "animationClipForward": {
+            "animationLength": 0.8000001,
+            "assetName": "CH_P_M_Run_Left_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Run.fbx",
+            "assetGUID": "3dc129ef1c9f4874a99a19eec0864042",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Run:CH_P_M_Run_Left_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipLeft45": {
+          "velocity": {
+            "x": -2.330721,
+            "y": 2.14330888
+          },
+          "animationClipForward": {
+            "animationLength": 0.7666667,
+            "assetName": "CH_P_M_Run_Left45_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Run.fbx",
+            "assetGUID": "3dc129ef1c9f4874a99a19eec0864042",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Run:CH_P_M_Run_Left45_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        }
+      },
+      "sprintMovementSet": {
+        "animationClipForward": {
+          "velocity": {
+            "x": 0.146664158,
+            "y": 5.50295353
+          },
+          "animationClipForward": {
+            "animationLength": 0.6333334,
+            "assetName": "CH_P_M_Sprint_Fwd_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Sprint.fbx",
+            "assetGUID": "916701ade72c9a7499c3ce9d6ab4602d",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Sprint:CH_P_M_Sprint_Fwd_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipRight45": {
+          "velocity": {
+            "x": 4.406472,
+            "y": 3.82792544
+          },
+          "animationClipForward": {
+            "animationLength": 0.6333334,
+            "assetName": "CH_P_M_Sprint_Right45_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Sprint.fbx",
+            "assetGUID": "916701ade72c9a7499c3ce9d6ab4602d",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Sprint:CH_P_M_Sprint_Right45_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipRight90": {
+          "velocity": {
+            "x": 6.32603073,
+            "y": -0.174915582
+          },
+          "animationClipForward": {
+            "animationLength": 0.6333334,
+            "assetName": "CH_P_M_Sprint_Right_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Sprint.fbx",
+            "assetGUID": "916701ade72c9a7499c3ce9d6ab4602d",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Sprint:CH_P_M_Sprint_Right_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipRight135": {
+          "velocity": {
+            "x": 4.20278454,
+            "y": -3.68162537
+          },
+          "animationClipForward": {
+            "animationLength": 0.6333334,
+            "assetName": "CH_P_M_Sprint_Right135_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Sprint.fbx",
+            "assetGUID": "916701ade72c9a7499c3ce9d6ab4602d",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Sprint:CH_P_M_Sprint_Right135_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipBackward": {
+          "velocity": {
+            "x": -0.0002674416,
+            "y": -5.753004
+          },
+          "animationClipForward": {
+            "animationLength": 0.6333334,
+            "assetName": "CH_P_M_Sprint_Bwd_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Sprint.fbx",
+            "assetGUID": "916701ade72c9a7499c3ce9d6ab4602d",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Sprint:CH_P_M_Sprint_Bwd_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipLeft135": {
+          "velocity": {
+            "x": -4.323565,
+            "y": -4.33583355
+          },
+          "animationClipForward": {
+            "animationLength": 0.6333334,
+            "assetName": "CH_P_M_Sprint_Left135_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Sprint.fbx",
+            "assetGUID": "916701ade72c9a7499c3ce9d6ab4602d",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Sprint:CH_P_M_Sprint_Left135_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipLeft90": {
+          "velocity": {
+            "x": -6.22710133,
+            "y": -0.27666837
+          },
+          "animationClipForward": {
+            "animationLength": 0.6333334,
+            "assetName": "CH_P_M_Sprint_Left_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Sprint.fbx",
+            "assetGUID": "916701ade72c9a7499c3ce9d6ab4602d",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Sprint:CH_P_M_Sprint_Left_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        },
+        "animationClipLeft45": {
+          "velocity": {
+            "x": -4.19866467,
+            "y": 3.70123982
+          },
+          "animationClipForward": {
+            "animationLength": 0.6333334,
+            "assetName": "CH_P_M_Sprint_Left45_Loop",
+            "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Sprint.fbx",
+            "assetGUID": "916701ade72c9a7499c3ce9d6ab4602d",
+            "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Sprint:CH_P_M_Sprint_Left45_Loop.AnimationClip",
+            "isSubAsset": true
+          }
+        }
+      }
+    },
+    "animationClipOnZiplineVariant1": {
+      "animationLength": 1.66666675,
+      "assetName": "CH_P_M_ZipLeft_Fwd_Loop",
+      "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_ZipLine.fbx",
+      "assetGUID": "e1e2136dac192dd4fa2393b31f2d9948",
+      "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_ZipLine:CH_P_M_ZipLeft_Fwd_Loop.AnimationClip",
+      "isSubAsset": true
+    },
+    "animationClipOnZiplineVariant2": {
+      "animationLength": 1.66666675,
+      "assetName": "CH_P_M_ZipLeft_Fwd_LoopVar1",
+      "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_ZipLine.fbx",
+      "assetGUID": "e1e2136dac192dd4fa2393b31f2d9948",
+      "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_ZipLine:CH_P_M_ZipLeft_Fwd_LoopVar1.AnimationClip",
+      "isSubAsset": true
+    },
+    "animationClipOnZiplineVariant3": {
+      "animationLength": 1.66666675,
+      "assetName": "CH_P_M_ZipLeft_Fwd_LoopVar2",
+      "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_ZipLine.fbx",
+      "assetGUID": "e1e2136dac192dd4fa2393b31f2d9948",
+      "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_ZipLine:CH_P_M_ZipLeft_Fwd_LoopVar2.AnimationClip",
+      "isSubAsset": true
+    },
+    "animationClipFalling": {
+      "animationLength": 3.33333373,
+      "assetName": "CH_P_M_Falling_Loop",
+      "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_ZipLine.fbx",
+      "assetGUID": "e1e2136dac192dd4fa2393b31f2d9948",
+      "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_ZipLine:CH_P_M_Falling_Loop.AnimationClip",
+      "isSubAsset": true
+    },
+    "animationClipFallingLanding": {
+      "animationLength": 2.0,
+      "assetName": "CH_P_M_ZipLeft_Fwd_Release",
+      "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_ZipLine.fbx",
+      "assetGUID": "e1e2136dac192dd4fa2393b31f2d9948",
+      "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_ZipLine:CH_P_M_ZipLeft_Fwd_Release.AnimationClip",
+      "isSubAsset": true
+    },
+    "animationClipDowned": {
+      "animationLength": 6.666667,
+      "assetName": "CH_P_M_Crouch_Idle_C_Loop",
+      "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Idle.fbx",
+      "assetGUID": "70e0c9eedcdabba41bdbb5b019dfa2c5",
+      "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Idle:CH_P_M_Crouch_Idle_C_Loop.AnimationClip",
+      "isSubAsset": true
+    },
+    "animationClipDeath": {
+      "animationLength": 2.066667,
+      "assetName": "CH_P_M_Death",
+      "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Death.fbx",
+      "assetGUID": "14c13aba9c389194884eb9583e9ad9f3",
+      "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_Death:CH_P_M_Death.AnimationClip",
+      "isSubAsset": true
+    },
+    "animationClipSnowcatSeated": {
+      "animationLength": 15.000001,
+      "assetName": "Anims_CH_Player_SnowCat_Seat_1",
+      "assetPath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_SnowCat_Seated.fbx",
+      "assetGUID": "c18ce6f96c6b1154cbc98c191416be25",
+      "resourcePath": "Assets/Art/Animations/Characters/Players/Anims_CH_Player_SnowCat_Seated:Anims_CH_Player_SnowCat_Seat_1.AnimationClip",
+      "isSubAsset": true
+    },
+    "animationClipGrabbed": {
+      "animationLength": 3.0,
+      "assetName": "Anim_CH_Player_JockStruggle_Loop",
+      "assetPath": "Assets/Art/Animations/Characters/Players/Anim_CH_Player_JockStruggle.fbx",
+      "assetGUID": "9f7ccf3852acb8f4c8a4e6aa1d084039",
+      "resourcePath": "Assets/Art/Animations/Characters/Players/Anim_CH_Player_JockStruggle:Anim_CH_Player_JockStruggle_Loop.AnimationClip",
+      "isSubAsset": true
+    },
+    "id": 0,
+    "name": "Default Animations",
+    "category": ""
+  }
+]
+}

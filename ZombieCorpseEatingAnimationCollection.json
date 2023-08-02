@@ -1,0 +1,21 @@
+{
+  "TableId": 189,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "corpseEatingAnimations": [
+      {
+        "animationLength": 20.0000019,
+        "assetName": "Anim_CH_E_Horde_Idle_Feast",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Feast.fbx",
+        "assetGUID": "58515f71bb8db7f4b96eb9ae712b0a14",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Feast:Anim_CH_E_Horde_Idle_Feast.AnimationClip",
+        "isSubAsset": true
+      }
+    ],
+    "id": 0,
+    "name": "Generic",
+    "category": ""
+  }
+]
+}

@@ -1,0 +1,16 @@
+{
+  "TableId": 256,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "hasLocalizedString": false,
+    "localizedString": {
+      "Key": "",
+      "Category": "loc_interface"
+    },
+    "id": 0,
+    "name": "Default",
+    "category": ""
+  }
+]
+}

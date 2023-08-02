@@ -1,0 +1,29 @@
+{
+  "TableId": 100,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "damage": 3,
+    "affectsZombies": true,
+    "autoDespawn": true,
+    "despawnAfterSeconds": 0.7,
+    "audio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "id": 0,
+    "name": "Explosion",
+    "category": "",
+    "ignoreProjectiles": true,
+    "prefab": {
+      "assetName": "CD_Explosion",
+      "assetPath": "Assets/Prefabs/ArcadeGames/ColoradoDaylight/VertigoResources/CD_Explosion.prefab",
+      "assetGUID": "795caf7520133e043936f9c355474184",
+      "resourcePath": "CD_Explosion",
+      "isSubAsset": false
+    },
+    "poolSize": 10
+  }
+]
+}

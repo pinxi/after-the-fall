@@ -1,0 +1,421 @@
+{
+  "TableId": 126,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "leftHandSelectionMaterial": {
+      "assetName": "TargetHighlightLeft",
+      "assetPath": "Assets/Art_Code/FX/CodeFX/VertigoResources/TargetHighlightLeft.mat",
+      "assetGUID": "ec1a9bb54e4933946b53024044aefd33",
+      "resourcePath": "TargetHighlightLeft",
+      "isSubAsset": false
+    },
+    "rightHandSelectionMaterial": {
+      "assetName": "TargetHighlightRight",
+      "assetPath": "Assets/Art_Code/FX/CodeFX/VertigoResources/TargetHighlightRight.mat",
+      "assetGUID": "feebf0471192f1f4e992f5973fdd900f",
+      "resourcePath": "TargetHighlightRight",
+      "isSubAsset": false
+    },
+    "ghostMaterial": {
+      "assetName": "WeaponGhost",
+      "assetPath": "Assets/Art_Code/FX/CodeFX/VertigoResources/WeaponGhost.mat",
+      "assetGUID": "48cc219906819b345bb7f8d2e7591d2a",
+      "resourcePath": "WeaponGhost",
+      "isSubAsset": false
+    },
+    "PickupWorldOffset": {
+      "x": 0.0,
+      "y": 0.01,
+      "z": 0.0
+    },
+    "selectionMaterial": {
+      "assetName": "SelectionBillboard",
+      "assetPath": "Assets/Art_Code/FX/CodeFX/VertigoResources/SelectionBillboard.mat",
+      "assetGUID": "3cdf48c80e8cb0245b198101f276e1c1",
+      "resourcePath": "SelectionBillboard",
+      "isSubAsset": false
+    },
+    "selectionLayer": 5,
+    "selectionTargetedEquipableColor": {
+      "color4": {
+        "x": 1.0,
+        "y": 0.607843161,
+        "z": 0.184313729,
+        "w": 1.0
+      }
+    },
+    "selectionTargetedCollectableColor": {
+      "color4": {
+        "x": 0.184313729,
+        "y": 0.627451,
+        "z": 1.0,
+        "w": 1.0
+      }
+    },
+    "selectionUntargetedColor": {
+      "color4": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "w": 0.0509803928
+      }
+    },
+    "interactDelayAfterDropping": 0.1,
+    "thresholdIntersectionDistance": 0.08,
+    "vrReloadEasyInsertMaxDistance": 1.0,
+    "overlapInteractionRadius": 0.065,
+    "rangedInteractionRadius": 0.5,
+    "rangedInteractionDistance": 1.75,
+    "rangedInteractionBlockingLayers": {
+      "value": 808484385
+    },
+    "itemPickupTimeInSeconds": 0.0775,
+    "itemReleaseTimeInSeconds": 0.07,
+    "swapTimeInSeconds": 0.1,
+    "handSwapTransactionWindowDuration": 0.2,
+    "doubleGripSwapMaxDistance": 0.225,
+    "doubleGripStickyToNonStickySwapMaxDistance": 0.2,
+    "grabReleaseSlotInteractionDelay": 0.25,
+    "forceReleaseHandleDistance": 3.0,
+    "volumeSwapCooldown": 0.2,
+    "itemPickupMotionDistance": 1.0,
+    "antiCheatCollisionDetectionLayerMask": {
+      "value": 200193
+    },
+    "antiCheatFadeOutColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 1.0
+    },
+    "autoTeleportBackAfterHeadCheatingSeconds": 1.5,
+    "useAntiCheatVisualsModule": true,
+    "antiCheatSpherePrefab": {
+      "assetName": "AntiCheatSphere",
+      "assetPath": "Assets/Prefabs/Player/VertigoResources/AntiCheat/AntiCheatSphere.prefab",
+      "assetGUID": "38bda6c1a80dc7041808425a27b6e7d1",
+      "resourcePath": "AntiCheat/AntiCheatSphere",
+      "isSubAsset": false
+    },
+    "vrReloadGrabAmmoHaptics": 7,
+    "vrReloadInsertAmmoHaptics": 8,
+    "vrReloadEnterVolumeHaptics": 9,
+    "vrReloadCannotInsertClipHaptics": 11,
+    "vrReloadNoAmmoRemainingHaptics": 13,
+    "vrBeltAdjustmentEnterHaptics": 9,
+    "neckLength": 0.15,
+    "chestCorrectionAngle": 60.0,
+    "chestCorrectionTime": 0.5,
+    "validPlayerConversationCharacters": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "alwaysAvailableNpcConversationCharacters": [
+      4,
+      5,
+      13,
+      14,
+      12
+    ],
+    "muzzleFlashPrefab": {
+      "assetName": "MuzzleFlash",
+      "assetPath": "Assets/Art/FX Vertigo/FX Weapons/FX Guns/FX Gun Particle Prefabs/VertigoResources/MuzzleFlash.prefab",
+      "assetGUID": "8c9167ac6e40803418f822d7ede06d7a",
+      "resourcePath": "MuzzleFlash",
+      "isSubAsset": false
+    },
+    "smokeBarrelPrefab": {
+      "assetName": "Particle_SmokeGunMuzzle",
+      "assetPath": "Assets/Art/FX Vertigo/FX Weapons/FX Guns/FX Gun Particle Prefabs/VertigoResources/Particle_SmokeGunMuzzle.prefab",
+      "assetGUID": "e8dce149f852d2444b9743432776cd22",
+      "resourcePath": "Particle_SmokeGunMuzzle",
+      "isSubAsset": false
+    },
+    "emptyBulletPrefab": {
+      "assetName": "Particle_Bullets",
+      "assetPath": "Assets/Art/FX Vertigo/FX Weapons/FX Guns/FX Gun Particle Prefabs/VertigoResources/Particle_Bullets.prefab",
+      "assetGUID": "05fbef19a51af0445811eb6bae12be61",
+      "resourcePath": "Particle_Bullets",
+      "isSubAsset": false
+    },
+    "recycleItemParticles": {
+      "CellId": 14
+    },
+    "GunTriggerPressedFactor": 0.5,
+    "stunEffectPrefab": {
+      "assetName": "Generator_TriedPowering_Smoke",
+      "assetPath": "Assets/Art/FX Vertigo/FX/VertigoResources/Particles/Generator/Generator_TriedPowering_Smoke.prefab",
+      "assetGUID": "6861bbbd626e72947ac4aa8537f76492",
+      "resourcePath": "Particles/Generator/Generator_TriedPowering_Smoke",
+      "isSubAsset": false
+    },
+    "HitLayerMask": {
+      "value": 1882226569
+    },
+    "SplashDamageHitLayerMask": {
+      "value": 1882226441
+    },
+    "autoReloadHolsteredGun": false,
+    "timeBeforeReloadHolsteredGun": 7.0,
+    "slideChestSlamSpeedThreshold": 1.5,
+    "slideHandSlamSpeedThreshold": 1.5,
+    "cylinderChestSlamSpeedThreshold": 1.5,
+    "cylinderHandSlamSpeedThreshold": 1.5,
+    "beltCoverChestSlamSpeedThreshold": 1.5,
+    "beltCoverHandSlamSpeedThreshold": 1.5,
+    "reloadingTipsHighlightColor": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.647058845
+    },
+    "reloadingTipsHighlightDelay": 0.75,
+    "reloadingTipsHighlightFrequency": 0.3,
+    "advancedReloadZombieDamageMultiplier": 1.5,
+    "laserPointerMaterial": {
+      "assetName": "AimMarker",
+      "assetPath": "Assets/Art_Code/FX/CodeFX/VertigoResources/AimMarker.mat",
+      "assetGUID": "a455c6d19fab16d49b5621cfa38252c3",
+      "resourcePath": "AimMarker",
+      "isSubAsset": false
+    },
+    "laserLayerMask": {
+      "value": 1966112273
+    },
+    "laserDotScale": 0.04,
+    "scaleOverDistance": 0.008,
+    "laserPointerAttachmentId": 54,
+    "magInsertedInInserterHaptics": 8,
+    "magFromWorldAutoInsertTweenCurve": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 2.77873087,
+          "outTangent": 2.77873087,
+          "inWeight": 0.0,
+          "outWeight": 0.0458333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0617494546,
+          "outTangent": 0.0617494546,
+          "inWeight": 0.229166687,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "minMagAutoInsertTime": 0.25,
+    "maxMagAutoInsertTime": 0.55,
+    "swingMaterial": {
+      "assetName": "Blockout_Yellow_AnimatedObject",
+      "assetPath": "Assets/Art_Code/Materials/VertigoResources/Blockout_Yellow_AnimatedObject.mat",
+      "assetGUID": "ca85d4b876fe70d41bbb4c6665ce85c9",
+      "resourcePath": "Blockout_Yellow_AnimatedObject",
+      "isSubAsset": false
+    },
+    "swingVertexCount": 5,
+    "meleeMaxStrength": 25,
+    "arcThrowLaunchVelocity": 10.0,
+    "maximumTensionLevel": 20.0,
+    "outsideOfSaferoomsTensionLevel": 1,
+    "PowerActivateAngle": 50.0,
+    "HittableLockOnTargetSettings": {
+      "color": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0268917084,
+        "a": 1.0
+      },
+      "scale": 0.25
+    },
+    "lootEffectPrefab": {
+      "assetName": "Crunch_Consume",
+      "assetPath": "Assets/Art/FX Vertigo/FX Consume/VertigoResources/Crunch_Consume.prefab",
+      "assetGUID": "2237c015c7f14594fbc698182b41c3f4",
+      "resourcePath": "Crunch_Consume",
+      "isSubAsset": false
+    },
+    "alternativeResourcesWhenMaxAmmo": [],
+    "winMatchHarvestReward": 500,
+    "firstPlaceHarvestReward": 250,
+    "secondPlaceHarvestReward": 150,
+    "thirdPlaceHarvestReward": 100,
+    "perKillHarvestReward": 50,
+    "sprawlBranches": [
+      {
+        "assetName": "Gameplay_Sprawl_Branch_4m",
+        "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/PuzzleInteractables/SprawlGates/Components/Gameplay_Sprawl_Branch_4m.prefab",
+        "assetGUID": "84062ffd2ee1b0f498b635d2d60b4a70",
+        "resourcePath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/PuzzleInteractables/SprawlGates/Components/Gameplay_Sprawl_Branch_4m",
+        "isSubAsset": false
+      },
+      {
+        "assetName": "Gameplay_Sprawl_Branch_6m",
+        "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/PuzzleInteractables/SprawlGates/Components/Gameplay_Sprawl_Branch_6m.prefab",
+        "assetGUID": "d4a351ff6611c484c80998e395858709",
+        "resourcePath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/PuzzleInteractables/SprawlGates/Components/Gameplay_Sprawl_Branch_6m",
+        "isSubAsset": false
+      },
+      {
+        "assetName": "Gameplay_Sprawl_Branch_6.4m_3weakpoints",
+        "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/PuzzleInteractables/SprawlGates/Components/Gameplay_Sprawl_Branch_6.4m_3weakpoints.prefab",
+        "assetGUID": "9fd91113cb047264399d1a91c03275a9",
+        "resourcePath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/PuzzleInteractables/SprawlGates/Components/Gameplay_Sprawl_Branch_6.4m_3weakpoints",
+        "isSubAsset": false
+      },
+      {
+        "assetName": "Gameplay_Sprawl_Branch_12M",
+        "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/PuzzleInteractables/SprawlGates/Components/Gameplay_Sprawl_Branch_12M.prefab",
+        "assetGUID": "1cb3acb4283e3d8428479e6224ccb71c",
+        "resourcePath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/PuzzleInteractables/SprawlGates/Components/Gameplay_Sprawl_Branch_12M",
+        "isSubAsset": false
+      },
+      {
+        "assetName": "Gameplay_Sprawl_Branch_Background",
+        "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/PuzzleInteractables/SprawlGates/Components/Gameplay_Sprawl_Branch_Background.prefab",
+        "assetGUID": "5a03329f653525043bfad7b1550b4ca6",
+        "resourcePath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/PuzzleInteractables/SprawlGates/Components/Gameplay_Sprawl_Branch_Background",
+        "isSubAsset": false
+      },
+      {
+        "assetName": "Gameplay_Sprawl_Branch_Rooftop_Generic",
+        "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/PuzzleInteractables/SprawlGates/Components/Gameplay_Sprawl_Branch_Rooftop_Generic.prefab",
+        "assetGUID": "9d730857db5c4dc4c85add12e6db305f",
+        "resourcePath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/PuzzleInteractables/SprawlGates/Components/Gameplay_Sprawl_Branch_Rooftop_Generic",
+        "isSubAsset": false
+      },
+      {
+        "assetName": "Gameplay_Sprawl_Branch_Rooftop_Tower_A",
+        "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/PuzzleInteractables/SprawlGates/Components/Gameplay_Sprawl_Branch_Rooftop_Tower_A.prefab",
+        "assetGUID": "fdba0a4089f4f3c4a9bba76d9b227b33",
+        "resourcePath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/PuzzleInteractables/SprawlGates/Components/Gameplay_Sprawl_Branch_Rooftop_Tower_A",
+        "isSubAsset": false
+      },
+      {
+        "assetName": "Gameplay_Sprawl_Branch_Rooftop_Tower_B",
+        "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/PuzzleInteractables/SprawlGates/Components/Gameplay_Sprawl_Branch_Rooftop_Tower_B.prefab",
+        "assetGUID": "bb188dcb9f2d1c74fa03d41f6f01f961",
+        "resourcePath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/PuzzleInteractables/SprawlGates/Components/Gameplay_Sprawl_Branch_Rooftop_Tower_B",
+        "isSubAsset": false
+      },
+      {
+        "assetName": "Gameplay_Sprawl_Branch_Rooftop_Tower_Weakspots",
+        "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/PuzzleInteractables/SprawlGates/Components/Gameplay_Sprawl_Branch_Rooftop_Tower_Weakspots.prefab",
+        "assetGUID": "ff80b98ea419d4a46a925ab7be28f566",
+        "resourcePath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/PuzzleInteractables/SprawlGates/Components/Gameplay_Sprawl_Branch_Rooftop_Tower_Weakspots",
+        "isSubAsset": false
+      },
+      {
+        "assetName": "Gameplay_Sprawl_Branch_Big_02",
+        "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/PuzzleInteractables/SprawlGates/Components/Gameplay_Sprawl_Branch_Big_02.prefab",
+        "assetGUID": "8a18094909ca4c542a8bf0aa00cffd6c",
+        "resourcePath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/PuzzleInteractables/SprawlGates/Components/Gameplay_Sprawl_Branch_Big_02",
+        "isSubAsset": false
+      },
+      {
+        "assetName": "Gameplay_Sprawl_Branch_Big",
+        "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/PuzzleInteractables/SprawlGates/Components/Gameplay_Sprawl_Branch_Big.prefab",
+        "assetGUID": "2f2deec6b7e401046a32edf5c8454878",
+        "resourcePath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/PuzzleInteractables/SprawlGates/Components/Gameplay_Sprawl_Branch_Big",
+        "isSubAsset": false
+      }
+    ],
+    "equippedItemPhysicsMaterial": {
+      "assetName": "PhysicsHandEquippedItemMaterial",
+      "assetPath": "Assets/Art_Code/PhysicsMaterials/VertigoResources/PhysicsHandEquippedItemMaterial.physicMaterial",
+      "assetGUID": "ac58a3caaa6c4b24da09d9bc24e91e62",
+      "resourcePath": "PhysicsHandEquippedItemMaterial",
+      "isSubAsset": false
+    },
+    "destructableItemDestructionVelocityThreshold": 5.0,
+    "inCombatMaxEnemyRange": 15.0,
+    "exitCombatCooldown": 5.0,
+    "pcRenderPipelineAssetLow": {
+      "assetName": "LWRP_PC_Low",
+      "assetPath": "Assets/Art/_RenderingPipelines/VertigoResources/LWRP_PC_Low.asset",
+      "assetGUID": "cce105e5b072c634a805d934a86a95fc",
+      "resourcePath": "LWRP_PC_Low",
+      "isSubAsset": false
+    },
+    "pcRenderPipelineAssetMid": {
+      "assetName": "LWRP_PC_Medium",
+      "assetPath": "Assets/Art/_RenderingPipelines/VertigoResources/LWRP_PC_Medium.asset",
+      "assetGUID": "a32af55bda6ed494ea1344225822557e",
+      "resourcePath": "LWRP_PC_Medium",
+      "isSubAsset": false
+    },
+    "pcRenderPipelineAssetHigh": {
+      "assetName": "LWRP_PC_High",
+      "assetPath": "Assets/Art/_RenderingPipelines/VertigoResources/LWRP_PC_High.asset",
+      "assetGUID": "d86edaf11e64b0f4893e8a331f3251aa",
+      "resourcePath": "LWRP_PC_High",
+      "isSubAsset": false
+    },
+    "androidRenderPipelineAsset": {
+      "assetName": "LWRP_Android",
+      "assetPath": "Assets/Art/_RenderingPipelines/VertigoResources/LWRP_Android.asset",
+      "assetGUID": "4f0b1f4ef3d26bd4ab255719d9173e4a",
+      "resourcePath": "LWRP_Android",
+      "isSubAsset": false
+    },
+    "ps4RenderPipelineAsset": {
+      "assetName": "LWRP_PS4",
+      "assetPath": "Assets/Art/_RenderingPipelines/VertigoResources/LWRP_PS4.asset",
+      "assetGUID": "b310e65e492fe5240ad2242966d9dde3",
+      "resourcePath": "LWRP_PS4",
+      "isSubAsset": false
+    },
+    "ps5RenderPipelineAsset": {
+      "assetName": "LWRP_PS5",
+      "assetPath": "Assets/Art/_RenderingPipelines/VertigoResources/LWRP_PS5.asset",
+      "assetGUID": "fc2517c737220c346990f23541760562",
+      "resourcePath": "LWRP_PS5",
+      "isSubAsset": false
+    },
+    "serverRenderPipelineAsset": {
+      "assetName": "LWRP_Server",
+      "assetPath": "Assets/Art/_RenderingPipelines/VertigoResources/LWRP_Server.asset",
+      "assetGUID": "ac0cc0ffa2cf79e458b770d1c801111b",
+      "resourcePath": "LWRP_Server",
+      "isSubAsset": false
+    },
+    "bulletTracerAsset": {
+      "assetName": "BulletTracerAsset",
+      "assetPath": "Assets/Art/FX Vertigo/FX Weapons/FX Guns/FX Gun Particle Prefabs/VertigoResources/BulletTracerAsset.asset",
+      "assetGUID": "b92b244ff7785e1409f85fb19b0e32a2",
+      "resourcePath": "BulletTracerAsset",
+      "isSubAsset": false
+    },
+    "bulletTracerColorNormal": {
+      "color4": {
+        "x": 1.0,
+        "y": 0.550184,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    "bulletTracerColorCritical": {
+      "color4": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    "id": 0,
+    "name": "",
+    "category": ""
+  }
+]
+}

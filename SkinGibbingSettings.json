@@ -1,0 +1,451 @@
+{
+  "TableId": 172,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "canGibOnImpact": false,
+    "gibParticleBoneId": 0,
+    "disableEffects": false,
+    "gibbingSettingsPerBodyPart": [],
+    "explosiveGibbingSettings": {
+      "minForce": 5.0,
+      "maxForce": 10.0,
+      "chanceByForce": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inTangent": -2.0,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      }
+    },
+    "gibFloorBloodScale": 1.0,
+    "gibSplatterBloodScale": 1.0,
+    "id": 0,
+    "name": "No Gibbing",
+    "category": ""
+  },
+  {
+    "canGibOnImpact": false,
+    "gibParticleBoneId": 3,
+    "disableEffects": true,
+    "gibbingSettingsPerBodyPart": [],
+    "explosiveGibbingSettings": {
+      "minForce": 5.0,
+      "maxForce": 10.0,
+      "chanceByForce": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inTangent": -2.0,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      }
+    },
+    "gibFloorBloodScale": 2.5,
+    "gibSplatterBloodScale": 3.0,
+    "id": 1,
+    "name": "Eater Explode",
+    "category": ""
+  },
+  {
+    "canGibOnImpact": true,
+    "gibParticleBoneId": 3,
+    "disableEffects": false,
+    "gibbingSettingsPerBodyPart": [
+      {
+        "isGibbable": true,
+        "bodyPart": 6,
+        "minForce": 0.75,
+        "maxForce": 2.1,
+        "chanceByForce": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 0.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 0.195720345,
+              "value": 0.229103208,
+              "inTangent": 1.7247436,
+              "outTangent": 1.7247436,
+              "inWeight": 0.333333343,
+              "outWeight": 0.129813313,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 0.4391892,
+              "value": 0.5501592,
+              "inTangent": 1.04837942,
+              "outTangent": 1.04837942,
+              "inWeight": 0.333333343,
+              "outWeight": 0.0918918848,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 0.75,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.205405354,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      },
+      {
+        "isGibbable": true,
+        "bodyPart": 2,
+        "minForce": 0.75,
+        "maxForce": 2.1,
+        "chanceByForce": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 0.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 0.195720345,
+              "value": 0.229103208,
+              "inTangent": 1.7247436,
+              "outTangent": 1.7247436,
+              "inWeight": 0.333333343,
+              "outWeight": 0.129813313,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 0.4391892,
+              "value": 0.5501592,
+              "inTangent": 1.04837942,
+              "outTangent": 1.04837942,
+              "inWeight": 0.333333343,
+              "outWeight": 0.0918918848,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 0.75,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.205405354,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      },
+      {
+        "isGibbable": true,
+        "bodyPart": 1,
+        "minForce": 0.75,
+        "maxForce": 2.1,
+        "chanceByForce": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 0.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 0.195720345,
+              "value": 0.229103208,
+              "inTangent": 1.7247436,
+              "outTangent": 1.7247436,
+              "inWeight": 0.333333343,
+              "outWeight": 0.129813313,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 0.4391892,
+              "value": 0.5501592,
+              "inTangent": 1.04837942,
+              "outTangent": 1.04837942,
+              "inWeight": 0.333333343,
+              "outWeight": 0.0918918848,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 0.75,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.205405354,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      },
+      {
+        "isGibbable": true,
+        "bodyPart": 2,
+        "minForce": 0.75,
+        "maxForce": 2.1,
+        "chanceByForce": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 0.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 0.195720345,
+              "value": 0.229103208,
+              "inTangent": 1.7247436,
+              "outTangent": 1.7247436,
+              "inWeight": 0.333333343,
+              "outWeight": 0.129813313,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 0.4391892,
+              "value": 0.5501592,
+              "inTangent": 1.04837942,
+              "outTangent": 1.04837942,
+              "inWeight": 0.333333343,
+              "outWeight": 0.0918918848,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 0.75,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.205405354,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      },
+      {
+        "isGibbable": true,
+        "bodyPart": 4,
+        "minForce": 0.75,
+        "maxForce": 2.1,
+        "chanceByForce": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 0.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 0.195720345,
+              "value": 0.229103208,
+              "inTangent": 1.7247436,
+              "outTangent": 1.7247436,
+              "inWeight": 0.333333343,
+              "outWeight": 0.129813313,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 0.4391892,
+              "value": 0.5501592,
+              "inTangent": 1.04837942,
+              "outTangent": 1.04837942,
+              "inWeight": 0.333333343,
+              "outWeight": 0.0918918848,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 0.75,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.205405354,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    ],
+    "explosiveGibbingSettings": {
+      "minForce": 0.0,
+      "maxForce": 7.0,
+      "chanceByForce": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.230342537,
+            "value": 0.204170346,
+            "inTangent": 1.7247436,
+            "outTangent": 1.7247436,
+            "inWeight": 0.333333343,
+            "outWeight": 0.129813313,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.434245348,
+            "value": 0.507755041,
+            "inTangent": 1.04837942,
+            "outTangent": 1.04837942,
+            "inWeight": 0.333333343,
+            "outWeight": 0.0918918848,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.9890747,
+            "value": 0.7760544,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.205405354,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      }
+    },
+    "gibFloorBloodScale": 1.0,
+    "gibSplatterBloodScale": 1.0,
+    "id": 2,
+    "name": "Common",
+    "category": ""
+  },
+  {
+    "canGibOnImpact": false,
+    "gibParticleBoneId": 4,
+    "disableEffects": false,
+    "gibbingSettingsPerBodyPart": [],
+    "explosiveGibbingSettings": {
+      "minForce": 5.0,
+      "maxForce": 10.0,
+      "chanceByForce": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inTangent": -2.0,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      }
+    },
+    "gibFloorBloodScale": 1.0,
+    "gibSplatterBloodScale": 1.0,
+    "id": 3,
+    "name": "Crawler Explode",
+    "category": ""
+  }
+]
+}

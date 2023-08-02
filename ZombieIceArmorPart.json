@@ -1,0 +1,105 @@
+{
+  "TableId": 197,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "partBoneIds": [
+      6
+    ],
+    "id": 0,
+    "name": "LeftUpperArm",
+    "category": ""
+  },
+  {
+    "partBoneIds": [
+      7
+    ],
+    "id": 1,
+    "name": "LeftLowerArm",
+    "category": ""
+  },
+  {
+    "partBoneIds": [
+      9,
+      19
+    ],
+    "id": 2,
+    "name": "RightUpperArm",
+    "category": ""
+  },
+  {
+    "partBoneIds": [
+      10
+    ],
+    "id": 3,
+    "name": "RightLowerArm",
+    "category": ""
+  },
+  {
+    "partBoneIds": [
+      12
+    ],
+    "id": 4,
+    "name": "LeftUpperLeg",
+    "category": ""
+  },
+  {
+    "partBoneIds": [
+      13
+    ],
+    "id": 5,
+    "name": "LeftLowerLeg",
+    "category": ""
+  },
+  {
+    "partBoneIds": [
+      15
+    ],
+    "id": 6,
+    "name": "RightUpperLeg",
+    "category": ""
+  },
+  {
+    "partBoneIds": [
+      16
+    ],
+    "id": 7,
+    "name": "RightLowerLeg",
+    "category": ""
+  },
+  {
+    "partBoneIds": [
+      2,
+      3
+    ],
+    "id": 8,
+    "name": "Chest",
+    "category": ""
+  },
+  {
+    "partBoneIds": [
+      1
+    ],
+    "id": 9,
+    "name": "Abdomen",
+    "category": ""
+  },
+  {
+    "partBoneIds": [
+      5
+    ],
+    "id": 10,
+    "name": "Head",
+    "category": ""
+  },
+  {
+    "partBoneIds": [
+      7,
+      8
+    ],
+    "id": 11,
+    "name": "Gunner_MachineGun",
+    "category": ""
+  }
+]
+}

@@ -1,0 +1,60 @@
+{
+  "TableId": 241,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "borderColor": {
+      "r": 0.2,
+      "g": 1.0,
+      "b": 0.4,
+      "a": 1.0
+    },
+    "icon": {
+      "assetName": "Icon_item_juice_03",
+      "assetPath": "Assets/Art_Code/UI/Icons/VertigoResources/Tooltips/Icon_item_juice_03.png",
+      "assetGUID": "9b115258d02849544886b78b8a5d64ca",
+      "resourcePath": "Tooltips/Icon_item_juice_03",
+      "isSubAsset": false
+    },
+    "id": 0,
+    "name": "Regular",
+    "category": ""
+  },
+  {
+    "borderColor": {
+      "r": 0.988235354,
+      "g": 0.207843155,
+      "b": 0.203921586,
+      "a": 1.0
+    },
+    "icon": {
+      "assetName": "Icon_Notification_PVP_02",
+      "assetPath": "Assets/Art_Code/UI/Icons/VertigoResources/Tooltips/Icon_Notification_PVP_02.png",
+      "assetGUID": "5def51e6f4858ae4ba5a329f3f7668af",
+      "resourcePath": "Tooltips/Icon_Notification_PVP_02",
+      "isSubAsset": false
+    },
+    "id": 1,
+    "name": "PvP",
+    "category": ""
+  },
+  {
+    "borderColor": {
+      "r": 0.9568628,
+      "g": 0.58431375,
+      "b": 0.137254909,
+      "a": 1.0
+    },
+    "icon": {
+      "assetName": "Icon_Notification_RnD_02",
+      "assetPath": "Assets/Art_Code/UI/Icons/VertigoResources/Tooltips/Icon_Notification_RnD_02.png",
+      "assetGUID": "f7ae5c982cc0b59408e18ca05eb74827",
+      "resourcePath": "Tooltips/Icon_Notification_RnD_02",
+      "isSubAsset": false
+    },
+    "id": 2,
+    "name": "RnD",
+    "category": ""
+  }
+]
+}

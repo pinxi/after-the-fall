@@ -1,0 +1,197 @@
+{
+  "TableId": 174,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "spectatorMenuPrefab": {
+      "assetName": "SpectatorSettingsMenuPrefab",
+      "assetPath": "Assets/Prefabs/UI/VertigoResources/Spectator/SpectatorSettingsMenuPrefab.prefab",
+      "assetGUID": "01740ea21527c1f45aee76f3caf84f0e",
+      "resourcePath": "Spectator/SpectatorSettingsMenuPrefab",
+      "isSubAsset": false
+    },
+    "spectatorBodyPrefab": {
+      "assetName": "SpectatorRemoteBody",
+      "assetPath": "Assets/Prefabs/Spectator/VertigoResources/SpectatorRemoteBody.prefab",
+      "assetGUID": "fa497134e44349f429886eef762a81b2",
+      "resourcePath": "SpectatorRemoteBody",
+      "isSubAsset": false
+    },
+    "leftMovementAction": 8,
+    "leftVerticalToggleAction": 0,
+    "rightMovementAction": 17,
+    "rightVerticalToggleAction": 1,
+    "panningAroundTargetAction": 25,
+    "ShowDebugUIInfo": false,
+    "ShowLocalPlayerHands": true,
+    "ShowPlayerHands": true,
+    "ShowPlayerBody": true,
+    "ShowPlayerName": true,
+    "EnableLODSystem": true,
+    "HideAllPlayerNames": true,
+    "ShowItemTooltips": false,
+    "ShowItemHighlight": false,
+    "ShowUIObjectives": false,
+    "TimeScale": 1.0,
+    "leftDOFFocusAction": 2,
+    "rightDOFFocusAction": 3,
+    "MinMaxCameraOffset": {
+      "rangeStart": -10.0,
+      "rangeEnd": 10.0
+    },
+    "CameraOffsetX": 0.0,
+    "CameraOffsetY": 0.0,
+    "CameraOffsetZ": 0.0,
+    "MinMaxCameraTilt": {
+      "rangeStart": -180.0,
+      "rangeEnd": 180.0
+    },
+    "CameraTiltX": 0.0,
+    "CameraTiltY": 0.0,
+    "CameraTiltZ": 0.0,
+    "MinMaxFOV": {
+      "rangeStart": 5.0,
+      "rangeEnd": 120.0
+    },
+    "FOV": 60.0,
+    "EnableAntiAliasing": true,
+    "CameraClippingFar": 1000.0,
+    "VRCameraClippingFar": 110.0,
+    "IgnoreXAxisOnMoveForward": true,
+    "IgnoreZAxisOnMoveRight": true,
+    "IgnoreAxisOnMoveUp": true,
+    "EnableCameraRotationLockXAxis": false,
+    "EnableCameraRotationLockZAxis": true,
+    "CameraPositionSmoothing": 0.0,
+    "CameraRotationSmoothing": 0.4,
+    "HideTotalHarvestUI": true,
+    "HideAmmoPouch": true,
+    "HideCombatDevice": false,
+    "HideHandWristUI": true,
+    "HideFloppyItemShader": true,
+    "HideLootCrateViews": true,
+    "DisableZombieHarvestDrop": true,
+    "EnableDOFEffect": false,
+    "MinMaxDOFEffectFocusDistance": {
+      "rangeStart": 0.0,
+      "rangeEnd": 25.0
+    },
+    "DOFEffectFocusDistance": 2.0,
+    "DOFEffectFocalLength": 50.0,
+    "DOFEffectAperture": 5.6,
+    "DOFEffectBladeCurvature": 1.0,
+    "PointLightEnabled": false,
+    "MinMaxPointLightSaturation": {
+      "rangeStart": 0.0,
+      "rangeEnd": 1.0
+    },
+    "PointLightSaturation": 0.5,
+    "MinMaxPointLightHue": {
+      "rangeStart": 0.0,
+      "rangeEnd": 1.0
+    },
+    "PointLightHue": 0.5,
+    "MinMaxPointLightBrightness": {
+      "rangeStart": 0.0,
+      "rangeEnd": 1.0
+    },
+    "PointLightBrightness": 0.7,
+    "MinMaxPointLightRange": {
+      "rangeStart": 0.0,
+      "rangeEnd": 50.0
+    },
+    "PointLightRange": 40.0,
+    "MinMaxPointLightIntensity": {
+      "rangeStart": 0.0,
+      "rangeEnd": 50.0
+    },
+    "PointLightIntensity": 5.0,
+    "SpotLightEnabled": false,
+    "MinMaxSpotLightSaturation": {
+      "rangeStart": 0.0,
+      "rangeEnd": 1.0
+    },
+    "SpotLightSaturation": 0.5,
+    "MinMaxSpotLightHue": {
+      "rangeStart": 0.0,
+      "rangeEnd": 1.0
+    },
+    "SpotLightHue": 0.5,
+    "MinMaxSpotLightBrightness": {
+      "rangeStart": 0.0,
+      "rangeEnd": 1.0
+    },
+    "SpotLightBrightness": 0.7,
+    "MinMaxSpotLightRange": {
+      "rangeStart": 0.0,
+      "rangeEnd": 50.0
+    },
+    "SpotLightRange": 40.0,
+    "MinMaxSpotLightIntensity": {
+      "rangeStart": 0.0,
+      "rangeEnd": 50.0
+    },
+    "SpotLightIntensity": 5.0,
+    "MinMaxSpotLightInnerOuterAngle": {
+      "rangeStart": 0.0,
+      "rangeEnd": 100.0
+    },
+    "SpotLightInnerAngle": 10.0,
+    "SpotLightOuterAngle": 40.0,
+    "FlashLightEnabled": true,
+    "SpawnZombieStartAggro": true,
+    "MinMaxVolume": {
+      "rangeStart": 0.0,
+      "rangeEnd": 1.0
+    },
+    "MasterVolume": 1.0,
+    "SfxVolume": 1.0,
+    "MusicVolume": 1.0,
+    "VoiceVolume": 1.0,
+    "MinMaxFRMoveSpeed": {
+      "rangeStart": 0.0,
+      "rangeEnd": 25.0
+    },
+    "FRHorizontalMoveSpeed": 10.0,
+    "FRVerticalMoveSpeed": 10.0,
+    "MinMaxFRSpeedMultiplier": {
+      "rangeStart": 1.0,
+      "rangeEnd": 5.0
+    },
+    "FRMoveSpeedUpMultiplier": 3.0,
+    "FRMoveSpeedDownMultiplier": 3.0,
+    "MinMaxFRTurnSpeed": {
+      "rangeStart": 0.0,
+      "rangeEnd": 160.0
+    },
+    "FRHorizontalTurnSpeed": 100.0,
+    "FRVerticalTurnSpeed": 100.0,
+    "FPLockOnPlayerBody": true,
+    "TPLockOnRotationOfPlayer": true,
+    "TPLockOnPlayerBody": true,
+    "MinMaxTPSpeed": {
+      "rangeStart": 0.0,
+      "rangeEnd": 40.0
+    },
+    "TPHorizontalRotSpeed": 30.0,
+    "TPVerticalRotSpeed": 30.0,
+    "TPDistanceSpeed": 30.0,
+    "MinMaxTPSmoothing": {
+      "rangeStart": 0.0,
+      "rangeEnd": 6.0
+    },
+    "TPSmoothing": 2.0,
+    "IsTrackingDevice": false,
+    "UseCustomTrackingDevices": false,
+    "MinMaxTDPositionScalar": {
+      "rangeStart": 0.25,
+      "rangeEnd": 10.0
+    },
+    "TDHorizontalPositionScalar": 1.0,
+    "TDVerticalPositionScalar": 1.0,
+    "id": 0,
+    "name": "Spectator Settings",
+    "category": ""
+  }
+]
+}

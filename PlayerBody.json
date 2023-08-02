@@ -1,0 +1,30 @@
+{
+  "TableId": 157,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "defaultCharacterSkinId": 0,
+    "id": 0,
+    "name": "Malia",
+    "category": ""
+  },
+  {
+    "defaultCharacterSkinId": 1,
+    "id": 1,
+    "name": "Michael",
+    "category": ""
+  },
+  {
+    "defaultCharacterSkinId": 2,
+    "id": 2,
+    "name": "Jen",
+    "category": ""
+  },
+  {
+    "defaultCharacterSkinId": 3,
+    "id": 3,
+    "name": "Jimmy",
+    "category": ""
+  }
+]
+}

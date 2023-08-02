@@ -1,0 +1,38 @@
+{
+  "TableId": 199,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "idleBehaviour": 1,
+    "wanderRange": 5.0,
+    "corpseConfiguration": 11,
+    "id": 0,
+    "name": "Default Wander",
+    "category": ""
+  },
+  {
+    "idleBehaviour": 0,
+    "wanderRange": 5.0,
+    "corpseConfiguration": 11,
+    "id": 1,
+    "name": "Do Nothing",
+    "category": ""
+  },
+  {
+    "idleBehaviour": 1,
+    "wanderRange": 1.0,
+    "corpseConfiguration": 11,
+    "id": 2,
+    "name": "Group Wander",
+    "category": ""
+  },
+  {
+    "idleBehaviour": 2,
+    "wanderRange": 5.0,
+    "corpseConfiguration": 11,
+    "id": 3,
+    "name": "Corpse Eating",
+    "category": ""
+  }
+]
+}

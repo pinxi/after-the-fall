@@ -1,0 +1,662 @@
+{
+  "TableId": 88,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": 10.0,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 1,
+    "statusEffects": [
+      0
+    ],
+    "id": 0,
+    "name": "Burn",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": 15.0,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 1,
+    "statusEffects": [
+      1
+    ],
+    "id": 1,
+    "name": "Electrify",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": -1.0,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 1,
+    "statusEffects": [
+      2,
+      3
+    ],
+    "id": 2,
+    "name": "Last Stand",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": 13.5,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 1,
+    "statusEffects": [
+      4,
+      5
+    ],
+    "id": 3,
+    "name": "Eater Goo",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": 1.5,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 1,
+    "statusEffects": [
+      4,
+      5
+    ],
+    "id": 4,
+    "name": "Spore Goo",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": 20.0,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 1,
+    "statusEffects": [
+      7,
+      8,
+      9,
+      6
+    ],
+    "id": 5,
+    "name": "Rage",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": 0.75,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 1,
+    "statusEffects": [
+      10
+    ],
+    "id": 6,
+    "name": "Booster",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": -1.0,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 1,
+    "statusEffects": [
+      13,
+      14,
+      11
+    ],
+    "id": 7,
+    "name": "Sprawl Fog Affliction",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": -1.0,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 1,
+    "statusEffects": [
+      12
+    ],
+    "id": 8,
+    "name": "Sprawl Fog Only",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": 0.5,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 1,
+    "statusEffects": [
+      2
+    ],
+    "id": 9,
+    "name": "Giant Sprawl Melee",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": 0.0,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 1,
+    "statusEffects": [
+      15
+    ],
+    "id": 10,
+    "name": "Frozen Pool",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": 10.0,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 1,
+    "statusEffects": [
+      16
+    ],
+    "id": 11,
+    "name": "Pistol Bloodfest",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": -1.0,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 100,
+    "statusEffects": [
+      17
+    ],
+    "id": 12,
+    "name": "Pistol Mag-Min",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": 0.0,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 1,
+    "statusEffects": [
+      18
+    ],
+    "id": 13,
+    "name": "Charged Up",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": -1.0,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 1,
+    "statusEffects": [
+      19,
+      20,
+      39
+    ],
+    "id": 14,
+    "name": "Cold Feet",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": 30.0,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 1,
+    "statusEffects": [
+      21
+    ],
+    "id": 15,
+    "name": "Falcon Bloodfest",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": 30.0,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 1,
+    "statusEffects": [
+      22
+    ],
+    "id": 16,
+    "name": "Pump Bloodfest",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": 30.0,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 1,
+    "statusEffects": [
+      23
+    ],
+    "id": 17,
+    "name": "SMG Bloodfest",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": 30.0,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 1,
+    "statusEffects": [
+      24
+    ],
+    "id": 18,
+    "name": "Carbine Bloodfest",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": 30.0,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 1,
+    "statusEffects": [
+      25
+    ],
+    "id": 19,
+    "name": "MT47 Bloodfest",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": 30.0,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 1,
+    "statusEffects": [
+      26
+    ],
+    "id": 20,
+    "name": "Revolver Bloodfest",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": 30.0,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 1,
+    "statusEffects": [
+      27
+    ],
+    "id": 21,
+    "name": "LMG Bloodfest",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": 30.0,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 1,
+    "statusEffects": [
+      28
+    ],
+    "id": 22,
+    "name": "Tommy Bloodfest",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": 30.0,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 1,
+    "statusEffects": [
+      29
+    ],
+    "id": 23,
+    "name": "Auto Bloodfest",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": 30.0,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 1,
+    "statusEffects": [
+      30
+    ],
+    "id": 24,
+    "name": "Lever Bloodfest",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": -1.0,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 100,
+    "statusEffects": [
+      17
+    ],
+    "id": 25,
+    "name": "Falcon Mag-Min",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": -1.0,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 100,
+    "statusEffects": [
+      17
+    ],
+    "id": 26,
+    "name": "Pump Mag-Min",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": -1.0,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 100,
+    "statusEffects": [
+      17
+    ],
+    "id": 27,
+    "name": "SMG Mag-Min",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": -1.0,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 100,
+    "statusEffects": [
+      17
+    ],
+    "id": 28,
+    "name": "Carbine Mag-Min",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": -1.0,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 100,
+    "statusEffects": [
+      17
+    ],
+    "id": 29,
+    "name": "MT47 Mag-Min",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": -1.0,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 100,
+    "statusEffects": [
+      17
+    ],
+    "id": 30,
+    "name": "Revolver Mag-Min",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": -1.0,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 100,
+    "statusEffects": [
+      17
+    ],
+    "id": 31,
+    "name": "LMG Mag-Min",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": -1.0,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 100,
+    "statusEffects": [
+      17
+    ],
+    "id": 32,
+    "name": "Tommy Mag-Min",
+    "category": ""
+  },
+  {
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "duration": -1.0,
+    "canRefresh": false,
+    "minStacks": 1,
+    "maxStacks": 100,
+    "statusEffects": [
+      17
+    ],
+    "id": 33,
+    "name": "Auto Mag-Min",
+    "category": ""
+  }
+]
+}

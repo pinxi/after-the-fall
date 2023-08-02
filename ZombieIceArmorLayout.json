@@ -1,0 +1,231 @@
+{
+  "TableId": 196,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "enabledParts": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "id": 0,
+    "name": "Full",
+    "category": ""
+  },
+  {
+    "enabledParts": [
+      10
+    ],
+    "id": 1,
+    "name": "Head",
+    "category": ""
+  },
+  {
+    "enabledParts": [
+      8
+    ],
+    "id": 2,
+    "name": "None",
+    "category": ""
+  },
+  {
+    "enabledParts": [
+      9,
+      8,
+      10
+    ],
+    "id": 3,
+    "name": "Head and Torso",
+    "category": ""
+  },
+  {
+    "enabledParts": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "id": 4,
+    "name": "All Except Head",
+    "category": ""
+  },
+  {
+    "enabledParts": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "id": 5,
+    "name": "All Except Arms",
+    "category": ""
+  },
+  {
+    "enabledParts": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      9,
+      10
+    ],
+    "id": 6,
+    "name": "All Except Legs",
+    "category": ""
+  },
+  {
+    "enabledParts": [
+      2,
+      3,
+      4,
+      5,
+      8,
+      10
+    ],
+    "id": 7,
+    "name": "Variation 01 - Common",
+    "category": ""
+  },
+  {
+    "enabledParts": [
+      0,
+      1,
+      6,
+      7,
+      8,
+      10
+    ],
+    "id": 8,
+    "name": "Variation 02 - Common",
+    "category": ""
+  },
+  {
+    "enabledParts": [
+      0,
+      3,
+      5,
+      6
+    ],
+    "id": 9,
+    "name": "Smasher Minor 01",
+    "category": ""
+  },
+  {
+    "enabledParts": [
+      1,
+      2,
+      4,
+      7
+    ],
+    "id": 10,
+    "name": "Smasher Minor 02",
+    "category": ""
+  },
+  {
+    "enabledParts": [
+      0,
+      3,
+      5,
+      6,
+      8
+    ],
+    "id": 11,
+    "name": "Smasher Major 01",
+    "category": ""
+  },
+  {
+    "enabledParts": [
+      1,
+      2,
+      4,
+      7,
+      8
+    ],
+    "id": 12,
+    "name": "Smasher Major 02",
+    "category": ""
+  },
+  {
+    "enabledParts": [
+      10,
+      9,
+      8,
+      1,
+      0,
+      3,
+      2,
+      5,
+      4,
+      7,
+      6
+    ],
+    "id": 13,
+    "name": "Common Full Body",
+    "category": ""
+  },
+  {
+    "enabledParts": [
+      3,
+      0
+    ],
+    "id": 14,
+    "name": "Supersmasher I",
+    "category": ""
+  },
+  {
+    "enabledParts": [
+      3,
+      0,
+      2,
+      4
+    ],
+    "id": 15,
+    "name": "Supersmasher II",
+    "category": ""
+  },
+  {
+    "enabledParts": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "id": 16,
+    "name": "Supersmasher III",
+    "category": ""
+  },
+  {
+    "enabledParts": [
+      11
+    ],
+    "id": 17,
+    "name": "Juggernaut_LMG_MachineGun",
+    "category": ""
+  }
+]
+}

@@ -1,0 +1,2939 @@
+{
+  "TableId": 108,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "loadoutItems": [
+      {
+        "category": 0,
+        "onlyEnableInSingleHand": false,
+        "hasItem": true,
+        "startingItem": {
+          "CurrentIdx": 0,
+          "CellId": 1,
+          "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.GunTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "NameTO": "GunTO"
+        },
+        "attachmentIds": [],
+        "amount": 1
+      },
+      {
+        "category": 0,
+        "onlyEnableInSingleHand": false,
+        "hasItem": true,
+        "startingItem": {
+          "CurrentIdx": 1,
+          "CellId": 2,
+          "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.GunTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "NameTO": "GunTO"
+        },
+        "attachmentIds": [],
+        "amount": 1
+      },
+      {
+        "category": 5,
+        "onlyEnableInSingleHand": false,
+        "hasItem": true,
+        "startingItem": {
+          "CurrentIdx": 0,
+          "CellId": 0,
+          "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.BoosterTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "NameTO": "BoosterTO"
+        },
+        "attachmentIds": [],
+        "amount": 1
+      }
+    ],
+    "equipLoadouts": [
+      {
+        "loadoutName": "Dual Guns (Default)",
+        "leftHandState": {
+          "handState": 1,
+          "equippedItemIndex": 0,
+          "aimHandOffset": {
+            "x": -0.15,
+            "y": 0.0,
+            "z": 0.5
+          },
+          "aimHandRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "idleHandState": 0,
+          "idleHoldSecondaryHandle": false,
+          "idleHandOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.4
+          },
+          "idleHandRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightHandState": {
+          "handState": 1,
+          "equippedItemIndex": 1,
+          "aimHandOffset": {
+            "x": 0.15,
+            "y": 0.0,
+            "z": 0.5
+          },
+          "aimHandRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "idleHandState": 0,
+          "idleHoldSecondaryHandle": false,
+          "idleHandOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.4
+          },
+          "idleHandRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "idealOperatingDistance": {
+          "x": 7.5,
+          "y": 35.0
+        },
+        "maxOperatingDistance": 60.0,
+        "weaponPreferredDistanceWeightCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 0.25,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 35
+            },
+            {
+              "time": 2.0,
+              "value": 0.25,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 137
+            },
+            {
+              "time": 7.5,
+              "value": 0.9,
+              "inTangent": 0.0207792241,
+              "outTangent": 0.0207792241,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 137
+            },
+            {
+              "time": 21.25,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 137
+            },
+            {
+              "time": 35.0,
+              "value": 0.9,
+              "inTangent": -0.0103225829,
+              "outTangent": -0.0103225829,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 137
+            },
+            {
+              "time": 60.0,
+              "value": 0.0,
+              "inTangent": -0.036,
+              "outTangent": -0.036,
+              "inWeight": 0.333333343,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 35
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "weaponFireWeightCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 35.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 60.0,
+              "value": 0.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "minMaxFireCooldown": {
+          "x": 0.2,
+          "y": 0.45
+        },
+        "fireMode": 0,
+        "minMaxHoldFireDuration": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "bulletsPerShot": 1,
+        "hitChanceByDistance": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": -0.00561111933,
+              "outTangent": -0.00561111933,
+              "inWeight": 0.0,
+              "outWeight": 0.449460566,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 6.73654127,
+              "value": 0.6468141,
+              "inTangent": -0.05474703,
+              "outTangent": -0.05474703,
+              "inWeight": 0.333333343,
+              "outWeight": 0.134547666,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 14.8212852,
+              "value": 0.371411324,
+              "inTangent": -0.0256380979,
+              "outTangent": -0.0256380979,
+              "inWeight": 0.218588382,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 30.0,
+              "value": 0.1,
+              "inTangent": -0.00115902536,
+              "outTangent": -0.00115902536,
+              "inWeight": 0.1637987,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "headShotChance": 0.25,
+        "armShotChance": 0.2,
+        "bulletDamageMultiplierByDistance": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 0.3,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 23.0382614,
+              "value": 0.582512558,
+              "inTangent": 0.015798742,
+              "outTangent": 0.015798742,
+              "inWeight": 0.333333343,
+              "outWeight": 0.242966488,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 30.0,
+              "value": 0.75,
+              "inTangent": 0.03280881,
+              "outTangent": 0.03280881,
+              "inWeight": 0.197993353,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "horizontalMissSprayConeAngle": 7.0,
+        "verticalMissSprayConeAngle": 4.0,
+        "canGibOnKill": false,
+        "gibChanceByDistance": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    ],
+    "healBoosterItemIndex": 2,
+    "damageMultiplierByDifficulty": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 4,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare"
+      ],
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "headshotChanceMultiplierByDifficulty": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 4,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare"
+      ],
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "firerateCooldownMultiplierByDifficulty": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 4,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare"
+      ],
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "id": 0,
+    "name": "Dual Handguns [Old]",
+    "category": ""
+  },
+  {
+    "loadoutItems": [
+      {
+        "category": 0,
+        "onlyEnableInSingleHand": false,
+        "hasItem": true,
+        "startingItem": {
+          "CurrentIdx": 3,
+          "CellId": 25,
+          "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.GunTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "NameTO": "GunTO"
+        },
+        "attachmentIds": [],
+        "amount": 1
+      },
+      {
+        "category": 5,
+        "onlyEnableInSingleHand": false,
+        "hasItem": true,
+        "startingItem": {
+          "CurrentIdx": 0,
+          "CellId": 0,
+          "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.BoosterTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "NameTO": "BoosterTO"
+        },
+        "attachmentIds": [],
+        "amount": 1
+      }
+    ],
+    "equipLoadouts": [
+      {
+        "loadoutName": "Revolver (Long Range, Accurate, Slow)",
+        "leftHandState": {
+          "handState": 2,
+          "equippedItemIndex": 0,
+          "aimHandOffset": {
+            "x": 0.0,
+            "y": 0.05,
+            "z": 0.45
+          },
+          "aimHandRotation": {
+            "x": 0.0,
+            "y": 10.0,
+            "z": 90.0
+          },
+          "idleHandState": 0,
+          "idleHoldSecondaryHandle": false,
+          "idleHandOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.4
+          },
+          "idleHandRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightHandState": {
+          "handState": 1,
+          "equippedItemIndex": 0,
+          "aimHandOffset": {
+            "x": 0.0,
+            "y": 0.1,
+            "z": 0.5
+          },
+          "aimHandRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "idleHandState": 0,
+          "idleHoldSecondaryHandle": false,
+          "idleHandOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.4
+          },
+          "idleHandRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "idealOperatingDistance": {
+          "x": 15.0,
+          "y": 40.0
+        },
+        "maxOperatingDistance": 75.0,
+        "weaponPreferredDistanceWeightCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 0.25,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 35
+            },
+            {
+              "time": 2.0,
+              "value": 0.25,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 137
+            },
+            {
+              "time": 15.0,
+              "value": 0.9,
+              "inTangent": 0.0156862773,
+              "outTangent": 0.0156862773,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 137
+            },
+            {
+              "time": 27.5,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 137
+            },
+            {
+              "time": 40.0,
+              "value": 0.9,
+              "inTangent": -0.008421055,
+              "outTangent": -0.008421055,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 137
+            },
+            {
+              "time": 75.0,
+              "value": 0.0,
+              "inTangent": -0.0257142857,
+              "outTangent": -0.0257142857,
+              "inWeight": 0.333333343,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 35
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "weaponFireWeightCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 40.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 75.0,
+              "value": 0.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "minMaxFireCooldown": {
+          "x": 0.5,
+          "y": 1.25
+        },
+        "fireMode": 0,
+        "minMaxHoldFireDuration": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "bulletsPerShot": 1,
+        "hitChanceByDistance": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": -0.00122364215,
+              "outTangent": -0.00122364215,
+              "inWeight": 0.0,
+              "outWeight": 0.280542672,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 12.5239887,
+              "value": 0.888768,
+              "inTangent": -0.0256380979,
+              "outTangent": -0.0256380979,
+              "inWeight": 0.218588382,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 20.9932957,
+              "value": 0.5235656,
+              "inTangent": -0.0268820114,
+              "outTangent": -0.0268820114,
+              "inWeight": 0.4070008,
+              "outWeight": 0.09007397,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 50.0,
+              "value": 0.1,
+              "inTangent": -0.00115902536,
+              "outTangent": -0.00115902536,
+              "inWeight": 0.1637987,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "headShotChance": 0.4,
+        "armShotChance": 0.1,
+        "bulletDamageMultiplierByDistance": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 0.6,
+              "inTangent": 0.0013925652,
+              "outTangent": 0.0013925652,
+              "inWeight": 0.0,
+              "outWeight": 0.12421748,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 21.3556156,
+              "value": 0.67017895,
+              "inTangent": 0.006314183,
+              "outTangent": 0.006314183,
+              "inWeight": 0.0695305,
+              "outWeight": 0.17379114,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 30.0,
+              "value": 0.75,
+              "inTangent": 0.0102762524,
+              "outTangent": 0.0102762524,
+              "inWeight": 0.117413089,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "horizontalMissSprayConeAngle": 4.0,
+        "verticalMissSprayConeAngle": 2.0,
+        "canGibOnKill": false,
+        "gibChanceByDistance": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    ],
+    "healBoosterItemIndex": 1,
+    "damageMultiplierByDifficulty": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "headshotChanceMultiplierByDifficulty": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "firerateCooldownMultiplierByDifficulty": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "id": 1,
+    "name": "TwoHanded Revolver [Old]",
+    "category": ""
+  },
+  {
+    "loadoutItems": [
+      {
+        "category": 1,
+        "onlyEnableInSingleHand": false,
+        "hasItem": true,
+        "startingItem": {
+          "CurrentIdx": 1,
+          "CellId": 15,
+          "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.GunTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "NameTO": "GunTO"
+        },
+        "attachmentIds": [],
+        "amount": 1
+      },
+      {
+        "category": 5,
+        "onlyEnableInSingleHand": false,
+        "hasItem": true,
+        "startingItem": {
+          "CurrentIdx": 0,
+          "CellId": 0,
+          "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.BoosterTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "NameTO": "BoosterTO"
+        },
+        "attachmentIds": [],
+        "amount": 1
+      }
+    ],
+    "equipLoadouts": [
+      {
+        "loadoutName": "TwoHanded Shotgun (Short Range)",
+        "leftHandState": {
+          "handState": 2,
+          "equippedItemIndex": 2,
+          "aimHandOffset": {
+            "x": 0.25,
+            "y": -0.2,
+            "z": 0.35
+          },
+          "aimHandRotation": {
+            "x": 0.0,
+            "y": 10.0,
+            "z": 90.0
+          },
+          "idleHandState": 0,
+          "idleHoldSecondaryHandle": true,
+          "idleHandOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.4
+          },
+          "idleHandRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightHandState": {
+          "handState": 1,
+          "equippedItemIndex": 0,
+          "aimHandOffset": {
+            "x": 0.25,
+            "y": -0.2,
+            "z": 0.05
+          },
+          "aimHandRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "idleHandState": 1,
+          "idleHoldSecondaryHandle": false,
+          "idleHandOffset": {
+            "x": 0.1,
+            "y": -0.3,
+            "z": 0.05
+          },
+          "idleHandRotation": {
+            "x": 35.0,
+            "y": -25.0,
+            "z": 0.0
+          }
+        },
+        "idealOperatingDistance": {
+          "x": 6.5,
+          "y": 10.0
+        },
+        "maxOperatingDistance": 14.0,
+        "weaponPreferredDistanceWeightCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 0.25,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 35
+            },
+            {
+              "time": 2.0,
+              "value": 0.25,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 137
+            },
+            {
+              "time": 6.5,
+              "value": 0.9,
+              "inTangent": 0.06400001,
+              "outTangent": 0.06400001,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 137
+            },
+            {
+              "time": 8.25,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 137
+            },
+            {
+              "time": 10.0,
+              "value": 0.9,
+              "inTangent": -0.06956524,
+              "outTangent": -0.06956524,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 137
+            },
+            {
+              "time": 14.0,
+              "value": 0.0,
+              "inTangent": -0.225,
+              "outTangent": -0.225,
+              "inWeight": 0.333333343,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 35
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "weaponFireWeightCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 10.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 14.0,
+              "value": 0.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "minMaxFireCooldown": {
+          "x": 1.5,
+          "y": 2.5
+        },
+        "fireMode": 0,
+        "minMaxHoldFireDuration": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "bulletsPerShot": 10,
+        "hitChanceByDistance": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 0.8,
+              "inTangent": -0.0146265933,
+              "outTangent": -0.0146265933,
+              "inWeight": 0.0,
+              "outWeight": 0.06486487,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 4.264964,
+              "value": 0.6002341,
+              "inTangent": -0.0605312772,
+              "outTangent": -0.0605312772,
+              "inWeight": 0.121693447,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 12.0,
+              "value": 0.15,
+              "inTangent": -0.0590707064,
+              "outTangent": -0.0590707064,
+              "inWeight": 0.043243248,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "headShotChance": 0.0,
+        "armShotChance": 0.4,
+        "bulletDamageMultiplierByDistance": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 30.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "horizontalMissSprayConeAngle": 10.0,
+        "verticalMissSprayConeAngle": 5.0,
+        "canGibOnKill": false,
+        "gibChanceByDistance": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    ],
+    "healBoosterItemIndex": 1,
+    "damageMultiplierByDifficulty": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "headshotChanceMultiplierByDifficulty": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "firerateCooldownMultiplierByDifficulty": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "id": 2,
+    "name": "Shotgun [Old]",
+    "category": ""
+  },
+  {
+    "loadoutItems": [
+      {
+        "category": 1,
+        "onlyEnableInSingleHand": false,
+        "hasItem": true,
+        "startingItem": {
+          "CurrentIdx": 0,
+          "CellId": 3,
+          "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.GunTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "NameTO": "GunTO"
+        },
+        "attachmentIds": [],
+        "amount": 1
+      },
+      {
+        "category": 5,
+        "onlyEnableInSingleHand": false,
+        "hasItem": true,
+        "startingItem": {
+          "CurrentIdx": 0,
+          "CellId": 0,
+          "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.BoosterTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "NameTO": "BoosterTO"
+        },
+        "attachmentIds": [],
+        "amount": 1
+      }
+    ],
+    "equipLoadouts": [
+      {
+        "loadoutName": "Rifle (Mid/Short Range, Lots of enemies, Inaccurate)",
+        "leftHandState": {
+          "handState": 2,
+          "equippedItemIndex": 1,
+          "aimHandOffset": {
+            "x": 0.15,
+            "y": 0.0,
+            "z": 0.4
+          },
+          "aimHandRotation": {
+            "x": 0.0,
+            "y": 10.0,
+            "z": 90.0
+          },
+          "idleHandState": 0,
+          "idleHoldSecondaryHandle": true,
+          "idleHandOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.4
+          },
+          "idleHandRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightHandState": {
+          "handState": 1,
+          "equippedItemIndex": 0,
+          "aimHandOffset": {
+            "x": 0.15,
+            "y": -0.025,
+            "z": 0.1
+          },
+          "aimHandRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "idleHandState": 1,
+          "idleHoldSecondaryHandle": false,
+          "idleHandOffset": {
+            "x": 0.13,
+            "y": -0.19,
+            "z": 0.075
+          },
+          "idleHandRotation": {
+            "x": 30.0,
+            "y": -5.0,
+            "z": 0.0
+          }
+        },
+        "idealOperatingDistance": {
+          "x": 7.5,
+          "y": 20.0
+        },
+        "maxOperatingDistance": 45.0,
+        "weaponPreferredDistanceWeightCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 0.25,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 35
+            },
+            {
+              "time": 2.0,
+              "value": 0.25,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 137
+            },
+            {
+              "time": 7.5,
+              "value": 0.9,
+              "inTangent": 0.03404256,
+              "outTangent": 0.03404256,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 137
+            },
+            {
+              "time": 13.75,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 137
+            },
+            {
+              "time": 20.0,
+              "value": 0.9,
+              "inTangent": -0.0128000034,
+              "outTangent": -0.0128000034,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 137
+            },
+            {
+              "time": 45.0,
+              "value": 0.0,
+              "inTangent": -0.036,
+              "outTangent": -0.036,
+              "inWeight": 0.333333343,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 35
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "weaponFireWeightCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 20.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 45.0,
+              "value": 0.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "minMaxFireCooldown": {
+          "x": 0.35,
+          "y": 1.75
+        },
+        "fireMode": 1,
+        "minMaxHoldFireDuration": {
+          "x": 0.3,
+          "y": 1.0
+        },
+        "bulletsPerShot": 1,
+        "hitChanceByDistance": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": -0.00561111933,
+              "outTangent": -0.00561111933,
+              "inWeight": 0.0,
+              "outWeight": 0.449460566,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 7.020325,
+              "value": 0.72324723,
+              "inTangent": -0.08000648,
+              "outTangent": -0.08000648,
+              "inWeight": 0.333333343,
+              "outWeight": 0.106742948,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 14.5780411,
+              "value": 0.294213861,
+              "inTangent": -0.0256380979,
+              "outTangent": -0.0256380979,
+              "inWeight": 0.218588382,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 30.0,
+              "value": 0.04,
+              "inTangent": -0.00115902536,
+              "outTangent": -0.00115902536,
+              "inWeight": 0.1637987,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "headShotChance": 0.1,
+        "armShotChance": 0.1,
+        "bulletDamageMultiplierByDistance": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 0.3,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 25.22745,
+              "value": 0.482112974,
+              "inTangent": 0.02271259,
+              "outTangent": 0.02271259,
+              "inWeight": 0.06881711,
+              "outWeight": 0.176031321,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 30.0,
+              "value": 0.65,
+              "inTangent": 0.0540076122,
+              "outTangent": 0.0540076122,
+              "inWeight": 0.118922979,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "horizontalMissSprayConeAngle": 8.0,
+        "verticalMissSprayConeAngle": 5.0,
+        "canGibOnKill": false,
+        "gibChanceByDistance": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    ],
+    "healBoosterItemIndex": 1,
+    "damageMultiplierByDifficulty": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "headshotChanceMultiplierByDifficulty": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "firerateCooldownMultiplierByDifficulty": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "id": 3,
+    "name": "TwoHanded Rifle [Old]",
+    "category": ""
+  },
+  {
+    "loadoutItems": [
+      {
+        "category": 0,
+        "onlyEnableInSingleHand": false,
+        "hasItem": true,
+        "startingItem": {
+          "CurrentIdx": 0,
+          "CellId": 1,
+          "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.GunTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "NameTO": "GunTO"
+        },
+        "attachmentIds": [],
+        "amount": 1
+      },
+      {
+        "category": 5,
+        "onlyEnableInSingleHand": false,
+        "hasItem": true,
+        "startingItem": {
+          "CurrentIdx": 0,
+          "CellId": 0,
+          "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.BoosterTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "NameTO": "BoosterTO"
+        },
+        "attachmentIds": [],
+        "amount": 1
+      }
+    ],
+    "equipLoadouts": [
+      {
+        "loadoutName": "Pistol (Long Range, Accurate, Slow)",
+        "leftHandState": {
+          "handState": 2,
+          "equippedItemIndex": 0,
+          "aimHandOffset": {
+            "x": 0.0,
+            "y": 0.05,
+            "z": 0.45
+          },
+          "aimHandRotation": {
+            "x": 0.0,
+            "y": 10.0,
+            "z": 90.0
+          },
+          "idleHandState": 0,
+          "idleHoldSecondaryHandle": false,
+          "idleHandOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.4
+          },
+          "idleHandRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightHandState": {
+          "handState": 1,
+          "equippedItemIndex": 0,
+          "aimHandOffset": {
+            "x": 0.0,
+            "y": 0.1,
+            "z": 0.5
+          },
+          "aimHandRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 20.0
+          },
+          "idleHandState": 0,
+          "idleHoldSecondaryHandle": false,
+          "idleHandOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.4
+          },
+          "idleHandRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "idealOperatingDistance": {
+          "x": 4.0,
+          "y": 30.0
+        },
+        "maxOperatingDistance": 50.0,
+        "weaponPreferredDistanceWeightCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 0.25,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 35
+            },
+            {
+              "time": 2.0,
+              "value": 0.25,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 137
+            },
+            {
+              "time": 4.0,
+              "value": 0.9,
+              "inTangent": 0.026666671,
+              "outTangent": 0.026666671,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 137
+            },
+            {
+              "time": 17.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 137
+            },
+            {
+              "time": 30.0,
+              "value": 0.9,
+              "inTangent": -0.0121212155,
+              "outTangent": -0.0121212155,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 137
+            },
+            {
+              "time": 50.0,
+              "value": 0.0,
+              "inTangent": -0.0449999981,
+              "outTangent": -0.0449999981,
+              "inWeight": 0.333333343,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 35
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "weaponFireWeightCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 30.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 50.0,
+              "value": 0.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "minMaxFireCooldown": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "fireMode": 0,
+        "minMaxHoldFireDuration": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "bulletsPerShot": 1,
+        "hitChanceByDistance": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": -0.00122364215,
+              "outTangent": -0.00122364215,
+              "inWeight": 0.0,
+              "outWeight": 0.280542672,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 5.205141,
+              "value": 0.869824231,
+              "inTangent": -0.0555334948,
+              "outTangent": -0.0555334948,
+              "inWeight": 0.248234883,
+              "outWeight": 0.111899622,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 12.8773556,
+              "value": 0.411471844,
+              "inTangent": -0.0292257275,
+              "outTangent": -0.0292257275,
+              "inWeight": 0.4070008,
+              "outWeight": 0.05132319,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 50.0,
+              "value": 0.1,
+              "inTangent": -0.00115902536,
+              "outTangent": -0.00115902536,
+              "inWeight": 0.1637987,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "headShotChance": 0.45,
+        "armShotChance": 0.25,
+        "bulletDamageMultiplierByDistance": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.00018311,
+              "inTangent": 0.0013925652,
+              "outTangent": -6.10351572E-06,
+              "inWeight": 0.0,
+              "outWeight": 0.12421748,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 30.0,
+              "value": 1.0,
+              "inTangent": -6.10351572E-06,
+              "outTangent": 0.0102762524,
+              "inWeight": 0.117413089,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "horizontalMissSprayConeAngle": 4.0,
+        "verticalMissSprayConeAngle": 2.0,
+        "canGibOnKill": false,
+        "gibChanceByDistance": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    ],
+    "healBoosterItemIndex": 1,
+    "damageMultiplierByDifficulty": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        0.8,
+        0.9,
+        1.0,
+        1.65,
+        2.0
+      ]
+    },
+    "headshotChanceMultiplierByDifficulty": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        0.75,
+        0.8,
+        0.85,
+        1.5,
+        2.0
+      ]
+    },
+    "firerateCooldownMultiplierByDifficulty": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        2.6,
+        2.6,
+        2.6,
+        1.0,
+        0.5
+      ]
+    },
+    "id": 4,
+    "name": "TwoHanded Pistol",
+    "category": ""
+  },
+  {
+    "loadoutItems": [
+      {
+        "category": 0,
+        "onlyEnableInSingleHand": false,
+        "hasItem": true,
+        "startingItem": {
+          "CurrentIdx": 2,
+          "CellId": 4,
+          "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.GunTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "NameTO": "GunTO"
+        },
+        "attachmentIds": [],
+        "amount": 1
+      },
+      {
+        "category": 0,
+        "onlyEnableInSingleHand": false,
+        "hasItem": true,
+        "startingItem": {
+          "CurrentIdx": 1,
+          "CellId": 2,
+          "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.GunTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "NameTO": "GunTO"
+        },
+        "attachmentIds": [],
+        "amount": 1
+      },
+      {
+        "category": 5,
+        "onlyEnableInSingleHand": false,
+        "hasItem": true,
+        "startingItem": {
+          "CurrentIdx": 0,
+          "CellId": 0,
+          "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.BoosterTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "NameTO": "BoosterTO"
+        },
+        "attachmentIds": [],
+        "amount": 1
+      }
+    ],
+    "equipLoadouts": [
+      {
+        "loadoutName": "SMG + Pistol",
+        "leftHandState": {
+          "handState": 1,
+          "equippedItemIndex": 1,
+          "aimHandOffset": {
+            "x": -0.15,
+            "y": 0.0,
+            "z": 0.5
+          },
+          "aimHandRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -30.0
+          },
+          "idleHandState": 0,
+          "idleHoldSecondaryHandle": false,
+          "idleHandOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.4
+          },
+          "idleHandRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightHandState": {
+          "handState": 1,
+          "equippedItemIndex": 0,
+          "aimHandOffset": {
+            "x": 0.15,
+            "y": 0.1,
+            "z": 0.5
+          },
+          "aimHandRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 30.0
+          },
+          "idleHandState": 0,
+          "idleHoldSecondaryHandle": false,
+          "idleHandOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.4
+          },
+          "idleHandRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "idealOperatingDistance": {
+          "x": 4.0,
+          "y": 30.0
+        },
+        "maxOperatingDistance": 50.0,
+        "weaponPreferredDistanceWeightCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 0.25,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 35
+            },
+            {
+              "time": 2.0,
+              "value": 0.25,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 137
+            },
+            {
+              "time": 4.0,
+              "value": 0.9,
+              "inTangent": 0.026666671,
+              "outTangent": 0.026666671,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 137
+            },
+            {
+              "time": 17.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 137
+            },
+            {
+              "time": 30.0,
+              "value": 0.9,
+              "inTangent": -0.0121212155,
+              "outTangent": -0.0121212155,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 137
+            },
+            {
+              "time": 50.0,
+              "value": 0.0,
+              "inTangent": -0.0449999981,
+              "outTangent": -0.0449999981,
+              "inWeight": 0.333333343,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 35
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "weaponFireWeightCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 30.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 50.0,
+              "value": 0.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "minMaxFireCooldown": {
+          "x": 0.1,
+          "y": 0.2
+        },
+        "fireMode": 0,
+        "minMaxHoldFireDuration": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "bulletsPerShot": 1,
+        "hitChanceByDistance": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": -0.00122364215,
+              "outTangent": -0.00122364215,
+              "inWeight": 0.0,
+              "outWeight": 0.280542672,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 2.13847542,
+              "value": 0.8641632,
+              "inTangent": -0.0555334948,
+              "outTangent": -0.0555334948,
+              "inWeight": 0.248234883,
+              "outWeight": 0.111899622,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 9.81069,
+              "value": 0.4171176,
+              "inTangent": -0.0292257275,
+              "outTangent": -0.0292257275,
+              "inWeight": 0.4070008,
+              "outWeight": 0.05132319,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 50.0,
+              "value": 0.1,
+              "inTangent": -0.00115902536,
+              "outTangent": -0.00115902536,
+              "inWeight": 0.1637987,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "headShotChance": 0.25,
+        "armShotChance": 0.4,
+        "bulletDamageMultiplierByDistance": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.00018311,
+              "inTangent": 0.0013925652,
+              "outTangent": -6.10351572E-06,
+              "inWeight": 0.0,
+              "outWeight": 0.12421748,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 30.0,
+              "value": 1.0,
+              "inTangent": -6.10351572E-06,
+              "outTangent": 0.0102762524,
+              "inWeight": 0.117413089,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "horizontalMissSprayConeAngle": 5.0,
+        "verticalMissSprayConeAngle": 3.0,
+        "canGibOnKill": false,
+        "gibChanceByDistance": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    ],
+    "healBoosterItemIndex": 2,
+    "damageMultiplierByDifficulty": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        0.8,
+        0.9,
+        1.0,
+        1.65,
+        2.0
+      ]
+    },
+    "headshotChanceMultiplierByDifficulty": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        0.75,
+        0.8,
+        0.85,
+        1.5,
+        2.0
+      ]
+    },
+    "firerateCooldownMultiplierByDifficulty": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        2.6,
+        2.6,
+        2.6,
+        1.0,
+        0.5
+      ]
+    },
+    "id": 5,
+    "name": "SMG + Pistol",
+    "category": ""
+  },
+  {
+    "loadoutItems": [
+      {
+        "category": 1,
+        "onlyEnableInSingleHand": false,
+        "hasItem": true,
+        "startingItem": {
+          "CurrentIdx": 0,
+          "CellId": 3,
+          "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.GunTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "NameTO": "GunTO"
+        },
+        "attachmentIds": [],
+        "amount": 1
+      },
+      {
+        "category": 5,
+        "onlyEnableInSingleHand": false,
+        "hasItem": true,
+        "startingItem": {
+          "CurrentIdx": 0,
+          "CellId": 0,
+          "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.BoosterTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "NameTO": "BoosterTO"
+        },
+        "attachmentIds": [],
+        "amount": 1
+      }
+    ],
+    "equipLoadouts": [
+      {
+        "loadoutName": "Rifle (Mid/Short Range, Lots of enemies, Inaccurate)",
+        "leftHandState": {
+          "handState": 2,
+          "equippedItemIndex": 1,
+          "aimHandOffset": {
+            "x": 0.5,
+            "y": 0.0,
+            "z": 0.25
+          },
+          "aimHandRotation": {
+            "x": 0.0,
+            "y": -10.0,
+            "z": 0.0
+          },
+          "idleHandState": 0,
+          "idleHoldSecondaryHandle": true,
+          "idleHandOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.4
+          },
+          "idleHandRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightHandState": {
+          "handState": 1,
+          "equippedItemIndex": 0,
+          "aimHandOffset": {
+            "x": 0.15,
+            "y": -0.025,
+            "z": 0.1
+          },
+          "aimHandRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "idleHandState": 1,
+          "idleHoldSecondaryHandle": false,
+          "idleHandOffset": {
+            "x": 0.13,
+            "y": -0.19,
+            "z": 0.15
+          },
+          "idleHandRotation": {
+            "x": 40.0,
+            "y": -30.0,
+            "z": 30.0
+          }
+        },
+        "idealOperatingDistance": {
+          "x": 8.0,
+          "y": 35.0
+        },
+        "maxOperatingDistance": 50.0,
+        "weaponPreferredDistanceWeightCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 0.25,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 35
+            },
+            {
+              "time": 2.0,
+              "value": 0.25,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 137
+            },
+            {
+              "time": 8.0,
+              "value": 0.9,
+              "inTangent": 0.0205128249,
+              "outTangent": 0.0205128249,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 137
+            },
+            {
+              "time": 21.5,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 137
+            },
+            {
+              "time": 35.0,
+              "value": 0.9,
+              "inTangent": -0.0140350908,
+              "outTangent": -0.0140350908,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 137
+            },
+            {
+              "time": 50.0,
+              "value": 0.0,
+              "inTangent": -0.06,
+              "outTangent": -0.06,
+              "inWeight": 0.333333343,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 35
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "weaponFireWeightCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 35.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 50.0,
+              "value": 0.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "minMaxFireCooldown": {
+          "x": 0.35,
+          "y": 0.5
+        },
+        "fireMode": 1,
+        "minMaxHoldFireDuration": {
+          "x": 0.3,
+          "y": 1.0
+        },
+        "bulletsPerShot": 1,
+        "hitChanceByDistance": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": -0.00561111933,
+              "outTangent": -0.00561111933,
+              "inWeight": 0.0,
+              "outWeight": 0.449460566,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 5.95365667,
+              "value": 0.6367054,
+              "inTangent": -0.110698059,
+              "outTangent": -0.110698059,
+              "inWeight": 0.333333343,
+              "outWeight": 0.159581482,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 13.9102249,
+              "value": 0.226556391,
+              "inTangent": -0.01711957,
+              "outTangent": -0.01711957,
+              "inWeight": 0.218588382,
+              "outWeight": 0.05561937,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 50.0,
+              "value": 0.0,
+              "inTangent": -0.00153270853,
+              "outTangent": -0.00153270853,
+              "inWeight": 0.107631668,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "headShotChance": 0.3,
+        "armShotChance": 0.4,
+        "bulletDamageMultiplierByDistance": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 100.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "horizontalMissSprayConeAngle": 8.0,
+        "verticalMissSprayConeAngle": 5.0,
+        "canGibOnKill": false,
+        "gibChanceByDistance": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    ],
+    "healBoosterItemIndex": 1,
+    "damageMultiplierByDifficulty": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        0.8,
+        0.9,
+        1.0,
+        1.6,
+        2.0
+      ]
+    },
+    "headshotChanceMultiplierByDifficulty": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        0.75,
+        0.8,
+        0.85,
+        1.5,
+        2.0
+      ]
+    },
+    "firerateCooldownMultiplierByDifficulty": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        2.6,
+        2.8,
+        2.8,
+        1.0,
+        0.5
+      ]
+    },
+    "id": 6,
+    "name": "TwoHanded Rifle",
+    "category": ""
+  },
+  {
+    "loadoutItems": [
+      {
+        "category": 1,
+        "onlyEnableInSingleHand": false,
+        "hasItem": true,
+        "startingItem": {
+          "CurrentIdx": 1,
+          "CellId": 15,
+          "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.GunTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "NameTO": "GunTO"
+        },
+        "attachmentIds": [],
+        "amount": 1
+      },
+      {
+        "category": 5,
+        "onlyEnableInSingleHand": false,
+        "hasItem": true,
+        "startingItem": {
+          "CurrentIdx": 0,
+          "CellId": 0,
+          "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.BoosterTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "NameTO": "BoosterTO"
+        },
+        "attachmentIds": [],
+        "amount": 1
+      }
+    ],
+    "equipLoadouts": [
+      {
+        "loadoutName": "TwoHanded Shotgun (Short Range)",
+        "leftHandState": {
+          "handState": 2,
+          "equippedItemIndex": 2,
+          "aimHandOffset": {
+            "x": 0.5,
+            "y": -0.05,
+            "z": 0.25
+          },
+          "aimHandRotation": {
+            "x": 0.0,
+            "y": 10.0,
+            "z": 90.0
+          },
+          "idleHandState": 0,
+          "idleHoldSecondaryHandle": true,
+          "idleHandOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.4
+          },
+          "idleHandRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightHandState": {
+          "handState": 1,
+          "equippedItemIndex": 0,
+          "aimHandOffset": {
+            "x": 0.25,
+            "y": -0.05,
+            "z": 0.1
+          },
+          "aimHandRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "idleHandState": 1,
+          "idleHoldSecondaryHandle": false,
+          "idleHandOffset": {
+            "x": 0.1,
+            "y": -0.3,
+            "z": 0.15
+          },
+          "idleHandRotation": {
+            "x": 25.0,
+            "y": -45.0,
+            "z": 0.0
+          }
+        },
+        "idealOperatingDistance": {
+          "x": 6.0,
+          "y": 12.0
+        },
+        "maxOperatingDistance": 14.0,
+        "weaponPreferredDistanceWeightCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 0.25,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 35
+            },
+            {
+              "time": 2.0,
+              "value": 0.25,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 137
+            },
+            {
+              "time": 6.0,
+              "value": 0.9,
+              "inTangent": 0.05714287,
+              "outTangent": 0.05714287,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 137
+            },
+            {
+              "time": 9.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 137
+            },
+            {
+              "time": 12.0,
+              "value": 0.9,
+              "inTangent": -0.08000002,
+              "outTangent": -0.08000002,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 137
+            },
+            {
+              "time": 14.0,
+              "value": 0.0,
+              "inTangent": -0.45,
+              "outTangent": -0.45,
+              "inWeight": 0.333333343,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 35
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "weaponFireWeightCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 12.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 14.0,
+              "value": 0.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "minMaxFireCooldown": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "fireMode": 0,
+        "minMaxHoldFireDuration": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "bulletsPerShot": 10,
+        "hitChanceByDistance": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": -0.0146265933,
+              "outTangent": -0.0146265933,
+              "inWeight": 0.0,
+              "outWeight": 0.06486487,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 5.691051,
+              "value": 0.5987429,
+              "inTangent": -0.185402453,
+              "outTangent": -0.185402453,
+              "inWeight": 0.06794932,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 12.0,
+              "value": 0.15,
+              "inTangent": -0.0590707064,
+              "outTangent": -0.0590707064,
+              "inWeight": 0.043243248,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "headShotChance": 0.1,
+        "armShotChance": 0.4,
+        "bulletDamageMultiplierByDistance": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 30.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "horizontalMissSprayConeAngle": 10.0,
+        "verticalMissSprayConeAngle": 5.0,
+        "canGibOnKill": true,
+        "gibChanceByDistance": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 0.8,
+              "inTangent": -0.02719266,
+              "outTangent": -0.02719266,
+              "inWeight": 0.0,
+              "outWeight": 0.155501321,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 2.412323,
+              "value": 0.4668539,
+              "inTangent": -0.15757817,
+              "outTangent": -0.15757817,
+              "inWeight": 0.0883463845,
+              "outWeight": 0.05291017,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 10.0,
+              "value": 0.0,
+              "inTangent": -0.0199719239,
+              "outTangent": -0.0199719239,
+              "inWeight": 0.1336058,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    ],
+    "healBoosterItemIndex": 1,
+    "damageMultiplierByDifficulty": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        0.8,
+        0.9,
+        1.0,
+        1.6,
+        2.0
+      ]
+    },
+    "headshotChanceMultiplierByDifficulty": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        0.75,
+        0.8,
+        0.85,
+        1.5,
+        2.0
+      ]
+    },
+    "firerateCooldownMultiplierByDifficulty": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        2.6,
+        2.8,
+        2.8,
+        1.0,
+        0.5
+      ]
+    },
+    "id": 7,
+    "name": "Shotgun",
+    "category": ""
+  }
+]
+}

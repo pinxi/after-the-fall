@@ -1,0 +1,164 @@
+{
+  "TableId": 50018,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "localizationKey": "",
+    "itemIds": [
+      {
+        "platform": 1,
+        "id": "1819510",
+        "SIEEProductLabel": "",
+        "SIEEEntitlementLabel": "",
+        "SIEAProductLabel": "",
+        "SIEAEntitlementLabel": "",
+        "SIEJAProductLabel": "",
+        "SIEJAEntitlementLabel": ""
+      },
+      {
+        "platform": 2,
+        "id": "after_the_fall_fwd_to_the_past_weapon_skin",
+        "SIEEProductLabel": "",
+        "SIEEEntitlementLabel": "",
+        "SIEAProductLabel": "",
+        "SIEAEntitlementLabel": "",
+        "SIEJAProductLabel": "",
+        "SIEJAEntitlementLabel": ""
+      },
+      {
+        "platform": 4,
+        "id": "DeluxeEdition",
+        "SIEEProductLabel": "0765242991841859",
+        "SIEEEntitlementLabel": "0765242991841859",
+        "SIEAProductLabel": "9309998551424748",
+        "SIEAEntitlementLabel": "9309998551424748",
+        "SIEJAProductLabel": "",
+        "SIEJAEntitlementLabel": ""
+      }
+    ],
+    "id": 0,
+    "name": "DeluxeEdition",
+    "category": ""
+  },
+  {
+    "localizationKey": "SKIN_SUNSHINE_SUBTITLE",
+    "itemIds": [
+      {
+        "platform": 1,
+        "id": "1310900",
+        "SIEEProductLabel": "",
+        "SIEEEntitlementLabel": "",
+        "SIEAProductLabel": "",
+        "SIEAEntitlementLabel": "",
+        "SIEJAProductLabel": "",
+        "SIEJAEntitlementLabel": ""
+      },
+      {
+        "platform": 2,
+        "id": "after_the_fall_arizonasunshine",
+        "SIEEProductLabel": "",
+        "SIEEEntitlementLabel": "",
+        "SIEAProductLabel": "",
+        "SIEAEntitlementLabel": "",
+        "SIEJAProductLabel": "",
+        "SIEJAEntitlementLabel": ""
+      },
+      {
+        "platform": 4,
+        "id": "ArizonaDeluxeEdition",
+        "SIEEProductLabel": "1643277384331336",
+        "SIEEEntitlementLabel": "1643277384331336",
+        "SIEAProductLabel": "4175131557198666",
+        "SIEAEntitlementLabel": "4175131557198666",
+        "SIEJAProductLabel": "",
+        "SIEJAEntitlementLabel": ""
+      }
+    ],
+    "id": 1,
+    "name": "ArizonaDeluxeEdition",
+    "category": ""
+  },
+  {
+    "localizationKey": "SKIN_UNCLEBOB_SUBTITLE",
+    "itemIds": [
+      {
+        "platform": 1,
+        "id": "1819510",
+        "SIEEProductLabel": "",
+        "SIEEEntitlementLabel": "",
+        "SIEAProductLabel": "",
+        "SIEAEntitlementLabel": "",
+        "SIEJAProductLabel": "",
+        "SIEJAEntitlementLabel": ""
+      }
+    ],
+    "id": 2,
+    "name": "DeluxeEditionSteam",
+    "category": ""
+  },
+  {
+    "localizationKey": "SKIN_FUTURE_SUBTITLE",
+    "itemIds": [
+      {
+        "platform": 2,
+        "id": "after_the_fall_fwd_to_the_past_weapon_skin",
+        "SIEEProductLabel": "",
+        "SIEEEntitlementLabel": "",
+        "SIEAProductLabel": "",
+        "SIEAEntitlementLabel": "",
+        "SIEJAProductLabel": "",
+        "SIEJAEntitlementLabel": ""
+      }
+    ],
+    "id": 3,
+    "name": "DeluxeEditionOculus",
+    "category": ""
+  },
+  {
+    "localizationKey": "SKIN_DELUXE_SUBTITLE",
+    "itemIds": [
+      {
+        "platform": 4,
+        "id": "DeluxeEditionPS4",
+        "SIEEProductLabel": "0765242991841859",
+        "SIEEEntitlementLabel": "0765242991841859",
+        "SIEAProductLabel": "9309998551424748",
+        "SIEAEntitlementLabel": "9309998551424748",
+        "SIEJAProductLabel": "",
+        "SIEJAEntitlementLabel": ""
+      },
+      {
+        "platform": 10,
+        "id": "DeluxeEditionPS5",
+        "SIEEProductLabel": "0927653536968049",
+        "SIEEEntitlementLabel": "0927653536968049",
+        "SIEAProductLabel": "0843237974762054",
+        "SIEAEntitlementLabel": "0843237974762054",
+        "SIEJAProductLabel": "",
+        "SIEJAEntitlementLabel": ""
+      }
+    ],
+    "id": 4,
+    "name": "DeluxeEditionPlaystation",
+    "category": ""
+  },
+  {
+    "localizationKey": "SKIN_ROAD_WARRIOR_SUBTITLE",
+    "itemIds": [
+      {
+        "platform": 10,
+        "id": "ExclusivePlayerSkinPS5",
+        "SIEEProductLabel": "7478124805885720",
+        "SIEEEntitlementLabel": "7478124805885720",
+        "SIEAProductLabel": "8885477837372606",
+        "SIEAEntitlementLabel": "8885477837372606",
+        "SIEJAProductLabel": "",
+        "SIEJAEntitlementLabel": ""
+      }
+    ],
+    "id": 5,
+    "name": "ExclusivePlayerSkinPS5",
+    "category": ""
+  }
+]
+}

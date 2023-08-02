@@ -1,0 +1,95 @@
+{
+  "TableId": 141,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "itemFilters": [
+      {
+        "acceptedItemType": {
+          "CurrentIndex": 14,
+          "DisplayName": "JunkItemTO",
+          "AssemblyQualifiedName": "Vertigo.Snowbreed.JunkItemTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+        },
+        "acceptAnyItemOfType": true,
+        "acceptedItem": 0
+      }
+    ],
+    "id": 0,
+    "name": "Example - JunkItemsOnly",
+    "category": ""
+  },
+  {
+    "itemFilters": [
+      {
+        "acceptedItemType": {
+          "CurrentIndex": 12,
+          "DisplayName": "GrabbableItemTO",
+          "AssemblyQualifiedName": "Vertigo.Snowbreed.GrabbableItemTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+        },
+        "acceptAnyItemOfType": false,
+        "acceptedItem": 0
+      }
+    ],
+    "id": 1,
+    "name": "Example - ExampleGrabbableItemOnly",
+    "category": ""
+  },
+  {
+    "itemFilters": [
+      {
+        "acceptedItemType": {
+          "CurrentIndex": 12,
+          "DisplayName": "GrabbableItemTO",
+          "AssemblyQualifiedName": "Vertigo.Snowbreed.GrabbableItemTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+        },
+        "acceptAnyItemOfType": false,
+        "acceptedItem": 2
+      }
+    ],
+    "id": 2,
+    "name": "KeyCard",
+    "category": ""
+  },
+  {
+    "itemFilters": [
+      {
+        "acceptedItemType": {
+          "CurrentIndex": 13,
+          "DisplayName": "KeyHeadItemTO",
+          "AssemblyQualifiedName": "Vertigo.Snowbreed.KeyHeadItemTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+        },
+        "acceptAnyItemOfType": false,
+        "acceptedItem": 6
+      }
+    ],
+    "id": 3,
+    "name": "KeyHead",
+    "category": ""
+  },
+  {
+    "itemFilters": [
+      {
+        "acceptedItemType": {
+          "CurrentIndex": 12,
+          "DisplayName": "GrabbableItemTO",
+          "AssemblyQualifiedName": "Vertigo.Snowbreed.GrabbableItemTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+        },
+        "acceptAnyItemOfType": true,
+        "acceptedItem": 0
+      },
+      {
+        "acceptedItemType": {
+          "CurrentIndex": 13,
+          "DisplayName": "KeyHeadItemTO",
+          "AssemblyQualifiedName": "Vertigo.Snowbreed.KeyHeadItemTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+        },
+        "acceptAnyItemOfType": false,
+        "acceptedItem": 6
+      }
+    ],
+    "id": 4,
+    "name": "GrabbableItem + KeyHeadItem",
+    "category": ""
+  }
+]
+}

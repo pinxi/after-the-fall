@@ -1,0 +1,50 @@
+{
+  "TableId": 182,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "idleDefaultAggroRange": 5.0,
+    "idleHearingRange": 8.0,
+    "idleVisionRange": 11.0,
+    "idleVisionConeAngle": 160.0,
+    "idleVisionCastRadius": 0.25,
+    "idleVisionCastLayerMask": {
+      "value": 4097
+    },
+    "idleVisionToAggroMinDelay": 0.75,
+    "idleVisionToAggroMaxDelay": 1.0,
+    "aggroMinDelay": 0.75,
+    "aggroMaxDelay": 2.5,
+    "aggroChainRadius": 5.0,
+    "idleWanderCooldownMinTime": 5.0,
+    "idleWanderCooldownMaxTime": 30.0,
+    "aggroOthersOnDeath": true,
+    "aggroOnDeathRange": 5.0,
+    "id": 0,
+    "name": "Generic Aggro",
+    "category": ""
+  },
+  {
+    "idleDefaultAggroRange": 3.0,
+    "idleHearingRange": 0.5,
+    "idleVisionRange": 18.0,
+    "idleVisionConeAngle": 120.0,
+    "idleVisionCastRadius": 0.25,
+    "idleVisionCastLayerMask": {
+      "value": 4097
+    },
+    "idleVisionToAggroMinDelay": 0.75,
+    "idleVisionToAggroMaxDelay": 1.25,
+    "aggroMinDelay": 0.75,
+    "aggroMaxDelay": 2.5,
+    "aggroChainRadius": 3.0,
+    "idleWanderCooldownMinTime": 5.0,
+    "idleWanderCooldownMaxTime": 30.0,
+    "aggroOthersOnDeath": false,
+    "aggroOnDeathRange": 3.0,
+    "id": 1,
+    "name": "Smasher Aggro",
+    "category": ""
+  }
+]
+}

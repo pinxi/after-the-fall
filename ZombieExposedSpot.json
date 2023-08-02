@@ -1,0 +1,96 @@
+{
+  "TableId": 215,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "spotBoneIds": [
+      6
+    ],
+    "id": 0,
+    "name": "LeftUpperArm",
+    "category": ""
+  },
+  {
+    "spotBoneIds": [
+      7
+    ],
+    "id": 1,
+    "name": "LeftLowerArm",
+    "category": ""
+  },
+  {
+    "spotBoneIds": [
+      9,
+      19
+    ],
+    "id": 2,
+    "name": "RightUpperArm",
+    "category": ""
+  },
+  {
+    "spotBoneIds": [
+      10
+    ],
+    "id": 3,
+    "name": "RightLowerArm",
+    "category": ""
+  },
+  {
+    "spotBoneIds": [
+      12
+    ],
+    "id": 4,
+    "name": "LeftUpperLeg",
+    "category": ""
+  },
+  {
+    "spotBoneIds": [
+      13
+    ],
+    "id": 5,
+    "name": "LeftLowerLeg",
+    "category": ""
+  },
+  {
+    "spotBoneIds": [
+      15
+    ],
+    "id": 6,
+    "name": "RightUpperLeg",
+    "category": ""
+  },
+  {
+    "spotBoneIds": [
+      16
+    ],
+    "id": 7,
+    "name": "RightLowerLeg",
+    "category": ""
+  },
+  {
+    "spotBoneIds": [
+      2,
+      3
+    ],
+    "id": 8,
+    "name": "Chest",
+    "category": ""
+  },
+  {
+    "spotBoneIds": [
+      1
+    ],
+    "id": 9,
+    "name": "Abdomen",
+    "category": ""
+  },
+  {
+    "spotBoneIds": [
+      5
+    ],
+    "id": 10,
+    "name": "Head",
+    "category": ""
+  }
+]
+}

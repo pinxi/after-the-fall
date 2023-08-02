@@ -1,0 +1,43 @@
+{
+  "TableId": 115,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "fastStartup": false,
+    "disableMovementChecks": false,
+    "zombieImpactServerSide": false,
+    "useConfigFile": false,
+    "hasInfiniteResources": false,
+    "hasMaxAmmo": false,
+    "godModeEnabled": false,
+    "drawServerGizmos": false,
+    "zombieSpawningDisabled": false,
+    "persistenceDisabled": false,
+    "allowPrototypeItemsInCraftingBench": false,
+    "skipHubIntro": false,
+    "disableMenuCloseOnMovement": false,
+    "unlockAllRewards": false,
+    "hideDebugUIInfo": false,
+    "gunLaserPointerEnabled": false,
+    "gunHolographicSightAlwaysEnabled": false,
+    "enableZombieHitFresnel": true,
+    "extensivePlayerNamePlateEnabled": false,
+    "enableLocalFloppyDisks": false,
+    "enableLocalCoins": false,
+    "disableAntiCheat": false,
+    "disableMelee": true,
+    "disabledMeleeSetting": 1,
+    "simulateSingleController": false,
+    "noVRRangedInteractionDistance": 2.5,
+    "enabledSeasonalContent": [],
+    "harvestRunLevel": 7,
+    "harvestRunDifficulty": 1,
+    "hordeModeLevel": 1002,
+    "hordeModeStartRound": 5,
+    "hordeModeCompleteRound": 9,
+    "id": 0,
+    "name": "",
+    "category": ""
+  }
+]
+}

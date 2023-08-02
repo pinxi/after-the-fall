@@ -1,0 +1,890 @@
+{
+  "TableId": 168,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "displayName": "Health",
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "isInfinite": false,
+    "max": 10000,
+    "isPersistent": true,
+    "isViewableInInventoryMenu": false,
+    "showResourceCollectedMessage": true,
+    "resourceColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "resourceLightColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "id": 0,
+    "name": "Health",
+    "category": ""
+  },
+  {
+    "displayName": "Scrap",
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "isInfinite": false,
+    "max": 10000,
+    "isPersistent": true,
+    "isViewableInInventoryMenu": false,
+    "showResourceCollectedMessage": true,
+    "resourceColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "resourceLightColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "id": 1,
+    "name": "Scrap",
+    "category": ""
+  },
+  {
+    "displayName": "Currency2",
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "isInfinite": false,
+    "max": 10000,
+    "isPersistent": true,
+    "isViewableInInventoryMenu": false,
+    "showResourceCollectedMessage": true,
+    "resourceColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "resourceLightColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "id": 2,
+    "name": "Currency2",
+    "category": ""
+  },
+  {
+    "displayName": "ITEM_AMMO_DEVICECHARGE",
+    "icon": {
+      "assetName": "Icon_MissileDevice_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Crafting/Icon_MissileDevice_01.png",
+      "assetGUID": "1cc19aaaabd5b614bbced147feeffdd0",
+      "resourcePath": "Crafting/Icon_MissileDevice_01",
+      "isSubAsset": false
+    },
+    "isInfinite": false,
+    "max": 10000,
+    "isPersistent": false,
+    "isViewableInInventoryMenu": false,
+    "showResourceCollectedMessage": true,
+    "resourceColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "resourceLightColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "id": 3,
+    "name": "Device Charge",
+    "category": ""
+  },
+  {
+    "displayName": "RESOURCE_44_AMMO_2",
+    "icon": {
+      "assetName": "Icon_ammo_44",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_ammo_44.png",
+      "assetGUID": "2c4142f4e48f4474fb87989fd5165591",
+      "resourcePath": "Tooltips/Icon_ammo_44",
+      "isSubAsset": false
+    },
+    "isInfinite": false,
+    "max": 80,
+    "isPersistent": false,
+    "isViewableInInventoryMenu": false,
+    "showResourceCollectedMessage": true,
+    "resourceColor": {
+      "color4": {
+        "x": 0.309803933,
+        "y": 0.772549033,
+        "z": 0.356862754,
+        "w": 1.0
+      }
+    },
+    "resourceLightColor": {
+      "color4": {
+        "x": 0.345098048,
+        "y": 0.858823538,
+        "z": 0.396078438,
+        "w": 1.0
+      }
+    },
+    "id": 4,
+    "name": ".44 Ammo (Deagle)",
+    "category": ""
+  },
+  {
+    "displayName": "Circuitry",
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "isInfinite": false,
+    "max": 10000,
+    "isPersistent": true,
+    "isViewableInInventoryMenu": false,
+    "showResourceCollectedMessage": true,
+    "resourceColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "resourceLightColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "id": 5,
+    "name": "Circuitry",
+    "category": ""
+  },
+  {
+    "displayName": "Lead",
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "isInfinite": false,
+    "max": 10000,
+    "isPersistent": true,
+    "isViewableInInventoryMenu": false,
+    "showResourceCollectedMessage": true,
+    "resourceColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "resourceLightColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "id": 6,
+    "name": "Lead",
+    "category": ""
+  },
+  {
+    "displayName": "Plastic",
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "isInfinite": false,
+    "max": 10000,
+    "isPersistent": true,
+    "isViewableInInventoryMenu": false,
+    "showResourceCollectedMessage": true,
+    "resourceColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "resourceLightColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "id": 7,
+    "name": "Plastic",
+    "category": ""
+  },
+  {
+    "displayName": "Adhesive",
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "isInfinite": false,
+    "max": 10000,
+    "isPersistent": true,
+    "isViewableInInventoryMenu": false,
+    "showResourceCollectedMessage": true,
+    "resourceColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "resourceLightColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "id": 8,
+    "name": "Adhesive",
+    "category": ""
+  },
+  {
+    "displayName": "Steel",
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "isInfinite": false,
+    "max": 10000,
+    "isPersistent": true,
+    "isViewableInInventoryMenu": false,
+    "showResourceCollectedMessage": true,
+    "resourceColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "resourceLightColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "id": 9,
+    "name": "Steel",
+    "category": ""
+  },
+  {
+    "displayName": "Powder",
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "isInfinite": false,
+    "max": 10000,
+    "isPersistent": true,
+    "isViewableInInventoryMenu": false,
+    "showResourceCollectedMessage": true,
+    "resourceColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "resourceLightColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "id": 10,
+    "name": "Powder",
+    "category": ""
+  },
+  {
+    "displayName": "Cloth",
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "isInfinite": false,
+    "max": 10000,
+    "isPersistent": true,
+    "isViewableInInventoryMenu": false,
+    "showResourceCollectedMessage": true,
+    "resourceColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "resourceLightColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "id": 11,
+    "name": "Cloth",
+    "category": ""
+  },
+  {
+    "displayName": "Glass",
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "isInfinite": false,
+    "max": 10000,
+    "isPersistent": true,
+    "isViewableInInventoryMenu": false,
+    "showResourceCollectedMessage": true,
+    "resourceColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "resourceLightColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "id": 12,
+    "name": "Glass",
+    "category": ""
+  },
+  {
+    "displayName": "Oil",
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "isInfinite": false,
+    "max": 10000,
+    "isPersistent": true,
+    "isViewableInInventoryMenu": false,
+    "showResourceCollectedMessage": true,
+    "resourceColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "resourceLightColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "id": 13,
+    "name": "Oil",
+    "category": ""
+  },
+  {
+    "displayName": "Wood",
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "isInfinite": false,
+    "max": 10000,
+    "isPersistent": true,
+    "isViewableInInventoryMenu": false,
+    "showResourceCollectedMessage": true,
+    "resourceColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "resourceLightColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "id": 14,
+    "name": "Wood",
+    "category": ""
+  },
+  {
+    "displayName": "RESOURCE_9MM_AMMO_2",
+    "icon": {
+      "assetName": "Icon_ammo_9mm",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_ammo_9mm.png",
+      "assetGUID": "98bd6fc1235f0e048bf89ed45a36ff43",
+      "resourcePath": "Tooltips/Icon_ammo_9mm",
+      "isSubAsset": false
+    },
+    "isInfinite": false,
+    "max": 240,
+    "isPersistent": false,
+    "isViewableInInventoryMenu": false,
+    "showResourceCollectedMessage": true,
+    "resourceColor": {
+      "color4": {
+        "x": 0.372549027,
+        "y": 0.721568644,
+        "z": 1.0,
+        "w": 1.0
+      }
+    },
+    "resourceLightColor": {
+      "color4": {
+        "x": 0.3529412,
+        "y": 0.8117647,
+        "z": 1.0,
+        "w": 1.0
+      }
+    },
+    "id": 15,
+    "name": "9mm Ammo (Pistol)",
+    "category": ""
+  },
+  {
+    "displayName": "Juice",
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "isInfinite": false,
+    "max": 99999999,
+    "isPersistent": true,
+    "isViewableInInventoryMenu": true,
+    "showResourceCollectedMessage": false,
+    "resourceColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "resourceLightColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "id": 16,
+    "name": "Juice",
+    "category": ""
+  },
+  {
+    "displayName": "RESOURCE_SHOTGUN_AMMO_2",
+    "icon": {
+      "assetName": "Icon_ammo_12guage",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_ammo_12guage.png",
+      "assetGUID": "3d426c55eb13a864cb4657400eb6d63f",
+      "resourcePath": "Tooltips/Icon_ammo_12guage",
+      "isSubAsset": false
+    },
+    "isInfinite": false,
+    "max": 40,
+    "isPersistent": false,
+    "isViewableInInventoryMenu": false,
+    "showResourceCollectedMessage": true,
+    "resourceColor": {
+      "color4": {
+        "x": 0.8207547,
+        "y": 0.150987908,
+        "z": 0.196550474,
+        "w": 1.0
+      }
+    },
+    "resourceLightColor": {
+      "color4": {
+        "x": 0.8490566,
+        "y": 0.172214314,
+        "z": 0.216009974,
+        "w": 1.0
+      }
+    },
+    "id": 17,
+    "name": "Shotgun Ammo (Shotgun)",
+    "category": ""
+  },
+  {
+    "displayName": "RESOURCE_556_AMMO",
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": true
+    },
+    "isInfinite": false,
+    "max": 200,
+    "isPersistent": false,
+    "isViewableInInventoryMenu": false,
+    "showResourceCollectedMessage": true,
+    "resourceColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "resourceLightColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "id": 18,
+    "name": "5.56 Ammo",
+    "category": ""
+  },
+  {
+    "displayName": "RESOURCE_762_AMMO_2",
+    "icon": {
+      "assetName": "Icon_ammo_762",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_ammo_762.png",
+      "assetGUID": "781614be8d77f7d48abcd7cee8164d2e",
+      "resourcePath": "Tooltips/Icon_ammo_762",
+      "isSubAsset": false
+    },
+    "isInfinite": false,
+    "max": 200,
+    "isPersistent": false,
+    "isViewableInInventoryMenu": false,
+    "showResourceCollectedMessage": true,
+    "resourceColor": {
+      "color4": {
+        "x": 0.8773585,
+        "y": 0.6920312,
+        "z": 0.269001454,
+        "w": 1.0
+      }
+    },
+    "resourceLightColor": {
+      "color4": {
+        "x": 0.9716981,
+        "y": 0.766794443,
+        "z": 0.142087922,
+        "w": 1.0
+      }
+    },
+    "id": 19,
+    "name": "7.62 Ammo (Rifle)",
+    "category": ""
+  },
+  {
+    "displayName": "FLOPPY_BASE_RESOURCE",
+    "icon": {
+      "assetName": "Icon_item_disk_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_item_disk_01.png",
+      "assetGUID": "2e13ac7d361ac3143ab2fb89022aa015",
+      "resourcePath": "Tooltips/Icon_item_disk_01",
+      "isSubAsset": false
+    },
+    "isInfinite": false,
+    "max": 10000,
+    "isPersistent": true,
+    "isViewableInInventoryMenu": true,
+    "showResourceCollectedMessage": true,
+    "resourceColor": {
+      "color4": {
+        "x": 0.6,
+        "y": 0.6,
+        "z": 0.6,
+        "w": 1.0
+      }
+    },
+    "resourceLightColor": {
+      "color4": {
+        "x": 0.6,
+        "y": 0.6,
+        "z": 0.6,
+        "w": 1.0
+      }
+    },
+    "id": 20,
+    "name": "FloppyBase",
+    "category": ""
+  },
+  {
+    "displayName": "Coin",
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "isInfinite": false,
+    "max": 10,
+    "isPersistent": true,
+    "isViewableInInventoryMenu": false,
+    "showResourceCollectedMessage": true,
+    "resourceColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "resourceLightColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "id": 21,
+    "name": "Coin",
+    "category": ""
+  },
+  {
+    "displayName": "FLOPPY_IMPORT_RESOURCE",
+    "icon": {
+      "assetName": "Icon_item_disk_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_item_disk_01.png",
+      "assetGUID": "2e13ac7d361ac3143ab2fb89022aa015",
+      "resourcePath": "Tooltips/Icon_item_disk_01",
+      "isSubAsset": false
+    },
+    "isInfinite": false,
+    "max": 10000,
+    "isPersistent": true,
+    "isViewableInInventoryMenu": true,
+    "showResourceCollectedMessage": true,
+    "resourceColor": {
+      "color4": {
+        "x": 0.435294122,
+        "y": 0.65882355,
+        "z": 0.8627451,
+        "w": 1.0
+      }
+    },
+    "resourceLightColor": {
+      "color4": {
+        "x": 0.435294122,
+        "y": 0.65882355,
+        "z": 0.8627451,
+        "w": 1.0
+      }
+    },
+    "id": 22,
+    "name": "FloppyImport",
+    "category": ""
+  },
+  {
+    "displayName": "FLOPPY_INDUSTRIAL_RESOURCE",
+    "icon": {
+      "assetName": "Icon_item_disk_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_item_disk_01.png",
+      "assetGUID": "2e13ac7d361ac3143ab2fb89022aa015",
+      "resourcePath": "Tooltips/Icon_item_disk_01",
+      "isSubAsset": false
+    },
+    "isInfinite": false,
+    "max": 10000,
+    "isPersistent": true,
+    "isViewableInInventoryMenu": true,
+    "showResourceCollectedMessage": true,
+    "resourceColor": {
+      "color4": {
+        "x": 0.5568628,
+        "y": 0.4862745,
+        "z": 0.7647059,
+        "w": 1.0
+      }
+    },
+    "resourceLightColor": {
+      "color4": {
+        "x": 0.5568628,
+        "y": 0.4862745,
+        "z": 0.7647059,
+        "w": 1.0
+      }
+    },
+    "id": 23,
+    "name": "FloppyIndustrial",
+    "category": ""
+  },
+  {
+    "displayName": "FLOPPY_MILITARY_RESOURCE",
+    "icon": {
+      "assetName": "Icon_item_disk_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_item_disk_01.png",
+      "assetGUID": "2e13ac7d361ac3143ab2fb89022aa015",
+      "resourcePath": "Tooltips/Icon_item_disk_01",
+      "isSubAsset": false
+    },
+    "isInfinite": false,
+    "max": 10000,
+    "isPersistent": true,
+    "isViewableInInventoryMenu": true,
+    "showResourceCollectedMessage": true,
+    "resourceColor": {
+      "color4": {
+        "x": 0.9647059,
+        "y": 0.698039234,
+        "z": 0.419607848,
+        "w": 1.0
+      }
+    },
+    "resourceLightColor": {
+      "color4": {
+        "x": 0.9647059,
+        "y": 0.698039234,
+        "z": 0.419607848,
+        "w": 1.0
+      }
+    },
+    "id": 24,
+    "name": "FloppyMilitary",
+    "category": ""
+  },
+  {
+    "displayName": "FLOPPY_PROTOTYPE_RESOURCE",
+    "icon": {
+      "assetName": "Icon_item_disk_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_item_disk_01.png",
+      "assetGUID": "2e13ac7d361ac3143ab2fb89022aa015",
+      "resourcePath": "Tooltips/Icon_item_disk_01",
+      "isSubAsset": false
+    },
+    "isInfinite": false,
+    "max": 10000,
+    "isPersistent": true,
+    "isViewableInInventoryMenu": true,
+    "showResourceCollectedMessage": true,
+    "resourceColor": {
+      "color4": {
+        "x": 0.8784314,
+        "y": 0.4,
+        "z": 0.4,
+        "w": 1.0
+      }
+    },
+    "resourceLightColor": {
+      "color4": {
+        "x": 0.8784314,
+        "y": 0.4,
+        "z": 0.4,
+        "w": 1.0
+      }
+    },
+    "id": 25,
+    "name": "FloppyPrototype",
+    "category": ""
+  }
+]
+}

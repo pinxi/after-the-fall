@@ -1,0 +1,409 @@
+{
+  "TableId": 123,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "ParticlePrefab": {
+      "assetName": "FX AnimSpawn Horde Snow Crawl",
+      "assetPath": "Assets/Art/FX Vertigo/FX Enemies/FX Spawn Horde/VertigoResources/FX AnimSpawn Horde Snow Crawl.prefab",
+      "assetGUID": "e2957b334ec55274a9d867b5924840e4",
+      "resourcePath": "FX AnimSpawn Horde Snow Crawl",
+      "isSubAsset": false
+    },
+    "PoolSize": 10,
+    "id": 0,
+    "name": "AnimSpawn Horde Snow Crawl",
+    "category": ""
+  },
+  {
+    "ParticlePrefab": {
+      "assetName": "FX SprawlWeakPoint",
+      "assetPath": "Assets/Art/FX Vertigo/FX SpawlWeakPoint/VertigoResources/FX SprawlWeakPoint.prefab",
+      "assetGUID": "7ec3bb152c6ea11478ae26a24b9fe4bf",
+      "resourcePath": "FX SprawlWeakPoint",
+      "isSubAsset": false
+    },
+    "PoolSize": 10,
+    "id": 1,
+    "name": "Sprawl Weakpoint Kill",
+    "category": ""
+  },
+  {
+    "ParticlePrefab": {
+      "assetName": "FX Sprawl Cloud",
+      "assetPath": "Assets/Art/FX Vertigo/FX Sprawl Cloud/VertigoResources/FX Sprawl Cloud.prefab",
+      "assetGUID": "3f4e21a2ca3bdfa49b0530547da935f3",
+      "resourcePath": "FX Sprawl Cloud",
+      "isSubAsset": false
+    },
+    "PoolSize": 10,
+    "id": 2,
+    "name": "Sprawl Cloud",
+    "category": ""
+  },
+  {
+    "ParticlePrefab": {
+      "assetName": "FX Sprawl Spawn",
+      "assetPath": "Assets/Art/FX Vertigo/FX Sprawl Spawn/VertigoResources/FX Sprawl Spawn.prefab",
+      "assetGUID": "50ee9a3d75db44149b162668949043a3",
+      "resourcePath": "FX Sprawl Spawn",
+      "isSubAsset": false
+    },
+    "PoolSize": 10,
+    "id": 3,
+    "name": "Sprawl Spawn",
+    "category": ""
+  },
+  {
+    "ParticlePrefab": {
+      "assetName": "FX Safe Door Slide",
+      "assetPath": "Assets/Art/FX Vertigo/FX Safedoor/VertigoResources/FX Safe Door Slide.prefab",
+      "assetGUID": "c234854546e59f64fbb9f1d4a9475e64",
+      "resourcePath": "FX Safe Door Slide",
+      "isSubAsset": false
+    },
+    "PoolSize": 1,
+    "id": 4,
+    "name": "Safe Door Slide",
+    "category": ""
+  },
+  {
+    "ParticlePrefab": {
+      "assetName": "FX Concrete Pillar Explosion",
+      "assetPath": "Assets/Art/FX Vertigo/FX Destructibles/VertigoResources/FX Concrete Pillar Explosion.prefab",
+      "assetGUID": "3d91ec2f0b4aaa347bfb244d1a732ccf",
+      "resourcePath": "FX Concrete Pillar Explosion",
+      "isSubAsset": false
+    },
+    "PoolSize": 6,
+    "id": 5,
+    "name": "Concrete Pillar Explosion",
+    "category": ""
+  },
+  {
+    "ParticlePrefab": {
+      "assetName": "FX Electronic Explosion Small",
+      "assetPath": "Assets/Art/FX Vertigo/FX Destructibles/VertigoResources/FX Electronic Explosion Small.prefab",
+      "assetGUID": "7f7a40d0d887e5341b19e0b9984ddf91",
+      "resourcePath": "FX Electronic Explosion Small",
+      "isSubAsset": false
+    },
+    "PoolSize": 3,
+    "id": 6,
+    "name": "Electronic Explosion Small",
+    "category": ""
+  },
+  {
+    "ParticlePrefab": {
+      "assetName": "FX Electronic Explosion",
+      "assetPath": "Assets/Art/FX Vertigo/FX Destructibles/VertigoResources/FX Electronic Explosion.prefab",
+      "assetGUID": "6177001ecc039ae44b0bb05c9c6ee63f",
+      "resourcePath": "FX Electronic Explosion",
+      "isSubAsset": false
+    },
+    "PoolSize": 3,
+    "id": 7,
+    "name": "Electronic Explosion",
+    "category": ""
+  },
+  {
+    "ParticlePrefab": {
+      "assetName": "FX Exploding Glass",
+      "assetPath": "Assets/Art/FX Vertigo/FX Destructibles/VertigoResources/FX Exploding Glass.prefab",
+      "assetGUID": "a663fba44f2cd174c84feb7bbe376ac5",
+      "resourcePath": "FX Exploding Glass",
+      "isSubAsset": false
+    },
+    "PoolSize": 4,
+    "id": 8,
+    "name": "Exploding Glass",
+    "category": ""
+  },
+  {
+    "ParticlePrefab": {
+      "assetName": "FX Icicle Explosion",
+      "assetPath": "Assets/Art/FX Vertigo/FX Destructibles/VertigoResources/FX Icicle Explosion.prefab",
+      "assetGUID": "4e994a755167fdd458111a29ae20e8a0",
+      "resourcePath": "FX Icicle Explosion",
+      "isSubAsset": false
+    },
+    "PoolSize": 8,
+    "id": 9,
+    "name": "Icicle Explosion",
+    "category": ""
+  },
+  {
+    "ParticlePrefab": {
+      "assetName": "FX Porcelain Explosion",
+      "assetPath": "Assets/Art/FX Vertigo/FX Destructibles/VertigoResources/FX Porcelain Explosion.prefab",
+      "assetGUID": "8de17962975e37f428852f484813ca77",
+      "resourcePath": "FX Porcelain Explosion",
+      "isSubAsset": false
+    },
+    "PoolSize": 6,
+    "id": 10,
+    "name": "Porcelain Explosion",
+    "category": ""
+  },
+  {
+    "ParticlePrefab": {
+      "assetName": "FX AC Explosion",
+      "assetPath": "Assets/Art/FX Vertigo/FX Explosion/VertigoResources/FX AC Explosion.prefab",
+      "assetGUID": "574b435fc1705e240b4738b0baa6ff9e",
+      "resourcePath": "FX AC Explosion",
+      "isSubAsset": false
+    },
+    "PoolSize": 5,
+    "id": 11,
+    "name": "AC Explosion",
+    "category": ""
+  },
+  {
+    "ParticlePrefab": {
+      "assetName": "FX Robot Arm Magnet",
+      "assetPath": "Assets/Art/FX Vertigo/FX Crafting/VertigoResources/FX Robot Arm Magnet.prefab",
+      "assetGUID": "bfab270d827b2a846bbc360bc8c7b0db",
+      "resourcePath": "FX Robot Arm Magnet",
+      "isSubAsset": false
+    },
+    "PoolSize": 1,
+    "id": 12,
+    "name": "Robot Arm Magnet",
+    "category": ""
+  },
+  {
+    "ParticlePrefab": {
+      "assetName": "FX Welding",
+      "assetPath": "Assets/Art/FX Vertigo/FX Sparks/FX Electrical Sparks/VertigoResources/FX Welding.prefab",
+      "assetGUID": "4ba34523e9e34d64d9069189db00d73a",
+      "resourcePath": "FX Welding",
+      "isSubAsset": false
+    },
+    "PoolSize": 1,
+    "id": 13,
+    "name": "Welding Sparks",
+    "category": ""
+  },
+  {
+    "ParticlePrefab": {
+      "assetName": "FX Padlock Break",
+      "assetPath": "Assets/Art/FX Vertigo/FX Destructibles/VertigoResources/FX Padlock Break.prefab",
+      "assetGUID": "83930157b87c40043bc919e886c69049",
+      "resourcePath": "FX Padlock Break",
+      "isSubAsset": false
+    },
+    "PoolSize": 2,
+    "id": 14,
+    "name": "Padlock Break",
+    "category": ""
+  },
+  {
+    "ParticlePrefab": {
+      "assetName": "FX Crate Pop Open (lid dust)",
+      "assetPath": "Assets/Art/FX Vertigo/FX Ammo Crate/VertigoResources/FX Crate Pop Open (lid dust).prefab",
+      "assetGUID": "5f440dd9836310f40a366e0fc3a8b8cf",
+      "resourcePath": "FX Crate Pop Open (lid dust)",
+      "isSubAsset": false
+    },
+    "PoolSize": 6,
+    "id": 15,
+    "name": "Ammo Crate Pop Open",
+    "category": ""
+  },
+  {
+    "ParticlePrefab": {
+      "assetName": "FX Barrel Fire",
+      "assetPath": "Assets/Art/FX Vertigo/FX Fire/VertigoResources/FX Barrel Fire.prefab",
+      "assetGUID": "f223f256e965a604eabb1d1819a27416",
+      "resourcePath": "FX Barrel Fire",
+      "isSubAsset": false
+    },
+    "PoolSize": 6,
+    "id": 16,
+    "name": "Barrel Fire",
+    "category": ""
+  },
+  {
+    "ParticlePrefab": {
+      "assetName": "FX Zipline Sparks",
+      "assetPath": "Assets/Art/FX Vertigo/FX Sparks/FX Electrical Sparks/VertigoResources/FX Zipline Sparks.prefab",
+      "assetGUID": "0d9081b8d74f9f144a83977f7f5a05e4",
+      "resourcePath": "FX Zipline Sparks",
+      "isSubAsset": false
+    },
+    "PoolSize": 4,
+    "id": 17,
+    "name": "Zipline Sparks",
+    "category": ""
+  },
+  {
+    "ParticlePrefab": {
+      "assetName": "FX Electrical Sparks Scanner",
+      "assetPath": "Assets/Art/FX Vertigo/FX Sparks/FX Electrical Sparks/VertigoResources/FX Electrical Sparks Scanner.prefab",
+      "assetGUID": "a0b831e409c77ab439bad05d9f3772b8",
+      "resourcePath": "FX Electrical Sparks Scanner",
+      "isSubAsset": false
+    },
+    "PoolSize": 1,
+    "id": 18,
+    "name": "Scanner Sparks",
+    "category": ""
+  },
+  {
+    "ParticlePrefab": {
+      "assetName": "Blood_Burst_Directional_S",
+      "assetPath": "Assets/Art/FX Vertigo/FX Blood/FX Impact Blood Prefab/VertigoResources/Blood_Burst_Directional_S.prefab",
+      "assetGUID": "0c0f2dd8d20109c4d82d99a3abdb038e",
+      "resourcePath": "Blood_Burst_Directional_S",
+      "isSubAsset": false
+    },
+    "PoolSize": 2,
+    "id": 19,
+    "name": "Blood Impact",
+    "category": ""
+  },
+  {
+    "ParticlePrefab": {
+      "assetName": "FX Shotgun Muzzle Flash",
+      "assetPath": "Assets/Art/FX Vertigo/FX Weapons/FX Guns/VertigoResources/FX Shotgun Muzzle Flash.prefab",
+      "assetGUID": "4e94eb1f52ee4144facd5ff3814f9652",
+      "resourcePath": "FX Shotgun Muzzle Flash",
+      "isSubAsset": false
+    },
+    "PoolSize": 1,
+    "id": 20,
+    "name": "Shotgun Blast",
+    "category": ""
+  },
+  {
+    "ParticlePrefab": {
+      "assetName": "FX Pinata Explosion",
+      "assetPath": "Assets/Art/FX Vertigo/FX Destructibles/VertigoResources/FX Pinata Explosion.prefab",
+      "assetGUID": "dcbaca212675f20478f0bc52e136f364",
+      "resourcePath": "FX Pinata Explosion",
+      "isSubAsset": false
+    },
+    "PoolSize": 6,
+    "id": 21,
+    "name": "Pinata Explosion",
+    "category": ""
+  },
+  {
+    "ParticlePrefab": {
+      "assetName": "FX Sonic Screwdriver 1",
+      "assetPath": "Assets/Art/FX Vertigo/FX Sonic Screw Driver/VertigoResources/FX Sonic Screwdriver 1.prefab",
+      "assetGUID": "4979bf729cb9c3b44be9efa577907f7d",
+      "resourcePath": "FX Sonic Screwdriver 1",
+      "isSubAsset": false
+    },
+    "PoolSize": 2,
+    "id": 22,
+    "name": "Sonic Screwdriver 1",
+    "category": ""
+  },
+  {
+    "ParticlePrefab": {
+      "assetName": "FX Quake",
+      "assetPath": "Assets/Art/FX Vertigo/FX Falling Dust Rubble/VertigoResources/FX Quake.prefab",
+      "assetGUID": "5b013d8d43c9300489f55b256b6396c8",
+      "resourcePath": "FX Quake",
+      "isSubAsset": false
+    },
+    "PoolSize": 1,
+    "id": 23,
+    "name": "Earthquake",
+    "category": ""
+  },
+  {
+    "ParticlePrefab": {
+      "assetName": "FX Ashtray Explosion",
+      "assetPath": "Assets/Art/FX Vertigo/FX Destructibles/VertigoResources/FX Ashtray Explosion.prefab",
+      "assetGUID": "3de9962d30c261240a75ca685e8d80ca",
+      "resourcePath": "FX Ashtray Explosion",
+      "isSubAsset": false
+    },
+    "PoolSize": 1,
+    "id": 24,
+    "name": "Ashtray Explosion",
+    "category": ""
+  },
+  {
+    "ParticlePrefab": {
+      "assetName": "FX Exploding Glass Bottle",
+      "assetPath": "Assets/Art/FX Vertigo/FX Destructibles/VertigoResources/FX Exploding Glass Bottle.prefab",
+      "assetGUID": "8e218f5f0ae4e8242b7aac4b1d7cc6d7",
+      "resourcePath": "FX Exploding Glass Bottle",
+      "isSubAsset": false
+    },
+    "PoolSize": 5,
+    "id": 25,
+    "name": "Bottle Explosion",
+    "category": ""
+  },
+  {
+    "ParticlePrefab": {
+      "assetName": "FX Theatre Screen (Rising)",
+      "assetPath": "Assets/Art/FX Vertigo/FX Theatre Screen/VertigoResources/FX Theatre Screen (Rising).prefab",
+      "assetGUID": "6aac5625e3691f7498878f55cf9e4d3c",
+      "resourcePath": "FX Theatre Screen (Rising)",
+      "isSubAsset": false
+    },
+    "PoolSize": 1,
+    "id": 26,
+    "name": "Theatre Screen Rising",
+    "category": ""
+  },
+  {
+    "ParticlePrefab": {
+      "assetName": "FX Giant Sprawl Slither Away",
+      "assetPath": "Assets/Art/FX Vertigo/FX Enemies/FX Sprawls/VertigoResources/FX Giant Sprawl Slither Away.prefab",
+      "assetGUID": "148bf9b4222ee4548bf16308dd991820",
+      "resourcePath": "FX Giant Sprawl Slither Away",
+      "isSubAsset": false
+    },
+    "PoolSize": 1,
+    "id": 27,
+    "name": "Giant Sprawl Slither Away",
+    "category": ""
+  },
+  {
+    "ParticlePrefab": {
+      "assetName": "FX Giant Toxic Sprawl Fumes",
+      "assetPath": "Assets/Art/FX Vertigo/FX Enemies/FX Sprawls/VertigoResources/FX Giant Toxic Sprawl Fumes.prefab",
+      "assetGUID": "42221c2628517f840bb1c7582997a227",
+      "resourcePath": "FX Giant Toxic Sprawl Fumes",
+      "isSubAsset": false
+    },
+    "PoolSize": 2,
+    "id": 28,
+    "name": "Giant Sprawl Toxic Fumes",
+    "category": ""
+  },
+  {
+    "ParticlePrefab": {
+      "assetName": "FX Giant Toxic Sprawl Spit",
+      "assetPath": "Assets/Art/FX Vertigo/FX Enemies/FX Sprawls/VertigoResources/FX Giant Toxic Sprawl Spit.prefab",
+      "assetGUID": "3f784337874b0e245a0becee7a577017",
+      "resourcePath": "FX Giant Toxic Sprawl Spit",
+      "isSubAsset": false
+    },
+    "PoolSize": 2,
+    "id": 29,
+    "name": "Giant Sprawl Spit",
+    "category": ""
+  },
+  {
+    "ParticlePrefab": {
+      "assetName": "FX Giant Worm Ceiling Scrape",
+      "assetPath": "Assets/Art/FX Vertigo/FX Enemies/FX Sprawls/VertigoResources/FX Giant Worm Ceiling Scrape.prefab",
+      "assetGUID": "2b822be8ee965f647b98ead8aafe81f6",
+      "resourcePath": "FX Giant Worm Ceiling Scrape",
+      "isSubAsset": false
+    },
+    "PoolSize": 1,
+    "id": 30,
+    "name": "Giant Sprawl Ceiling Scrape",
+    "category": ""
+  }
+]
+}

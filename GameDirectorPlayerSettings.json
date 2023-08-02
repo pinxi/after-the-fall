@@ -1,0 +1,42 @@
+{
+  "TableId": 0,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "stressDecayDelay": 3.0,
+    "stressDecayPerSecond": 0.15,
+    "stressAreaRange": 10.0,
+    "zombieDeathStressRatio": 0.2,
+    "zombieDeathStressProximity": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "healthPercentageStressRatio": 0.01,
+    "id": 0,
+    "name": "name",
+    "category": ""
+  }
+]
+}

@@ -1,0 +1,96 @@
+{
+  "TableId": 50028,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "playerBodySkins": [
+      26,
+      27,
+      34,
+      35,
+      44,
+      45
+    ],
+    "localizationKey": "PLAYER_SKIN_THEME_RED",
+    "id": 0,
+    "name": "Red",
+    "category": ""
+  },
+  {
+    "playerBodySkins": [
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69
+    ],
+    "localizationKey": "PLAYER_SKIN_THEME_NEON",
+    "id": 1,
+    "name": "Neon",
+    "category": ""
+  },
+  {
+    "playerBodySkins": [
+      103,
+      104,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117
+    ],
+    "localizationKey": "PLAYER_SKIN_THEME_MOBSTER",
+    "id": 2,
+    "name": "Mobster",
+    "category": ""
+  },
+  {
+    "playerBodySkins": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125
+    ],
+    "localizationKey": "PLAYER_SKIN_THEME_RAMBO",
+    "id": 3,
+    "name": "Rambo",
+    "category": ""
+  },
+  {
+    "playerBodySkins": [
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133
+    ],
+    "localizationKey": "PLAYER_SKIN_THEME_RIOT",
+    "id": 4,
+    "name": "Riot",
+    "category": ""
+  },
+  {
+    "playerBodySkins": [
+      3,
+      2,
+      1,
+      0
+    ],
+    "localizationKey": "PLAYER_SKIN_THEME_STORY",
+    "id": 5,
+    "name": "Story",
+    "category": ""
+  }
+]
+}

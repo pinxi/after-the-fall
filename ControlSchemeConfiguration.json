@@ -1,0 +1,33 @@
+{
+  "TableId": 50020,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "controlSchemes": [
+      {
+        "ControlScheme": 1,
+        "localizationKey": "MENU_OPTIONS_INPUT_CONTROL_SCHEME_DEFAULT",
+        "ControllerTypeAvailability": -1
+      },
+      {
+        "ControlScheme": 0,
+        "localizationKey": "MENU_OPTIONS_INPUT_CONTROL_SCHEME_ALTERNATIVE_1",
+        "ControllerTypeAvailability": 8
+      },
+      {
+        "ControlScheme": 3,
+        "localizationKey": "MENU_OPTIONS_INPUT_CONTROL_SCHEME_DEFAULT_INVERTED_2",
+        "ControllerTypeAvailability": -1
+      },
+      {
+        "ControlScheme": 2,
+        "localizationKey": "MENU_OPTIONS_INPUT_CONTROL_SCHEME_ALTERNATIVE_1_INVERTED",
+        "ControllerTypeAvailability": 0
+      }
+    ],
+    "id": 0,
+    "name": "Default",
+    "category": ""
+  }
+]
+}

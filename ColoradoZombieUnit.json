@@ -1,0 +1,78 @@
+{
+  "TableId": 106,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "hitpoints": 1,
+    "killPointsUnitId": 0,
+    "chanceToSpawnCrawlerOnDeath": 0.065,
+    "crawlerUnitId": 3,
+    "id": 0,
+    "name": "Zombie Normal",
+    "category": "",
+    "ignoreProjectiles": false,
+    "prefab": {
+      "assetName": "CD_Zombie_Normal",
+      "assetPath": "Assets/Prefabs/ArcadeGames/ColoradoDaylight/VertigoResources/CD_Zombie_Normal.prefab",
+      "assetGUID": "244dd9a5d2a688348a931133ea9be560",
+      "resourcePath": "CD_Zombie_Normal",
+      "isSubAsset": false
+    },
+    "poolSize": 16
+  },
+  {
+    "hitpoints": 1,
+    "killPointsUnitId": 0,
+    "chanceToSpawnCrawlerOnDeath": 0.065,
+    "crawlerUnitId": 3,
+    "id": 1,
+    "name": "Zombie Helmet",
+    "category": "",
+    "ignoreProjectiles": false,
+    "prefab": {
+      "assetName": "CD_Zombie_Helmet",
+      "assetPath": "Assets/Prefabs/ArcadeGames/ColoradoDaylight/VertigoResources/CD_Zombie_Helmet.prefab",
+      "assetGUID": "6fe43ae95f541a542a7ea43a394aa1a2",
+      "resourcePath": "CD_Zombie_Helmet",
+      "isSubAsset": false
+    },
+    "poolSize": 8
+  },
+  {
+    "hitpoints": 3,
+    "killPointsUnitId": 1,
+    "chanceToSpawnCrawlerOnDeath": 0.065,
+    "crawlerUnitId": 3,
+    "id": 2,
+    "name": "Zombie Fungus",
+    "category": "",
+    "ignoreProjectiles": false,
+    "prefab": {
+      "assetName": "CD_Zombie_Fungus",
+      "assetPath": "Assets/Prefabs/ArcadeGames/ColoradoDaylight/VertigoResources/CD_Zombie_Fungus.prefab",
+      "assetGUID": "c7c7bfc333a50564bacf9eca9f9f0110",
+      "resourcePath": "CD_Zombie_Fungus",
+      "isSubAsset": false
+    },
+    "poolSize": 6
+  },
+  {
+    "hitpoints": 1,
+    "killPointsUnitId": 0,
+    "chanceToSpawnCrawlerOnDeath": 0.0,
+    "crawlerUnitId": 3,
+    "id": 3,
+    "name": "Zombie Crawler",
+    "category": "",
+    "ignoreProjectiles": false,
+    "prefab": {
+      "assetName": "CD_Zombie_Crawler",
+      "assetPath": "Assets/Prefabs/ArcadeGames/ColoradoDaylight/VertigoResources/CD_Zombie_Crawler.prefab",
+      "assetGUID": "c61fa949bfc1aff479f073fbe7543b2b",
+      "resourcePath": "CD_Zombie_Crawler",
+      "isSubAsset": false
+    },
+    "poolSize": 6
+  }
+]
+}

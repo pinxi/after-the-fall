@@ -1,0 +1,1061 @@
+{
+  "TableId": 129,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "handPoseId": 23,
+    "isPosedOnTrigger": false,
+    "canInsertInInventory": false,
+    "itemStartedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemStoppedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "icon_empty",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/icon_empty.png",
+      "assetGUID": "6971d8585ceccd549bf035fba3ec2e8c",
+      "resourcePath": "icon_empty:icon_empty.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 0,
+    "id": 0,
+    "name": "Example",
+    "category": "",
+    "displayName": "Example",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "",
+    "tooltipSubtitleDisplayName": "",
+    "inventoryIcon": {
+      "assetName": "icon_empty",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/icon_empty.png",
+      "assetGUID": "6971d8585ceccd549bf035fba3ec2e8c",
+      "resourcePath": "icon_empty:icon_empty.Sprite",
+      "isSubAsset": true
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "CubeGrabbable",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Grabbables/CubeGrabbable.prefab",
+      "assetGUID": "43fffc0a2d21cd04fa21fc42ba1d8cef",
+      "resourcePath": "Grabbables/CubeGrabbable",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": true,
+    "correctionStrategy": 1,
+    "activeDurationBeforeCorrection": 5.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 92,
+    "isPosedOnTrigger": false,
+    "canInsertInInventory": true,
+    "itemStartedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemStoppedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "icon_empty",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/icon_empty.png",
+      "assetGUID": "6971d8585ceccd549bf035fba3ec2e8c",
+      "resourcePath": "icon_empty:icon_empty.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 0,
+    "id": 1,
+    "name": "Battery",
+    "category": "",
+    "displayName": "Battery",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "",
+    "tooltipSubtitleDisplayName": "",
+    "inventoryIcon": {
+      "assetName": "icon_empty",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/icon_empty.png",
+      "assetGUID": "6971d8585ceccd549bf035fba3ec2e8c",
+      "resourcePath": "icon_empty:icon_empty.Sprite",
+      "isSubAsset": true
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Battery",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Grabbables/Battery.prefab",
+      "assetGUID": "53a0823021520684d8fb144b508aaa54",
+      "resourcePath": "Grabbables/Battery",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": true,
+    "correctionStrategy": 1,
+    "activeDurationBeforeCorrection": 5.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_gun",
+      "eventGuid": "eb71769e-b424-4f1c-b75a-edc7237f08b4"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab",
+      "eventGuid": "c15f1454-a82d-4583-a089-38c50e7a6fa5",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab",
+      "eventGuid": "c15f1454-a82d-4583-a089-38c50e7a6fa5",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 91,
+    "isPosedOnTrigger": false,
+    "canInsertInInventory": true,
+    "itemStartedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemStoppedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "Icon_KeyCard",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Icon_KeyCard.png",
+      "assetGUID": "e4a9b76847aae494d9949d035c1fdc39",
+      "resourcePath": "Icon_KeyCard:Icon_KeyCard.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 16,
+    "id": 2,
+    "name": "KeyCard",
+    "category": "",
+    "displayName": "Key Card",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "ITEM_KEYCARD",
+    "tooltipSubtitleDisplayName": "",
+    "inventoryIcon": {
+      "assetName": "Icon_KeyCard",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Icon_KeyCard.png",
+      "assetGUID": "e4a9b76847aae494d9949d035c1fdc39",
+      "resourcePath": "Icon_KeyCard:Icon_KeyCard.Sprite",
+      "isSubAsset": true
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "KeyCard",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Grabbables/KeyCard.prefab",
+      "assetGUID": "2a23f9b10381ecd498cdfac3a246d5c2",
+      "resourcePath": "Grabbables/KeyCard",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 1,
+    "activeDurationBeforeCorrection": 5.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab",
+      "eventGuid": "c15f1454-a82d-4583-a089-38c50e7a6fa5",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab",
+      "eventGuid": "c15f1454-a82d-4583-a089-38c50e7a6fa5",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 94,
+    "isPosedOnTrigger": false,
+    "canInsertInInventory": true,
+    "itemStartedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemStoppedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "icon_empty",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/icon_empty.png",
+      "assetGUID": "6971d8585ceccd549bf035fba3ec2e8c",
+      "resourcePath": "icon_empty:icon_empty.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 0,
+    "id": 3,
+    "name": "C4Bomb",
+    "category": "",
+    "displayName": "C4",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "",
+    "tooltipSubtitleDisplayName": "",
+    "inventoryIcon": {
+      "assetName": "icon_empty",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/icon_empty.png",
+      "assetGUID": "6971d8585ceccd549bf035fba3ec2e8c",
+      "resourcePath": "icon_empty:icon_empty.Sprite",
+      "isSubAsset": true
+    },
+    "slotItemScale": {
+      "x": 0.15,
+      "y": 0.15,
+      "z": 0.15
+    },
+    "artPrefab": {
+      "assetName": "C4Bomb",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Grabbables/C4Bomb.prefab",
+      "assetGUID": "6d0e233b5736770439a85a9fcc93ce4d",
+      "resourcePath": "Grabbables/C4Bomb",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": true,
+    "correctionStrategy": 1,
+    "activeDurationBeforeCorrection": 5.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 93,
+    "isPosedOnTrigger": false,
+    "canInsertInInventory": true,
+    "itemStartedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemStoppedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "icon_empty",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/icon_empty.png",
+      "assetGUID": "6971d8585ceccd549bf035fba3ec2e8c",
+      "resourcePath": "icon_empty:icon_empty.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 0,
+    "id": 4,
+    "name": "KeyHead",
+    "category": "",
+    "displayName": "Head",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "",
+    "tooltipSubtitleDisplayName": "",
+    "inventoryIcon": {
+      "assetName": "icon_empty",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/icon_empty.png",
+      "assetGUID": "6971d8585ceccd549bf035fba3ec2e8c",
+      "resourcePath": "icon_empty:icon_empty.Sprite",
+      "isSubAsset": true
+    },
+    "slotItemScale": {
+      "x": 0.15,
+      "y": 0.15,
+      "z": 0.15
+    },
+    "artPrefab": {
+      "assetName": "KeyHead",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Grabbables/KeyHead.prefab",
+      "assetGUID": "5d66236bead9d09459a7238347a32c54",
+      "resourcePath": "Grabbables/KeyHead",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": true,
+    "correctionStrategy": 1,
+    "activeDurationBeforeCorrection": 5.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 93,
+    "isPosedOnTrigger": false,
+    "canInsertInInventory": true,
+    "itemStartedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemStoppedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "icon_empty",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/icon_empty.png",
+      "assetGUID": "6971d8585ceccd549bf035fba3ec2e8c",
+      "resourcePath": "icon_empty:icon_empty.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 0,
+    "id": 6,
+    "name": "HarvesterKeyHead",
+    "category": "",
+    "displayName": "Harvester Head",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "",
+    "tooltipSubtitleDisplayName": "",
+    "inventoryIcon": {
+      "assetName": "icon_empty",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/icon_empty.png",
+      "assetGUID": "6971d8585ceccd549bf035fba3ec2e8c",
+      "resourcePath": "icon_empty:icon_empty.Sprite",
+      "isSubAsset": true
+    },
+    "slotItemScale": {
+      "x": 0.15,
+      "y": 0.15,
+      "z": 0.15
+    },
+    "artPrefab": {
+      "assetName": "HarvesterKeyHead",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Grabbables/HarvesterKeyHead.prefab",
+      "assetGUID": "f6d1187d509bff34582347d82519654c",
+      "resourcePath": "Grabbables/HarvesterKeyHead",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "HarvesterKeyHead_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Grabbables/Collisions/HarvesterKeyHead_Collision.prefab",
+      "assetGUID": "24b68dfb1b6e35140ad062316f90f29c",
+      "resourcePath": "Grabbables/Collisions/HarvesterKeyHead_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": true,
+    "correctionStrategy": 1,
+    "activeDurationBeforeCorrection": 5.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 272,
+    "isPosedOnTrigger": false,
+    "canInsertInInventory": false,
+    "itemStartedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemStoppedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "icon_empty",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/icon_empty.png",
+      "assetGUID": "6971d8585ceccd549bf035fba3ec2e8c",
+      "resourcePath": "icon_empty:icon_empty.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 0,
+    "id": 7,
+    "name": "VideoTape",
+    "category": "",
+    "displayName": "Video Tape",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "ITEM_VIDEOTAPE",
+    "tooltipSubtitleDisplayName": "",
+    "inventoryIcon": {
+      "assetName": "icon_empty",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/icon_empty.png",
+      "assetGUID": "6971d8585ceccd549bf035fba3ec2e8c",
+      "resourcePath": "icon_empty:icon_empty.Sprite",
+      "isSubAsset": true
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "VideoTape",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Grabbables/VideoTape.prefab",
+      "assetGUID": "08a1ff8fdf9c13e4c9207742f0a091e4",
+      "resourcePath": "Grabbables/VideoTape",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": true,
+    "correctionStrategy": 1,
+    "activeDurationBeforeCorrection": 5.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": true,
+          "staticValue": 100.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": false
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_floppy",
+      "eventGuid": "fea4be59-2d9a-4d3f-9909-6e87ed48f719"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab_tape",
+      "eventGuid": "3d3fb35f-d8c5-4ada-8687-415e8e57a2e5",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab_tape",
+      "eventGuid": "3d3fb35f-d8c5-4ada-8687-415e8e57a2e5",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 195,
+    "isPosedOnTrigger": false,
+    "canInsertInInventory": false,
+    "itemStartedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemStoppedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "icon_empty",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/icon_empty.png",
+      "assetGUID": "6971d8585ceccd549bf035fba3ec2e8c",
+      "resourcePath": "icon_empty:icon_empty.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 0,
+    "id": 8,
+    "name": "Ducky",
+    "category": "",
+    "displayName": "Ducky",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "ITEM_DUCK",
+    "tooltipSubtitleDisplayName": "",
+    "inventoryIcon": {
+      "assetName": "icon_empty",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/icon_empty.png",
+      "assetGUID": "6971d8585ceccd549bf035fba3ec2e8c",
+      "resourcePath": "icon_empty:icon_empty.Sprite",
+      "isSubAsset": true
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Ducky",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Grabbables/Ducky.prefab",
+      "assetGUID": "7f88b0c79640c84489057e9dde19f6cb",
+      "resourcePath": "Grabbables/Ducky",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": true,
+    "correctionStrategy": 1,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab_ducky",
+      "eventGuid": "648be709-9146-43df-807a-6ddb5184ccf6",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab_ducky",
+      "eventGuid": "648be709-9146-43df-807a-6ddb5184ccf6",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 194,
+    "isPosedOnTrigger": true,
+    "canInsertInInventory": false,
+    "itemStartedUseAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Crafting/Weapon_crafting_tool_use",
+      "eventGuid": "9217eac1-1f69-493e-bac9-6ff80ca37d8b",
+      "parameterSettings": []
+    },
+    "itemStoppedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "icon_empty",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/icon_empty.png",
+      "assetGUID": "6971d8585ceccd549bf035fba3ec2e8c",
+      "resourcePath": "icon_empty:icon_empty.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 0,
+    "id": 9,
+    "name": "SonicScrewdriver",
+    "category": "",
+    "displayName": "",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "ITEM_SCREWDRIVER",
+    "tooltipSubtitleDisplayName": "",
+    "inventoryIcon": {
+      "assetName": "icon_empty",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/icon_empty.png",
+      "assetGUID": "6971d8585ceccd549bf035fba3ec2e8c",
+      "resourcePath": "icon_empty:icon_empty.Sprite",
+      "isSubAsset": true
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "SonicScrewDriver",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Grabbables/SonicScrewDriver.prefab",
+      "assetGUID": "a16f9500e2035bc4096cad8dadba4717",
+      "resourcePath": "Grabbables/SonicScrewDriver",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 0,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab",
+      "eventGuid": "c15f1454-a82d-4583-a089-38c50e7a6fa5",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab",
+      "eventGuid": "c15f1454-a82d-4583-a089-38c50e7a6fa5",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  }
+]
+}

@@ -1,0 +1,7594 @@
+{
+  "TableId": 173,
+  "DefaultCellId": 70,
+  "Cells": [
+  {
+    "intensityLevelId": 2,
+    "totalEnemies4Players": 20,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 5,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.5,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      },
+      {
+        "enemy": 12,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.5,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.75,
+          "Special": 0.25
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.75,
+          "Special": 0.25
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.75,
+          "Special": 0.25
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.75,
+          "Special": 0.25
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.5,
+          "Special": 0.5
+        }
+      ]
+    },
+    "id": 0,
+    "name": "FeatureFaireParking",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 3,
+    "totalEnemies4Players": 30,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 11,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.5,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      },
+      {
+        "enemy": 15,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.5,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 1.0,
+          "Uncommon": 0.0,
+          "Special": 0.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 0.0,
+          "Special": 0.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 0.0,
+          "Special": 0.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 0.0,
+          "Special": 0.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 1,
+    "name": "IceArmorTest",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 3,
+    "totalEnemies4Players": 1,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 18,
+        "spawnPriority": 1.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 43,
+    "name": "Smasher Single",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 3,
+    "totalEnemies4Players": 50,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 11,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      },
+      {
+        "enemy": 12,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      },
+      {
+        "enemy": 15,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 0.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.8,
+          "Uncommon": 0.2,
+          "Special": 0.0
+        },
+        {
+          "Common": 0.4,
+          "Uncommon": 0.6,
+          "Special": 0.0
+        },
+        {
+          "Common": 0.275,
+          "Uncommon": 0.725,
+          "Special": 0.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 1.0,
+          "Special": 0.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 1.0,
+          "Special": 0.0
+        }
+      ]
+    },
+    "id": 70,
+    "name": "TrevorTest1",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 2,
+    "totalEnemies4Players": 4,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 7,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": -1
+      },
+      {
+        "enemy": 5,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": -1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 71,
+    "name": "ValSpecialsTest",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 3,
+    "totalEnemies4Players": 50,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 11,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      },
+      {
+        "enemy": 12,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 0.5,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.8,
+          "Uncommon": 0.2,
+          "Special": 0.0
+        },
+        {
+          "Common": 0.8,
+          "Uncommon": 0.2,
+          "Special": 0.0
+        },
+        {
+          "Common": 0.8,
+          "Uncommon": 0.2,
+          "Special": 0.0
+        },
+        {
+          "Common": 0.8,
+          "Uncommon": 0.2,
+          "Special": 0.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 72,
+    "name": "JelleTest1 (Mostly Slow)",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 2,
+    "totalEnemies4Players": 1,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 7,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 73,
+    "name": "JelleSpecialTest1",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 2,
+    "totalEnemies4Players": 16,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 11,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      },
+      {
+        "enemy": 12,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.75,
+          "Uncommon": 0.25,
+          "Special": 0.0
+        },
+        {
+          "Common": 0.75,
+          "Uncommon": 0.25,
+          "Special": 0.0
+        },
+        {
+          "Common": 0.75,
+          "Uncommon": 0.25,
+          "Special": 0.0
+        },
+        {
+          "Common": 0.75,
+          "Uncommon": 0.25,
+          "Special": 0.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 74,
+    "name": "Horde: Slow and Fast",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 2,
+    "totalEnemies4Players": 14,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 11,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      },
+      {
+        "enemy": 12,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      },
+      {
+        "enemy": 5,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.7,
+          "Uncommon": 0.2,
+          "Special": 0.05
+        },
+        {
+          "Common": 0.7,
+          "Uncommon": 0.2,
+          "Special": 0.05
+        },
+        {
+          "Common": 0.7,
+          "Uncommon": 0.2,
+          "Special": 0.05
+        },
+        {
+          "Common": 0.7,
+          "Uncommon": 0.2,
+          "Special": 0.05
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 75,
+    "name": "Horde: Eaters and Commons",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 2,
+    "totalEnemies4Players": 12,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 11,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      },
+      {
+        "enemy": 12,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      },
+      {
+        "enemy": 7,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.6,
+          "Uncommon": 0.2,
+          "Special": 0.05
+        },
+        {
+          "Common": 0.6,
+          "Uncommon": 0.2,
+          "Special": 0.05
+        },
+        {
+          "Common": 0.6,
+          "Uncommon": 0.2,
+          "Special": 0.05
+        },
+        {
+          "Common": 0.6,
+          "Uncommon": 0.2,
+          "Special": 0.05
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 76,
+    "name": "Horde: Jock and Commons",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 3,
+    "totalEnemies4Players": 30,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 15,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.5,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 10,
+        "maxCount": 30
+      },
+      {
+        "enemy": 12,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.5,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 10,
+        "maxCount": 30
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 0.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 0.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 0.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 0.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 77,
+    "name": "IceArmorProfiler",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 2,
+    "totalEnemies4Players": 7,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 7,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": -1
+      },
+      {
+        "enemy": 5,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": -1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 78,
+    "name": "CM01_Skidrow Specials",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 2,
+    "totalEnemies4Players": 6,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 7,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": -1
+      },
+      {
+        "enemy": 5,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": -1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 79,
+    "name": "CM02_Downtown Specials",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 2,
+    "totalEnemies4Players": 6,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 7,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": -1
+      },
+      {
+        "enemy": 5,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": -1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 80,
+    "name": "CM04_BankTower-02 Specials",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 2,
+    "totalEnemies4Players": 4,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 7,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": -1
+      },
+      {
+        "enemy": 5,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": -1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 81,
+    "name": "CM06_Chinatown-02 Specials",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 2,
+    "totalEnemies4Players": 14,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 7,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": -1
+      },
+      {
+        "enemy": 5,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": -1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 82,
+    "name": "CM04_BankTower Specials",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 2,
+    "totalEnemies4Players": 1,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 19,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [],
+          "preWrapMode": 4,
+          "postWrapMode": 4
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 83,
+    "name": "JelleSpecialTest2",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 3,
+    "totalEnemies4Players": 1,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 16,
+        "spawnPriority": 1.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 84,
+    "name": "Smasher Temp 01 Single",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 3,
+    "totalEnemies4Players": 1,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 17,
+        "spawnPriority": 1.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 85,
+    "name": "Smasher Temp 02 Single",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 3,
+    "totalEnemies4Players": 1,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 14,
+        "spawnPriority": 1.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 86,
+    "name": "Smasher Elite Single",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 2,
+    "totalEnemies4Players": 1,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 7,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": 1
+      },
+      {
+        "enemy": 5,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 87,
+    "name": "Specials_RaviTestScene_Survivor",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 2,
+    "totalEnemies4Players": 2,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 7,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": 1
+      },
+      {
+        "enemy": 5,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 88,
+    "name": "Specials_RaviTestScene_Veteran",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 2,
+    "totalEnemies4Players": 3,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 7,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": 1
+      },
+      {
+        "enemy": 5,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      },
+      {
+        "enemy": 19,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": 1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 89,
+    "name": "Specials_RaviTestScene_Master",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 2,
+    "totalEnemies4Players": 3,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 7,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": 1
+      },
+      {
+        "enemy": 5,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      },
+      {
+        "enemy": 19,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": 3
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 90,
+    "name": "Specials_RaviTestScene_Nightmare",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 2,
+    "totalEnemies4Players": 6,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 7,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": 1
+      },
+      {
+        "enemy": 5,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      },
+      {
+        "enemy": 19,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": 1
+      },
+      {
+        "enemy": 26,
+        "spawnPriority": 0.6,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": 1
+      },
+      {
+        "enemy": 27,
+        "spawnPriority": 0.25,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": 1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 91,
+    "name": "Specials_Generic_Survivor",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 2,
+    "totalEnemies4Players": 8,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 7,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": 2
+      },
+      {
+        "enemy": 5,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      },
+      {
+        "enemy": 19,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": 2
+      },
+      {
+        "enemy": 26,
+        "spawnPriority": 0.6,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": 2
+      },
+      {
+        "enemy": 27,
+        "spawnPriority": 0.25,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": 2
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 92,
+    "name": "Specials_Generic_Veteran",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 2,
+    "totalEnemies4Players": 10,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 7,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": 2
+      },
+      {
+        "enemy": 5,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      },
+      {
+        "enemy": 19,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 2,
+        "maxCount": 3
+      },
+      {
+        "enemy": 26,
+        "spawnPriority": 0.6,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": 2
+      },
+      {
+        "enemy": 27,
+        "spawnPriority": 0.25,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": 2
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 93,
+    "name": "Specials_Generic_Master",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 2,
+    "totalEnemies4Players": 12,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 7,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": 3
+      },
+      {
+        "enemy": 5,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": 3
+      },
+      {
+        "enemy": 19,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 3,
+        "maxCount": -1
+      },
+      {
+        "enemy": 26,
+        "spawnPriority": 0.6,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": 3
+      },
+      {
+        "enemy": 27,
+        "spawnPriority": 0.25,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": 3
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 94,
+    "name": "Specials_Generic_Nightmare",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 3,
+    "totalEnemies4Players": 1,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 18,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": -1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 95,
+    "name": "Smasher",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 3,
+    "totalEnemies4Players": 1,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 19,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": -1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 96,
+    "name": "Brute",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 3,
+    "totalEnemies4Players": 1,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 7,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": -1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 97,
+    "name": "Jock",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 3,
+    "totalEnemies4Players": 1,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 5,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": -1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 98,
+    "name": "Eater",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 2,
+    "totalEnemies4Players": 9,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 7,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": 2
+      },
+      {
+        "enemy": 5,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      },
+      {
+        "enemy": 19,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": 1
+      },
+      {
+        "enemy": 26,
+        "spawnPriority": 0.6,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": 1
+      },
+      {
+        "enemy": 27,
+        "spawnPriority": 0.25,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": 1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 99,
+    "name": "Specials_UnionTower_Survivor",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 2,
+    "totalEnemies4Players": 12,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 7,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": 3
+      },
+      {
+        "enemy": 5,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      },
+      {
+        "enemy": 19,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": 2
+      },
+      {
+        "enemy": 26,
+        "spawnPriority": 0.6,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": 2
+      },
+      {
+        "enemy": 27,
+        "spawnPriority": 0.25,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": 2
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 100,
+    "name": "Specials_UnionTower_Veteran",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 2,
+    "totalEnemies4Players": 12,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 7,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": 3
+      },
+      {
+        "enemy": 5,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      },
+      {
+        "enemy": 19,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 2,
+        "maxCount": 3
+      },
+      {
+        "enemy": 26,
+        "spawnPriority": 0.6,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": 2
+      },
+      {
+        "enemy": 27,
+        "spawnPriority": 0.25,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": 2
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 101,
+    "name": "Specials_UnionTower_Master",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 2,
+    "totalEnemies4Players": 15,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 7,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": 5
+      },
+      {
+        "enemy": 5,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      },
+      {
+        "enemy": 19,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 3,
+        "maxCount": 4
+      },
+      {
+        "enemy": 26,
+        "spawnPriority": 0.6,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": 3
+      },
+      {
+        "enemy": 27,
+        "spawnPriority": 0.25,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": 3
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 102,
+    "name": "Specials_UnionTower_Nightmare",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 3,
+    "totalEnemies4Players": 1,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 14,
+        "spawnPriority": 1.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 103,
+    "name": "SuperSmasher I",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 3,
+    "totalEnemies4Players": 1,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 16,
+        "spawnPriority": 1.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 104,
+    "name": "SuperSmasher II",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 3,
+    "totalEnemies4Players": 1,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 17,
+        "spawnPriority": 1.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 105,
+    "name": "SuperSmasher III",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 0,
+    "totalEnemies4Players": 1,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 11,
+        "spawnPriority": 1.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": -1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 1.0,
+          "Uncommon": 0.0,
+          "Special": 0.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 0.0,
+          "Special": 0.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 0.0,
+          "Special": 0.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 0.0,
+          "Special": 0.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 106,
+    "name": "Common Slow",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 0,
+    "totalEnemies4Players": 1,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 12,
+        "spawnPriority": 1.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": -1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 1.0,
+          "Special": 0.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 1.0,
+          "Special": 0.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 1.0,
+          "Special": 0.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 1.0,
+          "Special": 0.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 107,
+    "name": "Uncommon Fast",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 3,
+    "totalEnemies4Players": 50,
+    "useSpawnLimitCurve": true,
+    "spawnSettings": [
+      {
+        "enemy": 11,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      },
+      {
+        "enemy": 12,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      },
+      {
+        "enemy": 15,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 0.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 1.0,
+          "Uncommon": 0.0,
+          "Special": 0.0
+        },
+        {
+          "Common": 0.75,
+          "Uncommon": 0.25,
+          "Special": 0.0
+        },
+        {
+          "Common": 0.5,
+          "Uncommon": 0.5,
+          "Special": 0.0
+        },
+        {
+          "Common": 0.25,
+          "Uncommon": 0.75,
+          "Special": 0.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 108,
+    "name": "ArjenHordeCommon",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 3,
+    "totalEnemies4Players": 1,
+    "useSpawnLimitCurve": true,
+    "spawnSettings": [
+      {
+        "enemy": 5,
+        "spawnPriority": 1.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": 1000
+      },
+      {
+        "enemy": 7,
+        "spawnPriority": 1.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": 1000
+      },
+      {
+        "enemy": 19,
+        "spawnPriority": 1.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": 1000
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 109,
+    "name": "ArjenHordeSpecials",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 0,
+    "totalEnemies4Players": 0,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 25,
+        "spawnPriority": 1.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": -1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 110,
+    "name": "Loot Goblin",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 3,
+    "totalEnemies4Players": 10,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 18,
+        "spawnPriority": 1.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": 1
+      },
+      {
+        "enemy": 11,
+        "spawnPriority": 1.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      },
+      {
+        "enemy": 12,
+        "spawnPriority": 1.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.8,
+          "Uncommon": 0.1,
+          "Special": 0.1
+        },
+        {
+          "Common": 0.4,
+          "Uncommon": 0.5,
+          "Special": 0.1
+        },
+        {
+          "Common": 0.275,
+          "Uncommon": 0.625,
+          "Special": 0.1
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.9,
+          "Special": 0.1
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 111,
+    "name": "Smasher Finale",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 4,
+    "totalEnemies4Players": 20,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 5,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.3,
+        "spawnWeight": 0.5,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": 5
+      },
+      {
+        "enemy": 7,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.3,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": 5
+      },
+      {
+        "enemy": 19,
+        "spawnPriority": 0.5,
+        "spawnBehindChance": 0.4,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": -1
+      },
+      {
+        "enemy": 26,
+        "spawnPriority": 0.6,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": 4
+      },
+      {
+        "enemy": 27,
+        "spawnPriority": 0.25,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": 4
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 0.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 112,
+    "name": "Specials_Generic_Horror",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 2,
+    "totalEnemies4Players": 10,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 5,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 0.503,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": 4
+      },
+      {
+        "enemy": 7,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 0.511,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": 3
+      },
+      {
+        "enemy": 19,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": -1
+      },
+      {
+        "enemy": 26,
+        "spawnPriority": 0.6,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": 1
+      },
+      {
+        "enemy": 27,
+        "spawnPriority": 0.25,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": 1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 0.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 113,
+    "name": "Specials_Hospital_Survivor",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 2,
+    "totalEnemies4Players": 22,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 5,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 0.253,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": 4
+      },
+      {
+        "enemy": 7,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 0.5,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": 4
+      },
+      {
+        "enemy": 19,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 2,
+        "maxCount": -1
+      },
+      {
+        "enemy": 26,
+        "spawnPriority": 0.6,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": 2
+      },
+      {
+        "enemy": 27,
+        "spawnPriority": 0.25,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 1,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": 2
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 0.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 114,
+    "name": "Specials_Hospital_Veteran",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 4,
+    "totalEnemies4Players": 40,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 26,
+        "spawnPriority": 1.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": 1
+      },
+      {
+        "enemy": 11,
+        "spawnPriority": 1.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      },
+      {
+        "enemy": 12,
+        "spawnPriority": 1.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      },
+      {
+        "enemy": 27,
+        "spawnPriority": 1.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": 1
+      },
+      {
+        "enemy": 19,
+        "spawnPriority": 1.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 2,
+        "maxCount": 2
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.8,
+          "Uncommon": 0.2,
+          "Special": 0.1
+        },
+        {
+          "Common": 0.4,
+          "Uncommon": 0.5,
+          "Special": 0.1
+        },
+        {
+          "Common": 0.275,
+          "Uncommon": 0.625,
+          "Special": 0.1
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.9,
+          "Special": 0.1
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.8,
+          "Uncommon": 0.1,
+          "Special": 0.1
+        },
+        {
+          "Common": 0.4,
+          "Uncommon": 0.5,
+          "Special": 0.1
+        },
+        {
+          "Common": 0.275,
+          "Uncommon": 0.625,
+          "Special": 0.1
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.9,
+          "Special": 0.1
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 115,
+    "name": "Juggernaut Twins Finale",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 4,
+    "totalEnemies4Players": 1,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 26,
+        "spawnPriority": 1.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.75,
+          "Uncommon": 0.15,
+          "Special": 0.1
+        },
+        {
+          "Common": 0.35,
+          "Uncommon": 0.55,
+          "Special": 0.1
+        },
+        {
+          "Common": 0.225,
+          "Uncommon": 0.675,
+          "Special": 0.1
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.9,
+          "Special": 0.1
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.9,
+          "Special": 0.1
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 116,
+    "name": "Gunner",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 3,
+    "totalEnemies4Players": 1,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 27,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 1,
+        "maxCount": -1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.0,
+          "Special": 1.0
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 1.0,
+          "Special": 1.0
+        }
+      ]
+    },
+    "id": 117,
+    "name": "Charger",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 4,
+    "totalEnemies4Players": 10,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 19,
+        "spawnPriority": 1.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 3,
+        "maxCount": 3
+      },
+      {
+        "enemy": 11,
+        "spawnPriority": 1.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      },
+      {
+        "enemy": 12,
+        "spawnPriority": 1.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.75,
+          "Uncommon": 0.15,
+          "Special": 0.1
+        },
+        {
+          "Common": 0.35,
+          "Uncommon": 0.55,
+          "Special": 0.1
+        },
+        {
+          "Common": 0.225,
+          "Uncommon": 0.675,
+          "Special": 0.1
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.9,
+          "Special": 0.1
+        },
+        {
+          "Common": 1.0,
+          "Uncommon": 0.9,
+          "Special": 0.1
+        }
+      ]
+    },
+    "id": 118,
+    "name": "3 Brutes Finale",
+    "category": ""
+  },
+  {
+    "intensityLevelId": 4,
+    "totalEnemies4Players": 35,
+    "useSpawnLimitCurve": false,
+    "spawnSettings": [
+      {
+        "enemy": 26,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 34
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 34
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 2,
+        "maxCount": 2
+      },
+      {
+        "enemy": 19,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 34
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 34
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 2,
+        "maxCount": 2
+      },
+      {
+        "enemy": 11,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 34
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 34
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      },
+      {
+        "enemy": 12,
+        "spawnPriority": 0.0,
+        "spawnBehindChance": 0.0,
+        "spawnWeight": 1.0,
+        "spawnLimitFactor": 0,
+        "spawnLimitCurve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 34
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 34
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        },
+        "guaranteedCount": 0,
+        "maxCount": -1
+      }
+    ],
+    "spawnCompositions": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "Common": 0.77,
+          "Uncommon": 0.1,
+          "Special": 0.13
+        },
+        {
+          "Common": 0.4,
+          "Uncommon": 0.47,
+          "Special": 0.13
+        },
+        {
+          "Common": 0.25,
+          "Uncommon": 0.62,
+          "Special": 0.13
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.87,
+          "Special": 0.13
+        },
+        {
+          "Common": 0.0,
+          "Uncommon": 0.87,
+          "Special": 0.13
+        }
+      ]
+    },
+    "id": 119,
+    "name": "Hospital Finale",
+    "category": ""
+  }
+]
+}

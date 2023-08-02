@@ -1,0 +1,309 @@
+{
+  "TableId": 144,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "displayName": "",
+    "vendorLoadoutStrategy": {
+      "CurrentIndex": 1,
+      "DisplayName": "RandomGunsWithGuaranteedUnlockedGunItemVendorLoadoutStrategy",
+      "AssemblyQualifiedName": "Vertigo.Snowbreed.Client.RandomGunsWithGuaranteedUnlockedGunItemVendorLoadoutStrategy, Snowbreed.Client, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    },
+    "randomGunVendorLoadoutStrategy": {
+      "allowDuplicates": true,
+      "useEqualGunTierDistribution": true
+    },
+    "randomTierGunVendorLoadoutStrategy": {
+      "tier": 0,
+      "allowDuplicates": false,
+      "useEqualGunTierDistribution": true
+    },
+    "randomItemOfTypeLoadoutStrategy": {
+      "itemTypes": [
+        {
+          "category": {
+            "CurrentIndex": 9,
+            "DisplayName": "GunTO",
+            "AssemblyQualifiedName": "Vertigo.Snowbreed.Client.GunTO, Snowbreed.Client, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+          },
+          "items": [
+            1,
+            2,
+            3,
+            4,
+            15,
+            20,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46
+          ]
+        }
+      ],
+      "allowDuplicates": false,
+      "useEqualGunTierDistribution": true
+    },
+    "randomGunsWithGuaranteedUnlockedGunLoadoutStrategy": {
+      "items": [
+        1,
+        2,
+        3,
+        4,
+        15,
+        20
+      ],
+      "allowDuplicates": false,
+      "useEqualGunTierDistribution": true
+    },
+    "id": 0,
+    "name": "RandomGunsWithGuaranteedUnlockedTier1",
+    "category": ""
+  },
+  {
+    "displayName": "",
+    "vendorLoadoutStrategy": {
+      "CurrentIndex": 2,
+      "DisplayName": "RandomItemsOfTypeItemVendorLoadoutStrategy",
+      "AssemblyQualifiedName": "Vertigo.Snowbreed.Client.RandomItemsOfTypeItemVendorLoadoutStrategy, Snowbreed.Client, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    },
+    "randomGunVendorLoadoutStrategy": {
+      "allowDuplicates": false,
+      "useEqualGunTierDistribution": true
+    },
+    "randomTierGunVendorLoadoutStrategy": {
+      "tier": 0,
+      "allowDuplicates": false,
+      "useEqualGunTierDistribution": true
+    },
+    "randomItemOfTypeLoadoutStrategy": {
+      "itemTypes": [
+        {
+          "category": {
+            "CurrentIndex": 1,
+            "DisplayName": "BoosterTO",
+            "AssemblyQualifiedName": "Vertigo.Snowbreed.Client.BoosterTO, Snowbreed.Client, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+          },
+          "items": [
+            0
+          ]
+        },
+        {
+          "category": {
+            "CurrentIndex": 5,
+            "DisplayName": "ExplosiveItemTO",
+            "AssemblyQualifiedName": "Vertigo.Snowbreed.Client.ExplosiveItemTO, Snowbreed.Client, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+          },
+          "items": [
+            0
+          ]
+        },
+        {
+          "category": {
+            "CurrentIndex": 0,
+            "DisplayName": "AmmoTO",
+            "AssemblyQualifiedName": "Vertigo.Snowbreed.Client.AmmoTO, Snowbreed.Client, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+          },
+          "items": [
+            36
+          ]
+        }
+      ],
+      "allowDuplicates": false,
+      "useEqualGunTierDistribution": true
+    },
+    "randomGunsWithGuaranteedUnlockedGunLoadoutStrategy": {
+      "items": [],
+      "allowDuplicates": false,
+      "useEqualGunTierDistribution": true
+    },
+    "id": 1,
+    "name": "Test Small Item Loadout",
+    "category": ""
+  },
+  {
+    "displayName": "",
+    "vendorLoadoutStrategy": {
+      "CurrentIndex": 2,
+      "DisplayName": "RandomItemsOfTypeItemVendorLoadoutStrategy",
+      "AssemblyQualifiedName": "Vertigo.Snowbreed.Client.RandomItemsOfTypeItemVendorLoadoutStrategy, Snowbreed.Client, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    },
+    "randomGunVendorLoadoutStrategy": {
+      "allowDuplicates": true,
+      "useEqualGunTierDistribution": true
+    },
+    "randomTierGunVendorLoadoutStrategy": {
+      "tier": 0,
+      "allowDuplicates": false,
+      "useEqualGunTierDistribution": true
+    },
+    "randomItemOfTypeLoadoutStrategy": {
+      "itemTypes": [
+        {
+          "category": {
+            "CurrentIndex": 9,
+            "DisplayName": "GunTO",
+            "AssemblyQualifiedName": "Vertigo.Snowbreed.Client.GunTO, Snowbreed.Client, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+          },
+          "items": [
+            1,
+            2,
+            3,
+            4,
+            15,
+            20
+          ]
+        }
+      ],
+      "allowDuplicates": false,
+      "useEqualGunTierDistribution": true
+    },
+    "randomGunsWithGuaranteedUnlockedGunLoadoutStrategy": {
+      "items": [],
+      "allowDuplicates": false,
+      "useEqualGunTierDistribution": true
+    },
+    "id": 2,
+    "name": "Test Weapon Loadout",
+    "category": ""
+  },
+  {
+    "displayName": "VENDOR_CATEGORY_BOOSTERS",
+    "vendorLoadoutStrategy": {
+      "CurrentIndex": 2,
+      "DisplayName": "RandomItemsOfTypeItemVendorLoadoutStrategy",
+      "AssemblyQualifiedName": "Vertigo.Snowbreed.Client.RandomItemsOfTypeItemVendorLoadoutStrategy, Snowbreed.Client, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    },
+    "randomGunVendorLoadoutStrategy": {
+      "allowDuplicates": false,
+      "useEqualGunTierDistribution": true
+    },
+    "randomTierGunVendorLoadoutStrategy": {
+      "tier": 0,
+      "allowDuplicates": false,
+      "useEqualGunTierDistribution": true
+    },
+    "randomItemOfTypeLoadoutStrategy": {
+      "itemTypes": [
+        {
+          "category": {
+            "CurrentIndex": 1,
+            "DisplayName": "BoosterTO",
+            "AssemblyQualifiedName": "Vertigo.Snowbreed.Client.BoosterTO, Snowbreed.Client, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+          },
+          "items": [
+            0,
+            1
+          ]
+        }
+      ],
+      "allowDuplicates": false,
+      "useEqualGunTierDistribution": true
+    },
+    "randomGunsWithGuaranteedUnlockedGunLoadoutStrategy": {
+      "items": [],
+      "allowDuplicates": false,
+      "useEqualGunTierDistribution": true
+    },
+    "id": 4,
+    "name": "Booster Loadout",
+    "category": ""
+  },
+  {
+    "displayName": "VENDOR_CATEGORY_THROWABLES",
+    "vendorLoadoutStrategy": {
+      "CurrentIndex": 2,
+      "DisplayName": "RandomItemsOfTypeItemVendorLoadoutStrategy",
+      "AssemblyQualifiedName": "Vertigo.Snowbreed.Client.RandomItemsOfTypeItemVendorLoadoutStrategy, Snowbreed.Client, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    },
+    "randomGunVendorLoadoutStrategy": {
+      "allowDuplicates": false,
+      "useEqualGunTierDistribution": true
+    },
+    "randomTierGunVendorLoadoutStrategy": {
+      "tier": 0,
+      "allowDuplicates": false,
+      "useEqualGunTierDistribution": true
+    },
+    "randomItemOfTypeLoadoutStrategy": {
+      "itemTypes": [
+        {
+          "category": {
+            "CurrentIndex": 5,
+            "DisplayName": "ExplosiveItemTO",
+            "AssemblyQualifiedName": "Vertigo.Snowbreed.Client.ExplosiveItemTO, Snowbreed.Client, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+          },
+          "items": [
+            0,
+            1
+          ]
+        }
+      ],
+      "allowDuplicates": false,
+      "useEqualGunTierDistribution": true
+    },
+    "randomGunsWithGuaranteedUnlockedGunLoadoutStrategy": {
+      "items": [],
+      "allowDuplicates": false,
+      "useEqualGunTierDistribution": true
+    },
+    "id": 5,
+    "name": "Throwables Loadout",
+    "category": ""
+  },
+  {
+    "displayName": "VENDOR_CATEGORY_DEVICES",
+    "vendorLoadoutStrategy": {
+      "CurrentIndex": 2,
+      "DisplayName": "RandomItemsOfTypeItemVendorLoadoutStrategy",
+      "AssemblyQualifiedName": "Vertigo.Snowbreed.Client.RandomItemsOfTypeItemVendorLoadoutStrategy, Snowbreed.Client, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    },
+    "randomGunVendorLoadoutStrategy": {
+      "allowDuplicates": false,
+      "useEqualGunTierDistribution": true
+    },
+    "randomTierGunVendorLoadoutStrategy": {
+      "tier": 0,
+      "allowDuplicates": false,
+      "useEqualGunTierDistribution": true
+    },
+    "randomItemOfTypeLoadoutStrategy": {
+      "itemTypes": [
+        {
+          "category": {
+            "CurrentIndex": 0,
+            "DisplayName": "AmmoTO",
+            "AssemblyQualifiedName": "Vertigo.Snowbreed.Client.AmmoTO, Snowbreed.Client, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+          },
+          "items": [
+            36
+          ]
+        }
+      ],
+      "allowDuplicates": false,
+      "useEqualGunTierDistribution": true
+    },
+    "randomGunsWithGuaranteedUnlockedGunLoadoutStrategy": {
+      "items": [],
+      "allowDuplicates": false,
+      "useEqualGunTierDistribution": true
+    },
+    "id": 6,
+    "name": "Devices Loadout",
+    "category": ""
+  }
+]
+}

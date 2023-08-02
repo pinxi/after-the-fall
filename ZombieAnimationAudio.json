@@ -1,0 +1,909 @@
+{
+  "TableId": 183,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "zombieForms": [
+      1
+    ],
+    "animationEvent": "AU_Smasher_ground",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Physics/Impact_break_concrete",
+      "eventGuid": "53ad78c4-5f91-4b1d-bc4f-5f8a9763faaa"
+    },
+    "id": 0,
+    "name": "AU_Smasher_ground",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      1
+    ],
+    "animationEvent": "AU_Smasher_charge",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Enemy_smasher/Enemy_smasher_vo_charge",
+      "eventGuid": "99a4faa7-d2fe-4a2f-8887-75c6e6787fe2"
+    },
+    "id": 1,
+    "name": "AU_Smasher_charge",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      1
+    ],
+    "animationEvent": "AU_smasher_stuck",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Enemy_smasher/Enemy_creature_smasher_stuck",
+      "eventGuid": "61ac4afb-4e7b-43dc-ad5a-75a3954912d7"
+    },
+    "id": 3,
+    "name": "AU_smasher_stuck",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      1
+    ],
+    "animationEvent": "AU_Smasher_Intro_Roar",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Enemy_smasher/Enemy_smasher_announcement",
+      "eventGuid": "dae69ff5-684d-44de-a629-bf4ba4be7e4b"
+    },
+    "id": 5,
+    "name": "AU_Smasher_Intro_Roar",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      1
+    ],
+    "animationEvent": "AU_Smasher_Intro_Jump",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/_OLD/Scripted/Smasher_introduction/Smasher_intro_jump",
+      "eventGuid": "6e022b86-869f-4616-b3eb-d5e39f7cda6b"
+    },
+    "id": 6,
+    "name": "AU_Smasher_Intro_Jump",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      1
+    ],
+    "animationEvent": "AU_Smasher_Intro_Jump_Car",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/_OLD/Scripted/Smasher_introduction/Smasher_intro_offcar",
+      "eventGuid": "c37d93a4-f7bd-454a-8be1-01004b444934"
+    },
+    "id": 7,
+    "name": "AU_Smasher_Intro_Jump_Car",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      1
+    ],
+    "animationEvent": "AU_Smasher_Intro_Crash_Sign",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/_OLD/Scripted/Smasher_introduction/Smasher_intro_crash_sign",
+      "eventGuid": "2c56e8c8-eb66-42aa-9cd0-f5c81c1ddb39"
+    },
+    "id": 8,
+    "name": "AU_Smasher_Intro_Crash_Sign",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      1
+    ],
+    "animationEvent": "AU_Smasher_Intro_Car_Landing",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/_OLD/Scripted/Smasher_introduction/Smasher_intro_carcrash",
+      "eventGuid": "90e4daea-1c5d-485d-8894-1e7d9a94cbeb"
+    },
+    "id": 9,
+    "name": "AU_Smasher_Intro_Car_Landing",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      1
+    ],
+    "animationEvent": "AU_smasher_pullout",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Enemy_smasher/Enemy_smasher_pullout",
+      "eventGuid": "ecc2c9ac-07f6-45b7-a1df-ea79da7492f4"
+    },
+    "id": 10,
+    "name": "AU_smasher_pullout",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      1
+    ],
+    "animationEvent": "AU_Smasher_Intro_Appear",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/_OLD/Scripted/Smasher_introduction/Smasher_intro_appear",
+      "eventGuid": "4b75278a-083a-47ff-83a7-29baa77a8666"
+    },
+    "id": 11,
+    "name": "AU_Smasher_Intro_Appear",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      1
+    ],
+    "animationEvent": "AU_Smasher_360_Swipe",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "id": 12,
+    "name": "AU_Smasher_360_Swipe",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      0,
+      7,
+      5,
+      11
+    ],
+    "animationEvent": "AU_Common_Handstep_L",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Enemy_common/Enemy_common_handstep",
+      "eventGuid": "3a065342-8dd7-4a55-a75d-a66b5bf2432d"
+    },
+    "id": 14,
+    "name": "AU_Common_Handstep_L",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      5
+    ],
+    "animationEvent": "AU Crawler Bite",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Enemy_crawler/Enemy_crawler_atk_bite",
+      "eventGuid": "f77b0817-2963-4dd7-bf77-dfcbab45487c"
+    },
+    "id": 15,
+    "name": "AU Crawler Bite",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      0
+    ],
+    "animationEvent": "AU_Common_Roar",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Enemy_common/Enemy_common_vo_alert",
+      "eventGuid": "f00e0cd6-a19f-4098-9e63-cd95128c7405"
+    },
+    "id": 16,
+    "name": "AU_Common_Roar",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      0,
+      7,
+      5,
+      11
+    ],
+    "animationEvent": "AU_Common_Handstep_R",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Enemy_common/Enemy_common_handstep",
+      "eventGuid": "3a065342-8dd7-4a55-a75d-a66b5bf2432d"
+    },
+    "id": 17,
+    "name": "AU_Common_Handstep_R",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      1
+    ],
+    "animationEvent": "Au_smasher_charge_vo",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Enemy_smasher/Enemy_smasher_vo_charge",
+      "eventGuid": "99a4faa7-d2fe-4a2f-8887-75c6e6787fe2"
+    },
+    "id": 18,
+    "name": "Au_smasher_charge_vo",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      4,
+      9,
+      10
+    ],
+    "animationEvent": "Au_jock_release_vo",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Enemy_jock/Enemy_jock_vo_release",
+      "eventGuid": "88eff1f2-9dac-49e9-9548-024209bd038a"
+    },
+    "id": 19,
+    "name": "Au_jock_release_vo",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      0
+    ],
+    "animationEvent": "Au_common_slow_combat_idle",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Enemy_common/Enemy_common_vo_alert",
+      "eventGuid": "f00e0cd6-a19f-4098-9e63-cd95128c7405"
+    },
+    "id": 20,
+    "name": "Au_common_slow_combat_idle",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      0,
+      7,
+      11
+    ],
+    "animationEvent": "Au_common_appear_fast",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Enemy_common/Enemy_common_appear",
+      "eventGuid": "0fbe80ed-e912-4945-8567-89ff78ee9b48"
+    },
+    "id": 21,
+    "name": "Au_common_appear_fast",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      0,
+      7,
+      11
+    ],
+    "animationEvent": "Au_common_appear_slow",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Enemy_common/Enemy_common_appear_slow",
+      "eventGuid": "4a683264-f442-4523-9567-e59a7e1c9a63"
+    },
+    "id": 22,
+    "name": "Au_common_appear_slow",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      0,
+      5,
+      7,
+      11
+    ],
+    "animationEvent": "Au_common_appear_ceiling",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Enemy_common/Enemy_common_appear_ceiling",
+      "eventGuid": "fdc405bb-5138-42c4-900c-22f9ce20e803"
+    },
+    "id": 23,
+    "name": "Au_common_appear_ceiling",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      0,
+      7,
+      5,
+      11
+    ],
+    "animationEvent": "AU_Common_Handstep",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Enemy_common/Enemy_common_handstep",
+      "eventGuid": "3a065342-8dd7-4a55-a75d-a66b5bf2432d"
+    },
+    "id": 24,
+    "name": "AU_Common_Handstep",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      0,
+      7,
+      5,
+      11
+    ],
+    "animationEvent": "AU_Common_drop_light",
+    "audioEvent": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "VelocityBody",
+          "paramData1": 1850733929,
+          "paramData2": -311222104,
+          "isStatic": true,
+          "staticValue": 10.0,
+          "gameParameterName": "AnimationValue",
+          "updateOnPlayingInstances": false
+        },
+        {
+          "audioParameterName": "ObjectMass",
+          "paramData1": -1470370469,
+          "paramData2": -1550770587,
+          "isStatic": true,
+          "staticValue": 0.5,
+          "gameParameterName": "AnimationValue",
+          "updateOnPlayingInstances": false
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Physics/Impact_item_body",
+      "eventGuid": "6136f402-7dba-4ac2-ab94-516ed7950269"
+    },
+    "id": 25,
+    "name": "AU_Common_drop_light",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      7
+    ],
+    "animationEvent": "Au_common_fast_combat_idle",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Enemy_common/Enemy_common_fast_vo_taunt",
+      "eventGuid": "16319603-a6ec-4dfa-a9bb-f16b185d311f"
+    },
+    "id": 26,
+    "name": "Au_common_fast_combat_idle",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      1
+    ],
+    "animationEvent": "Au_scripted_CM04_Smasher_01",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Scripted/CM04/Scripted_CM04_Smasher_intro_climb_01",
+      "eventGuid": "ab0eb86d-5ef4-4cac-a303-4ff1c8c97788"
+    },
+    "id": 27,
+    "name": "Au_scripted_CM04_Smasher_01",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      1
+    ],
+    "animationEvent": "Au_scripted_CM04_Smasher_02",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Scripted/CM04/Scripted_CM04_Smasher_intro_climb_02",
+      "eventGuid": "f7aacb9e-7085-4068-bb38-eda3c5bac409"
+    },
+    "id": 28,
+    "name": "Au_scripted_CM04_Smasher_02",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      1
+    ],
+    "animationEvent": "Au_scripted_CM04_Smasher_03",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Scripted/CM04/Scripted_CM04_Smasher_land",
+      "eventGuid": "58511ef0-7777-465e-af20-218340bb9b20"
+    },
+    "id": 29,
+    "name": "Au_scripted_CM04_Smasher_03",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      1
+    ],
+    "animationEvent": "Au_scripted_CM04_Smasher_04",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Scripted/CM04/Scripted_CM04_Smasher_intro_roar",
+      "eventGuid": "0eb69f8c-92b5-4e3b-b815-dfb2772fe4d2"
+    },
+    "id": 30,
+    "name": "Au_scripted_CM04_Smasher_04",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      1
+    ],
+    "animationEvent": "Au_scripted_CM04_Smasher_05",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Enemy_smasher/Enemy_smasher_vo_telegraph",
+      "eventGuid": "c13e649f-cca3-4069-8110-8b8564ba9a60"
+    },
+    "id": 31,
+    "name": "Au_scripted_CM04_Smasher_05",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      2
+    ],
+    "animationEvent": "Au_eater_fall",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Physics/Impact_item_eater",
+      "eventGuid": "fdb107ae-f184-44fb-98e0-eb79f39f99bb"
+    },
+    "id": 32,
+    "name": "Au_eater_fall",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      1
+    ],
+    "animationEvent": "Au_smasher_stagger",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Enemy_smasher/Enemy_smasher_vo_hurt",
+      "eventGuid": "57d1a7e1-8f44-4493-bd3b-8ca00e83296a"
+    },
+    "id": 33,
+    "name": "Au_smasher_stagger",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      4,
+      6,
+      9,
+      10
+    ],
+    "animationEvent": "Au_jock_fall",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Physics/Impact_item_jock_fall",
+      "eventGuid": "a17c89ef-4dd7-4ef1-a43a-fd2681f957b9"
+    },
+    "id": 34,
+    "name": "Au_jock_fall",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      4,
+      6,
+      9,
+      10
+    ],
+    "animationEvent": "Au_jock_kneel",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Physics/Impact_item_jock_knee",
+      "eventGuid": "9a15d20f-671f-463d-9ce1-d7698738ac0c"
+    },
+    "id": 35,
+    "name": "Au_jock_kneel",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      1
+    ],
+    "animationEvent": "Au_smasher_roar",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Enemy_smasher/Enemy_smasher_vo_roar",
+      "eventGuid": "670a2daf-3ef5-4f2c-94a5-7448e754f45b"
+    },
+    "id": 36,
+    "name": "Au_smasher_roar",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      1
+    ],
+    "animationEvent": "Au_smasher_fall",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Physics/Impact_item_smasher_fall",
+      "eventGuid": "4874847a-dc18-439b-a360-af1e5e199b55"
+    },
+    "id": 37,
+    "name": "Au_smasher_fall",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      6
+    ],
+    "animationEvent": "Au_brute_stagger",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Enemy_brute/Enemy_brute_vo_hurt",
+      "eventGuid": "4ea6ae3a-eadf-4e3a-8d95-856b6954cce3"
+    },
+    "id": 38,
+    "name": "Au_brute_stagger",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      6
+    ],
+    "animationEvent": "Au_brute_roar",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Enemy_brute/Enemy_brute_vo_roar",
+      "eventGuid": "4e0f6219-f15e-4bc1-a523-798139d5ccc2"
+    },
+    "id": 39,
+    "name": "Au_brute_roar",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      1
+    ],
+    "animationEvent": "Au_Smasher_announcement",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Scripted/CM04/Scripted_CM04_Smasher_intro_roar",
+      "eventGuid": "0eb69f8c-92b5-4e3b-b815-dfb2772fe4d2"
+    },
+    "id": 40,
+    "name": "Au_Smasher_announcement",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      1
+    ],
+    "animationEvent": "Au_Smasher_Jumpland",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Scripted/CM04/Scripted_CM04_Smasher_land",
+      "eventGuid": "58511ef0-7777-465e-af20-218340bb9b20"
+    },
+    "id": 41,
+    "name": "Au_Smasher_Jumpland",
+    "category": ""
+  },
+  {
+    "zombieForms": [],
+    "animationEvent": "Au_NPC_footstep_concrete",
+    "audioEvent": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "WalkSpeed",
+          "paramData1": 347070984,
+          "paramData2": -686781812,
+          "isStatic": true,
+          "staticValue": 20.0,
+          "gameParameterName": "AnimationValue",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_footstep_concrete",
+      "eventGuid": "d5cddc5c-7316-4fa1-ba33-98f2c6644da4"
+    },
+    "id": 42,
+    "name": "Au_NPC_footstep_concrete",
+    "category": ""
+  },
+  {
+    "zombieForms": [],
+    "animationEvent": "Au_NPC_foley_grab",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab",
+      "eventGuid": "c15f1454-a82d-4583-a089-38c50e7a6fa5"
+    },
+    "id": 43,
+    "name": "Au_NPC_foley_grab",
+    "category": ""
+  },
+  {
+    "zombieForms": [],
+    "animationEvent": "Au_INTRO_Frank_shoot",
+    "audioEvent": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "Ammo",
+          "paramData1": -1377727257,
+          "paramData2": 1496315860,
+          "isStatic": true,
+          "staticValue": 100.0,
+          "gameParameterName": "AnimationValue",
+          "updateOnPlayingInstances": false
+        },
+        {
+          "audioParameterName": "FireTail",
+          "paramData1": 1984499111,
+          "paramData2": -2018498946,
+          "isStatic": true,
+          "staticValue": 2.0,
+          "gameParameterName": "AnimationValue",
+          "updateOnPlayingInstances": false
+        },
+        {
+          "audioParameterName": "FireCritical",
+          "paramData1": -685549068,
+          "paramData2": 1413015217,
+          "isStatic": true,
+          "staticValue": 0.0,
+          "gameParameterName": "AnimationValue",
+          "updateOnPlayingInstances": false
+        },
+        {
+          "audioParameterName": "AmmoRemaining",
+          "paramData1": 1194253149,
+          "paramData2": 522127017,
+          "isStatic": true,
+          "staticValue": 0.0,
+          "gameParameterName": "AnimationValue",
+          "updateOnPlayingInstances": false
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Weapons/Shotgun/Weapon_shotgun_fire",
+      "eventGuid": "313ddc58-3892-48b0-b830-c2aae2948687"
+    },
+    "id": 44,
+    "name": "Au_INTRO_Frank_shoot",
+    "category": ""
+  },
+  {
+    "zombieForms": [],
+    "animationEvent": "Au_INTRO_Open_Snowcat_door",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Scripted/LevelTransitions/Scripted_transition_snowcat_door_open",
+      "eventGuid": "1c31573a-30e9-47dc-a610-94ee6de91279"
+    },
+    "id": 45,
+    "name": "Au_INTRO_Open_Snowcat_door",
+    "category": ""
+  },
+  {
+    "zombieForms": [],
+    "animationEvent": "Au_INTRO_Frank_JumpLand",
+    "audioEvent": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "FallVelocity",
+          "paramData1": -1603246923,
+          "paramData2": 217694015,
+          "isStatic": true,
+          "staticValue": 5.0,
+          "gameParameterName": "AnimationValue",
+          "updateOnPlayingInstances": false
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Enemy_jock/Enemy_jock_land_snow",
+      "eventGuid": "b9f5f726-9e29-4cf9-bd5f-7a5099b31951"
+    },
+    "id": 46,
+    "name": "Au_INTRO_Frank_JumpLand",
+    "category": ""
+  },
+  {
+    "zombieForms": [],
+    "animationEvent": "Au_INTRO_Frank_Footstep",
+    "audioEvent": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "WalkSpeed",
+          "paramData1": 347070984,
+          "paramData2": -686781812,
+          "isStatic": true,
+          "staticValue": 30.0,
+          "gameParameterName": "AnimationValue",
+          "updateOnPlayingInstances": false
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_footstep_snow_deep",
+      "eventGuid": "32b9fe21-8674-4ebd-90c1-d152f39174ae"
+    },
+    "id": 47,
+    "name": "Au_INTRO_Frank_Footstep",
+    "category": ""
+  },
+  {
+    "zombieForms": [],
+    "animationEvent": "Au_INTRO_Frank_Booster",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Weapons/JuiceBooster/Juice_booster_heal_activate",
+      "eventGuid": "879c919c-09ab-4874-aced-2e270637a499"
+    },
+    "id": 48,
+    "name": "Au_INTRO_Frank_Booster",
+    "category": ""
+  },
+  {
+    "zombieForms": [],
+    "animationEvent": "Au_HUB_Luna_stop_welding",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Luna/ANIM_luna_welder_drop",
+      "eventGuid": "f0741176-cc21-41f9-a542-f73c4409566b"
+    },
+    "id": 49,
+    "name": "Au_HUB_Luna_stop_welding",
+    "category": ""
+  },
+  {
+    "zombieForms": [],
+    "animationEvent": "Au_HUB_Luna_start_welding",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Luna/ANIM_luna_welder_pickup",
+      "eventGuid": "1ca71b53-6ddb-4289-9a9d-33cc96e8a7e0"
+    },
+    "id": 50,
+    "name": "Au_HUB_Luna_start_welding",
+    "category": ""
+  },
+  {
+    "zombieForms": [],
+    "animationEvent": "Au_HUB_Luna_item_give",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Luna/ANIM_luna_item_drop",
+      "eventGuid": "b7ec0d8f-f4cf-40b8-ad9c-d36bcd653d85"
+    },
+    "id": 51,
+    "name": "Au_HUB_Luna_item_give",
+    "category": ""
+  },
+  {
+    "zombieForms": [],
+    "animationEvent": "Au_HUB_Luna_chair_turn",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Luna/ANIM_luna_turn_chair",
+      "eventGuid": "bc756c21-3d3f-4ea8-b653-9258395ba103"
+    },
+    "id": 52,
+    "name": "Au_HUB_Luna_chair_turn",
+    "category": ""
+  },
+  {
+    "zombieForms": [],
+    "animationEvent": "Au_HUB_Luna_chair_sit",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Luna/ANIM_luna_sit_chair",
+      "eventGuid": "4caf31c8-a4bf-441f-8ebe-d938e7c7c503"
+    },
+    "id": 53,
+    "name": "Au_HUB_Luna_chair_sit",
+    "category": ""
+  },
+  {
+    "zombieForms": [],
+    "animationEvent": "Au_HUB_Luna_type",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Luna/ANIM_luna_type",
+      "eventGuid": "8d9e52ef-a8a5-479e-8b7b-02e0fccdfb32"
+    },
+    "id": 54,
+    "name": "Au_HUB_Luna_type",
+    "category": ""
+  },
+  {
+    "zombieForms": [],
+    "animationEvent": "Au_HUB_Luna_metal_arm",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Luna/ANIM_luna_metal_arm",
+      "eventGuid": "6f7fa533-6605-4fab-8a3a-f49aa0d83c51"
+    },
+    "id": 55,
+    "name": "Au_HUB_Luna_metal_arm",
+    "category": ""
+  },
+  {
+    "zombieForms": [],
+    "animationEvent": "Au_HUB_Luna_wipe_clothes",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Luna/ANIM_luna_wipe_clothes",
+      "eventGuid": "85e9b40f-8b84-4112-ae80-e42e400be99b"
+    },
+    "id": 56,
+    "name": "Au_HUB_Luna_wipe_clothes",
+    "category": ""
+  },
+  {
+    "zombieForms": [],
+    "animationEvent": "Au_HUB_Luna_footstep",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Luna/ANIM_luna_footstep",
+      "eventGuid": "3a91869c-ea77-4303-8820-6539cc394b7d"
+    },
+    "id": 57,
+    "name": "Au_HUB_Luna_footstep",
+    "category": ""
+  },
+  {
+    "zombieForms": [],
+    "animationEvent": "Au_HUB_Luna_item_pickup",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Luna/ANIM_luna_grab",
+      "eventGuid": "e045766a-8387-46aa-a3a3-3e167882cf01"
+    },
+    "id": 58,
+    "name": "Au_HUB_Luna_item_pickup",
+    "category": ""
+  },
+  {
+    "zombieForms": [],
+    "animationEvent": "Au_HUB_Luna_turn_valve",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Luna/ANIM_luna_turn_valve",
+      "eventGuid": "832dd01f-f572-4d91-b0f7-ffaf11697838"
+    },
+    "id": 59,
+    "name": "Au_HUB_Luna_turn_valve",
+    "category": ""
+  },
+  {
+    "zombieForms": [
+      0,
+      7,
+      11
+    ],
+    "animationEvent": "Au_common_climb_fence",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Enemy_common/Enemy_common_fencestep",
+      "eventGuid": "df59ae5b-1b0f-4126-90a5-cfc949e9b0a2"
+    },
+    "id": 60,
+    "name": "Au_common_climb_fence",
+    "category": ""
+  },
+  {
+    "zombieForms": [],
+    "animationEvent": "Au_LootGoblin_Despawn",
+    "audioEvent": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Enemy_skimmer/Enemy_skimmer_vo_despawn",
+      "eventGuid": "358c2caa-c92b-4176-93c7-3efe31cc4f9a"
+    },
+    "id": 61,
+    "name": "Au_LootGoblin_Despawn",
+    "category": ""
+  }
+]
+}

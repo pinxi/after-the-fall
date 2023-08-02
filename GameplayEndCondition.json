@@ -1,0 +1,161 @@
+{
+  "TableId": 125,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "automaticEndConditionType": {
+      "CurrentIndex": 2,
+      "DisplayName": "TimePassedEndCondition",
+      "AssemblyQualifiedName": "Vertigo.Snowbreed.Shared.TimePassedEndCondition, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    },
+    "maxGameLengthInSeconds": 300,
+    "numberOfTeamKills": 60,
+    "numberOfKills": 30,
+    "timeRemainingAnnouncements": [
+      {
+        "timeRemaining": 120
+      },
+      {
+        "timeRemaining": 60
+      },
+      {
+        "timeRemaining": 30
+      },
+      {
+        "timeRemaining": 5
+      },
+      {
+        "timeRemaining": 4
+      },
+      {
+        "timeRemaining": 3
+      },
+      {
+        "timeRemaining": 2
+      },
+      {
+        "timeRemaining": 1
+      }
+    ],
+    "killsRemainingAnnouncements": [],
+    "id": 0,
+    "name": "300SecondsPassed",
+    "category": ""
+  },
+  {
+    "automaticEndConditionType": {
+      "CurrentIndex": 0,
+      "DisplayName": "FirstTeamToNumberOfKillsEndCondition",
+      "AssemblyQualifiedName": "Vertigo.Snowbreed.Shared.FirstTeamToNumberOfKillsEndCondition, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    },
+    "maxGameLengthInSeconds": 300,
+    "numberOfTeamKills": 60,
+    "numberOfKills": 30,
+    "timeRemainingAnnouncements": [],
+    "killsRemainingAnnouncements": [
+      {
+        "killsRemaining": 30
+      },
+      {
+        "killsRemaining": 10
+      },
+      {
+        "killsRemaining": 5
+      }
+    ],
+    "id": 1,
+    "name": "FirstTeamTo60Kills",
+    "category": ""
+  },
+  {
+    "automaticEndConditionType": {
+      "CurrentIndex": 1,
+      "DisplayName": "FirstToNumberOfKillsEndCondition",
+      "AssemblyQualifiedName": "Vertigo.Snowbreed.Shared.FirstToNumberOfKillsEndCondition, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    },
+    "maxGameLengthInSeconds": 300,
+    "numberOfTeamKills": 60,
+    "numberOfKills": 30,
+    "timeRemainingAnnouncements": [],
+    "killsRemainingAnnouncements": [
+      {
+        "killsRemaining": 15
+      },
+      {
+        "killsRemaining": 10
+      },
+      {
+        "killsRemaining": 5
+      }
+    ],
+    "id": 2,
+    "name": "FirstPlayerTo30Kills",
+    "category": ""
+  },
+  {
+    "automaticEndConditionType": {
+      "CurrentIndex": 0,
+      "DisplayName": "FirstTeamToNumberOfKillsEndCondition",
+      "AssemblyQualifiedName": "Vertigo.Snowbreed.Shared.FirstTeamToNumberOfKillsEndCondition, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    },
+    "maxGameLengthInSeconds": 300,
+    "numberOfTeamKills": 30,
+    "numberOfKills": 30,
+    "timeRemainingAnnouncements": [],
+    "killsRemainingAnnouncements": [
+      {
+        "killsRemaining": 15
+      },
+      {
+        "killsRemaining": 10
+      },
+      {
+        "killsRemaining": 5
+      }
+    ],
+    "id": 3,
+    "name": "FirstTeamTo30Kills",
+    "category": ""
+  },
+  {
+    "automaticEndConditionType": {
+      "CurrentIndex": 2,
+      "DisplayName": "TimePassedEndCondition",
+      "AssemblyQualifiedName": "Vertigo.Snowbreed.Shared.TimePassedEndCondition, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    },
+    "maxGameLengthInSeconds": 600,
+    "numberOfTeamKills": 60,
+    "numberOfKills": 30,
+    "timeRemainingAnnouncements": [
+      {
+        "timeRemaining": 120
+      },
+      {
+        "timeRemaining": 60
+      },
+      {
+        "timeRemaining": 30
+      },
+      {
+        "timeRemaining": 5
+      },
+      {
+        "timeRemaining": 4
+      },
+      {
+        "timeRemaining": 3
+      },
+      {
+        "timeRemaining": 2
+      },
+      {
+        "timeRemaining": 1
+      }
+    ],
+    "killsRemainingAnnouncements": [],
+    "id": 4,
+    "name": "600SecondsPassed",
+    "category": ""
+  }
+]
+}

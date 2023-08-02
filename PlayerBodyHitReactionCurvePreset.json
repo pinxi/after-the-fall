@@ -1,0 +1,179 @@
+{
+  "TableId": 161,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "animationCurve": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.006011963,
+          "inTangent": 21.4667854,
+          "outTangent": 21.4667854,
+          "inWeight": 0.333333343,
+          "outWeight": 0.109797239,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.106730781,
+          "value": 1.00132442,
+          "inTangent": 0.00669405237,
+          "outTangent": 0.00669405237,
+          "inWeight": 0.3910902,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.541455746,
+          "value": 0.0385343432,
+          "inTangent": -1.86434734,
+          "outTangent": -1.86434734,
+          "inWeight": 0.4139041,
+          "outWeight": 0.0584087521,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "id": 0,
+    "name": "Default Curve",
+    "category": ""
+  },
+  {
+    "animationCurve": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.006011963,
+          "inTangent": 11.577199,
+          "outTangent": 11.577199,
+          "inWeight": 0.333333343,
+          "outWeight": 0.110411674,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.200480759,
+          "value": 1.00132442,
+          "inTangent": 0.00669405237,
+          "outTangent": 0.00669405237,
+          "inWeight": 0.3910902,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.63779974,
+          "value": 0.227468669,
+          "inTangent": -1.86434734,
+          "outTangent": -1.86434734,
+          "inWeight": 0.4139041,
+          "outWeight": 0.0584087521,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "id": 1,
+    "name": "Delayed Curve",
+    "category": ""
+  },
+  {
+    "animationCurve": {
+      "keys": [
+        {
+          "time": 0.0018196106,
+          "value": 0.006011963,
+          "inTangent": -27.4807339,
+          "outTangent": -27.4807339,
+          "inWeight": 0.333333343,
+          "outWeight": 0.0943056345,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.08369498,
+          "value": -0.649440765,
+          "inTangent": 1.00216055,
+          "outTangent": 1.00216055,
+          "inWeight": 0.16217199,
+          "outWeight": 0.404788584,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.174029455,
+          "value": 0.438610822,
+          "inTangent": 10.7280788,
+          "outTangent": 10.7280788,
+          "inWeight": 0.07515626,
+          "outWeight": 0.12194445,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.3149032,
+          "value": 1.02021813,
+          "inTangent": 0.0006944787,
+          "outTangent": 0.0006944787,
+          "inWeight": 0.333333343,
+          "outWeight": 0.109690294,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.6115891,
+          "value": -0.08093924,
+          "inTangent": -3.926083,
+          "outTangent": -3.926083,
+          "inWeight": 0.207760423,
+          "outWeight": 0.0873306543,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "id": 2,
+    "name": "Delayed Inverse Head Curve",
+    "category": ""
+  }
+]
+}

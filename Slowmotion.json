@@ -1,0 +1,15 @@
+{
+  "TableId": 235,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "timeScale": 0.3,
+    "duration": 1.0,
+    "applyDuration": 1.0,
+    "revertDuration": 1.0,
+    "id": 0,
+    "name": "Section Completed",
+    "category": ""
+  }
+]
+}

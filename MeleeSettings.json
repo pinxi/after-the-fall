@@ -1,0 +1,111 @@
+{
+  "TableId": 151,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "StuckOnHit": true,
+    "StuckSettings": {
+      "StuckTime": 0.25,
+      "LerpBackTime": 0.1,
+      "OnHitLerpSpeed": 0.5,
+      "OnHitLerpRotSpeed": 60.0
+    },
+    "CollisionIgnoreTime": 0.1,
+    "HitAwayFromPlayerFactor": 0.7,
+    "DamageMinimumContactPointVelocity": 999.0,
+    "DamageMinimumHandVelocity": 999.0,
+    "DamageMinimumHandTravelDistance": 999.0,
+    "StumbleMinimumContactPointVelocity": 2.0,
+    "StumbleMinimumHandVelocity": 2.0,
+    "StumbleMinimumHandTravelDistance": 999.0,
+    "SwingLineWidth": 0.0,
+    "id": 0,
+    "name": "GunMelee (Stagger Only)",
+    "category": ""
+  },
+  {
+    "StuckOnHit": false,
+    "StuckSettings": {
+      "StuckTime": 0.3,
+      "LerpBackTime": 0.1,
+      "OnHitLerpSpeed": 0.25,
+      "OnHitLerpRotSpeed": 30.0
+    },
+    "CollisionIgnoreTime": 999.0,
+    "HitAwayFromPlayerFactor": 0.0,
+    "DamageMinimumContactPointVelocity": 999.0,
+    "DamageMinimumHandVelocity": 999.0,
+    "DamageMinimumHandTravelDistance": 999.0,
+    "StumbleMinimumContactPointVelocity": 999.0,
+    "StumbleMinimumHandVelocity": 999.0,
+    "StumbleMinimumHandTravelDistance": 999.0,
+    "SwingLineWidth": 0.3,
+    "id": 1,
+    "name": "Disabled",
+    "category": ""
+  },
+  {
+    "StuckOnHit": false,
+    "StuckSettings": {
+      "StuckTime": 0.3,
+      "LerpBackTime": 0.1,
+      "OnHitLerpSpeed": 0.25,
+      "OnHitLerpRotSpeed": 30.0
+    },
+    "CollisionIgnoreTime": 0.1,
+    "HitAwayFromPlayerFactor": 0.0,
+    "DamageMinimumContactPointVelocity": 0.02,
+    "DamageMinimumHandVelocity": 0.02,
+    "DamageMinimumHandTravelDistance": 0.02,
+    "StumbleMinimumContactPointVelocity": 0.01,
+    "StumbleMinimumHandVelocity": 0.01,
+    "StumbleMinimumHandTravelDistance": 0.01,
+    "SwingLineWidth": 0.3,
+    "id": 2,
+    "name": "TestMelee",
+    "category": ""
+  },
+  {
+    "StuckOnHit": true,
+    "StuckSettings": {
+      "StuckTime": 0.25,
+      "LerpBackTime": 0.1,
+      "OnHitLerpSpeed": 0.5,
+      "OnHitLerpRotSpeed": 60.0
+    },
+    "CollisionIgnoreTime": 0.1,
+    "HitAwayFromPlayerFactor": 0.0,
+    "DamageMinimumContactPointVelocity": 5.0,
+    "DamageMinimumHandVelocity": 1.5,
+    "DamageMinimumHandTravelDistance": 1.0,
+    "StumbleMinimumContactPointVelocity": 1.0,
+    "StumbleMinimumHandVelocity": 0.7,
+    "StumbleMinimumHandTravelDistance": 0.34,
+    "SwingLineWidth": 1.0,
+    "id": 3,
+    "name": "Stick",
+    "category": ""
+  },
+  {
+    "StuckOnHit": true,
+    "StuckSettings": {
+      "StuckTime": 0.25,
+      "LerpBackTime": 0.1,
+      "OnHitLerpSpeed": 0.5,
+      "OnHitLerpRotSpeed": 60.0
+    },
+    "CollisionIgnoreTime": 0.1,
+    "HitAwayFromPlayerFactor": 0.0,
+    "DamageMinimumContactPointVelocity": 2.0,
+    "DamageMinimumHandVelocity": 1.5,
+    "DamageMinimumHandTravelDistance": 0.1,
+    "StumbleMinimumContactPointVelocity": 999.0,
+    "StumbleMinimumHandVelocity": 999.0,
+    "StumbleMinimumHandTravelDistance": 999.0,
+    "SwingLineWidth": 0.0,
+    "id": 4,
+    "name": "GunMelee (Stagger+Damage)",
+    "category": ""
+  }
+]
+}

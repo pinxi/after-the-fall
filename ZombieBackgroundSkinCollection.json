@@ -1,0 +1,113 @@
+{
+  "TableId": 187,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "skinPoolSize": 30,
+    "isSpecial": false,
+    "colorMultiplier": {
+      "color4": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "w": 1.0
+      }
+    },
+    "colliderRadius": 0.6,
+    "colliderHeight": 1.8,
+    "colliderOffset": {
+      "x": 0.0,
+      "y": 0.9,
+      "z": 0.0
+    },
+    "penetrationWeight": 1,
+    "supportsAnimationMirroring": true,
+    "skinRig": {
+      "assetName": "CH_E_Common_M_Rig",
+      "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_Rigs/CH_E_Common_M_Rig.prefab",
+      "assetGUID": "e317ff180806c29488a9d872a95ddd95",
+      "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_Rigs/CH_E_Common_M_Rig",
+      "isSubAsset": false
+    },
+    "animationRootBone": 1,
+    "skinSetupPC": {
+      "usePcSkinSetup": false,
+      "skins": [
+        {
+          "assetName": "CH_E_Common_M_C02_Background",
+          "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/BackgroundCommon_M_C02/PC/CH_E_Common_M_C02_Background.prefab",
+          "assetGUID": "af52dc98ee707704a99a2c8dc66e72d8",
+          "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/BackgroundCommon_M_C02/PC/CH_E_Common_M_C02_Background",
+          "isSubAsset": false
+        }
+      ]
+    },
+    "skinSetupPS4": {
+      "usePcSkinSetup": false,
+      "skins": [
+        {
+          "assetName": "CH_E_Common_M_C02_BackgroundMobile",
+          "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/BackgroundCommon_M_C02/Mobile/CH_E_Common_M_C02_BackgroundMobile.prefab",
+          "assetGUID": "70e298c64949a9041b1d77ea9ae28b91",
+          "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/BackgroundCommon_M_C02/Mobile/CH_E_Common_M_C02_BackgroundMobile",
+          "isSubAsset": false
+        }
+      ]
+    },
+    "skinSetupMobile": {
+      "usePcSkinSetup": false,
+      "skins": [
+        {
+          "assetName": "CH_E_Common_M_C02_BackgroundMobile",
+          "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/BackgroundCommon_M_C02/Mobile/CH_E_Common_M_C02_BackgroundMobile.prefab",
+          "assetGUID": "70e298c64949a9041b1d77ea9ae28b91",
+          "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/BackgroundCommon_M_C02/Mobile/CH_E_Common_M_C02_BackgroundMobile",
+          "isSubAsset": false
+        }
+      ]
+    },
+    "textureArraySlotsPc": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 0
+      }
+    ],
+    "textureArraySlotsPs4": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 0
+      }
+    ],
+    "textureArraySlotsMobile": [
+      {
+        "slotId": 0,
+        "textureArraySettings": 0
+      }
+    ],
+    "combinedSkinShaderPc": {
+      "assetName": "Vertigo/Infected/Mobile/Infected_Combined",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined.shader",
+      "assetGUID": "90107dfb9ad327344b5809b660a55d59",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined",
+      "isSubAsset": false
+    },
+    "combinedSkinShaderPs4": {
+      "assetName": "Vertigo/Infected/Mobile/Infected_Combined",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined.shader",
+      "assetGUID": "90107dfb9ad327344b5809b660a55d59",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined",
+      "isSubAsset": false
+    },
+    "combinedSkinShaderMobile": {
+      "assetName": "Vertigo/Infected/Mobile/Infected_Combined",
+      "assetPath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined.shader",
+      "assetGUID": "90107dfb9ad327344b5809b660a55d59",
+      "resourcePath": "Assets/Art/Shaders/VertigoShaders/Infected/Vertigo_Infected_Mobile_Combined",
+      "isSubAsset": false
+    },
+    "id": 0,
+    "name": "BackgroundCommon",
+    "category": ""
+  }
+]
+}

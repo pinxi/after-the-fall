@@ -1,0 +1,41 @@
+{
+  "TableId": 261,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "message": "Insert weapon to begin",
+    "timeoutInSeconds": 10.0,
+    "id": 0,
+    "name": "Crafting: Insert slot",
+    "category": ""
+  },
+  {
+    "message": "Grab and hold, then move towards the gun to apply",
+    "timeoutInSeconds": 10.0,
+    "id": 1,
+    "name": "Crafting: Add attachment",
+    "category": ""
+  },
+  {
+    "message": "Grab the screwdriver, bring close to attachment, then use to remove",
+    "timeoutInSeconds": 10.0,
+    "id": 2,
+    "name": "Crafting: Remove attachment",
+    "category": ""
+  },
+  {
+    "message": "Press the 'SAVE' button to save your configuration",
+    "timeoutInSeconds": 10.0,
+    "id": 3,
+    "name": "Crafting: Saving",
+    "category": ""
+  },
+  {
+    "message": "Press a category, then an attachment to spawn",
+    "timeoutInSeconds": 10.0,
+    "id": 4,
+    "name": "Crafting: Buy Attachment",
+    "category": ""
+  }
+]
+}

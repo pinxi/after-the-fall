@@ -1,0 +1,75 @@
+{
+  "TableId": 50001,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "delayBetweenLockOpenAndLootSpawn": 0.3,
+    "delayBetweenLootSpawnAndNotification": 0.2,
+    "lootFlyToPlayerHeightCurve": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 4.569279,
+          "outTangent": 4.569279,
+          "inWeight": 0.0,
+          "outWeight": 0.0613810755,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.25,
+          "value": 0.5,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "ammoFlyDuration": 0.45,
+    "ammoLoot": [
+      {
+        "ammoAsset": 30,
+        "ammoAmount": 240
+      },
+      {
+        "ammoAsset": 31,
+        "ammoAmount": 40
+      },
+      {
+        "ammoAsset": 32,
+        "ammoAmount": 80
+      },
+      {
+        "ammoAsset": 34,
+        "ammoAmount": 200
+      }
+    ],
+    "ammoCrateUIPrefab": {
+      "assetName": "Canvas - AmmoCrate",
+      "assetPath": "Assets/Prefabs/Gameplay/AmmoCrates/VertigoResources/Canvas - AmmoCrate.prefab",
+      "assetGUID": "ae18852b40c6dc340b9dc93aeadbc655",
+      "resourcePath": "Canvas - AmmoCrate",
+      "isSubAsset": false
+    },
+    "id": 0,
+    "name": "Defaultt",
+    "category": ""
+  }
+]
+}

@@ -1,0 +1,65 @@
+{
+  "TableId": 171,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "animations": [
+      {
+        "animationClipForward": {
+          "animationLength": 2.66666675,
+          "assetName": "Anim_CH_E_Horde_Walks_Fwd_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2.fbx",
+          "assetGUID": "6c145ab8c7e03d44ab78fc5c2bc7a53e",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2:Anim_CH_E_Horde_Walks_Fwd_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationMovementSpeed": 0.9,
+        "blendToIdleSpeedFraction": 0.5,
+        "blendToIdleCycleSpeedFraction": 0.25
+      },
+      {
+        "animationClipForward": {
+          "animationLength": 2.66666675,
+          "assetName": "Anim_CH_E_Horde_Walks_Fwd_B",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2.fbx",
+          "assetGUID": "6c145ab8c7e03d44ab78fc5c2bc7a53e",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2:Anim_CH_E_Horde_Walks_Fwd_B.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationMovementSpeed": 0.875,
+        "blendToIdleSpeedFraction": 0.5,
+        "blendToIdleCycleSpeedFraction": 0.25
+      },
+      {
+        "animationClipForward": {
+          "animationLength": 2.66666675,
+          "assetName": "Anim_CH_E_Horde_Walks_Fwd_C",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2.fbx",
+          "assetGUID": "6c145ab8c7e03d44ab78fc5c2bc7a53e",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2:Anim_CH_E_Horde_Walks_Fwd_C.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationMovementSpeed": 0.9,
+        "blendToIdleSpeedFraction": 0.5,
+        "blendToIdleCycleSpeedFraction": 0.25
+      },
+      {
+        "animationClipForward": {
+          "animationLength": 3.00000024,
+          "assetName": "Anim_CH_E_Horde_Walks_Fwd_D",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2.fbx",
+          "assetGUID": "6c145ab8c7e03d44ab78fc5c2bc7a53e",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2:Anim_CH_E_Horde_Walks_Fwd_D.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationMovementSpeed": 0.8,
+        "blendToIdleSpeedFraction": 0.5,
+        "blendToIdleCycleSpeedFraction": 0.25
+      }
+    ],
+    "id": 0,
+    "name": "Common",
+    "category": ""
+  }
+]
+}

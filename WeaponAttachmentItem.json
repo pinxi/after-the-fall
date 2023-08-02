@@ -1,0 +1,108 @@
+{
+  "TableId": 181,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "attachedAudio": null,
+    "detachedAudio": null,
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 0,
+    "id": 0,
+    "name": "EmptyAttachmentShell",
+    "category": "",
+    "displayName": "",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "",
+    "tooltipSubtitleDisplayName": "",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "AttachmentShell",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/Attachments/AttachmentShell.prefab",
+      "assetGUID": "e1eb95d9501ccb64c98e33c59815877f",
+      "resourcePath": "Weapons/Attachments/AttachmentShell",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": null,
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": null,
+      "AssemblyQualifiedName": null
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  }
+]
+}

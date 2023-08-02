@@ -1,0 +1,3226 @@
+{
+  "TableId": 211,
+  "DefaultCellId": 11,
+  "Cells": [
+  {
+    "zombieType": 5,
+    "allowedSkins": [
+      18
+    ],
+    "minZombieSizeMultiplier": 1.0,
+    "maxZombieSizeMultiplier": 1.0,
+    "walkingLocomotion": {
+      "rangeStart": 1.7,
+      "rangeEnd": 1.7
+    },
+    "runningLocomotion": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": 1.7,
+          "rangeEnd": 2.3
+        },
+        {
+          "rangeStart": 2.0,
+          "rangeEnd": 2.6
+        },
+        {
+          "rangeStart": 2.3,
+          "rangeEnd": 2.9
+        },
+        {
+          "rangeStart": 2.6,
+          "rangeEnd": 3.2
+        },
+        {
+          "rangeStart": 3.0,
+          "rangeEnd": 3.3
+        }
+      ]
+    },
+    "shouldRecalculateLocomotionSpeed": true,
+    "timeToRecalculateLocomotionSpeed": {
+      "rangeStart": 1.0,
+      "rangeEnd": 2.0
+    },
+    "pathDivergenceAngleRange": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        }
+      ]
+    },
+    "canProne": false,
+    "proneLocomotion": {
+      "rowType": null,
+      "colType": null,
+      "rowCount": 0,
+      "colCount": 0,
+      "rowLabels": [],
+      "colLabels": [],
+      "values": []
+    },
+    "animationSet": 6,
+    "supportsCeilingLayer": false,
+    "canCrawl": false,
+    "alwaysCrawlOnCeiling": true,
+    "crawlChance": 0.0,
+    "harvestAmountOnDeath": 3,
+    "accumulateHarvestTillKill": true,
+    "blobShadowSize": 2.5,
+    "crawlingShadowBlobLength": 3.0,
+    "crawlingShadowBlobWidth": 2.5,
+    "fadeMultiplier": 1.25,
+    "blobShadowOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "leftFootBlobShadowBone": 14,
+    "rightFootBlobShadowBone": 17,
+    "footBlobShadowSize": 1.5,
+    "footBlobShadowFadeDistance": {
+      "x": 0.3,
+      "y": 0.5
+    },
+    "footBlobShadowFadeMultiplier": 2.0,
+    "id": 5,
+    "name": "Special Eater",
+    "category": ""
+  },
+  {
+    "zombieType": 6,
+    "allowedSkins": [
+      20
+    ],
+    "minZombieSizeMultiplier": 1.8,
+    "maxZombieSizeMultiplier": 1.8,
+    "walkingLocomotion": {
+      "rangeStart": 3.24,
+      "rangeEnd": 3.24
+    },
+    "runningLocomotion": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": 3.24,
+          "rangeEnd": 3.24
+        },
+        {
+          "rangeStart": 3.24,
+          "rangeEnd": 3.24
+        },
+        {
+          "rangeStart": 3.24,
+          "rangeEnd": 3.24
+        },
+        {
+          "rangeStart": 3.24,
+          "rangeEnd": 3.24
+        },
+        {
+          "rangeStart": 0.0,
+          "rangeEnd": 0.0
+        }
+      ]
+    },
+    "shouldRecalculateLocomotionSpeed": false,
+    "timeToRecalculateLocomotionSpeed": {
+      "rangeStart": 4.0,
+      "rangeEnd": 4.0
+    },
+    "pathDivergenceAngleRange": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        }
+      ]
+    },
+    "canProne": false,
+    "proneLocomotion": {
+      "rowType": null,
+      "colType": null,
+      "rowCount": 0,
+      "colCount": 0,
+      "rowLabels": [],
+      "colLabels": [],
+      "values": []
+    },
+    "animationSet": 5,
+    "supportsCeilingLayer": false,
+    "canCrawl": false,
+    "alwaysCrawlOnCeiling": true,
+    "crawlChance": 0.0,
+    "harvestAmountOnDeath": 50,
+    "accumulateHarvestTillKill": true,
+    "blobShadowSize": 5.0,
+    "crawlingShadowBlobLength": 8.0,
+    "crawlingShadowBlobWidth": 6.0,
+    "fadeMultiplier": 1.5,
+    "blobShadowOffset": {
+      "x": 0.0,
+      "y": 0.04,
+      "z": 0.0
+    },
+    "leftFootBlobShadowBone": 14,
+    "rightFootBlobShadowBone": 17,
+    "footBlobShadowSize": 3.0,
+    "footBlobShadowFadeDistance": {
+      "x": 0.5,
+      "y": 1.5
+    },
+    "footBlobShadowFadeMultiplier": 1.5,
+    "id": 6,
+    "name": "Special Smasher Major (Legacy)",
+    "category": ""
+  },
+  {
+    "zombieType": 7,
+    "allowedSkins": [
+      8
+    ],
+    "minZombieSizeMultiplier": 1.38,
+    "maxZombieSizeMultiplier": 1.38,
+    "walkingLocomotion": {
+      "rangeStart": 1.656,
+      "rangeEnd": 1.656
+    },
+    "runningLocomotion": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": 1.656,
+          "rangeEnd": 1.656
+        },
+        {
+          "rangeStart": 1.8,
+          "rangeEnd": 1.8
+        },
+        {
+          "rangeStart": 1.95,
+          "rangeEnd": 1.95
+        },
+        {
+          "rangeStart": 2.1,
+          "rangeEnd": 2.1
+        },
+        {
+          "rangeStart": 3.0,
+          "rangeEnd": 3.0
+        }
+      ]
+    },
+    "shouldRecalculateLocomotionSpeed": false,
+    "timeToRecalculateLocomotionSpeed": {
+      "rangeStart": 1.0,
+      "rangeEnd": 2.0
+    },
+    "pathDivergenceAngleRange": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        }
+      ]
+    },
+    "canProne": false,
+    "proneLocomotion": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 4,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare"
+      ],
+      "values": [
+        {
+          "rangeStart": 0.0,
+          "rangeEnd": 0.0
+        },
+        {
+          "rangeStart": 0.0,
+          "rangeEnd": 0.0
+        },
+        {
+          "rangeStart": 0.0,
+          "rangeEnd": 0.0
+        },
+        {
+          "rangeStart": 0.0,
+          "rangeEnd": 0.0
+        }
+      ]
+    },
+    "animationSet": 7,
+    "supportsCeilingLayer": false,
+    "canCrawl": false,
+    "alwaysCrawlOnCeiling": true,
+    "crawlChance": 0.0,
+    "harvestAmountOnDeath": 3,
+    "accumulateHarvestTillKill": true,
+    "blobShadowSize": 2.5,
+    "crawlingShadowBlobLength": 3.5,
+    "crawlingShadowBlobWidth": 2.5,
+    "fadeMultiplier": 1.25,
+    "blobShadowOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "leftFootBlobShadowBone": 14,
+    "rightFootBlobShadowBone": 17,
+    "footBlobShadowSize": 1.5,
+    "footBlobShadowFadeDistance": {
+      "x": 0.3,
+      "y": 0.6
+    },
+    "footBlobShadowFadeMultiplier": 2.0,
+    "id": 7,
+    "name": "Special Jock",
+    "category": ""
+  },
+  {
+    "zombieType": 2,
+    "allowedSkins": [
+      17
+    ],
+    "minZombieSizeMultiplier": 1.0575,
+    "maxZombieSizeMultiplier": 1.095,
+    "walkingLocomotion": {
+      "rangeStart": 0.8,
+      "rangeEnd": 0.9
+    },
+    "runningLocomotion": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": 1.5,
+          "rangeEnd": 1.8
+        },
+        {
+          "rangeStart": 1.7,
+          "rangeEnd": 2.0
+        },
+        {
+          "rangeStart": 1.9,
+          "rangeEnd": 2.2
+        },
+        {
+          "rangeStart": 2.1,
+          "rangeEnd": 2.4
+        },
+        {
+          "rangeStart": 2.3,
+          "rangeEnd": 2.4
+        }
+      ]
+    },
+    "shouldRecalculateLocomotionSpeed": true,
+    "timeToRecalculateLocomotionSpeed": {
+      "rangeStart": 3.0,
+      "rangeEnd": 5.0
+    },
+    "pathDivergenceAngleRange": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -15.0,
+          "rangeEnd": 15.0
+        },
+        {
+          "rangeStart": -20.0,
+          "rangeEnd": 20.0
+        },
+        {
+          "rangeStart": -25.0,
+          "rangeEnd": 25.0
+        },
+        {
+          "rangeStart": -30.0,
+          "rangeEnd": 30.0
+        }
+      ]
+    },
+    "canProne": true,
+    "proneLocomotion": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": 0.75,
+          "rangeEnd": 0.85
+        },
+        {
+          "rangeStart": 0.85,
+          "rangeEnd": 0.95
+        },
+        {
+          "rangeStart": 0.95,
+          "rangeEnd": 1.05
+        },
+        {
+          "rangeStart": 1.05,
+          "rangeEnd": 1.15
+        },
+        {
+          "rangeStart": 1.1,
+          "rangeEnd": 1.15
+        }
+      ]
+    },
+    "animationSet": 0,
+    "supportsCeilingLayer": true,
+    "canCrawl": true,
+    "alwaysCrawlOnCeiling": true,
+    "crawlChance": 0.3,
+    "harvestAmountOnDeath": 0,
+    "accumulateHarvestTillKill": true,
+    "blobShadowSize": 1.5,
+    "crawlingShadowBlobLength": 2.5,
+    "crawlingShadowBlobWidth": 1.5,
+    "fadeMultiplier": 1.0,
+    "blobShadowOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "leftFootBlobShadowBone": 14,
+    "rightFootBlobShadowBone": 17,
+    "footBlobShadowSize": 1.0,
+    "footBlobShadowFadeDistance": {
+      "x": 0.2,
+      "y": 0.4
+    },
+    "footBlobShadowFadeMultiplier": 2.0,
+    "id": 11,
+    "name": "Common Slow",
+    "category": ""
+  },
+  {
+    "zombieType": 12,
+    "allowedSkins": [
+      22
+    ],
+    "minZombieSizeMultiplier": 1.075,
+    "maxZombieSizeMultiplier": 1.125,
+    "walkingLocomotion": {
+      "rangeStart": 0.8,
+      "rangeEnd": 0.9
+    },
+    "runningLocomotion": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": 4.0,
+          "rangeEnd": 4.4
+        },
+        {
+          "rangeStart": 4.4,
+          "rangeEnd": 4.8
+        },
+        {
+          "rangeStart": 4.8,
+          "rangeEnd": 5.2
+        },
+        {
+          "rangeStart": 5.0,
+          "rangeEnd": 5.4
+        },
+        {
+          "rangeStart": 5.2,
+          "rangeEnd": 5.4
+        }
+      ]
+    },
+    "shouldRecalculateLocomotionSpeed": true,
+    "timeToRecalculateLocomotionSpeed": {
+      "rangeStart": 3.0,
+      "rangeEnd": 5.0
+    },
+    "pathDivergenceAngleRange": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -15.0,
+          "rangeEnd": 15.0
+        },
+        {
+          "rangeStart": -20.0,
+          "rangeEnd": 20.0
+        },
+        {
+          "rangeStart": -25.0,
+          "rangeEnd": 25.0
+        },
+        {
+          "rangeStart": -30.0,
+          "rangeEnd": 30.0
+        }
+      ]
+    },
+    "canProne": true,
+    "proneLocomotion": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": 0.9,
+          "rangeEnd": 1.0
+        },
+        {
+          "rangeStart": 1.0,
+          "rangeEnd": 1.1
+        },
+        {
+          "rangeStart": 1.1,
+          "rangeEnd": 1.2
+        },
+        {
+          "rangeStart": 1.2,
+          "rangeEnd": 1.3
+        },
+        {
+          "rangeStart": 1.265,
+          "rangeEnd": 1.3
+        }
+      ]
+    },
+    "animationSet": 2,
+    "supportsCeilingLayer": true,
+    "canCrawl": true,
+    "alwaysCrawlOnCeiling": true,
+    "crawlChance": 0.0,
+    "harvestAmountOnDeath": 0,
+    "accumulateHarvestTillKill": true,
+    "blobShadowSize": 1.5,
+    "crawlingShadowBlobLength": 2.5,
+    "crawlingShadowBlobWidth": 1.5,
+    "fadeMultiplier": 1.0,
+    "blobShadowOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "leftFootBlobShadowBone": 14,
+    "rightFootBlobShadowBone": 17,
+    "footBlobShadowSize": 1.0,
+    "footBlobShadowFadeDistance": {
+      "x": 0.2,
+      "y": 0.4
+    },
+    "footBlobShadowFadeMultiplier": 2.0,
+    "id": 12,
+    "name": "Uncommon Fast",
+    "category": ""
+  },
+  {
+    "zombieType": 13,
+    "allowedSkins": [
+      20
+    ],
+    "minZombieSizeMultiplier": 1.5,
+    "maxZombieSizeMultiplier": 1.5,
+    "walkingLocomotion": {
+      "rangeStart": 3.24,
+      "rangeEnd": 3.24
+    },
+    "runningLocomotion": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": 3.24,
+          "rangeEnd": 3.24
+        },
+        {
+          "rangeStart": 3.24,
+          "rangeEnd": 3.24
+        },
+        {
+          "rangeStart": 3.24,
+          "rangeEnd": 3.24
+        },
+        {
+          "rangeStart": 3.24,
+          "rangeEnd": 3.24
+        },
+        {
+          "rangeStart": 0.0,
+          "rangeEnd": 0.0
+        }
+      ]
+    },
+    "shouldRecalculateLocomotionSpeed": false,
+    "timeToRecalculateLocomotionSpeed": {
+      "rangeStart": 4.0,
+      "rangeEnd": 4.0
+    },
+    "pathDivergenceAngleRange": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        }
+      ]
+    },
+    "canProne": false,
+    "proneLocomotion": {
+      "rowType": null,
+      "colType": null,
+      "rowCount": 0,
+      "colCount": 0,
+      "rowLabels": [],
+      "colLabels": [],
+      "values": []
+    },
+    "animationSet": 5,
+    "supportsCeilingLayer": false,
+    "canCrawl": false,
+    "alwaysCrawlOnCeiling": true,
+    "crawlChance": 0.0,
+    "harvestAmountOnDeath": 25,
+    "accumulateHarvestTillKill": false,
+    "blobShadowSize": 5.0,
+    "crawlingShadowBlobLength": 8.0,
+    "crawlingShadowBlobWidth": 6.0,
+    "fadeMultiplier": 1.5,
+    "blobShadowOffset": {
+      "x": 0.0,
+      "y": 0.04,
+      "z": 0.0
+    },
+    "leftFootBlobShadowBone": 14,
+    "rightFootBlobShadowBone": 17,
+    "footBlobShadowSize": 3.0,
+    "footBlobShadowFadeDistance": {
+      "x": 0.5,
+      "y": 1.5
+    },
+    "footBlobShadowFadeMultiplier": 1.5,
+    "id": 13,
+    "name": "Special Smasher Minor (Legacy)",
+    "category": ""
+  },
+  {
+    "zombieType": 14,
+    "allowedSkins": [
+      24
+    ],
+    "minZombieSizeMultiplier": 2.1,
+    "maxZombieSizeMultiplier": 2.1,
+    "walkingLocomotion": {
+      "rangeStart": 3.24,
+      "rangeEnd": 3.24
+    },
+    "runningLocomotion": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": 4.0,
+          "rangeEnd": 4.0
+        },
+        {
+          "rangeStart": 5.0,
+          "rangeEnd": 5.0
+        },
+        {
+          "rangeStart": 6.0,
+          "rangeEnd": 6.0
+        },
+        {
+          "rangeStart": 7.0,
+          "rangeEnd": 7.0
+        },
+        {
+          "rangeStart": 9.0,
+          "rangeEnd": 9.0
+        }
+      ]
+    },
+    "shouldRecalculateLocomotionSpeed": false,
+    "timeToRecalculateLocomotionSpeed": {
+      "rangeStart": 3.5,
+      "rangeEnd": 3.5
+    },
+    "pathDivergenceAngleRange": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        }
+      ]
+    },
+    "canProne": false,
+    "proneLocomotion": {
+      "rowType": null,
+      "colType": null,
+      "rowCount": 0,
+      "colCount": 0,
+      "rowLabels": [],
+      "colLabels": [],
+      "values": []
+    },
+    "animationSet": 10,
+    "supportsCeilingLayer": false,
+    "canCrawl": false,
+    "alwaysCrawlOnCeiling": true,
+    "crawlChance": 0.0,
+    "harvestAmountOnDeath": 0,
+    "accumulateHarvestTillKill": false,
+    "blobShadowSize": 5.0,
+    "crawlingShadowBlobLength": 8.0,
+    "crawlingShadowBlobWidth": 6.0,
+    "fadeMultiplier": 1.5,
+    "blobShadowOffset": {
+      "x": 0.0,
+      "y": 0.04,
+      "z": 0.0
+    },
+    "leftFootBlobShadowBone": 14,
+    "rightFootBlobShadowBone": 17,
+    "footBlobShadowSize": 3.0,
+    "footBlobShadowFadeDistance": {
+      "x": 0.5,
+      "y": 1.5
+    },
+    "footBlobShadowFadeMultiplier": 1.5,
+    "id": 14,
+    "name": "Special Supersmasher I",
+    "category": ""
+  },
+  {
+    "zombieType": 15,
+    "allowedSkins": [
+      17
+    ],
+    "minZombieSizeMultiplier": 1.0575,
+    "maxZombieSizeMultiplier": 1.095,
+    "walkingLocomotion": {
+      "rangeStart": 0.8,
+      "rangeEnd": 0.9
+    },
+    "runningLocomotion": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": 1.5,
+          "rangeEnd": 1.8
+        },
+        {
+          "rangeStart": 1.7,
+          "rangeEnd": 2.0
+        },
+        {
+          "rangeStart": 1.9,
+          "rangeEnd": 2.2
+        },
+        {
+          "rangeStart": 2.1,
+          "rangeEnd": 2.4
+        },
+        {
+          "rangeStart": 0.0,
+          "rangeEnd": 0.0
+        }
+      ]
+    },
+    "shouldRecalculateLocomotionSpeed": true,
+    "timeToRecalculateLocomotionSpeed": {
+      "rangeStart": 3.0,
+      "rangeEnd": 5.0
+    },
+    "pathDivergenceAngleRange": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": -11.25,
+          "rangeEnd": 11.25
+        },
+        {
+          "rangeStart": -22.5,
+          "rangeEnd": 22.5
+        },
+        {
+          "rangeStart": -33.75,
+          "rangeEnd": 33.75
+        },
+        {
+          "rangeStart": -45.0,
+          "rangeEnd": 45.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        }
+      ]
+    },
+    "canProne": true,
+    "proneLocomotion": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": 0.75,
+          "rangeEnd": 0.85
+        },
+        {
+          "rangeStart": 0.85,
+          "rangeEnd": 0.95
+        },
+        {
+          "rangeStart": 0.95,
+          "rangeEnd": 1.05
+        },
+        {
+          "rangeStart": 1.05,
+          "rangeEnd": 1.15
+        },
+        {
+          "rangeStart": 0.0,
+          "rangeEnd": 0.0
+        }
+      ]
+    },
+    "animationSet": 0,
+    "supportsCeilingLayer": true,
+    "canCrawl": true,
+    "alwaysCrawlOnCeiling": true,
+    "crawlChance": 0.3,
+    "harvestAmountOnDeath": 1,
+    "accumulateHarvestTillKill": true,
+    "blobShadowSize": 1.5,
+    "crawlingShadowBlobLength": 2.5,
+    "crawlingShadowBlobWidth": 1.5,
+    "fadeMultiplier": 1.0,
+    "blobShadowOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "leftFootBlobShadowBone": 14,
+    "rightFootBlobShadowBone": 17,
+    "footBlobShadowSize": 1.0,
+    "footBlobShadowFadeDistance": {
+      "x": 0.2,
+      "y": 0.4
+    },
+    "footBlobShadowFadeMultiplier": 2.0,
+    "id": 15,
+    "name": "Common Ice Armor",
+    "category": ""
+  },
+  {
+    "zombieType": 16,
+    "allowedSkins": [
+      24
+    ],
+    "minZombieSizeMultiplier": 2.1,
+    "maxZombieSizeMultiplier": 2.1,
+    "walkingLocomotion": {
+      "rangeStart": 3.24,
+      "rangeEnd": 3.24
+    },
+    "runningLocomotion": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": 4.0,
+          "rangeEnd": 4.0
+        },
+        {
+          "rangeStart": 5.0,
+          "rangeEnd": 5.0
+        },
+        {
+          "rangeStart": 6.0,
+          "rangeEnd": 6.0
+        },
+        {
+          "rangeStart": 7.0,
+          "rangeEnd": 7.0
+        },
+        {
+          "rangeStart": 9.0,
+          "rangeEnd": 9.0
+        }
+      ]
+    },
+    "shouldRecalculateLocomotionSpeed": false,
+    "timeToRecalculateLocomotionSpeed": {
+      "rangeStart": 3.5,
+      "rangeEnd": 3.5
+    },
+    "pathDivergenceAngleRange": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        }
+      ]
+    },
+    "canProne": false,
+    "proneLocomotion": {
+      "rowType": null,
+      "colType": null,
+      "rowCount": 0,
+      "colCount": 0,
+      "rowLabels": [],
+      "colLabels": [],
+      "values": []
+    },
+    "animationSet": 10,
+    "supportsCeilingLayer": false,
+    "canCrawl": false,
+    "alwaysCrawlOnCeiling": true,
+    "crawlChance": 0.0,
+    "harvestAmountOnDeath": 0,
+    "accumulateHarvestTillKill": false,
+    "blobShadowSize": 1.5,
+    "crawlingShadowBlobLength": 2.5,
+    "crawlingShadowBlobWidth": 1.5,
+    "fadeMultiplier": 1.0,
+    "blobShadowOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "leftFootBlobShadowBone": 14,
+    "rightFootBlobShadowBone": 17,
+    "footBlobShadowSize": 3.0,
+    "footBlobShadowFadeDistance": {
+      "x": 0.5,
+      "y": 1.5
+    },
+    "footBlobShadowFadeMultiplier": 1.5,
+    "id": 16,
+    "name": "Special Supersmasher II",
+    "category": ""
+  },
+  {
+    "zombieType": 17,
+    "allowedSkins": [
+      24
+    ],
+    "minZombieSizeMultiplier": 2.1,
+    "maxZombieSizeMultiplier": 2.1,
+    "walkingLocomotion": {
+      "rangeStart": 3.24,
+      "rangeEnd": 3.24
+    },
+    "runningLocomotion": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": 4.0,
+          "rangeEnd": 4.0
+        },
+        {
+          "rangeStart": 5.0,
+          "rangeEnd": 5.0
+        },
+        {
+          "rangeStart": 6.0,
+          "rangeEnd": 6.0
+        },
+        {
+          "rangeStart": 7.0,
+          "rangeEnd": 7.0
+        },
+        {
+          "rangeStart": 9.0,
+          "rangeEnd": 9.0
+        }
+      ]
+    },
+    "shouldRecalculateLocomotionSpeed": false,
+    "timeToRecalculateLocomotionSpeed": {
+      "rangeStart": 3.5,
+      "rangeEnd": 3.5
+    },
+    "pathDivergenceAngleRange": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        }
+      ]
+    },
+    "canProne": false,
+    "proneLocomotion": {
+      "rowType": null,
+      "colType": null,
+      "rowCount": 0,
+      "colCount": 0,
+      "rowLabels": [],
+      "colLabels": [],
+      "values": []
+    },
+    "animationSet": 5,
+    "supportsCeilingLayer": false,
+    "canCrawl": false,
+    "alwaysCrawlOnCeiling": true,
+    "crawlChance": 0.0,
+    "harvestAmountOnDeath": 25,
+    "accumulateHarvestTillKill": true,
+    "blobShadowSize": 1.5,
+    "crawlingShadowBlobLength": 2.5,
+    "crawlingShadowBlobWidth": 1.5,
+    "fadeMultiplier": 1.0,
+    "blobShadowOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "leftFootBlobShadowBone": 14,
+    "rightFootBlobShadowBone": 17,
+    "footBlobShadowSize": 3.0,
+    "footBlobShadowFadeDistance": {
+      "x": 0.5,
+      "y": 1.5
+    },
+    "footBlobShadowFadeMultiplier": 1.5,
+    "id": 17,
+    "name": "Special Supersmasher III",
+    "category": ""
+  },
+  {
+    "zombieType": 18,
+    "allowedSkins": [
+      20
+    ],
+    "minZombieSizeMultiplier": 1.5,
+    "maxZombieSizeMultiplier": 1.5,
+    "walkingLocomotion": {
+      "rangeStart": 3.24,
+      "rangeEnd": 3.24
+    },
+    "runningLocomotion": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": 3.5,
+          "rangeEnd": 3.5
+        },
+        {
+          "rangeStart": 4.0,
+          "rangeEnd": 4.0
+        },
+        {
+          "rangeStart": 4.5,
+          "rangeEnd": 4.5
+        },
+        {
+          "rangeStart": 5.0,
+          "rangeEnd": 5.0
+        },
+        {
+          "rangeStart": 6.0,
+          "rangeEnd": 6.0
+        }
+      ]
+    },
+    "shouldRecalculateLocomotionSpeed": false,
+    "timeToRecalculateLocomotionSpeed": {
+      "rangeStart": 3.5,
+      "rangeEnd": 3.5
+    },
+    "pathDivergenceAngleRange": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        }
+      ]
+    },
+    "canProne": false,
+    "proneLocomotion": {
+      "rowType": null,
+      "colType": null,
+      "rowCount": 0,
+      "colCount": 0,
+      "rowLabels": [],
+      "colLabels": [],
+      "values": []
+    },
+    "animationSet": 5,
+    "supportsCeilingLayer": false,
+    "canCrawl": false,
+    "alwaysCrawlOnCeiling": true,
+    "crawlChance": 0.0,
+    "harvestAmountOnDeath": 25,
+    "accumulateHarvestTillKill": true,
+    "blobShadowSize": 5.0,
+    "crawlingShadowBlobLength": 8.0,
+    "crawlingShadowBlobWidth": 6.0,
+    "fadeMultiplier": 1.5,
+    "blobShadowOffset": {
+      "x": 0.0,
+      "y": 0.04,
+      "z": 0.0
+    },
+    "leftFootBlobShadowBone": 14,
+    "rightFootBlobShadowBone": 17,
+    "footBlobShadowSize": 3.0,
+    "footBlobShadowFadeDistance": {
+      "x": 0.5,
+      "y": 1.5
+    },
+    "footBlobShadowFadeMultiplier": 1.5,
+    "id": 18,
+    "name": "Special Smasher (ExposedSpots)",
+    "category": ""
+  },
+  {
+    "zombieType": 19,
+    "allowedSkins": [
+      23
+    ],
+    "minZombieSizeMultiplier": 1.0,
+    "maxZombieSizeMultiplier": 1.0,
+    "walkingLocomotion": {
+      "rangeStart": 4.25,
+      "rangeEnd": 4.25
+    },
+    "runningLocomotion": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": 4.0,
+          "rangeEnd": 4.5
+        },
+        {
+          "rangeStart": 4.25,
+          "rangeEnd": 4.75
+        },
+        {
+          "rangeStart": 4.5,
+          "rangeEnd": 5.0
+        },
+        {
+          "rangeStart": 4.75,
+          "rangeEnd": 5.25
+        },
+        {
+          "rangeStart": 5.0,
+          "rangeEnd": 6.0
+        }
+      ]
+    },
+    "shouldRecalculateLocomotionSpeed": false,
+    "timeToRecalculateLocomotionSpeed": {
+      "rangeStart": 3.0,
+      "rangeEnd": 5.0
+    },
+    "pathDivergenceAngleRange": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        }
+      ]
+    },
+    "canProne": false,
+    "proneLocomotion": {
+      "rowType": null,
+      "colType": null,
+      "rowCount": 0,
+      "colCount": 0,
+      "rowLabels": [],
+      "colLabels": [],
+      "values": []
+    },
+    "animationSet": 11,
+    "supportsCeilingLayer": false,
+    "canCrawl": false,
+    "alwaysCrawlOnCeiling": true,
+    "crawlChance": 0.0,
+    "harvestAmountOnDeath": 3,
+    "accumulateHarvestTillKill": true,
+    "blobShadowSize": 5.0,
+    "crawlingShadowBlobLength": 8.0,
+    "crawlingShadowBlobWidth": 6.0,
+    "fadeMultiplier": 1.5,
+    "blobShadowOffset": {
+      "x": 0.0,
+      "y": 0.04,
+      "z": 0.0
+    },
+    "leftFootBlobShadowBone": 14,
+    "rightFootBlobShadowBone": 17,
+    "footBlobShadowSize": 3.0,
+    "footBlobShadowFadeDistance": {
+      "x": 0.5,
+      "y": 1.5
+    },
+    "footBlobShadowFadeMultiplier": 1.5,
+    "id": 19,
+    "name": "Special Brute",
+    "category": ""
+  },
+  {
+    "zombieType": 20,
+    "allowedSkins": [
+      8
+    ],
+    "minZombieSizeMultiplier": 1.38,
+    "maxZombieSizeMultiplier": 1.38,
+    "walkingLocomotion": {
+      "rangeStart": 1.656,
+      "rangeEnd": 1.656
+    },
+    "runningLocomotion": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": 1.656,
+          "rangeEnd": 1.656
+        },
+        {
+          "rangeStart": 1.656,
+          "rangeEnd": 1.656
+        },
+        {
+          "rangeStart": 1.656,
+          "rangeEnd": 1.656
+        },
+        {
+          "rangeStart": 1.656,
+          "rangeEnd": 1.656
+        },
+        {
+          "rangeStart": 0.0,
+          "rangeEnd": 0.0
+        }
+      ]
+    },
+    "shouldRecalculateLocomotionSpeed": false,
+    "timeToRecalculateLocomotionSpeed": {
+      "rangeStart": 1.0,
+      "rangeEnd": 2.0
+    },
+    "pathDivergenceAngleRange": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        }
+      ]
+    },
+    "canProne": false,
+    "proneLocomotion": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 4,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare"
+      ],
+      "values": [
+        {
+          "rangeStart": 0.0,
+          "rangeEnd": 0.0
+        },
+        {
+          "rangeStart": 0.0,
+          "rangeEnd": 0.0
+        },
+        {
+          "rangeStart": 0.0,
+          "rangeEnd": 0.0
+        },
+        {
+          "rangeStart": 0.0,
+          "rangeEnd": 0.0
+        }
+      ]
+    },
+    "animationSet": 7,
+    "supportsCeilingLayer": false,
+    "canCrawl": false,
+    "alwaysCrawlOnCeiling": true,
+    "crawlChance": 0.0,
+    "harvestAmountOnDeath": 0,
+    "accumulateHarvestTillKill": false,
+    "blobShadowSize": 2.5,
+    "crawlingShadowBlobLength": 3.5,
+    "crawlingShadowBlobWidth": 2.5,
+    "fadeMultiplier": 1.25,
+    "blobShadowOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "leftFootBlobShadowBone": 14,
+    "rightFootBlobShadowBone": 17,
+    "footBlobShadowSize": 1.5,
+    "footBlobShadowFadeDistance": {
+      "x": 0.3,
+      "y": 0.6
+    },
+    "footBlobShadowFadeMultiplier": 2.0,
+    "id": 20,
+    "name": "Invulnerable Jock",
+    "category": ""
+  },
+  {
+    "zombieType": 21,
+    "allowedSkins": [
+      18
+    ],
+    "minZombieSizeMultiplier": 1.0,
+    "maxZombieSizeMultiplier": 1.0,
+    "walkingLocomotion": {
+      "rangeStart": 1.7,
+      "rangeEnd": 1.7
+    },
+    "runningLocomotion": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": 1.7,
+          "rangeEnd": 2.3
+        },
+        {
+          "rangeStart": 2.0,
+          "rangeEnd": 2.6
+        },
+        {
+          "rangeStart": 2.3,
+          "rangeEnd": 2.9
+        },
+        {
+          "rangeStart": 2.6,
+          "rangeEnd": 3.2
+        },
+        {
+          "rangeStart": 0.0,
+          "rangeEnd": 0.0
+        }
+      ]
+    },
+    "shouldRecalculateLocomotionSpeed": true,
+    "timeToRecalculateLocomotionSpeed": {
+      "rangeStart": 1.0,
+      "rangeEnd": 2.0
+    },
+    "pathDivergenceAngleRange": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        }
+      ]
+    },
+    "canProne": false,
+    "proneLocomotion": {
+      "rowType": null,
+      "colType": null,
+      "rowCount": 0,
+      "colCount": 0,
+      "rowLabels": [],
+      "colLabels": [],
+      "values": []
+    },
+    "animationSet": 6,
+    "supportsCeilingLayer": false,
+    "canCrawl": false,
+    "alwaysCrawlOnCeiling": true,
+    "crawlChance": 0.0,
+    "harvestAmountOnDeath": 25,
+    "accumulateHarvestTillKill": true,
+    "blobShadowSize": 2.5,
+    "crawlingShadowBlobLength": 3.0,
+    "crawlingShadowBlobWidth": 2.5,
+    "fadeMultiplier": 1.25,
+    "blobShadowOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "leftFootBlobShadowBone": 14,
+    "rightFootBlobShadowBone": 17,
+    "footBlobShadowSize": 1.5,
+    "footBlobShadowFadeDistance": {
+      "x": 0.3,
+      "y": 0.5
+    },
+    "footBlobShadowFadeMultiplier": 2.0,
+    "id": 21,
+    "name": "CaptureMode Special Eater",
+    "category": ""
+  },
+  {
+    "zombieType": 22,
+    "allowedSkins": [
+      8
+    ],
+    "minZombieSizeMultiplier": 1.38,
+    "maxZombieSizeMultiplier": 1.38,
+    "walkingLocomotion": {
+      "rangeStart": 1.656,
+      "rangeEnd": 1.656
+    },
+    "runningLocomotion": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": 1.656,
+          "rangeEnd": 1.656
+        },
+        {
+          "rangeStart": 1.656,
+          "rangeEnd": 1.656
+        },
+        {
+          "rangeStart": 1.656,
+          "rangeEnd": 1.656
+        },
+        {
+          "rangeStart": 1.656,
+          "rangeEnd": 1.656
+        },
+        {
+          "rangeStart": 0.0,
+          "rangeEnd": 0.0
+        }
+      ]
+    },
+    "shouldRecalculateLocomotionSpeed": false,
+    "timeToRecalculateLocomotionSpeed": {
+      "rangeStart": 1.0,
+      "rangeEnd": 2.0
+    },
+    "pathDivergenceAngleRange": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        }
+      ]
+    },
+    "canProne": false,
+    "proneLocomotion": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 4,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare"
+      ],
+      "values": [
+        {
+          "rangeStart": 0.0,
+          "rangeEnd": 0.0
+        },
+        {
+          "rangeStart": 0.0,
+          "rangeEnd": 0.0
+        },
+        {
+          "rangeStart": 0.0,
+          "rangeEnd": 0.0
+        },
+        {
+          "rangeStart": 0.0,
+          "rangeEnd": 0.0
+        }
+      ]
+    },
+    "animationSet": 7,
+    "supportsCeilingLayer": false,
+    "canCrawl": false,
+    "alwaysCrawlOnCeiling": true,
+    "crawlChance": 0.0,
+    "harvestAmountOnDeath": 200,
+    "accumulateHarvestTillKill": false,
+    "blobShadowSize": 2.5,
+    "crawlingShadowBlobLength": 3.5,
+    "crawlingShadowBlobWidth": 2.5,
+    "fadeMultiplier": 1.25,
+    "blobShadowOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "leftFootBlobShadowBone": 14,
+    "rightFootBlobShadowBone": 17,
+    "footBlobShadowSize": 1.5,
+    "footBlobShadowFadeDistance": {
+      "x": 0.3,
+      "y": 0.6
+    },
+    "footBlobShadowFadeMultiplier": 2.0,
+    "id": 22,
+    "name": "CaptureMode Special Jock",
+    "category": ""
+  },
+  {
+    "zombieType": 23,
+    "allowedSkins": [
+      20
+    ],
+    "minZombieSizeMultiplier": 1.5,
+    "maxZombieSizeMultiplier": 1.5,
+    "walkingLocomotion": {
+      "rangeStart": 3.24,
+      "rangeEnd": 3.24
+    },
+    "runningLocomotion": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": 3.24,
+          "rangeEnd": 3.24
+        },
+        {
+          "rangeStart": 3.24,
+          "rangeEnd": 3.24
+        },
+        {
+          "rangeStart": 3.24,
+          "rangeEnd": 3.24
+        },
+        {
+          "rangeStart": 3.24,
+          "rangeEnd": 3.24
+        },
+        {
+          "rangeStart": 0.0,
+          "rangeEnd": 0.0
+        }
+      ]
+    },
+    "shouldRecalculateLocomotionSpeed": false,
+    "timeToRecalculateLocomotionSpeed": {
+      "rangeStart": 3.5,
+      "rangeEnd": 3.5
+    },
+    "pathDivergenceAngleRange": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        }
+      ]
+    },
+    "canProne": false,
+    "proneLocomotion": {
+      "rowType": null,
+      "colType": null,
+      "rowCount": 0,
+      "colCount": 0,
+      "rowLabels": [],
+      "colLabels": [],
+      "values": []
+    },
+    "animationSet": 5,
+    "supportsCeilingLayer": false,
+    "canCrawl": false,
+    "alwaysCrawlOnCeiling": true,
+    "crawlChance": 0.0,
+    "harvestAmountOnDeath": 300,
+    "accumulateHarvestTillKill": false,
+    "blobShadowSize": 5.0,
+    "crawlingShadowBlobLength": 8.0,
+    "crawlingShadowBlobWidth": 6.0,
+    "fadeMultiplier": 1.5,
+    "blobShadowOffset": {
+      "x": 0.0,
+      "y": 0.04,
+      "z": 0.0
+    },
+    "leftFootBlobShadowBone": 14,
+    "rightFootBlobShadowBone": 17,
+    "footBlobShadowSize": 3.0,
+    "footBlobShadowFadeDistance": {
+      "x": 0.5,
+      "y": 1.5
+    },
+    "footBlobShadowFadeMultiplier": 1.5,
+    "id": 23,
+    "name": "CaptureMode Special Smasher (ExposedSpots)",
+    "category": ""
+  },
+  {
+    "zombieType": 24,
+    "allowedSkins": [
+      23
+    ],
+    "minZombieSizeMultiplier": 1.0,
+    "maxZombieSizeMultiplier": 1.0,
+    "walkingLocomotion": {
+      "rangeStart": 4.25,
+      "rangeEnd": 4.25
+    },
+    "runningLocomotion": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": 4.0,
+          "rangeEnd": 4.5
+        },
+        {
+          "rangeStart": 4.25,
+          "rangeEnd": 4.75
+        },
+        {
+          "rangeStart": 4.5,
+          "rangeEnd": 5.0
+        },
+        {
+          "rangeStart": 4.75,
+          "rangeEnd": 5.25
+        },
+        {
+          "rangeStart": 0.0,
+          "rangeEnd": 0.0
+        }
+      ]
+    },
+    "shouldRecalculateLocomotionSpeed": false,
+    "timeToRecalculateLocomotionSpeed": {
+      "rangeStart": 3.0,
+      "rangeEnd": 5.0
+    },
+    "pathDivergenceAngleRange": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        }
+      ]
+    },
+    "canProne": false,
+    "proneLocomotion": {
+      "rowType": null,
+      "colType": null,
+      "rowCount": 0,
+      "colCount": 0,
+      "rowLabels": [],
+      "colLabels": [],
+      "values": []
+    },
+    "animationSet": 11,
+    "supportsCeilingLayer": false,
+    "canCrawl": false,
+    "alwaysCrawlOnCeiling": true,
+    "crawlChance": 0.0,
+    "harvestAmountOnDeath": 150,
+    "accumulateHarvestTillKill": false,
+    "blobShadowSize": 5.0,
+    "crawlingShadowBlobLength": 8.0,
+    "crawlingShadowBlobWidth": 6.0,
+    "fadeMultiplier": 1.5,
+    "blobShadowOffset": {
+      "x": 0.0,
+      "y": 0.04,
+      "z": 0.0
+    },
+    "leftFootBlobShadowBone": 14,
+    "rightFootBlobShadowBone": 17,
+    "footBlobShadowSize": 3.0,
+    "footBlobShadowFadeDistance": {
+      "x": 0.5,
+      "y": 1.5
+    },
+    "footBlobShadowFadeMultiplier": 1.5,
+    "id": 24,
+    "name": "CaptureMode Special Brute",
+    "category": ""
+  },
+  {
+    "zombieType": 25,
+    "allowedSkins": [
+      25
+    ],
+    "minZombieSizeMultiplier": 0.85,
+    "maxZombieSizeMultiplier": 0.9,
+    "walkingLocomotion": {
+      "rangeStart": 0.8,
+      "rangeEnd": 0.9
+    },
+    "runningLocomotion": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": 4.0,
+          "rangeEnd": 4.0
+        },
+        {
+          "rangeStart": 5.0,
+          "rangeEnd": 5.0
+        },
+        {
+          "rangeStart": 5.25,
+          "rangeEnd": 5.25
+        },
+        {
+          "rangeStart": 5.5,
+          "rangeEnd": 5.5
+        },
+        {
+          "rangeStart": 6.0,
+          "rangeEnd": 6.0
+        }
+      ]
+    },
+    "shouldRecalculateLocomotionSpeed": true,
+    "timeToRecalculateLocomotionSpeed": {
+      "rangeStart": 3.0,
+      "rangeEnd": 5.0
+    },
+    "pathDivergenceAngleRange": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        }
+      ]
+    },
+    "canProne": false,
+    "proneLocomotion": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 4,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare"
+      ],
+      "values": [
+        {
+          "rangeStart": 0.75,
+          "rangeEnd": 0.85
+        },
+        {
+          "rangeStart": 0.85,
+          "rangeEnd": 0.95
+        },
+        {
+          "rangeStart": 0.95,
+          "rangeEnd": 1.05
+        },
+        {
+          "rangeStart": 1.05,
+          "rangeEnd": 1.15
+        }
+      ]
+    },
+    "animationSet": 12,
+    "supportsCeilingLayer": true,
+    "canCrawl": true,
+    "alwaysCrawlOnCeiling": true,
+    "crawlChance": 0.0,
+    "harvestAmountOnDeath": 500,
+    "accumulateHarvestTillKill": false,
+    "blobShadowSize": 1.5,
+    "crawlingShadowBlobLength": 2.5,
+    "crawlingShadowBlobWidth": 1.5,
+    "fadeMultiplier": 1.0,
+    "blobShadowOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "leftFootBlobShadowBone": 14,
+    "rightFootBlobShadowBone": 17,
+    "footBlobShadowSize": 1.0,
+    "footBlobShadowFadeDistance": {
+      "x": 0.2,
+      "y": 0.4
+    },
+    "footBlobShadowFadeMultiplier": 2.0,
+    "id": 25,
+    "name": "Loot Goblin",
+    "category": ""
+  },
+  {
+    "zombieType": 26,
+    "allowedSkins": [
+      26
+    ],
+    "minZombieSizeMultiplier": 1.38,
+    "maxZombieSizeMultiplier": 1.38,
+    "walkingLocomotion": {
+      "rangeStart": 1.656,
+      "rangeEnd": 1.656
+    },
+    "runningLocomotion": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": 1.656,
+          "rangeEnd": 1.656
+        },
+        {
+          "rangeStart": 1.8,
+          "rangeEnd": 1.8
+        },
+        {
+          "rangeStart": 1.95,
+          "rangeEnd": 1.95
+        },
+        {
+          "rangeStart": 2.1,
+          "rangeEnd": 2.1
+        },
+        {
+          "rangeStart": 3.0,
+          "rangeEnd": 3.0
+        }
+      ]
+    },
+    "shouldRecalculateLocomotionSpeed": false,
+    "timeToRecalculateLocomotionSpeed": {
+      "rangeStart": 1.0,
+      "rangeEnd": 2.0
+    },
+    "pathDivergenceAngleRange": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        }
+      ]
+    },
+    "canProne": false,
+    "proneLocomotion": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 4,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare"
+      ],
+      "values": [
+        {
+          "rangeStart": 0.0,
+          "rangeEnd": 0.0
+        },
+        {
+          "rangeStart": 0.0,
+          "rangeEnd": 0.0
+        },
+        {
+          "rangeStart": 0.0,
+          "rangeEnd": 0.0
+        },
+        {
+          "rangeStart": 0.0,
+          "rangeEnd": 0.0
+        }
+      ]
+    },
+    "animationSet": 13,
+    "supportsCeilingLayer": false,
+    "canCrawl": false,
+    "alwaysCrawlOnCeiling": true,
+    "crawlChance": 0.0,
+    "harvestAmountOnDeath": 5,
+    "accumulateHarvestTillKill": true,
+    "blobShadowSize": 2.5,
+    "crawlingShadowBlobLength": 3.5,
+    "crawlingShadowBlobWidth": 2.5,
+    "fadeMultiplier": 1.25,
+    "blobShadowOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "leftFootBlobShadowBone": 14,
+    "rightFootBlobShadowBone": 17,
+    "footBlobShadowSize": 1.5,
+    "footBlobShadowFadeDistance": {
+      "x": 0.3,
+      "y": 0.6
+    },
+    "footBlobShadowFadeMultiplier": 2.0,
+    "id": 26,
+    "name": "Special Gunner",
+    "category": ""
+  },
+  {
+    "zombieType": 27,
+    "allowedSkins": [
+      27
+    ],
+    "minZombieSizeMultiplier": 1.38,
+    "maxZombieSizeMultiplier": 1.38,
+    "walkingLocomotion": {
+      "rangeStart": 1.656,
+      "rangeEnd": 1.656
+    },
+    "runningLocomotion": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": 2.1,
+          "rangeEnd": 2.1
+        },
+        {
+          "rangeStart": 2.3,
+          "rangeEnd": 2.3
+        },
+        {
+          "rangeStart": 2.5,
+          "rangeEnd": 2.5
+        },
+        {
+          "rangeStart": 2.7,
+          "rangeEnd": 2.7
+        },
+        {
+          "rangeStart": 3.0,
+          "rangeEnd": 3.0
+        }
+      ]
+    },
+    "shouldRecalculateLocomotionSpeed": false,
+    "timeToRecalculateLocomotionSpeed": {
+      "rangeStart": 1.0,
+      "rangeEnd": 2.0
+    },
+    "pathDivergenceAngleRange": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        }
+      ]
+    },
+    "canProne": false,
+    "proneLocomotion": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 4,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare"
+      ],
+      "values": [
+        {
+          "rangeStart": 0.0,
+          "rangeEnd": 0.0
+        },
+        {
+          "rangeStart": 0.0,
+          "rangeEnd": 0.0
+        },
+        {
+          "rangeStart": 0.0,
+          "rangeEnd": 0.0
+        },
+        {
+          "rangeStart": 0.0,
+          "rangeEnd": 0.0
+        }
+      ]
+    },
+    "animationSet": 14,
+    "supportsCeilingLayer": false,
+    "canCrawl": false,
+    "alwaysCrawlOnCeiling": true,
+    "crawlChance": 0.0,
+    "harvestAmountOnDeath": 5,
+    "accumulateHarvestTillKill": true,
+    "blobShadowSize": 2.5,
+    "crawlingShadowBlobLength": 3.5,
+    "crawlingShadowBlobWidth": 2.5,
+    "fadeMultiplier": 1.25,
+    "blobShadowOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "leftFootBlobShadowBone": 14,
+    "rightFootBlobShadowBone": 17,
+    "footBlobShadowSize": 1.5,
+    "footBlobShadowFadeDistance": {
+      "x": 0.3,
+      "y": 0.6
+    },
+    "footBlobShadowFadeMultiplier": 2.0,
+    "id": 27,
+    "name": "Special Charger",
+    "category": ""
+  },
+  {
+    "zombieType": 28,
+    "allowedSkins": [
+      22
+    ],
+    "minZombieSizeMultiplier": 1.075,
+    "maxZombieSizeMultiplier": 1.125,
+    "walkingLocomotion": {
+      "rangeStart": 0.8,
+      "rangeEnd": 0.9
+    },
+    "runningLocomotion": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": 4.0,
+          "rangeEnd": 4.4
+        },
+        {
+          "rangeStart": 4.4,
+          "rangeEnd": 4.8
+        },
+        {
+          "rangeStart": 4.8,
+          "rangeEnd": 5.2
+        },
+        {
+          "rangeStart": 5.0,
+          "rangeEnd": 5.4
+        },
+        {
+          "rangeStart": 5.2,
+          "rangeEnd": 5.4
+        },
+        {
+          "rangeStart": 4.0,
+          "rangeEnd": 4.4
+        },
+        {
+          "rangeStart": 4.4,
+          "rangeEnd": 4.8
+        },
+        {
+          "rangeStart": 4.8,
+          "rangeEnd": 5.2
+        },
+        {
+          "rangeStart": 5.0,
+          "rangeEnd": 5.4
+        },
+        {
+          "rangeStart": 5.2,
+          "rangeEnd": 5.4
+        }
+      ]
+    },
+    "shouldRecalculateLocomotionSpeed": true,
+    "timeToRecalculateLocomotionSpeed": {
+      "rangeStart": 3.0,
+      "rangeEnd": 5.0
+    },
+    "pathDivergenceAngleRange": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -15.0,
+          "rangeEnd": 15.0
+        },
+        {
+          "rangeStart": -20.0,
+          "rangeEnd": 20.0
+        },
+        {
+          "rangeStart": -25.0,
+          "rangeEnd": 25.0
+        },
+        {
+          "rangeStart": -30.0,
+          "rangeEnd": 30.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -15.0,
+          "rangeEnd": 15.0
+        },
+        {
+          "rangeStart": -20.0,
+          "rangeEnd": 20.0
+        },
+        {
+          "rangeStart": -25.0,
+          "rangeEnd": 25.0
+        },
+        {
+          "rangeStart": -30.0,
+          "rangeEnd": 30.0
+        }
+      ]
+    },
+    "canProne": true,
+    "proneLocomotion": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": 0.9,
+          "rangeEnd": 1.0
+        },
+        {
+          "rangeStart": 1.0,
+          "rangeEnd": 1.1
+        },
+        {
+          "rangeStart": 1.1,
+          "rangeEnd": 1.2
+        },
+        {
+          "rangeStart": 1.2,
+          "rangeEnd": 1.3
+        },
+        {
+          "rangeStart": 1.265,
+          "rangeEnd": 1.3
+        },
+        {
+          "rangeStart": 0.9,
+          "rangeEnd": 1.0
+        },
+        {
+          "rangeStart": 1.0,
+          "rangeEnd": 1.1
+        },
+        {
+          "rangeStart": 1.1,
+          "rangeEnd": 1.2
+        },
+        {
+          "rangeStart": 1.2,
+          "rangeEnd": 1.3
+        },
+        {
+          "rangeStart": 1.265,
+          "rangeEnd": 1.3
+        }
+      ]
+    },
+    "animationSet": 2,
+    "supportsCeilingLayer": true,
+    "canCrawl": true,
+    "alwaysCrawlOnCeiling": true,
+    "crawlChance": 0.0,
+    "harvestAmountOnDeath": 3,
+    "accumulateHarvestTillKill": true,
+    "blobShadowSize": 1.5,
+    "crawlingShadowBlobLength": 2.5,
+    "crawlingShadowBlobWidth": 1.5,
+    "fadeMultiplier": 1.0,
+    "blobShadowOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "leftFootBlobShadowBone": 14,
+    "rightFootBlobShadowBone": 17,
+    "footBlobShadowSize": 1.0,
+    "footBlobShadowFadeDistance": {
+      "x": 0.2,
+      "y": 0.4
+    },
+    "footBlobShadowFadeMultiplier": 2.0,
+    "id": 28,
+    "name": "Uncommon Popper",
+    "category": ""
+  },
+  {
+    "zombieType": 29,
+    "allowedSkins": [
+      20
+    ],
+    "minZombieSizeMultiplier": 1.125,
+    "maxZombieSizeMultiplier": 1.125,
+    "walkingLocomotion": {
+      "rangeStart": 3.24,
+      "rangeEnd": 3.24
+    },
+    "runningLocomotion": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": 4.0,
+          "rangeEnd": 4.0
+        },
+        {
+          "rangeStart": 4.75,
+          "rangeEnd": 4.75
+        },
+        {
+          "rangeStart": 5.5,
+          "rangeEnd": 5.5
+        },
+        {
+          "rangeStart": 6.25,
+          "rangeEnd": 6.25
+        },
+        {
+          "rangeStart": 7.0,
+          "rangeEnd": 7.0
+        },
+        {
+          "rangeStart": 3.5,
+          "rangeEnd": 3.5
+        },
+        {
+          "rangeStart": 4.0,
+          "rangeEnd": 4.0
+        },
+        {
+          "rangeStart": 4.5,
+          "rangeEnd": 4.5
+        },
+        {
+          "rangeStart": 5.0,
+          "rangeEnd": 5.0
+        },
+        {
+          "rangeStart": 6.0,
+          "rangeEnd": 6.0
+        }
+      ]
+    },
+    "shouldRecalculateLocomotionSpeed": false,
+    "timeToRecalculateLocomotionSpeed": {
+      "rangeStart": 3.5,
+      "rangeEnd": 3.5
+    },
+    "pathDivergenceAngleRange": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        },
+        {
+          "rangeStart": -10.0,
+          "rangeEnd": 10.0
+        }
+      ]
+    },
+    "canProne": false,
+    "proneLocomotion": {
+      "rowType": null,
+      "colType": null,
+      "rowCount": 0,
+      "colCount": 0,
+      "rowLabels": [],
+      "colLabels": [],
+      "values": []
+    },
+    "animationSet": 5,
+    "supportsCeilingLayer": false,
+    "canCrawl": false,
+    "alwaysCrawlOnCeiling": true,
+    "crawlChance": 0.0,
+    "harvestAmountOnDeath": 25,
+    "accumulateHarvestTillKill": true,
+    "blobShadowSize": 5.0,
+    "crawlingShadowBlobLength": 8.0,
+    "crawlingShadowBlobWidth": 6.0,
+    "fadeMultiplier": 1.5,
+    "blobShadowOffset": {
+      "x": 0.0,
+      "y": 0.04,
+      "z": 0.0
+    },
+    "leftFootBlobShadowBone": 14,
+    "rightFootBlobShadowBone": 17,
+    "footBlobShadowSize": 3.0,
+    "footBlobShadowFadeDistance": {
+      "x": 0.5,
+      "y": 1.5
+    },
+    "footBlobShadowFadeMultiplier": 1.5,
+    "id": 29,
+    "name": "Mini Smasher",
+    "category": ""
+  }
+]
+}

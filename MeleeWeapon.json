@@ -1,0 +1,958 @@
+{
+  "TableId": 152,
+  "DefaultCellId": 1,
+  "Cells": [
+  {
+    "handPoseId": 10,
+    "handPoseId_Vive": 17,
+    "isPosedOnTrigger": false,
+    "isTwoHanded": true,
+    "secondaryHandPoseId": 80,
+    "hitAggroRadius": 10.0,
+    "hitMaterial": 9,
+    "swingAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "previewScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 0,
+    "id": 1,
+    "name": "BaseBall_Bat",
+    "category": "",
+    "canInsertInInventory": true,
+    "proximityRange": 2.0,
+    "meleeDamageModel": {
+      "damageRange": {
+        "rangeStart": 80.0,
+        "rangeEnd": 80.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 5.0,
+        "rangeEnd": 5.0
+      },
+      "criticalHitChance": 0.1,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 1,
+      "impactType": 6
+    },
+    "meleeSettings": 3,
+    "meleeAggroRadius": 10.0,
+    "meleePhysicsForceMultiplier": 1.0,
+    "displayName": "Bat",
+    "descriptionLocalizationKey": null,
+    "tooltipUniqueIcon": null,
+    "tooltipTitleDisplayName": null,
+    "tooltipSubtitleDisplayName": null,
+    "inventoryIcon": null,
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "BaseBall_Bat",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/MeleeWeapons/OneHand/BaseBall_Bat.prefab",
+      "assetGUID": "05a5091d22e7af34a9f8da93c0f9912d",
+      "resourcePath": "Weapons/MeleeWeapons/OneHand/BaseBall_Bat",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "BaseBall_Bat_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/MeleeWeapons/OneHand/Collisions/BaseBall_Bat_Collision.prefab",
+      "assetGUID": "b1bef4e62496e2f4f94c13bdf517887d",
+      "resourcePath": "Weapons/MeleeWeapons/OneHand/Collisions/BaseBall_Bat_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": null,
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": null,
+      "AssemblyQualifiedName": null
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 13,
+    "handPoseId_Vive": 13,
+    "isPosedOnTrigger": false,
+    "isTwoHanded": false,
+    "secondaryHandPoseId": 0,
+    "hitAggroRadius": 10.0,
+    "hitMaterial": 7,
+    "swingAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "previewScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 0,
+    "id": 2,
+    "name": "Knuckle",
+    "category": "",
+    "canInsertInInventory": true,
+    "proximityRange": 2.0,
+    "meleeDamageModel": {
+      "damageRange": {
+        "rangeStart": 70.0,
+        "rangeEnd": 70.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 5.0,
+        "rangeEnd": 5.0
+      },
+      "criticalHitChance": 0.1,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 1,
+      "impactType": 6
+    },
+    "meleeSettings": 1,
+    "meleeAggroRadius": 10.0,
+    "meleePhysicsForceMultiplier": 1.0,
+    "displayName": "Knuckle",
+    "descriptionLocalizationKey": null,
+    "tooltipUniqueIcon": null,
+    "tooltipTitleDisplayName": null,
+    "tooltipSubtitleDisplayName": null,
+    "inventoryIcon": null,
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Knuckle",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/MeleeWeapons/OneHand/Knuckle.prefab",
+      "assetGUID": "c7ed08848d423ca44afcdc8957ffb705",
+      "resourcePath": "Weapons/MeleeWeapons/OneHand/Knuckle",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "Knuckle_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/MeleeWeapons/OneHand/Collisions/Knuckle_Collision.prefab",
+      "assetGUID": "96f765f82352f5549a63e16b1e4671f1",
+      "resourcePath": "Weapons/MeleeWeapons/OneHand/Collisions/Knuckle_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": null,
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": null,
+      "AssemblyQualifiedName": null
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 10,
+    "handPoseId_Vive": 17,
+    "isPosedOnTrigger": false,
+    "isTwoHanded": false,
+    "secondaryHandPoseId": 0,
+    "hitAggroRadius": 10.0,
+    "hitMaterial": 9,
+    "swingAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "previewScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 0,
+    "id": 4,
+    "name": "BaseBall_Bat_Spikes",
+    "category": "",
+    "canInsertInInventory": true,
+    "proximityRange": 2.0,
+    "meleeDamageModel": {
+      "damageRange": {
+        "rangeStart": 80.0,
+        "rangeEnd": 80.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 5.0,
+        "rangeEnd": 5.0
+      },
+      "criticalHitChance": 0.1,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 1,
+      "impactType": 6
+    },
+    "meleeSettings": 3,
+    "meleeAggroRadius": 10.0,
+    "meleePhysicsForceMultiplier": 1.0,
+    "displayName": "Spiked Bat",
+    "descriptionLocalizationKey": null,
+    "tooltipUniqueIcon": null,
+    "tooltipTitleDisplayName": null,
+    "tooltipSubtitleDisplayName": null,
+    "inventoryIcon": null,
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "BaseBall_Bat",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/MeleeWeapons/OneHand/BaseBall_Bat.prefab",
+      "assetGUID": "05a5091d22e7af34a9f8da93c0f9912d",
+      "resourcePath": "Weapons/MeleeWeapons/OneHand/BaseBall_Bat",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "BaseBall_Bat_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/MeleeWeapons/OneHand/Collisions/BaseBall_Bat_Collision.prefab",
+      "assetGUID": "b1bef4e62496e2f4f94c13bdf517887d",
+      "resourcePath": "Weapons/MeleeWeapons/OneHand/Collisions/BaseBall_Bat_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": null,
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": null,
+      "AssemblyQualifiedName": null
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 10,
+    "handPoseId_Vive": 17,
+    "isPosedOnTrigger": false,
+    "isTwoHanded": false,
+    "secondaryHandPoseId": 0,
+    "hitAggroRadius": 10.0,
+    "hitMaterial": 9,
+    "swingAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "previewScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 0,
+    "id": 5,
+    "name": "BaseBall_Bat_Wired",
+    "category": "",
+    "canInsertInInventory": true,
+    "proximityRange": 2.0,
+    "meleeDamageModel": {
+      "damageRange": {
+        "rangeStart": 80.0,
+        "rangeEnd": 80.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 5.0,
+        "rangeEnd": 5.0
+      },
+      "criticalHitChance": 0.1,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 1,
+      "impactType": 6
+    },
+    "meleeSettings": 3,
+    "meleeAggroRadius": 10.0,
+    "meleePhysicsForceMultiplier": 1.0,
+    "displayName": "Wired Bat",
+    "descriptionLocalizationKey": null,
+    "tooltipUniqueIcon": null,
+    "tooltipTitleDisplayName": null,
+    "tooltipSubtitleDisplayName": null,
+    "inventoryIcon": null,
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "BaseBall_Bat",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/MeleeWeapons/OneHand/BaseBall_Bat.prefab",
+      "assetGUID": "05a5091d22e7af34a9f8da93c0f9912d",
+      "resourcePath": "Weapons/MeleeWeapons/OneHand/BaseBall_Bat",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "BaseBall_Bat_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/MeleeWeapons/OneHand/Collisions/BaseBall_Bat_Collision.prefab",
+      "assetGUID": "b1bef4e62496e2f4f94c13bdf517887d",
+      "resourcePath": "Weapons/MeleeWeapons/OneHand/Collisions/BaseBall_Bat_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 3,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": null,
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": null,
+      "AssemblyQualifiedName": null
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 10,
+    "handPoseId_Vive": 17,
+    "isPosedOnTrigger": false,
+    "isTwoHanded": false,
+    "secondaryHandPoseId": 0,
+    "hitAggroRadius": 10.0,
+    "hitMaterial": 9,
+    "swingAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "previewScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 0,
+    "id": 7,
+    "name": "BaseBall_Bat_Spikes Stun",
+    "category": "",
+    "canInsertInInventory": true,
+    "proximityRange": 2.0,
+    "meleeDamageModel": {
+      "damageRange": {
+        "rangeStart": 30.0,
+        "rangeEnd": 40.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 5.0,
+        "rangeEnd": 5.0
+      },
+      "criticalHitChance": 0.1,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 1,
+      "impactType": 10
+    },
+    "meleeSettings": 3,
+    "meleeAggroRadius": 10.0,
+    "meleePhysicsForceMultiplier": 1.0,
+    "displayName": "Spiked Stun Bat",
+    "descriptionLocalizationKey": null,
+    "tooltipUniqueIcon": null,
+    "tooltipTitleDisplayName": null,
+    "tooltipSubtitleDisplayName": null,
+    "inventoryIcon": null,
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "BaseBall_Bat",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/MeleeWeapons/OneHand/BaseBall_Bat.prefab",
+      "assetGUID": "05a5091d22e7af34a9f8da93c0f9912d",
+      "resourcePath": "Weapons/MeleeWeapons/OneHand/BaseBall_Bat",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "BaseBall_Bat_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/MeleeWeapons/OneHand/Collisions/BaseBall_Bat_Collision.prefab",
+      "assetGUID": "b1bef4e62496e2f4f94c13bdf517887d",
+      "resourcePath": "Weapons/MeleeWeapons/OneHand/Collisions/BaseBall_Bat_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": null,
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": null,
+      "AssemblyQualifiedName": null
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 10,
+    "handPoseId_Vive": 17,
+    "isPosedOnTrigger": false,
+    "isTwoHanded": false,
+    "secondaryHandPoseId": 0,
+    "hitAggroRadius": 10.0,
+    "hitMaterial": 9,
+    "swingAudio": {
+      "parameterSettings": [],
+      "eventPath": "event:/_OLD/Weapons/Melee/Attack_melee_swing",
+      "eventGuid": "fd947f6a-5c15-4199-8086-fcbe2754d019"
+    },
+    "previewScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "previewIcon": {
+      "assetName": "Icon_Melee_01",
+      "assetPath": "Assets/Art_Code/UI/WeaponWheel/VertigoResources/Icon_Melee_01.png",
+      "assetGUID": "4b557b552bf05cb4cb1e9d552e9cfcbb",
+      "resourcePath": "Icon_Melee_01",
+      "isSubAsset": false
+    },
+    "itemIconType": 0,
+    "id": 8,
+    "name": "PipeWrench_Old",
+    "category": "",
+    "canInsertInInventory": true,
+    "proximityRange": 2.0,
+    "meleeDamageModel": {
+      "damageRange": {
+        "rangeStart": 120.0,
+        "rangeEnd": 120.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 5.0,
+        "rangeEnd": 5.0
+      },
+      "criticalHitChance": 0.1,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 1,
+      "impactType": 2
+    },
+    "meleeSettings": 3,
+    "meleeAggroRadius": 10.0,
+    "meleePhysicsForceMultiplier": 1.0,
+    "displayName": "Basic Pipe Wrench",
+    "descriptionLocalizationKey": null,
+    "tooltipUniqueIcon": null,
+    "tooltipTitleDisplayName": null,
+    "tooltipSubtitleDisplayName": null,
+    "inventoryIcon": null,
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "PipeWrench_Basic",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/MeleeWeapons/OneHand/PipeWrench_Basic.prefab",
+      "assetGUID": "c73798696143ee944bc3d89f7d991ca2",
+      "resourcePath": "Weapons/MeleeWeapons/OneHand/PipeWrench_Basic",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "PipeWrench_Basic_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/MeleeWeapons/OneHand/Collisions/PipeWrench_Basic_Collision.prefab",
+      "assetGUID": "ccb35725fc0421a4e86160e3cd1e308c",
+      "resourcePath": "Weapons/MeleeWeapons/OneHand/Collisions/PipeWrench_Basic_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": null,
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": null,
+      "AssemblyQualifiedName": null
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 10,
+    "handPoseId_Vive": 17,
+    "isPosedOnTrigger": false,
+    "isTwoHanded": false,
+    "secondaryHandPoseId": 0,
+    "hitAggroRadius": 10.0,
+    "hitMaterial": 7,
+    "swingAudio": {
+      "parameterSettings": [],
+      "eventPath": "event:/_OLD/Weapons/Melee/Attack_melee_swing",
+      "eventGuid": "fd947f6a-5c15-4199-8086-fcbe2754d019"
+    },
+    "previewScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "previewIcon": {
+      "assetName": "Icon_Melee_01",
+      "assetPath": "Assets/Art_Code/UI/WeaponWheel/VertigoResources/Icon_Melee_01.png",
+      "assetGUID": "4b557b552bf05cb4cb1e9d552e9cfcbb",
+      "resourcePath": "Icon_Melee_01",
+      "isSubAsset": false
+    },
+    "itemIconType": 0,
+    "id": 9,
+    "name": "PipeWrench_MidTier",
+    "category": "",
+    "canInsertInInventory": true,
+    "proximityRange": 2.0,
+    "meleeDamageModel": {
+      "damageRange": {
+        "rangeStart": 125.0,
+        "rangeEnd": 125.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 5.0,
+        "rangeEnd": 5.0
+      },
+      "criticalHitChance": 0.0,
+      "criticalHitDamageMulitplier": 1.0,
+      "mutilationType": 1,
+      "impactType": 2
+    },
+    "meleeSettings": 3,
+    "meleeAggroRadius": 10.0,
+    "meleePhysicsForceMultiplier": 1.0,
+    "displayName": "Basic Pipe Wrench",
+    "descriptionLocalizationKey": null,
+    "tooltipUniqueIcon": null,
+    "tooltipTitleDisplayName": null,
+    "tooltipSubtitleDisplayName": null,
+    "inventoryIcon": null,
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "PipeWrench_Basic",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/MeleeWeapons/OneHand/PipeWrench_Basic.prefab",
+      "assetGUID": "c73798696143ee944bc3d89f7d991ca2",
+      "resourcePath": "Weapons/MeleeWeapons/OneHand/PipeWrench_Basic",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "PipeWrench_Basic_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/MeleeWeapons/OneHand/Collisions/PipeWrench_Basic_Collision.prefab",
+      "assetGUID": "ccb35725fc0421a4e86160e3cd1e308c",
+      "resourcePath": "Weapons/MeleeWeapons/OneHand/Collisions/PipeWrench_Basic_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": null,
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": null,
+      "AssemblyQualifiedName": null
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPoseId": 10,
+    "handPoseId_Vive": 17,
+    "isPosedOnTrigger": false,
+    "isTwoHanded": false,
+    "secondaryHandPoseId": 0,
+    "hitAggroRadius": 10.0,
+    "hitMaterial": 7,
+    "swingAudio": {
+      "parameterSettings": [],
+      "eventPath": "event:/_OLD/Weapons/Melee/Attack_melee_swing",
+      "eventGuid": "fd947f6a-5c15-4199-8086-fcbe2754d019"
+    },
+    "previewScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "previewIcon": {
+      "assetName": "Icon_Melee_01",
+      "assetPath": "Assets/Art_Code/UI/WeaponWheel/VertigoResources/Icon_Melee_01.png",
+      "assetGUID": "4b557b552bf05cb4cb1e9d552e9cfcbb",
+      "resourcePath": "Icon_Melee_01",
+      "isSubAsset": false
+    },
+    "itemIconType": 0,
+    "id": 10,
+    "name": "BaseBall_Bat_TwoHanded_MidTier",
+    "category": "",
+    "canInsertInInventory": true,
+    "proximityRange": 2.0,
+    "meleeDamageModel": {
+      "damageRange": {
+        "rangeStart": 200.0,
+        "rangeEnd": 200.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 5.0,
+        "rangeEnd": 5.0
+      },
+      "criticalHitChance": 0.0,
+      "criticalHitDamageMulitplier": 1.0,
+      "mutilationType": 1,
+      "impactType": 2
+    },
+    "meleeSettings": 3,
+    "meleeAggroRadius": 10.0,
+    "meleePhysicsForceMultiplier": 1.0,
+    "displayName": "Basic Pipe Wrench",
+    "descriptionLocalizationKey": null,
+    "tooltipUniqueIcon": null,
+    "tooltipTitleDisplayName": null,
+    "tooltipSubtitleDisplayName": null,
+    "inventoryIcon": null,
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "BaseBall_Bat",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/MeleeWeapons/OneHand/BaseBall_Bat.prefab",
+      "assetGUID": "05a5091d22e7af34a9f8da93c0f9912d",
+      "resourcePath": "Weapons/MeleeWeapons/OneHand/BaseBall_Bat",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "BaseBall_Bat_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/MeleeWeapons/OneHand/Collisions/BaseBall_Bat_Collision.prefab",
+      "assetGUID": "b1bef4e62496e2f4f94c13bdf517887d",
+      "resourcePath": "Weapons/MeleeWeapons/OneHand/Collisions/BaseBall_Bat_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": null,
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": null,
+      "AssemblyQualifiedName": null
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  }
+]
+}

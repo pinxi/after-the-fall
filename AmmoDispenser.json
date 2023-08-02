@@ -1,0 +1,291 @@
+{
+  "TableId": 90,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "cantCollectText": "Ammo full",
+    "audioAmmoFull": {
+      "eventPath": "event:/ATF_PC/Weapons/Pistol 01/Weapon_pistol_clip_full",
+      "eventGuid": "bef497bb-a1e1-4e4e-96bb-728693e28015",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 0,
+    "id": 0,
+    "name": "Ammo Crate Standard",
+    "category": "",
+    "junkItemType": 0,
+    "displayName": "Ammo Crate Standard",
+    "descriptionLocalizationKey": null,
+    "tooltipUniqueIcon": null,
+    "tooltipTitleDisplayName": null,
+    "tooltipSubtitleDisplayName": null,
+    "inventoryIcon": null,
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Ammocrate_Open_01_Prefab 2",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/StaticInteractables/VertigoResources/AmmoStashes/Ammocrate_Open_01_Prefab 2.prefab",
+      "assetGUID": "687b325c940ec014da705d9dc3ed6b20",
+      "resourcePath": "AmmoStashes/Ammocrate_Open_01_Prefab 2",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": null,
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": null,
+      "AssemblyQualifiedName": null
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "cantCollectText": "Ammo full",
+    "audioAmmoFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 0,
+    "id": 1,
+    "name": "Ammo Crate Plus",
+    "category": "",
+    "junkItemType": 0,
+    "displayName": "Ammo Crate Plus",
+    "descriptionLocalizationKey": null,
+    "tooltipUniqueIcon": null,
+    "tooltipTitleDisplayName": null,
+    "tooltipSubtitleDisplayName": null,
+    "inventoryIcon": null,
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Pistol_AmmoStash",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/StaticInteractables/VertigoResources/AmmoStashes/Pistol_AmmoStash.prefab",
+      "assetGUID": "82f0742653bf1e1448b95068bec4cc22",
+      "resourcePath": "AmmoStashes/Pistol_AmmoStash",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": null,
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": null,
+      "AssemblyQualifiedName": null
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "cantCollectText": "Ammo full",
+    "audioAmmoFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 0,
+    "id": 2,
+    "name": "Ammo Crate Code",
+    "category": "",
+    "junkItemType": 0,
+    "displayName": "Ammo Crate Code",
+    "descriptionLocalizationKey": null,
+    "tooltipUniqueIcon": null,
+    "tooltipTitleDisplayName": null,
+    "tooltipSubtitleDisplayName": null,
+    "inventoryIcon": null,
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Pistol_AmmoStash",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/StaticInteractables/VertigoResources/AmmoStashes/Pistol_AmmoStash.prefab",
+      "assetGUID": "82f0742653bf1e1448b95068bec4cc22",
+      "resourcePath": "AmmoStashes/Pistol_AmmoStash",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": null,
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": null,
+      "AssemblyQualifiedName": null
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  }
+]
+}

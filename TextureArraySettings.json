@@ -1,0 +1,456 @@
+{
+  "TableId": 177,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "textureName": "_Albedo",
+    "pcTextureSettings": {
+      "format": 12,
+      "size": 2048,
+      "isLinear": false,
+      "filterMode": 1,
+      "anisoLevel": 1,
+      "defaultColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "ps4TextureSettings": {
+      "format": 12,
+      "size": 1024,
+      "isLinear": false,
+      "filterMode": 1,
+      "anisoLevel": 1,
+      "defaultColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "mobileTextureSettings": {
+      "format": 51,
+      "size": 2048,
+      "isLinear": false,
+      "filterMode": 1,
+      "anisoLevel": 1,
+      "defaultColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "id": 0,
+    "name": "Common_Albedo",
+    "category": ""
+  },
+  {
+    "textureName": "_ONNR",
+    "pcTextureSettings": {
+      "format": 12,
+      "size": 512,
+      "isLinear": true,
+      "filterMode": 1,
+      "anisoLevel": 1,
+      "defaultColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "ps4TextureSettings": {
+      "format": 12,
+      "size": 512,
+      "isLinear": true,
+      "filterMode": 1,
+      "anisoLevel": 1,
+      "defaultColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "mobileTextureSettings": {
+      "format": 51,
+      "size": 512,
+      "isLinear": true,
+      "filterMode": 1,
+      "anisoLevel": 1,
+      "defaultColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "id": 1,
+    "name": "Common_ONNR",
+    "category": ""
+  },
+  {
+    "textureName": "_FrostMask",
+    "pcTextureSettings": {
+      "format": 12,
+      "size": 256,
+      "isLinear": true,
+      "filterMode": 1,
+      "anisoLevel": 1,
+      "defaultColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "ps4TextureSettings": {
+      "format": 12,
+      "size": 256,
+      "isLinear": true,
+      "filterMode": 1,
+      "anisoLevel": 1,
+      "defaultColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "mobileTextureSettings": {
+      "format": 51,
+      "size": 256,
+      "isLinear": true,
+      "filterMode": 1,
+      "anisoLevel": 1,
+      "defaultColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "id": 2,
+    "name": "Common_FrostMask",
+    "category": ""
+  },
+  {
+    "textureName": "_IceMask",
+    "pcTextureSettings": {
+      "format": 12,
+      "size": 256,
+      "isLinear": true,
+      "filterMode": 1,
+      "anisoLevel": 1,
+      "defaultColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "ps4TextureSettings": {
+      "format": 12,
+      "size": 256,
+      "isLinear": true,
+      "filterMode": 1,
+      "anisoLevel": 1,
+      "defaultColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "mobileTextureSettings": {
+      "format": 51,
+      "size": 256,
+      "isLinear": true,
+      "filterMode": 1,
+      "anisoLevel": 1,
+      "defaultColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "id": 3,
+    "name": "Common_IceMask",
+    "category": ""
+  },
+  {
+    "textureName": "_Albedo",
+    "pcTextureSettings": {
+      "format": 12,
+      "size": 2048,
+      "isLinear": false,
+      "filterMode": 1,
+      "anisoLevel": 1,
+      "defaultColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "ps4TextureSettings": {
+      "format": 12,
+      "size": 2048,
+      "isLinear": false,
+      "filterMode": 1,
+      "anisoLevel": 1,
+      "defaultColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "mobileTextureSettings": {
+      "format": 48,
+      "size": 2048,
+      "isLinear": false,
+      "filterMode": 2,
+      "anisoLevel": 2,
+      "defaultColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "id": 4,
+    "name": "Special_Albedo",
+    "category": ""
+  },
+  {
+    "textureName": "_ONNR",
+    "pcTextureSettings": {
+      "format": 12,
+      "size": 2048,
+      "isLinear": true,
+      "filterMode": 1,
+      "anisoLevel": 1,
+      "defaultColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "ps4TextureSettings": {
+      "format": 12,
+      "size": 2048,
+      "isLinear": true,
+      "filterMode": 1,
+      "anisoLevel": 1,
+      "defaultColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "mobileTextureSettings": {
+      "format": 48,
+      "size": 2048,
+      "isLinear": true,
+      "filterMode": 2,
+      "anisoLevel": 2,
+      "defaultColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "id": 5,
+    "name": "Special_ONNR",
+    "category": ""
+  },
+  {
+    "textureName": "_FrostMask",
+    "pcTextureSettings": {
+      "format": 12,
+      "size": 256,
+      "isLinear": true,
+      "filterMode": 1,
+      "anisoLevel": 1,
+      "defaultColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "ps4TextureSettings": {
+      "format": 12,
+      "size": 256,
+      "isLinear": true,
+      "filterMode": 1,
+      "anisoLevel": 1,
+      "defaultColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "mobileTextureSettings": {
+      "format": 51,
+      "size": 256,
+      "isLinear": true,
+      "filterMode": 1,
+      "anisoLevel": 1,
+      "defaultColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "id": 6,
+    "name": "Special_FrostMask",
+    "category": ""
+  },
+  {
+    "textureName": "_IceMask",
+    "pcTextureSettings": {
+      "format": 12,
+      "size": 256,
+      "isLinear": true,
+      "filterMode": 1,
+      "anisoLevel": 1,
+      "defaultColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "ps4TextureSettings": {
+      "format": 12,
+      "size": 256,
+      "isLinear": true,
+      "filterMode": 1,
+      "anisoLevel": 1,
+      "defaultColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "mobileTextureSettings": {
+      "format": 51,
+      "size": 256,
+      "isLinear": true,
+      "filterMode": 1,
+      "anisoLevel": 1,
+      "defaultColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "id": 7,
+    "name": "Special_IceMask",
+    "category": ""
+  },
+  {
+    "textureName": "_Albedo",
+    "pcTextureSettings": {
+      "format": 12,
+      "size": 4096,
+      "isLinear": false,
+      "filterMode": 2,
+      "anisoLevel": 3,
+      "defaultColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "ps4TextureSettings": {
+      "format": 12,
+      "size": 4096,
+      "isLinear": false,
+      "filterMode": 2,
+      "anisoLevel": 2,
+      "defaultColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "mobileTextureSettings": {
+      "format": 48,
+      "size": 2048,
+      "isLinear": false,
+      "filterMode": 2,
+      "anisoLevel": 2,
+      "defaultColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "id": 8,
+    "name": "Jock_Albedo",
+    "category": ""
+  },
+  {
+    "textureName": "_ONNR",
+    "pcTextureSettings": {
+      "format": 12,
+      "size": 4096,
+      "isLinear": true,
+      "filterMode": 2,
+      "anisoLevel": 3,
+      "defaultColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "ps4TextureSettings": {
+      "format": 12,
+      "size": 2048,
+      "isLinear": true,
+      "filterMode": 2,
+      "anisoLevel": 2,
+      "defaultColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "mobileTextureSettings": {
+      "format": 48,
+      "size": 2048,
+      "isLinear": true,
+      "filterMode": 2,
+      "anisoLevel": 2,
+      "defaultColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "id": 9,
+    "name": "Jock_ONNR",
+    "category": ""
+  }
+]
+}

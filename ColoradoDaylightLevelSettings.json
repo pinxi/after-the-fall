@@ -1,0 +1,146 @@
+{
+  "TableId": 99,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "zombiesSpawnedToReachLevel": 0,
+    "secondsPerSpawn": 2.0,
+    "zombieSpawns": [
+      {
+        "zombieId": 0,
+        "chance": 1.0
+      }
+    ],
+    "pickups": [
+      0,
+      1
+    ],
+    "id": 0,
+    "name": "0",
+    "category": ""
+  },
+  {
+    "zombiesSpawnedToReachLevel": 10,
+    "secondsPerSpawn": 1.0,
+    "zombieSpawns": [
+      {
+        "zombieId": 0,
+        "chance": 0.9
+      },
+      {
+        "zombieId": 1,
+        "chance": 0.1
+      }
+    ],
+    "pickups": [
+      0,
+      1
+    ],
+    "id": 1,
+    "name": "1",
+    "category": ""
+  },
+  {
+    "zombiesSpawnedToReachLevel": 25,
+    "secondsPerSpawn": 0.84,
+    "zombieSpawns": [
+      {
+        "zombieId": 0,
+        "chance": 0.9
+      },
+      {
+        "zombieId": 1,
+        "chance": 0.1
+      }
+    ],
+    "pickups": [
+      0,
+      1
+    ],
+    "id": 2,
+    "name": "2",
+    "category": ""
+  },
+  {
+    "zombiesSpawnedToReachLevel": 50,
+    "secondsPerSpawn": 0.66,
+    "zombieSpawns": [
+      {
+        "zombieId": 0,
+        "chance": 0.845
+      },
+      {
+        "zombieId": 1,
+        "chance": 0.0939
+      },
+      {
+        "zombieId": 2,
+        "chance": 0.061
+      }
+    ],
+    "pickups": [
+      0,
+      1,
+      2
+    ],
+    "id": 3,
+    "name": "3",
+    "category": ""
+  },
+  {
+    "zombiesSpawnedToReachLevel": 100,
+    "secondsPerSpawn": 0.5,
+    "zombieSpawns": [
+      {
+        "zombieId": 0,
+        "chance": 0.845
+      },
+      {
+        "zombieId": 1,
+        "chance": 0.0939
+      },
+      {
+        "zombieId": 2,
+        "chance": 0.061
+      }
+    ],
+    "pickups": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "id": 4,
+    "name": "4",
+    "category": ""
+  },
+  {
+    "zombiesSpawnedToReachLevel": 200,
+    "secondsPerSpawn": 0.4,
+    "zombieSpawns": [
+      {
+        "zombieId": 0,
+        "chance": 0.845
+      },
+      {
+        "zombieId": 1,
+        "chance": 0.0939
+      },
+      {
+        "zombieId": 2,
+        "chance": 0.061
+      }
+    ],
+    "pickups": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "id": 5,
+    "name": "5",
+    "category": ""
+  }
+]
+}

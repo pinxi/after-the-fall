@@ -1,0 +1,347 @@
+{
+  "TableId": 87,
+  "DefaultCellId": 3,
+  "Cells": [
+  {
+    "spawnProfiles": [
+      {
+        "Profile": 3,
+        "Weight": 1.0
+      },
+      {
+        "Profile": 23,
+        "Weight": 1.0
+      }
+    ],
+    "id": 0,
+    "name": "Default",
+    "category": ""
+  },
+  {
+    "spawnProfiles": [
+      {
+        "Profile": 3,
+        "Weight": 0.35
+      },
+      {
+        "Profile": 23,
+        "Weight": 0.45
+      },
+      {
+        "Profile": 36,
+        "Weight": 0.05
+      },
+      {
+        "Profile": 31,
+        "Weight": 0.15
+      }
+    ],
+    "id": 3,
+    "name": "Small Wave",
+    "category": ""
+  },
+  {
+    "spawnProfiles": [
+      {
+        "Profile": 4,
+        "Weight": 0.25
+      },
+      {
+        "Profile": 26,
+        "Weight": 0.25
+      },
+      {
+        "Profile": 16,
+        "Weight": 0.16
+      },
+      {
+        "Profile": 40,
+        "Weight": 0.16
+      },
+      {
+        "Profile": 37,
+        "Weight": 0.16
+      }
+    ],
+    "id": 4,
+    "name": "Very Large Wave",
+    "category": ""
+  },
+  {
+    "spawnProfiles": [
+      {
+        "Profile": 6,
+        "Weight": 0.3
+      },
+      {
+        "Profile": 19,
+        "Weight": 0.3
+      },
+      {
+        "Profile": 34,
+        "Weight": 0.1
+      },
+      {
+        "Profile": 39,
+        "Weight": 0.3
+      }
+    ],
+    "id": 6,
+    "name": "Large Wave",
+    "category": ""
+  },
+  {
+    "spawnProfiles": [
+      {
+        "Profile": 17,
+        "Weight": 0.35
+      },
+      {
+        "Profile": 20,
+        "Weight": 0.45
+      },
+      {
+        "Profile": 35,
+        "Weight": 0.05
+      },
+      {
+        "Profile": 38,
+        "Weight": 0.15
+      }
+    ],
+    "id": 7,
+    "name": "Medium Wave",
+    "category": ""
+  },
+  {
+    "spawnProfiles": [
+      {
+        "Profile": 18,
+        "Weight": 1.0
+      },
+      {
+        "Profile": 24,
+        "Weight": 1.0
+      },
+      {
+        "Profile": 16,
+        "Weight": 1.0
+      },
+      {
+        "Profile": 25,
+        "Weight": 1.0
+      }
+    ],
+    "id": 8,
+    "name": "Test Wave",
+    "category": ""
+  },
+  {
+    "spawnProfiles": [
+      {
+        "Profile": 33,
+        "Weight": 0.25
+      },
+      {
+        "Profile": 6,
+        "Weight": 0.25
+      },
+      {
+        "Profile": 19,
+        "Weight": 0.5
+      },
+      {
+        "Profile": 41,
+        "Weight": 0.2
+      },
+      {
+        "Profile": 40,
+        "Weight": 0.175
+      },
+      {
+        "Profile": 34,
+        "Weight": 0.175
+      }
+    ],
+    "id": 9,
+    "name": "Large Wave (Smasher Chance)",
+    "category": ""
+  },
+  {
+    "spawnProfiles": [
+      {
+        "Profile": 17,
+        "Weight": 0.35
+      },
+      {
+        "Profile": 20,
+        "Weight": 0.45
+      },
+      {
+        "Profile": 35,
+        "Weight": 0.025
+      },
+      {
+        "Profile": 42,
+        "Weight": 0.025
+      },
+      {
+        "Profile": 38,
+        "Weight": 0.15
+      }
+    ],
+    "id": 10,
+    "name": "Medium Wave (Smasher Chance)",
+    "category": ""
+  },
+  {
+    "spawnProfiles": [
+      {
+        "Profile": 23,
+        "Weight": 0.35
+      },
+      {
+        "Profile": 30,
+        "Weight": 0.45
+      }
+    ],
+    "id": 11,
+    "name": "AmbushSpecialChance",
+    "category": ""
+  },
+  {
+    "spawnProfiles": [
+      {
+        "Profile": 56,
+        "Weight": 0.65
+      },
+      {
+        "Profile": 57,
+        "Weight": 0.35
+      }
+    ],
+    "id": 12,
+    "name": "Challenge - SustainCollection",
+    "category": ""
+  },
+  {
+    "spawnProfiles": [
+      {
+        "Profile": 31,
+        "Weight": 0.172
+      },
+      {
+        "Profile": 38,
+        "Weight": 0.65
+      }
+    ],
+    "id": 13,
+    "name": "Challenge - SlowOnlyCollection",
+    "category": ""
+  },
+  {
+    "spawnProfiles": [
+      {
+        "Profile": 48,
+        "Weight": 1.0
+      },
+      {
+        "Profile": 49,
+        "Weight": 1.0
+      }
+    ],
+    "id": 14,
+    "name": "Challenge - FinaleCollection",
+    "category": ""
+  },
+  {
+    "spawnProfiles": [
+      {
+        "Profile": 46,
+        "Weight": 0.3
+      },
+      {
+        "Profile": 58,
+        "Weight": 0.3
+      },
+      {
+        "Profile": 59,
+        "Weight": 0.3
+      },
+      {
+        "Profile": 60,
+        "Weight": 0.1
+      }
+    ],
+    "id": 15,
+    "name": "Sustain - Jock",
+    "category": ""
+  },
+  {
+    "spawnProfiles": [
+      {
+        "Profile": 47,
+        "Weight": 0.1
+      },
+      {
+        "Profile": 61,
+        "Weight": 0.1
+      },
+      {
+        "Profile": 62,
+        "Weight": 0.1
+      },
+      {
+        "Profile": 63,
+        "Weight": 0.1
+      },
+      {
+        "Profile": 64,
+        "Weight": 0.1
+      },
+      {
+        "Profile": 65,
+        "Weight": 0.1
+      },
+      {
+        "Profile": 66,
+        "Weight": 0.1
+      },
+      {
+        "Profile": 67,
+        "Weight": 0.1
+      },
+      {
+        "Profile": 68,
+        "Weight": 0.1
+      },
+      {
+        "Profile": 69,
+        "Weight": 0.1
+      }
+    ],
+    "id": 16,
+    "name": "Sustain - Eater",
+    "category": ""
+  },
+  {
+    "spawnProfiles": [
+      {
+        "Profile": 115,
+        "Weight": 0.0
+      },
+      {
+        "Profile": 111,
+        "Weight": 0.0
+      },
+      {
+        "Profile": 116,
+        "Weight": 1.0
+      }
+    ],
+    "id": 17,
+    "name": "Finale - Variation",
+    "category": ""
+  }
+]
+}

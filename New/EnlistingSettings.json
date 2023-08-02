@@ -1,0 +1,14 @@
+{
+  "TableId": 50049,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "intervalBetweenSearchQueriesInSeconds": 4.0,
+    "step1AttemptCount": 5,
+    "step2AttemptCount": 5,
+    "id": 0,
+    "name": "",
+    "category": ""
+  }
+]
+}

@@ -1,0 +1,214 @@
+{
+  "TableId": 64,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "movementSettings": {
+      "isLeftHanded": false
+    },
+    "teleportingSettings": {
+      "teleportMode": 0,
+      "fragmentedAgentSpeed": 2.5,
+      "fragmentedMinimumDistance": 2.0,
+      "fragmentedSegmentDistance": 2.0,
+      "arcMode": 1,
+      "arcDistanceMaximumInMeters": 4.0,
+      "maximumHeightFromOrigin": 3.0,
+      "arcDistanceStartInMeters": 4.0,
+      "arcDistanceIncreaseMetersPerSecond": 40.0,
+      "arcDistanceMultiplierOverTime": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.800025165,
+            "value": 0.821357369,
+            "inTangent": 2.30256319,
+            "outTangent": 2.30256319,
+            "inWeight": 0.102037206,
+            "outWeight": 0.333333343,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "pathDistanceMaximumInMeters": 12.0,
+      "Mode": 0,
+      "Cooldown": 0.0,
+      "FadeDurationInSeconds": 0.3,
+      "QuickMoveSpeedInMetersPerSeconds": 20.0,
+      "teleportStaminaCost": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inTangent": 0.0646035,
+            "outTangent": 0.0646035,
+            "inWeight": 0.0,
+            "outWeight": 0.08398284,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inTangent": 1.0,
+            "outTangent": 1.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "teleportAimingLeftAction": 9,
+      "teleportRotationLeftAction": 8,
+      "teleportAimingRightAction": 18,
+      "teleportRotationRightAction": 17
+    },
+    "constrainedMovementSettings": {
+      "FadeDurationInSeconds": 0.25,
+      "QuickMoveSpeedInMetersPerSeconds": 2.25
+    },
+    "dashingSettings": {
+      "Orientation": 2,
+      "Mode": 1,
+      "FadeDurationInSeconds": 0.15,
+      "QuickMoveSpeedInMetersPerSeconds": 20.0,
+      "DistanceInMeters": 0.5,
+      "StaminaCost": 0.0,
+      "dashForwardAction": 10,
+      "dashBackAction": 11,
+      "dashLeftAction": 13,
+      "dashRightAction": 12
+    },
+    "slidingSettings": {
+      "Orientation": 2,
+      "AllowStraving": true,
+      "SpeedFromDirectionStrategy": {
+        "CurrentIndex": 0,
+        "DisplayName": "BlendSpeedFromDirectionStrategy",
+        "AssemblyQualifiedName": "Vertigo.VRShooter.BlendSpeedFromDirectionStrategy, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+      },
+      "SpeedDirectionStrategy": {
+        "CurrentIndex": 0,
+        "DisplayName": "HeadForwardSpeedDirectionStrategy",
+        "AssemblyQualifiedName": "Vertigo.VRShooter.HeadForwardSpeedDirectionStrategy, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+      },
+      "SpeedForwardMeterPerSecond": 2.5,
+      "SpeedForwardSprintMeterPerSecond": 4.85,
+      "SpeedBackwardMeterPerSecond": 1.5,
+      "SpeedBackwardSprintMeterPerSecond": 2.0,
+      "SpeedStrafeMeterPerSecond": 2.0,
+      "SpeedStrafeSprintMeterPerSecond": 3.0,
+      "SpeedTeleportMeterPerSecond": 5.0,
+      "GunSprintMaxAngle": 60.0,
+      "AutoSprintEnabled": true,
+      "StartSprintDelay": 0.0,
+      "ThumbstickVelocityToStartSprinting": 0.8,
+      "slideAction": 6,
+      "sprintAction": 7,
+      "StartSprintHaptic": 15,
+      "DebugSpeedMultiplier": 1.0
+    },
+    "pvPSlidingSettings": {
+      "Orientation": 0,
+      "AllowStraving": true,
+      "SpeedFromDirectionStrategy": {
+        "CurrentIndex": 0,
+        "DisplayName": "BlendSpeedFromDirectionStrategy",
+        "AssemblyQualifiedName": "Vertigo.VRShooter.BlendSpeedFromDirectionStrategy, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+      },
+      "SpeedDirectionStrategy": {
+        "CurrentIndex": 0,
+        "DisplayName": "HeadForwardSpeedDirectionStrategy",
+        "AssemblyQualifiedName": "Vertigo.VRShooter.HeadForwardSpeedDirectionStrategy, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+      },
+      "SpeedForwardMeterPerSecond": 4.25,
+      "SpeedForwardSprintMeterPerSecond": 4.25,
+      "SpeedBackwardMeterPerSecond": 1.5,
+      "SpeedBackwardSprintMeterPerSecond": 1.8,
+      "SpeedStrafeMeterPerSecond": 2.25,
+      "SpeedStrafeSprintMeterPerSecond": 2.75,
+      "SpeedTeleportMeterPerSecond": 5.0,
+      "GunSprintMaxAngle": 60.0,
+      "AutoSprintEnabled": true,
+      "StartSprintDelay": 0.0,
+      "ThumbstickVelocityToStartSprinting": 0.8,
+      "slideAction": 6,
+      "sprintAction": 7,
+      "StartSprintHaptic": 0,
+      "DebugSpeedMultiplier": 1.0
+    },
+    "rotateSettings": {
+      "Mode": 0,
+      "FadeDurationInSeconds": 0.15,
+      "StepInEuler": 45.0,
+      "ContinuousEulerPerSecond": 180.0,
+      "rotateLeftAction": 14,
+      "rotateLeftContinuousStoppedAction": 49,
+      "rotateRightAction": 15,
+      "rotateRightContinuousStoppedAction": 50,
+      "rotateFlipAction": 16
+    },
+    "layersSettings": {
+      "NavMeshWalkableLayer": 1,
+      "NotWalkableInvisibleLayer": {
+        "value": 65536
+      },
+      "MovementRayCastLayer": {
+        "value": 33718273
+      },
+      "BlockedLayer": {
+        "value": 65536
+      }
+    },
+    "comfortSettings": {
+      "amountSmoothing": 5.0,
+      "slidingWalkingAmount": 0.8,
+      "slidingSprintingAmount": 1.0,
+      "continousRotationAmount": 1.0,
+      "vignetteColor": {
+        "color4": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0
+        }
+      },
+      "vignetteSharpness": 40.0,
+      "vignetteDarkness": {
+        "rangeStart": 15.0,
+        "rangeEnd": 70.0
+      }
+    },
+    "enemyTeleportToRadius": 1.0,
+    "enemyLocomotionRadius": 1.0,
+    "id": 0,
+    "name": "",
+    "category": ""
+  }
+]
+}

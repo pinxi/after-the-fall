@@ -1,0 +1,32 @@
+{
+  "TableId": 258,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "defaultFaceAnimation": {
+      "animationLength": 0.0,
+      "assetName": "Luna_Rest_Face",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Luna_Rest_Face.anim",
+      "assetGUID": "39766b71d91d8a54c9dc1c3ea61878e6",
+      "resourcePath": "Luna_Rest_Face",
+      "isSubAsset": false
+    },
+    "id": 0,
+    "name": "Luna animations",
+    "category": ""
+  },
+  {
+    "defaultFaceAnimation": {
+      "animationLength": 1.0,
+      "assetName": "Frank Default Face",
+      "assetPath": "Assets/Art/Animations/Characters/NPC/Luna(HubLeader)/VertigoResources/Frank Default Face.anim",
+      "assetGUID": "4143d407a141ca5429c183794c787429",
+      "resourcePath": "Frank Default Face",
+      "isSubAsset": false
+    },
+    "id": 1,
+    "name": "Frank animations",
+    "category": ""
+  }
+]
+}

@@ -1,0 +1,333 @@
+{
+  "TableId": 136,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "fireState": 6,
+    "contextType": 0,
+    "id": 0,
+    "name": "PrimaryUseLeft",
+    "category": ""
+  },
+  {
+    "fireState": 6,
+    "contextType": 0,
+    "id": 1,
+    "name": "PrimaryUseRight",
+    "category": ""
+  },
+  {
+    "fireState": 6,
+    "contextType": 0,
+    "id": 2,
+    "name": "SelectionWheelLeft",
+    "category": ""
+  },
+  {
+    "fireState": 6,
+    "contextType": 0,
+    "id": 3,
+    "name": "SelectionWheelRight",
+    "category": ""
+  },
+  {
+    "fireState": 6,
+    "contextType": 0,
+    "id": 4,
+    "name": "GrabLeft",
+    "category": ""
+  },
+  {
+    "fireState": 6,
+    "contextType": 0,
+    "id": 5,
+    "name": "GrabRight",
+    "category": ""
+  },
+  {
+    "fireState": 8,
+    "contextType": 2,
+    "id": 6,
+    "name": "Slide",
+    "category": ""
+  },
+  {
+    "fireState": 2,
+    "contextType": 0,
+    "id": 7,
+    "name": "Sprint",
+    "category": ""
+  },
+  {
+    "fireState": 8,
+    "contextType": 2,
+    "id": 8,
+    "name": "TeleportRotationLeft",
+    "category": ""
+  },
+  {
+    "fireState": 8,
+    "contextType": 0,
+    "id": 9,
+    "name": "TeleportAimingLeft",
+    "category": ""
+  },
+  {
+    "fireState": 2,
+    "contextType": 0,
+    "id": 10,
+    "name": "DashForward",
+    "category": ""
+  },
+  {
+    "fireState": 2,
+    "contextType": 0,
+    "id": 11,
+    "name": "DashBackwards",
+    "category": ""
+  },
+  {
+    "fireState": 2,
+    "contextType": 0,
+    "id": 12,
+    "name": "DashRight",
+    "category": ""
+  },
+  {
+    "fireState": 2,
+    "contextType": 0,
+    "id": 13,
+    "name": "DashLeft",
+    "category": ""
+  },
+  {
+    "fireState": 2,
+    "contextType": 0,
+    "id": 14,
+    "name": "RotateLeft",
+    "category": ""
+  },
+  {
+    "fireState": 2,
+    "contextType": 0,
+    "id": 15,
+    "name": "RotateRight",
+    "category": ""
+  },
+  {
+    "fireState": 2,
+    "contextType": 0,
+    "id": 16,
+    "name": "RotateFlip",
+    "category": ""
+  },
+  {
+    "fireState": 8,
+    "contextType": 2,
+    "id": 17,
+    "name": "TeleportRotationRight",
+    "category": ""
+  },
+  {
+    "fireState": 8,
+    "contextType": 0,
+    "id": 18,
+    "name": "TeleportAimingRight",
+    "category": ""
+  },
+  {
+    "fireState": 6,
+    "contextType": 0,
+    "id": 19,
+    "name": "ReloadLeft",
+    "category": ""
+  },
+  {
+    "fireState": 6,
+    "contextType": 0,
+    "id": 20,
+    "name": "ReloadRight",
+    "category": ""
+  },
+  {
+    "fireState": 6,
+    "contextType": 0,
+    "id": 21,
+    "name": "UiUseLeft",
+    "category": ""
+  },
+  {
+    "fireState": 6,
+    "contextType": 0,
+    "id": 22,
+    "name": "UiUseRight",
+    "category": ""
+  },
+  {
+    "fireState": 8,
+    "contextType": 0,
+    "id": 23,
+    "name": "VerticalMovementUp",
+    "category": ""
+  },
+  {
+    "fireState": 8,
+    "contextType": 0,
+    "id": 24,
+    "name": "VerticalMovementDown",
+    "category": ""
+  },
+  {
+    "fireState": 8,
+    "contextType": 2,
+    "id": 25,
+    "name": "MouseMovement",
+    "category": ""
+  },
+  {
+    "fireState": 2,
+    "contextType": 0,
+    "id": 26,
+    "name": "OpenCloseMenu",
+    "category": ""
+  },
+  {
+    "fireState": 6,
+    "contextType": 0,
+    "id": 27,
+    "name": "NoVRQuickInteract",
+    "category": ""
+  },
+  {
+    "fireState": -2,
+    "contextType": 0,
+    "id": 28,
+    "name": "NoVRStartHandTrackerMovement",
+    "category": ""
+  },
+  {
+    "fireState": 8,
+    "contextType": 0,
+    "id": 29,
+    "name": "NoVRHandTrackerChangeAxis",
+    "category": ""
+  },
+  {
+    "fireState": 8,
+    "contextType": 0,
+    "id": 30,
+    "name": "NoVRHandTrackerChangeRotation",
+    "category": ""
+  },
+  {
+    "fireState": 8,
+    "contextType": 0,
+    "id": 31,
+    "name": "NoVRSwitchHandTracker",
+    "category": ""
+  },
+  {
+    "fireState": 6,
+    "contextType": 0,
+    "id": 32,
+    "name": "NoVRReloadLeftRight",
+    "category": ""
+  },
+  {
+    "fireState": 6,
+    "contextType": 0,
+    "id": 33,
+    "name": "GrabBeltLeft",
+    "category": ""
+  },
+  {
+    "fireState": 6,
+    "contextType": 0,
+    "id": 34,
+    "name": "GrabBeltRight",
+    "category": ""
+  },
+  {
+    "fireState": 6,
+    "contextType": 0,
+    "id": 35,
+    "name": "ReleaseRight",
+    "category": ""
+  },
+  {
+    "fireState": 6,
+    "contextType": 0,
+    "id": 36,
+    "name": "ReleaseLeft",
+    "category": ""
+  },
+  {
+    "fireState": 6,
+    "contextType": 0,
+    "id": 45,
+    "name": "PlayStationCalibrate",
+    "category": ""
+  },
+  {
+    "fireState": 4,
+    "contextType": 0,
+    "id": 46,
+    "name": "OpenCloseMenuSteamVR",
+    "category": ""
+  },
+  {
+    "fireState": 6,
+    "contextType": 0,
+    "id": 47,
+    "name": "PlayStationSingleLeftTrigger",
+    "category": ""
+  },
+  {
+    "fireState": 6,
+    "contextType": 0,
+    "id": 48,
+    "name": "ThrowArc",
+    "category": ""
+  },
+  {
+    "fireState": 2,
+    "contextType": 0,
+    "id": 49,
+    "name": "ContinuousRotateLeftStopped",
+    "category": ""
+  },
+  {
+    "fireState": 2,
+    "contextType": 0,
+    "id": 50,
+    "name": "ContinuousRotateRightStopped",
+    "category": ""
+  },
+  {
+    "fireState": 6,
+    "contextType": 0,
+    "id": 51,
+    "name": "GrabAlternativeLeft",
+    "category": ""
+  },
+  {
+    "fireState": 6,
+    "contextType": 0,
+    "id": 52,
+    "name": "GrabAlternativeRight",
+    "category": ""
+  },
+	{
+		"fireState": 6,
+		"contextType": 0,
+		"id": 53,
+		"name": "PrimaryUseLeft_AdaptiveTrigger"
+	},
+	{
+		"fireState": 6,
+		"contextType": 0,
+		"id": 54,
+		"name": "PrimaryUseRight_AdaptiveTrigger"
+	}
+]
+}

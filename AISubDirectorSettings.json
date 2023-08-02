@@ -1,0 +1,1747 @@
+{
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "intensityToSpawnBudget": {
+      "curve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.2,
+            "inTangent": 0.8,
+            "outTangent": 0.8,
+            "inWeight": 0.0,
+            "outWeight": 0.333333343,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inTangent": 0.8,
+            "outTangent": 0.8,
+            "inWeight": 0.333333343,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      }
+    },
+    "spawnBudget": 100,
+    "spawnThreshold": 0.2,
+    "spawnSettings": [
+      {
+        "type": 7,
+        "cost": 300.0,
+        "cooldown": 5.0,
+        "maxCount": 3
+      },
+      {
+        "type": 6,
+        "cost": 1000.0,
+        "cooldown": 120.0,
+        "maxCount": 1
+      },
+      {
+        "type": 2,
+        "cost": 2.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      },
+      {
+        "type": 5,
+        "cost": 500.0,
+        "cooldown": 30.0,
+        "maxCount": 2
+      },
+      {
+        "type": 12,
+        "cost": 300.0,
+        "cooldown": 3.0,
+        "maxCount": 3
+      },
+      {
+        "type": 9,
+        "cost": 300.0,
+        "cooldown": 0.0,
+        "maxCount": 15
+      }
+    ],
+    "id": 0,
+    "name": "AITest",
+    "category": ""
+  },
+  {
+    "intensityToSpawnBudget": {
+      "curve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.333333343,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      }
+    },
+    "spawnBudget": 0,
+    "spawnThreshold": 0.2,
+    "spawnSettings": [],
+    "id": 2,
+    "name": "AIDisabled",
+    "category": ""
+  },
+  {
+    "intensityToSpawnBudget": {
+      "curve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      }
+    },
+    "spawnBudget": 0,
+    "spawnThreshold": 0.2,
+    "spawnSettings": [],
+    "id": 3,
+    "name": "AILobby",
+    "category": ""
+  },
+  {
+    "intensityToSpawnBudget": {
+      "curve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 1.0,
+            "outTangent": 1.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inTangent": 1.0,
+            "outTangent": 1.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      }
+    },
+    "spawnBudget": 100,
+    "spawnThreshold": 0.5,
+    "spawnSettings": [
+      {
+        "type": 7,
+        "cost": 20.0,
+        "cooldown": 0.0,
+        "maxCount": 2
+      },
+      {
+        "type": 6,
+        "cost": 100.0,
+        "cooldown": 0.0,
+        "maxCount": 1
+      },
+      {
+        "type": 2,
+        "cost": 10.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      },
+      {
+        "type": 5,
+        "cost": 25.0,
+        "cooldown": 0.0,
+        "maxCount": 1
+      },
+      {
+        "type": 11,
+        "cost": 4.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      },
+      {
+        "type": 9,
+        "cost": 10.0,
+        "cooldown": 0.0,
+        "maxCount": 15
+      },
+      {
+        "type": 3,
+        "cost": 16.0,
+        "cooldown": 0.0,
+        "maxCount": 1
+      },
+      {
+        "type": 12,
+        "cost": 10.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      }
+    ],
+    "id": 5,
+    "name": "AIDefault1Player_Survivor",
+    "category": ""
+  },
+  {
+    "intensityToSpawnBudget": {
+      "curve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 1.0,
+            "outTangent": 1.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inTangent": 1.0,
+            "outTangent": 1.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      }
+    },
+    "spawnBudget": 100,
+    "spawnThreshold": 0.5,
+    "spawnSettings": [
+      {
+        "type": 7,
+        "cost": 15.0,
+        "cooldown": 3.0,
+        "maxCount": 3
+      },
+      {
+        "type": 6,
+        "cost": 50.0,
+        "cooldown": 0.0,
+        "maxCount": 1
+      },
+      {
+        "type": 2,
+        "cost": 6.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      },
+      {
+        "type": 5,
+        "cost": 20.0,
+        "cooldown": 0.0,
+        "maxCount": 1
+      },
+      {
+        "type": 12,
+        "cost": 6.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      },
+      {
+        "type": 9,
+        "cost": 6.0,
+        "cooldown": 0.0,
+        "maxCount": 15
+      },
+      {
+        "type": 3,
+        "cost": 12.0,
+        "cooldown": 0.0,
+        "maxCount": 2
+      },
+      {
+        "type": 11,
+        "cost": 4.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      }
+    ],
+    "id": 6,
+    "name": "AIDefault2Player_Survivor",
+    "category": ""
+  },
+  {
+    "intensityToSpawnBudget": {
+      "curve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 1.0,
+            "outTangent": 1.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inTangent": 1.0,
+            "outTangent": 1.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      }
+    },
+    "spawnBudget": 100,
+    "spawnThreshold": 0.5,
+    "spawnSettings": [
+      {
+        "type": 7,
+        "cost": 10.0,
+        "cooldown": 0.0,
+        "maxCount": 4
+      },
+      {
+        "type": 6,
+        "cost": 30.0,
+        "cooldown": 0.0,
+        "maxCount": 1
+      },
+      {
+        "type": 2,
+        "cost": 5.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      },
+      {
+        "type": 5,
+        "cost": 15.0,
+        "cooldown": 0.0,
+        "maxCount": 1
+      },
+      {
+        "type": 12,
+        "cost": 5.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      },
+      {
+        "type": 9,
+        "cost": 5.0,
+        "cooldown": 0.0,
+        "maxCount": 15
+      },
+      {
+        "type": 3,
+        "cost": 8.0,
+        "cooldown": 0.0,
+        "maxCount": 3
+      },
+      {
+        "type": 11,
+        "cost": 4.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      }
+    ],
+    "id": 7,
+    "name": "AIDefault3Player_Survivor",
+    "category": ""
+  },
+  {
+    "intensityToSpawnBudget": {
+      "curve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 1.0,
+            "outTangent": 1.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inTangent": 1.0,
+            "outTangent": 1.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      }
+    },
+    "spawnBudget": 100,
+    "spawnThreshold": 0.5,
+    "spawnSettings": [
+      {
+        "type": 7,
+        "cost": 8.0,
+        "cooldown": 0.0,
+        "maxCount": 4
+      },
+      {
+        "type": 6,
+        "cost": 20.0,
+        "cooldown": 0.0,
+        "maxCount": 1
+      },
+      {
+        "type": 2,
+        "cost": 3.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      },
+      {
+        "type": 5,
+        "cost": 10.0,
+        "cooldown": 0.0,
+        "maxCount": 1
+      },
+      {
+        "type": 12,
+        "cost": 3.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      },
+      {
+        "type": 9,
+        "cost": 3.0,
+        "cooldown": 0.0,
+        "maxCount": 20
+      },
+      {
+        "type": 3,
+        "cost": 6.0,
+        "cooldown": 0.0,
+        "maxCount": 4
+      },
+      {
+        "type": 11,
+        "cost": 3.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      }
+    ],
+    "id": 8,
+    "name": "AIDefault4Player_Survivor",
+    "category": ""
+  },
+  {
+    "intensityToSpawnBudget": {
+      "curve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 1.0,
+            "outTangent": 1.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inTangent": 1.0,
+            "outTangent": 1.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      }
+    },
+    "spawnBudget": 100,
+    "spawnThreshold": 0.2,
+    "spawnSettings": [],
+    "id": 9,
+    "name": "AIDefault1PlayerCrescendo",
+    "category": ""
+  },
+  {
+    "intensityToSpawnBudget": {
+      "curve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 1.0,
+            "outTangent": 1.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inTangent": 1.0,
+            "outTangent": 1.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      }
+    },
+    "spawnBudget": 100,
+    "spawnThreshold": 0.2,
+    "spawnSettings": [],
+    "id": 10,
+    "name": "AIDefault2PlayerMediumTest",
+    "category": ""
+  },
+  {
+    "intensityToSpawnBudget": {
+      "curve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 1.0,
+            "outTangent": 1.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inTangent": 1.0,
+            "outTangent": 1.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      }
+    },
+    "spawnBudget": 100,
+    "spawnThreshold": 0.2,
+    "spawnSettings": [],
+    "id": 11,
+    "name": "AIDefault3PlayerMediumTest",
+    "category": ""
+  },
+  {
+    "intensityToSpawnBudget": {
+      "curve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 1.0,
+            "outTangent": 1.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inTangent": 1.0,
+            "outTangent": 1.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      }
+    },
+    "spawnBudget": 100,
+    "spawnThreshold": 0.5,
+    "spawnSettings": [],
+    "id": 12,
+    "name": "AIDefault4PlayerMediumTest",
+    "category": ""
+  },
+  {
+    "intensityToSpawnBudget": {
+      "curve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 0.0,
+            "outTangent": 1.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inTangent": 1.0,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      }
+    },
+    "spawnBudget": 50,
+    "spawnThreshold": 0.5,
+    "spawnSettings": [
+      {
+        "type": 2,
+        "cost": 2.0,
+        "cooldown": 0.3,
+        "maxCount": -1
+      },
+      {
+        "type": 7,
+        "cost": 4.0,
+        "cooldown": 3.0,
+        "maxCount": 2
+      },
+      {
+        "type": 5,
+        "cost": 4.0,
+        "cooldown": 3.0,
+        "maxCount": 2
+      },
+      {
+        "type": 9,
+        "cost": 4.0,
+        "cooldown": 3.0,
+        "maxCount": 2
+      },
+      {
+        "type": 3,
+        "cost": 10.0,
+        "cooldown": 15.0,
+        "maxCount": 2
+      }
+    ],
+    "id": 13,
+    "name": "FeatureFaire_Default",
+    "category": ""
+  },
+  {
+    "intensityToSpawnBudget": {
+      "curve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 0.0,
+            "outTangent": 1.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inTangent": 1.0,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      }
+    },
+    "spawnBudget": 100,
+    "spawnThreshold": 0.4,
+    "spawnSettings": [
+      {
+        "type": 2,
+        "cost": 2.0,
+        "cooldown": 0.1,
+        "maxCount": -1
+      },
+      {
+        "type": 7,
+        "cost": 5.0,
+        "cooldown": 1.0,
+        "maxCount": 3
+      },
+      {
+        "type": 5,
+        "cost": 5.0,
+        "cooldown": 1.0,
+        "maxCount": 3
+      },
+      {
+        "type": 9,
+        "cost": 3.0,
+        "cooldown": 1.0,
+        "maxCount": 4
+      },
+      {
+        "type": 3,
+        "cost": 15.0,
+        "cooldown": 15.0,
+        "maxCount": 1
+      },
+      {
+        "type": 6,
+        "cost": 15.0,
+        "cooldown": 15.0,
+        "maxCount": 1
+      },
+      {
+        "type": 12,
+        "cost": 2.0,
+        "cooldown": 0.1,
+        "maxCount": -1
+      }
+    ],
+    "id": 14,
+    "name": "FeatureFaire_Crescendo",
+    "category": ""
+  },
+  {
+    "intensityToSpawnBudget": {
+      "curve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      }
+    },
+    "spawnBudget": 100,
+    "spawnThreshold": 0.2,
+    "spawnSettings": [
+      {
+        "type": 2,
+        "cost": 0.0,
+        "cooldown": 0.0,
+        "maxCount": 5
+      },
+      {
+        "type": 12,
+        "cost": 0.0,
+        "cooldown": 0.0,
+        "maxCount": 5
+      }
+    ],
+    "id": 15,
+    "name": "Testscene_Johan",
+    "category": ""
+  },
+  {
+    "intensityToSpawnBudget": {
+      "curve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 0.35,
+            "outTangent": 0.35,
+            "inWeight": 0.0,
+            "outWeight": 0.333333343,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 0.35,
+            "inTangent": 0.35,
+            "outTangent": 0.35,
+            "inWeight": 0.333333343,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      }
+    },
+    "spawnBudget": 50,
+    "spawnThreshold": 0.2,
+    "spawnSettings": [
+      {
+        "type": 7,
+        "cost": 8.0,
+        "cooldown": 5.0,
+        "maxCount": 1
+      },
+      {
+        "type": 2,
+        "cost": 4.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      }
+    ],
+    "id": 16,
+    "name": "GeneratorCrescendo1Player",
+    "category": ""
+  },
+  {
+    "intensityToSpawnBudget": {
+      "curve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 0.0,
+            "outTangent": 1.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inTangent": 1.0,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      }
+    },
+    "spawnBudget": 60,
+    "spawnThreshold": 0.2,
+    "spawnSettings": [
+      {
+        "type": 11,
+        "cost": 2.0,
+        "cooldown": 0.5,
+        "maxCount": -1
+      },
+      {
+        "type": 2,
+        "cost": 4.0,
+        "cooldown": 0.5,
+        "maxCount": 3
+      },
+      {
+        "type": 12,
+        "cost": 8.0,
+        "cooldown": 3.0,
+        "maxCount": 2
+      },
+      {
+        "type": 3,
+        "cost": 10.0,
+        "cooldown": 10.0,
+        "maxCount": 1
+      },
+      {
+        "type": 7,
+        "cost": 8.0,
+        "cooldown": 10.0,
+        "maxCount": 2
+      }
+    ],
+    "id": 18,
+    "name": "SM07_Outside",
+    "category": ""
+  },
+  {
+    "intensityToSpawnBudget": {
+      "curve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 0.0,
+            "outTangent": 1.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inTangent": 1.0,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      }
+    },
+    "spawnBudget": 100,
+    "spawnThreshold": 0.2,
+    "spawnSettings": [
+      {
+        "type": 11,
+        "cost": 2.0,
+        "cooldown": 0.5,
+        "maxCount": -1
+      },
+      {
+        "type": 2,
+        "cost": 4.0,
+        "cooldown": 0.5,
+        "maxCount": 6
+      },
+      {
+        "type": 12,
+        "cost": 8.0,
+        "cooldown": 2.0,
+        "maxCount": 3
+      },
+      {
+        "type": 3,
+        "cost": 10.0,
+        "cooldown": 30.0,
+        "maxCount": 1
+      },
+      {
+        "type": 7,
+        "cost": 8.0,
+        "cooldown": 20.0,
+        "maxCount": 1
+      },
+      {
+        "type": 5,
+        "cost": 12.0,
+        "cooldown": 60.0,
+        "maxCount": 1
+      }
+    ],
+    "id": 19,
+    "name": "SM07_CarPark",
+    "category": ""
+  },
+  {
+    "intensityToSpawnBudget": {
+      "curve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 0.0,
+            "outTangent": 1.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inTangent": 1.0,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      }
+    },
+    "spawnBudget": 40,
+    "spawnThreshold": 0.6,
+    "spawnSettings": [
+      {
+        "type": 11,
+        "cost": 2.0,
+        "cooldown": 0.5,
+        "maxCount": -1
+      },
+      {
+        "type": 2,
+        "cost": 4.0,
+        "cooldown": 0.5,
+        "maxCount": 6
+      }
+    ],
+    "id": 20,
+    "name": "SM07_SmasherEnding",
+    "category": ""
+  },
+  {
+    "intensityToSpawnBudget": {
+      "curve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 1.0,
+            "outTangent": 0.5,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 0.5,
+            "inTangent": 0.5,
+            "outTangent": 0.35,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      }
+    },
+    "spawnBudget": 100,
+    "spawnThreshold": 0.5,
+    "spawnSettings": [
+      {
+        "type": 7,
+        "cost": 20.0,
+        "cooldown": 0.0,
+        "maxCount": 1
+      },
+      {
+        "type": 6,
+        "cost": 100.0,
+        "cooldown": 0.0,
+        "maxCount": 1
+      },
+      {
+        "type": 2,
+        "cost": 10.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      },
+      {
+        "type": 5,
+        "cost": 25.0,
+        "cooldown": 0.0,
+        "maxCount": 1
+      },
+      {
+        "type": 11,
+        "cost": 4.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      },
+      {
+        "type": 9,
+        "cost": 10.0,
+        "cooldown": 0.0,
+        "maxCount": 15
+      },
+      {
+        "type": 3,
+        "cost": 16.0,
+        "cooldown": 0.0,
+        "maxCount": 1
+      },
+      {
+        "type": 12,
+        "cost": 10.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      }
+    ],
+    "id": 21,
+    "name": "AIDefault1Player_Greenhorn",
+    "category": ""
+  },
+  {
+    "intensityToSpawnBudget": {
+      "curve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 1.0,
+            "outTangent": 0.25,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 0.25,
+            "inTangent": 0.25,
+            "outTangent": 0.5,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      }
+    },
+    "spawnBudget": 100,
+    "spawnThreshold": 0.5,
+    "spawnSettings": [
+      {
+        "type": 7,
+        "cost": 20.0,
+        "cooldown": 0.0,
+        "maxCount": 1
+      },
+      {
+        "type": 6,
+        "cost": 100.0,
+        "cooldown": 0.0,
+        "maxCount": 1
+      },
+      {
+        "type": 2,
+        "cost": 10.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      },
+      {
+        "type": 5,
+        "cost": 25.0,
+        "cooldown": 0.0,
+        "maxCount": 1
+      },
+      {
+        "type": 11,
+        "cost": 4.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      },
+      {
+        "type": 9,
+        "cost": 10.0,
+        "cooldown": 0.0,
+        "maxCount": 15
+      },
+      {
+        "type": 3,
+        "cost": 16.0,
+        "cooldown": 0.0,
+        "maxCount": 1
+      },
+      {
+        "type": 12,
+        "cost": 10.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      }
+    ],
+    "id": 22,
+    "name": "AIDefault1Player_Civilian",
+    "category": ""
+  },
+  {
+    "intensityToSpawnBudget": {
+      "curve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 1.0,
+            "outTangent": 0.5,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 0.5,
+            "inTangent": 0.5,
+            "outTangent": 1.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      }
+    },
+    "spawnBudget": 100,
+    "spawnThreshold": 0.5,
+    "spawnSettings": [
+      {
+        "type": 7,
+        "cost": 15.0,
+        "cooldown": 3.0,
+        "maxCount": 3
+      },
+      {
+        "type": 6,
+        "cost": 50.0,
+        "cooldown": 0.0,
+        "maxCount": 1
+      },
+      {
+        "type": 2,
+        "cost": 6.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      },
+      {
+        "type": 5,
+        "cost": 20.0,
+        "cooldown": 0.0,
+        "maxCount": 1
+      },
+      {
+        "type": 12,
+        "cost": 6.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      },
+      {
+        "type": 9,
+        "cost": 6.0,
+        "cooldown": 0.0,
+        "maxCount": 15
+      },
+      {
+        "type": 3,
+        "cost": 12.0,
+        "cooldown": 0.0,
+        "maxCount": 2
+      },
+      {
+        "type": 11,
+        "cost": 4.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      }
+    ],
+    "id": 23,
+    "name": "AIDefault2Player_Greenhorn",
+    "category": ""
+  },
+  {
+    "intensityToSpawnBudget": {
+      "curve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 1.0,
+            "outTangent": 0.25,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 0.25,
+            "inTangent": 0.25,
+            "outTangent": 1.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      }
+    },
+    "spawnBudget": 100,
+    "spawnThreshold": 0.5,
+    "spawnSettings": [
+      {
+        "type": 7,
+        "cost": 15.0,
+        "cooldown": 3.0,
+        "maxCount": 3
+      },
+      {
+        "type": 6,
+        "cost": 50.0,
+        "cooldown": 0.0,
+        "maxCount": 1
+      },
+      {
+        "type": 2,
+        "cost": 6.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      },
+      {
+        "type": 5,
+        "cost": 20.0,
+        "cooldown": 0.0,
+        "maxCount": 1
+      },
+      {
+        "type": 12,
+        "cost": 6.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      },
+      {
+        "type": 9,
+        "cost": 6.0,
+        "cooldown": 0.0,
+        "maxCount": 15
+      },
+      {
+        "type": 3,
+        "cost": 12.0,
+        "cooldown": 0.0,
+        "maxCount": 2
+      },
+      {
+        "type": 11,
+        "cost": 4.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      }
+    ],
+    "id": 24,
+    "name": "AIDefault2Player_Civilian",
+    "category": ""
+  },
+  {
+    "intensityToSpawnBudget": {
+      "curve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 1.0,
+            "outTangent": 0.5,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 0.5,
+            "inTangent": 0.5,
+            "outTangent": 1.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      }
+    },
+    "spawnBudget": 100,
+    "spawnThreshold": 0.5,
+    "spawnSettings": [
+      {
+        "type": 7,
+        "cost": 10.0,
+        "cooldown": 0.0,
+        "maxCount": 4
+      },
+      {
+        "type": 6,
+        "cost": 30.0,
+        "cooldown": 0.0,
+        "maxCount": 1
+      },
+      {
+        "type": 2,
+        "cost": 5.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      },
+      {
+        "type": 5,
+        "cost": 15.0,
+        "cooldown": 0.0,
+        "maxCount": 1
+      },
+      {
+        "type": 12,
+        "cost": 5.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      },
+      {
+        "type": 9,
+        "cost": 5.0,
+        "cooldown": 0.0,
+        "maxCount": 15
+      },
+      {
+        "type": 3,
+        "cost": 8.0,
+        "cooldown": 0.0,
+        "maxCount": 3
+      },
+      {
+        "type": 11,
+        "cost": 4.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      }
+    ],
+    "id": 25,
+    "name": "AIDefault3Player_Greenhorn",
+    "category": ""
+  },
+  {
+    "intensityToSpawnBudget": {
+      "curve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 1.0,
+            "outTangent": 0.25,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 0.25,
+            "inTangent": 0.25,
+            "outTangent": 1.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      }
+    },
+    "spawnBudget": 100,
+    "spawnThreshold": 0.5,
+    "spawnSettings": [
+      {
+        "type": 7,
+        "cost": 10.0,
+        "cooldown": 0.0,
+        "maxCount": 4
+      },
+      {
+        "type": 6,
+        "cost": 30.0,
+        "cooldown": 0.0,
+        "maxCount": 1
+      },
+      {
+        "type": 2,
+        "cost": 5.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      },
+      {
+        "type": 5,
+        "cost": 15.0,
+        "cooldown": 0.0,
+        "maxCount": 1
+      },
+      {
+        "type": 12,
+        "cost": 5.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      },
+      {
+        "type": 9,
+        "cost": 5.0,
+        "cooldown": 0.0,
+        "maxCount": 15
+      },
+      {
+        "type": 3,
+        "cost": 8.0,
+        "cooldown": 0.0,
+        "maxCount": 3
+      },
+      {
+        "type": 11,
+        "cost": 4.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      }
+    ],
+    "id": 26,
+    "name": "AIDefault3Player_Civilian",
+    "category": ""
+  },
+  {
+    "intensityToSpawnBudget": {
+      "curve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 1.0,
+            "outTangent": 0.5,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 0.5,
+            "inTangent": 0.5,
+            "outTangent": 1.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      }
+    },
+    "spawnBudget": 100,
+    "spawnThreshold": 0.5,
+    "spawnSettings": [
+      {
+        "type": 7,
+        "cost": 8.0,
+        "cooldown": 0.0,
+        "maxCount": 4
+      },
+      {
+        "type": 6,
+        "cost": 20.0,
+        "cooldown": 0.0,
+        "maxCount": 1
+      },
+      {
+        "type": 2,
+        "cost": 3.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      },
+      {
+        "type": 5,
+        "cost": 10.0,
+        "cooldown": 0.0,
+        "maxCount": 1
+      },
+      {
+        "type": 12,
+        "cost": 3.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      },
+      {
+        "type": 9,
+        "cost": 3.0,
+        "cooldown": 0.0,
+        "maxCount": 20
+      },
+      {
+        "type": 3,
+        "cost": 6.0,
+        "cooldown": 0.0,
+        "maxCount": 4
+      },
+      {
+        "type": 11,
+        "cost": 3.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      }
+    ],
+    "id": 27,
+    "name": "AIDefault4Player_Greenhorn",
+    "category": ""
+  },
+  {
+    "intensityToSpawnBudget": {
+      "curve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 1.0,
+            "outTangent": 0.25,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 0.25,
+            "inTangent": 0.25,
+            "outTangent": 1.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      }
+    },
+    "spawnBudget": 100,
+    "spawnThreshold": 0.5,
+    "spawnSettings": [
+      {
+        "type": 7,
+        "cost": 8.0,
+        "cooldown": 0.0,
+        "maxCount": 4
+      },
+      {
+        "type": 6,
+        "cost": 20.0,
+        "cooldown": 0.0,
+        "maxCount": 1
+      },
+      {
+        "type": 2,
+        "cost": 3.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      },
+      {
+        "type": 5,
+        "cost": 10.0,
+        "cooldown": 0.0,
+        "maxCount": 1
+      },
+      {
+        "type": 12,
+        "cost": 3.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      },
+      {
+        "type": 9,
+        "cost": 3.0,
+        "cooldown": 0.0,
+        "maxCount": 20
+      },
+      {
+        "type": 3,
+        "cost": 6.0,
+        "cooldown": 0.0,
+        "maxCount": 4
+      },
+      {
+        "type": 11,
+        "cost": 3.0,
+        "cooldown": 0.0,
+        "maxCount": -1
+      }
+    ],
+    "id": 28,
+    "name": "AIDefault4Player_Civilian",
+    "category": ""
+  }
+]
+}

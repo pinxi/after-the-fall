@@ -1,0 +1,18 @@
+{
+  "TableId": 50022,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "localizationKey": "EVENT_CHRISTMAS2021",
+    "id": 0,
+    "name": "Christmas2021",
+    "category": ""
+  },
+  {
+    "localizationKey": "EVENT_CHINESENEWYEAR2022",
+    "id": 1,
+    "name": "ChineseNewYear2022",
+    "category": ""
+  }
+]
+}

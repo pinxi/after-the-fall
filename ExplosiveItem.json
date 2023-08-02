@@ -1,0 +1,382 @@
+{
+  "TableId": 120,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "hasDetonationTime": true,
+    "detonationTime": 3.0,
+    "startTimerOnRelease": true,
+    "minVelocityMagnitudeToPlayArmAudio": 0.0,
+    "hasPinToRemove": true,
+    "onPinRemovedHaptics": 15,
+    "onArmedHaptics": 15,
+    "onArmedAggroRadius": 1.0,
+    "shouldDetonateUponContact": false,
+    "explosions": [
+      {
+        "delayBeforeExploding": 0.0,
+        "explosionType": 1
+      }
+    ],
+    "isUnlocked": true,
+    "inactiveItemHandPoseId": 47,
+    "armedItemHandPoseId": 46,
+    "isPosedOnTrigger": false,
+    "animationRemovePin": {
+      "animationLength": 0.0,
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "animationRemoveLub": {
+      "animationLength": 0.0,
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "audioRemovePin": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Weapons/Pipebomb/Pipebomb_arm",
+      "eventGuid": "77fe0cdc-c3d7-4e6f-9c56-46013943c597"
+    },
+    "audioExplosiveArmed": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Weapons/Pipebomb/Pipebomb_arm",
+      "eventGuid": "77fe0cdc-c3d7-4e6f-9c56-46013943c597"
+    },
+    "countdownAudio": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "Pipebomb_countdown",
+          "paramData1": 1871643668,
+          "paramData2": 387136066,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Countdown",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Weapons/Pipebomb/Pipebomb_beep",
+      "eventGuid": "fb0485a8-f6ad-442c-89dc-ea906a3ad3f2"
+    },
+    "modelFollowsVelocityUponThrown": false,
+    "followVelocitySpeed": 0.0,
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "Icon_PipeBomb_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Icon_PipeBomb_01.png",
+      "assetGUID": "d76b5e1c137561d4aa12537a7b0f63c3",
+      "resourcePath": "Icon_PipeBomb_01:Icon_PipeBomb_01.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 13,
+    "id": 0,
+    "name": "PipeBomb",
+    "category": "",
+    "displayName": "Pipe Bomb",
+    "descriptionLocalizationKey": "ITEM_PIPEBOMB_DESCRIPTION",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "ITEM_PIPEBOMB",
+    "tooltipSubtitleDisplayName": "ITEM_PIPEBOMB_SUBTITLE",
+    "inventoryIcon": {
+      "assetName": "Icon_Pipebomb_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_Pipebomb_01.png",
+      "assetGUID": "ad8bc61aeee5ec347bb47cfefe20e8e1",
+      "resourcePath": "Tooltips/Icon_Pipebomb_01:Icon_Pipebomb_01.Sprite",
+      "isSubAsset": true
+    },
+    "slotItemScale": {
+      "x": 0.2,
+      "y": 0.2,
+      "z": 0.2
+    },
+    "artPrefab": {
+      "assetName": "Pipe_Bomb",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/Grenades/Pipe_Bomb.prefab",
+      "assetGUID": "b2f169512497cff4182247e280cfa5fe",
+      "resourcePath": "Weapons/Grenades/Pipe_Bomb",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "Pipe_Bomb_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/Grenades/Collisions/Pipe_Bomb_Collision.prefab",
+      "assetGUID": "d0c33dc950f5f3c448bb5781909c61c6",
+      "resourcePath": "Weapons/Grenades/Collisions/Pipe_Bomb_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 250,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_pickup_object",
+      "eventGuid": "a75ca7a4-e10a-4f59-91d7-c91ec206ff42",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "ThrowVelocity",
+          "paramData1": 825615767,
+          "paramData2": -71513471,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_throw",
+      "eventGuid": "64676d97-d623-4dad-a289-cb45908906cc"
+    }
+  },
+  {
+    "hasDetonationTime": false,
+    "detonationTime": 7.0,
+    "startTimerOnRelease": true,
+    "minVelocityMagnitudeToPlayArmAudio": 1.0,
+    "hasPinToRemove": true,
+    "onPinRemovedHaptics": 15,
+    "onArmedHaptics": 15,
+    "onArmedAggroRadius": 1.0,
+    "shouldDetonateUponContact": true,
+    "explosions": [
+      {
+        "delayBeforeExploding": 0.0,
+        "explosionType": 8
+      },
+      {
+        "delayBeforeExploding": 0.125,
+        "explosionType": 10
+      }
+    ],
+    "isUnlocked": false,
+    "inactiveItemHandPoseId": 308,
+    "armedItemHandPoseId": 309,
+    "isPosedOnTrigger": false,
+    "animationRemovePin": {
+      "animationLength": 0.0,
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "animationRemoveLub": {
+      "animationLength": 0.0,
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "audioRemovePin": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Weapons/Warhead/Warhead_warning",
+      "eventGuid": "ac4589d0-a25c-4341-913f-57193df2b714"
+    },
+    "audioExplosiveArmed": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "countdownAudio": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Weapons/Warhead/Warhead_flight",
+      "eventGuid": "62853082-0204-4c4b-b325-75e790c2dd31"
+    },
+    "modelFollowsVelocityUponThrown": true,
+    "followVelocitySpeed": 450.0,
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "Icon_Warhead_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Icon_Warhead_01.png",
+      "assetGUID": "4aff7de29acb84c4988db74ea12e7608",
+      "resourcePath": "Icon_Warhead_01:Icon_Warhead_01.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 20,
+    "id": 1,
+    "name": "Warhead",
+    "category": "",
+    "displayName": "Warhead",
+    "descriptionLocalizationKey": "ITEM_WARHEAD_DESCRIPTION",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "ITEM_WARHEAD",
+    "tooltipSubtitleDisplayName": "ITEM_PIPEBOMB_SUBTITLE",
+    "inventoryIcon": {
+      "assetName": "Icon_Warhead_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_Warhead_01.png",
+      "assetGUID": "48c490d936a1c0f41b9c0cd950a01d76",
+      "resourcePath": "Tooltips/Icon_Warhead_01:Icon_Warhead_01.Sprite",
+      "isSubAsset": true
+    },
+    "slotItemScale": {
+      "x": 0.15,
+      "y": 0.15,
+      "z": 0.15
+    },
+    "artPrefab": {
+      "assetName": "Hand_Grenade",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/Grenades/Hand_Grenade.prefab",
+      "assetGUID": "f4b43bf7f6466bc46b0eea61b649467f",
+      "resourcePath": "Weapons/Grenades/Hand_Grenade",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "Hand_Grenade_Collision",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Weapons/Grenades/Collisions/Hand_Grenade_Collision.prefab",
+      "assetGUID": "37c189d660b51f448a03b97ab92ee9b4",
+      "resourcePath": "Weapons/Grenades/Collisions/Hand_Grenade_Collision",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 1000,
+    "lockedDescriptionLocalizationKey": "VENDOR_LOCKED_INDUSTRIAL_RARITY",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "AngularVelocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_ammo",
+      "eventGuid": "82674a5a-1c7e-4c2c-bbaf-685f88f00ff2"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_pickup_object",
+      "eventGuid": "a75ca7a4-e10a-4f59-91d7-c91ec206ff42",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "ThrowVelocity",
+          "paramData1": 825615767,
+          "paramData2": -71513471,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_throw",
+      "eventGuid": "64676d97-d623-4dad-a289-cb45908906cc"
+    }
+  }
+]
+}

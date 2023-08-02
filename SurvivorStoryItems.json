@@ -1,0 +1,132 @@
+{
+  "TableId": 176,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "items": [
+      {
+        "category": {
+          "CurrentIndex": 2,
+          "DisplayName": "GunTO",
+          "AssemblyQualifiedName": "Vertigo.Snowbreed.GunTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+        },
+        "items": [
+          2,
+          1
+        ]
+      },
+      {
+        "category": {
+          "CurrentIndex": 1,
+          "DisplayName": "ExplosiveItemTO",
+          "AssemblyQualifiedName": "Vertigo.Snowbreed.ExplosiveItemTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+        },
+        "items": [
+          0
+        ]
+      },
+      {
+        "category": {
+          "CurrentIndex": 0,
+          "DisplayName": "BoosterTO",
+          "AssemblyQualifiedName": "Vertigo.Snowbreed.BoosterTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+        },
+        "items": [
+          0
+        ]
+      }
+    ],
+    "id": 0,
+    "name": "Default",
+    "category": ""
+  },
+  {
+    "items": [
+      {
+        "category": {
+          "CurrentIndex": 2,
+          "DisplayName": "GunTO",
+          "AssemblyQualifiedName": "Vertigo.Snowbreed.GunTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+        },
+        "items": [
+          26,
+          32,
+          15,
+          27,
+          44,
+          31,
+          34,
+          30,
+          39,
+          36,
+          45
+        ]
+      },
+      {
+        "category": {
+          "CurrentIndex": 1,
+          "DisplayName": "ExplosiveItemTO",
+          "AssemblyQualifiedName": "Vertigo.Snowbreed.ExplosiveItemTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+        },
+        "items": [
+          0
+        ]
+      },
+      {
+        "category": {
+          "CurrentIndex": 0,
+          "DisplayName": "BoosterTO",
+          "AssemblyQualifiedName": "Vertigo.Snowbreed.BoosterTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+        },
+        "items": [
+          0
+        ]
+      }
+    ],
+    "id": 2,
+    "name": "EndTower - Default",
+    "category": ""
+  },
+  {
+    "items": [
+      {
+        "category": {
+          "CurrentIndex": 2,
+          "DisplayName": "GunTO",
+          "AssemblyQualifiedName": "Vertigo.Snowbreed.GunTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+        },
+        "items": [
+          3,
+          4,
+          36,
+          44,
+          47
+        ]
+      },
+      {
+        "category": {
+          "CurrentIndex": 1,
+          "DisplayName": "ExplosiveItemTO",
+          "AssemblyQualifiedName": "Vertigo.Snowbreed.ExplosiveItemTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+        },
+        "items": [
+          0
+        ]
+      },
+      {
+        "category": {
+          "CurrentIndex": 0,
+          "DisplayName": "BoosterTO",
+          "AssemblyQualifiedName": "Vertigo.Snowbreed.BoosterTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+        },
+        "items": [
+          0
+        ]
+      }
+    ],
+    "id": 3,
+    "name": "EndTower - Hero Loot",
+    "category": ""
+  }
+]
+}

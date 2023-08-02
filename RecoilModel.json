@@ -1,0 +1,3043 @@
+{
+  "TableId": 167,
+  "DefaultCellId": 1,
+  "Cells": [
+  {
+    "applyKickbackFromRootPosition": false,
+    "kickbackApplicationTime": 0.2,
+    "kickbackRecoveryTime": 0.4,
+    "kickbackRecoveryDelay": 0.0,
+    "kickbackApplication": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 2.0,
+          "outTangent": 2.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.03356964,
+          "value": 0.9421839,
+          "inTangent": 0.08535843,
+          "outTangent": 0.08535843,
+          "inWeight": 0.226068661,
+          "outWeight": 0.05112245,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "kickbackRecovery": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inTangent": 0.008869171,
+          "outTangent": 0.008869171,
+          "inWeight": 0.0,
+          "outWeight": 0.533333361,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.83952713,
+          "value": 0.156555831,
+          "inTangent": -1.64954007,
+          "outTangent": -1.64954007,
+          "inWeight": 0.05412663,
+          "outWeight": 0.444882929,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 0.0,
+          "inTangent": -0.06886477,
+          "outTangent": -0.06886477,
+          "inWeight": 0.299708515,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "kickbackReduction": 0.6,
+    "kickbackRecoveryTimeReduction": 0.725,
+    "kickbackOffsetMultiplier": 1.0,
+    "kickbackOffset": {
+      "rangeStart": 0.09888488,
+      "rangeEnd": 0.123884879
+    },
+    "recoilApplicationTime": 0.2,
+    "recoilRecoveryTime": 0.4,
+    "useCustomBulletRecoveryTime": true,
+    "bulletRecoveryTime": 0.05,
+    "recoilRecoveryDelay": 0.0,
+    "recoilApplication": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 2.0,
+          "outTangent": 2.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.03356964,
+          "value": 0.9421839,
+          "inTangent": 0.08535843,
+          "outTangent": 0.08535843,
+          "inWeight": 0.226068661,
+          "outWeight": 0.05112245,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "recoilRecovery": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inTangent": 0.008869171,
+          "outTangent": 0.008869171,
+          "inWeight": 0.0,
+          "outWeight": 0.533333361,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.83952713,
+          "value": 0.156555831,
+          "inTangent": -1.64954007,
+          "outTangent": -1.64954007,
+          "inWeight": 0.05412663,
+          "outWeight": 0.444882929,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 0.0,
+          "inTangent": -0.06886477,
+          "outTangent": -0.06886477,
+          "inWeight": 0.299708515,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "recoilReduction": 0.6,
+    "recoilRecoveryTimeReduction": 0.725,
+    "angleLimit": {
+      "x": 1.0,
+      "y": 70.0
+    },
+    "recoilOffsetMultiplier": {
+      "x": 1.0,
+      "y": 9.5
+    },
+    "recoilOffsets": [
+      {
+        "X": {
+          "rangeStart": -2.25,
+          "rangeEnd": 2.25
+        },
+        "Y": {
+          "rangeStart": 1.35,
+          "rangeEnd": 2.0
+        }
+      }
+    ],
+    "id": 1,
+    "name": "Revolver",
+    "category": ""
+  },
+  {
+    "applyKickbackFromRootPosition": false,
+    "kickbackApplicationTime": 0.1,
+    "kickbackRecoveryTime": 0.5,
+    "kickbackRecoveryDelay": 0.0,
+    "kickbackApplication": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.21205546,
+          "value": 0.458314151,
+          "inTangent": 2.23355436,
+          "outTangent": 2.23355436,
+          "inWeight": 0.102870941,
+          "outWeight": 0.0721128061,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "kickbackRecovery": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inTangent": 0.008869171,
+          "outTangent": 0.008869171,
+          "inWeight": 0.0,
+          "outWeight": 0.533333361,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.636723757,
+          "value": 0.5417621,
+          "inTangent": -2.05090213,
+          "outTangent": -2.05090213,
+          "inWeight": 0.0956303552,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 0.0,
+          "inTangent": 0.0167228859,
+          "outTangent": 0.0167228859,
+          "inWeight": 0.162500024,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "kickbackReduction": 0.65,
+    "kickbackRecoveryTimeReduction": 1.0,
+    "kickbackOffsetMultiplier": 1.0,
+    "kickbackOffset": {
+      "rangeStart": 0.1774754,
+      "rangeEnd": 0.268983424
+    },
+    "recoilApplicationTime": 0.1,
+    "recoilRecoveryTime": 0.5,
+    "useCustomBulletRecoveryTime": true,
+    "bulletRecoveryTime": 0.01,
+    "recoilRecoveryDelay": 0.0,
+    "recoilApplication": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.21205546,
+          "value": 0.458314151,
+          "inTangent": 2.23355436,
+          "outTangent": 2.23355436,
+          "inWeight": 0.102870941,
+          "outWeight": 0.0721128061,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "recoilRecovery": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inTangent": 0.008869171,
+          "outTangent": 0.008869171,
+          "inWeight": 0.0,
+          "outWeight": 0.533333361,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.636723757,
+          "value": 0.5417621,
+          "inTangent": -2.05090213,
+          "outTangent": -2.05090213,
+          "inWeight": 0.0956303552,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 0.0,
+          "inTangent": 0.0167228859,
+          "outTangent": 0.0167228859,
+          "inWeight": 0.162500024,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "recoilReduction": 0.75,
+    "recoilRecoveryTimeReduction": 1.0,
+    "angleLimit": {
+      "x": 10.0,
+      "y": 85.0
+    },
+    "recoilOffsetMultiplier": {
+      "x": 3.0,
+      "y": 11.0
+    },
+    "recoilOffsets": [
+      {
+        "X": {
+          "rangeStart": -1.0,
+          "rangeEnd": 1.0
+        },
+        "Y": {
+          "rangeStart": 3.0,
+          "rangeEnd": 5.0
+        }
+      }
+    ],
+    "id": 2,
+    "name": "Pump Shotgun",
+    "category": ""
+  },
+  {
+    "applyKickbackFromRootPosition": true,
+    "kickbackApplicationTime": 0.1125,
+    "kickbackRecoveryTime": 0.175,
+    "kickbackRecoveryDelay": 0.0,
+    "kickbackApplication": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.289954364,
+          "value": 0.284388185,
+          "inTangent": 1.77687442,
+          "outTangent": 1.77687442,
+          "inWeight": 0.151134655,
+          "outWeight": 0.05099594,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "kickbackRecovery": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inTangent": 0.008869171,
+          "outTangent": 0.008869171,
+          "inWeight": 0.0,
+          "outWeight": 0.533333361,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.517673731,
+          "value": 0.291597217,
+          "inTangent": -1.03767419,
+          "outTangent": -1.03767419,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 0.0,
+          "inTangent": 0.0167228859,
+          "outTangent": 0.0167228859,
+          "inWeight": 0.162500024,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "kickbackReduction": 0.7,
+    "kickbackRecoveryTimeReduction": 0.4,
+    "kickbackOffsetMultiplier": 1.0,
+    "kickbackOffset": {
+      "rangeStart": 0.0991954058,
+      "rangeEnd": 0.17022787
+    },
+    "recoilApplicationTime": 0.115,
+    "recoilRecoveryTime": 0.2,
+    "useCustomBulletRecoveryTime": true,
+    "bulletRecoveryTime": 0.1,
+    "recoilRecoveryDelay": 0.0,
+    "recoilApplication": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.277750432,
+          "value": 0.32250303,
+          "inTangent": 2.60301328,
+          "outTangent": 2.60301328,
+          "inWeight": 0.9580068,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "recoilRecovery": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.8237873,
+          "value": 0.214899242,
+          "inTangent": -2.55367756,
+          "outTangent": -2.55367756,
+          "inWeight": 0.0438999534,
+          "outWeight": 1.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "recoilReduction": 0.4,
+    "recoilRecoveryTimeReduction": 0.4,
+    "angleLimit": {
+      "x": 15.0,
+      "y": 60.0
+    },
+    "recoilOffsetMultiplier": {
+      "x": 1.25,
+      "y": 3.675
+    },
+    "recoilOffsets": [
+      {
+        "X": {
+          "rangeStart": -2.5,
+          "rangeEnd": 2.5
+        },
+        "Y": {
+          "rangeStart": 0.3163039,
+          "rangeEnd": 2.8128655
+        }
+      }
+    ],
+    "id": 3,
+    "name": "MT-47",
+    "category": ""
+  },
+  {
+    "applyKickbackFromRootPosition": false,
+    "kickbackApplicationTime": 0.05,
+    "kickbackRecoveryTime": 0.1,
+    "kickbackRecoveryDelay": 0.0,
+    "kickbackApplication": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.4458418,
+          "value": 0.5473784,
+          "inTangent": 2.07764673,
+          "outTangent": 2.07764673,
+          "inWeight": 0.09361257,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "kickbackRecovery": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inTangent": 0.008869171,
+          "outTangent": 0.008869171,
+          "inWeight": 0.0,
+          "outWeight": 0.533333361,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 0.0,
+          "inTangent": -1.14650321,
+          "outTangent": -1.14650321,
+          "inWeight": 0.333333343,
+          "outWeight": 0.150874913,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "kickbackReduction": 0.65,
+    "kickbackRecoveryTimeReduction": 0.65,
+    "kickbackOffsetMultiplier": 1.0,
+    "kickbackOffset": {
+      "rangeStart": 0.07727757,
+      "rangeEnd": 0.13499999
+    },
+    "recoilApplicationTime": 0.1,
+    "recoilRecoveryTime": 0.15,
+    "useCustomBulletRecoveryTime": true,
+    "bulletRecoveryTime": 0.05,
+    "recoilRecoveryDelay": 0.0,
+    "recoilApplication": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.4458418,
+          "value": 0.5473784,
+          "inTangent": 2.07764673,
+          "outTangent": 2.07764673,
+          "inWeight": 0.09361257,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "recoilRecovery": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inTangent": 0.008869171,
+          "outTangent": 0.008869171,
+          "inWeight": 0.0,
+          "outWeight": 0.533333361,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 0.0,
+          "inTangent": 0.0167228859,
+          "outTangent": 0.0167228859,
+          "inWeight": 0.162500024,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "recoilReduction": 0.65,
+    "recoilRecoveryTimeReduction": 0.65,
+    "angleLimit": {
+      "x": 17.5,
+      "y": 40.0
+    },
+    "recoilOffsetMultiplier": {
+      "x": 0.725,
+      "y": 0.775
+    },
+    "recoilOffsets": [
+      {
+        "X": {
+          "rangeStart": -1.0,
+          "rangeEnd": 1.0
+        },
+        "Y": {
+          "rangeStart": -0.25,
+          "rangeEnd": 1.5
+        }
+      }
+    ],
+    "id": 4,
+    "name": "SMG",
+    "category": ""
+  },
+  {
+    "applyKickbackFromRootPosition": true,
+    "kickbackApplicationTime": 0.055,
+    "kickbackRecoveryTime": 0.135,
+    "kickbackRecoveryDelay": 0.0,
+    "kickbackApplication": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.292032063,
+          "value": 0.449968547,
+          "inTangent": 1.63651311,
+          "outTangent": 1.63651311,
+          "inWeight": 0.08442695,
+          "outWeight": 0.03288011,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "kickbackRecovery": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inTangent": -0.06847165,
+          "outTangent": -0.06847165,
+          "inWeight": 0.0,
+          "outWeight": 0.111940354,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.4633765,
+          "value": 0.55958873,
+          "inTangent": -2.31386638,
+          "outTangent": -2.31386638,
+          "inWeight": 0.251129538,
+          "outWeight": 0.09043265,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "kickbackReduction": 0.9,
+    "kickbackRecoveryTimeReduction": 0.9,
+    "kickbackOffsetMultiplier": 1.05,
+    "kickbackOffset": {
+      "rangeStart": 0.0412816554,
+      "rangeEnd": 0.08551927
+    },
+    "recoilApplicationTime": 0.055,
+    "recoilRecoveryTime": 0.135,
+    "useCustomBulletRecoveryTime": true,
+    "bulletRecoveryTime": 0.05,
+    "recoilRecoveryDelay": 0.0,
+    "recoilApplication": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.292032063,
+          "value": 0.449968547,
+          "inTangent": 1.63651311,
+          "outTangent": 1.63651311,
+          "inWeight": 0.08442695,
+          "outWeight": 0.03288011,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "recoilRecovery": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inTangent": -0.06847165,
+          "outTangent": -0.06847165,
+          "inWeight": 0.0,
+          "outWeight": 0.111940354,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.4633765,
+          "value": 0.55958873,
+          "inTangent": -2.31386638,
+          "outTangent": -2.31386638,
+          "inWeight": 0.251129538,
+          "outWeight": 0.09043265,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "recoilReduction": 0.9,
+    "recoilRecoveryTimeReduction": 0.9,
+    "angleLimit": {
+      "x": 10.0,
+      "y": 70.0
+    },
+    "recoilOffsetMultiplier": {
+      "x": 1.0,
+      "y": 1.65
+    },
+    "recoilOffsets": [
+      {
+        "X": {
+          "rangeStart": -0.15,
+          "rangeEnd": 0.15
+        },
+        "Y": {
+          "rangeStart": 3.15299273,
+          "rangeEnd": 4.239457
+        }
+      }
+    ],
+    "id": 5,
+    "name": "Service Pistol",
+    "category": ""
+  },
+  {
+    "applyKickbackFromRootPosition": true,
+    "kickbackApplicationTime": 0.0675,
+    "kickbackRecoveryTime": 0.285,
+    "kickbackRecoveryDelay": 0.0,
+    "kickbackApplication": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.155787647,
+          "value": 0.23326847,
+          "inTangent": 2.04333878,
+          "outTangent": 2.04333878,
+          "inWeight": 0.25969407,
+          "outWeight": 0.03531589,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "kickbackRecovery": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inTangent": 0.008869171,
+          "outTangent": 0.008869171,
+          "inWeight": 0.0,
+          "outWeight": 0.533333361,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.83952713,
+          "value": 0.156555831,
+          "inTangent": -1.64954007,
+          "outTangent": -1.64954007,
+          "inWeight": 0.05412663,
+          "outWeight": 0.444882929,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 0.0,
+          "inTangent": -0.06886477,
+          "outTangent": -0.06886477,
+          "inWeight": 0.299708515,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "kickbackReduction": 0.55,
+    "kickbackRecoveryTimeReduction": 0.6,
+    "kickbackOffsetMultiplier": 1.0,
+    "kickbackOffset": {
+      "rangeStart": 0.08561858,
+      "rangeEnd": 0.13280803
+    },
+    "recoilApplicationTime": 0.0675,
+    "recoilRecoveryTime": 0.285,
+    "useCustomBulletRecoveryTime": true,
+    "bulletRecoveryTime": 0.01,
+    "recoilRecoveryDelay": 0.0,
+    "recoilApplication": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.452104419,
+          "value": 0.6306631,
+          "inTangent": 1.84227169,
+          "outTangent": 1.84227169,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "recoilRecovery": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inTangent": 0.008869171,
+          "outTangent": 0.008869171,
+          "inWeight": 0.0,
+          "outWeight": 0.533333361,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.5453428,
+          "value": 0.7466337,
+          "inTangent": -1.39278626,
+          "outTangent": -1.39278626,
+          "inWeight": 0.105067484,
+          "outWeight": 0.914505,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.620909631,
+          "value": 0.5700629,
+          "inTangent": -3.284367,
+          "outTangent": -3.284367,
+          "inWeight": 0.470609963,
+          "outWeight": 0.7792776,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.6624267,
+          "value": 0.424795,
+          "inTangent": -3.62415433,
+          "outTangent": -3.62415433,
+          "inWeight": 0.8556418,
+          "outWeight": 0.07007951,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 0.0,
+          "inTangent": -0.06886477,
+          "outTangent": -0.06886477,
+          "inWeight": 0.299708515,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "recoilReduction": 0.45,
+    "recoilRecoveryTimeReduction": 0.6,
+    "angleLimit": {
+      "x": 10.0,
+      "y": 70.0
+    },
+    "recoilOffsetMultiplier": {
+      "x": 1.0,
+      "y": 3.0
+    },
+    "recoilOffsets": [
+      {
+        "X": {
+          "rangeStart": 0.0,
+          "rangeEnd": 0.0
+        },
+        "Y": {
+          "rangeStart": 2.4,
+          "rangeEnd": 3.75
+        }
+      }
+    ],
+    "id": 7,
+    "name": "Arizona Falcon ",
+    "category": ""
+  },
+  {
+    "applyKickbackFromRootPosition": false,
+    "kickbackApplicationTime": 0.085,
+    "kickbackRecoveryTime": 0.115,
+    "kickbackRecoveryDelay": 0.0,
+    "kickbackApplication": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.289954364,
+          "value": 0.284388185,
+          "inTangent": 1.77687442,
+          "outTangent": 1.77687442,
+          "inWeight": 0.151134655,
+          "outWeight": 0.05099594,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "kickbackRecovery": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inTangent": 0.008869171,
+          "outTangent": 0.008869171,
+          "inWeight": 0.0,
+          "outWeight": 0.533333361,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.517673731,
+          "value": 0.291597217,
+          "inTangent": -1.03767419,
+          "outTangent": -1.03767419,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 0.0,
+          "inTangent": 0.0167228859,
+          "outTangent": 0.0167228859,
+          "inWeight": 0.162500024,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "kickbackReduction": 0.775,
+    "kickbackRecoveryTimeReduction": 0.55,
+    "kickbackOffsetMultiplier": 1.0,
+    "kickbackOffset": {
+      "rangeStart": 0.0884436741,
+      "rangeEnd": 0.110272557
+    },
+    "recoilApplicationTime": 0.115,
+    "recoilRecoveryTime": 0.2,
+    "useCustomBulletRecoveryTime": true,
+    "bulletRecoveryTime": 0.1,
+    "recoilRecoveryDelay": 0.0,
+    "recoilApplication": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.277750432,
+          "value": 0.32250303,
+          "inTangent": 2.60301328,
+          "outTangent": 2.60301328,
+          "inWeight": 0.9580068,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "recoilRecovery": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.8237873,
+          "value": 0.214899242,
+          "inTangent": -2.55367756,
+          "outTangent": -2.55367756,
+          "inWeight": 0.0438999534,
+          "outWeight": 1.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "recoilReduction": 0.3,
+    "recoilRecoveryTimeReduction": 0.4,
+    "angleLimit": {
+      "x": 15.0,
+      "y": 60.0
+    },
+    "recoilOffsetMultiplier": {
+      "x": 1.115,
+      "y": 1.65
+    },
+    "recoilOffsets": [
+      {
+        "X": {
+          "rangeStart": -2.5,
+          "rangeEnd": 2.5
+        },
+        "Y": {
+          "rangeStart": 0.3163039,
+          "rangeEnd": 2.8128655
+        }
+      }
+    ],
+    "id": 8,
+    "name": "Assault Carbine",
+    "category": ""
+  },
+  {
+    "applyKickbackFromRootPosition": true,
+    "kickbackApplicationTime": 0.145,
+    "kickbackRecoveryTime": 0.525,
+    "kickbackRecoveryDelay": 0.0,
+    "kickbackApplication": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 1.0194732,
+          "outTangent": 1.0194732,
+          "inWeight": 0.333333343,
+          "outWeight": 0.698512852,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.09688159,
+          "value": 0.226895139,
+          "inTangent": 2.76329446,
+          "outTangent": 2.76329446,
+          "inWeight": 0.32251212,
+          "outWeight": 0.02397878,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "kickbackRecovery": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inTangent": 0.008869171,
+          "outTangent": 0.008869171,
+          "inWeight": 0.0,
+          "outWeight": 0.533333361,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.517673731,
+          "value": 0.291597217,
+          "inTangent": -1.03767419,
+          "outTangent": -1.03767419,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 0.0,
+          "inTangent": 0.0167228859,
+          "outTangent": 0.0167228859,
+          "inWeight": 0.162500024,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "kickbackReduction": 0.45,
+    "kickbackRecoveryTimeReduction": 0.625,
+    "kickbackOffsetMultiplier": 1.0,
+    "kickbackOffset": {
+      "rangeStart": 0.106887892,
+      "rangeEnd": 0.1938171
+    },
+    "recoilApplicationTime": 0.145,
+    "recoilRecoveryTime": 0.525,
+    "useCustomBulletRecoveryTime": true,
+    "bulletRecoveryTime": 0.0,
+    "recoilRecoveryDelay": 0.0,
+    "recoilApplication": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 1.0194732,
+          "outTangent": 1.0194732,
+          "inWeight": 0.333333343,
+          "outWeight": 0.698512852,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.09688159,
+          "value": 0.226895139,
+          "inTangent": 2.76329446,
+          "outTangent": 2.76329446,
+          "inWeight": 0.32251212,
+          "outWeight": 0.02397878,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "recoilRecovery": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inTangent": 0.008869171,
+          "outTangent": 0.008869171,
+          "inWeight": 0.0,
+          "outWeight": 0.533333361,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.517673731,
+          "value": 0.291597217,
+          "inTangent": -1.03767419,
+          "outTangent": -1.03767419,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 0.0,
+          "inTangent": 0.0167228859,
+          "outTangent": 0.0167228859,
+          "inWeight": 0.162500024,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "recoilReduction": 0.45,
+    "recoilRecoveryTimeReduction": 0.625,
+    "angleLimit": {
+      "x": 15.0,
+      "y": 90.0
+    },
+    "recoilOffsetMultiplier": {
+      "x": 1.55,
+      "y": 4.6
+    },
+    "recoilOffsets": [
+      {
+        "X": {
+          "rangeStart": -1.0,
+          "rangeEnd": 1.0
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": 0.429953963,
+          "rangeEnd": 1.10495389
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": 0.83702,
+          "rangeEnd": 1.51201987
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": 0.8139785,
+          "rangeEnd": 1.48897839
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": 0.5374808,
+          "rangeEnd": 1.21248078
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": 0.24665907,
+          "rangeEnd": 0.9216591
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.791244268,
+          "rangeEnd": -0.1162442
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.8450077,
+          "rangeEnd": -0.1700077
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.8526882,
+          "rangeEnd": -0.177688181
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.6913979,
+          "rangeEnd": -0.0163978934
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.614592969,
+          "rangeEnd": 0.0604069829
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.0462365746,
+          "rangeEnd": 0.6287635
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.237211823,
+          "rangeEnd": 0.437788129
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.114323959,
+          "rangeEnd": 0.560676
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": 0.08536878,
+          "rangeEnd": 0.7603688
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.537788033,
+          "rangeEnd": 0.137211978
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.5224271,
+          "rangeEnd": 0.15257293
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.651958466,
+          "rangeEnd": 0.0230415463
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.645314932,
+          "rangeEnd": 0.02968508
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.591551542,
+          "rangeEnd": 0.08344841
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.5070661,
+          "rangeEnd": 0.167934
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.6529954,
+          "rangeEnd": 0.0220046043
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.8516512,
+          "rangeEnd": -0.17665118
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.6913979,
+          "rangeEnd": -0.0163978934
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.130721956,
+          "rangeEnd": 0.544278145
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.192165911,
+          "rangeEnd": 0.48283428
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.390821755,
+          "rangeEnd": 0.284178257
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.0385560319,
+          "rangeEnd": 0.636444
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.106643468,
+          "rangeEnd": 0.5683565
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": 0.383870959,
+          "rangeEnd": 1.05887091
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": 0.268663615,
+          "rangeEnd": 0.9436636
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": 0.0920122862,
+          "rangeEnd": 0.767012358
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": 0.0162444115,
+          "rangeEnd": 0.6912444
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.68371737,
+          "rangeEnd": -0.008717358
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.238248885,
+          "rangeEnd": 0.436751068
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": 0.337788,
+          "rangeEnd": 1.012788
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.237211883,
+          "rangeEnd": 0.437788129
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.628917038,
+          "rangeEnd": 0.0460830331
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.760522366,
+          "rangeEnd": -0.08552235
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.8450077,
+          "rangeEnd": -0.1700077
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.9064516,
+          "rangeEnd": -0.231451571
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.6529954,
+          "rangeEnd": 0.0220046043
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.6673194,
+          "rangeEnd": 0.00768065453
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.460983157,
+          "rangeEnd": 0.214016855
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.729800344,
+          "rangeEnd": -0.05480033
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.614592969,
+          "rangeEnd": 0.0604070425
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": 0.237941563,
+          "rangeEnd": 0.9129415
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": 0.130414724,
+          "rangeEnd": 0.8054147
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": 0.130414724,
+          "rangeEnd": 0.8054147
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.3370583,
+          "rangeEnd": 0.337941766
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": 0.0382488221,
+          "rangeEnd": 0.7132488
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": 0.184178129,
+          "rangeEnd": 0.8591781
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.0298386216,
+          "rangeEnd": 0.6451614
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": 0.2379416,
+          "rangeEnd": 0.9129416
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": 0.01520735,
+          "rangeEnd": 0.690207362
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.029838562,
+          "rangeEnd": 0.64516145
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.115361005,
+          "rangeEnd": 0.5596391
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.2689708,
+          "rangeEnd": 0.406029165
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.722119868,
+          "rangeEnd": -0.0471198559
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.898771167,
+          "rangeEnd": -0.223771155
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.94485414,
+          "rangeEnd": -0.269854128
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.9064517,
+          "rangeEnd": -0.23145169
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.9054147,
+          "rangeEnd": -0.230414689
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.7451614,
+          "rangeEnd": -0.0701614
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.89005363,
+          "rangeEnd": -0.215053678
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.867012262,
+          "rangeEnd": -0.192012191
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -1.112788,
+          "rangeEnd": -0.4377879
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": 0.4540323,
+          "rangeEnd": 1.12903237
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": 0.598924756,
+          "rangeEnd": 1.27392483
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": 0.5221199,
+          "rangeEnd": 1.19711983
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": 0.26098305,
+          "rangeEnd": 0.935983062
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.43794167,
+          "rangeEnd": 0.2370584
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.1384024,
+          "rangeEnd": 0.536597669
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": 0.0689708,
+          "rangeEnd": 0.7439708
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": 0.33010748,
+          "rangeEnd": 1.00510764
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.0615975261,
+          "rangeEnd": 0.6134025
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.513709545,
+          "rangeEnd": 0.161290467
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.244892418,
+          "rangeEnd": 0.4301076
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.045199573,
+          "rangeEnd": 0.629800439
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.0462365746,
+          "rangeEnd": 0.628763437
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": 0.1457757,
+          "rangeEnd": 0.8207756
+        },
+        "Y": {
+          "rangeStart": -0.025,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": 0.1764977,
+          "rangeEnd": 0.851497769
+        },
+        "Y": {
+          "rangeStart": -0.1,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": 0.0316053331,
+          "rangeEnd": 0.7066053
+        },
+        "Y": {
+          "rangeStart": -0.1,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": 0.0920122862,
+          "rangeEnd": 0.7670123
+        },
+        "Y": {
+          "rangeStart": -0.1,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": 0.461712837,
+          "rangeEnd": 1.13671279
+        },
+        "Y": {
+          "rangeStart": -0.1,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": 0.2620201,
+          "rangeEnd": 0.9370201
+        },
+        "Y": {
+          "rangeStart": -0.1,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.83629024,
+          "rangeEnd": -0.161290228
+        },
+        "Y": {
+          "rangeStart": -0.1,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.920775652,
+          "rangeEnd": -0.2457757
+        },
+        "Y": {
+          "rangeStart": -0.1,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.805568159,
+          "rangeEnd": -0.1305682
+        },
+        "Y": {
+          "rangeStart": -0.1,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.75284183,
+          "rangeEnd": -0.07784182
+        },
+        "Y": {
+          "rangeStart": -0.1,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.6212365,
+          "rangeEnd": 0.05376351
+        },
+        "Y": {
+          "rangeStart": -0.1,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.275614381,
+          "rangeEnd": 0.399385631
+        },
+        "Y": {
+          "rangeStart": -0.1,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.26025334,
+          "rangeEnd": 0.414746672
+        },
+        "Y": {
+          "rangeStart": -0.1,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": 0.06897083,
+          "rangeEnd": 0.7439709
+        },
+        "Y": {
+          "rangeStart": -0.1,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": 0.09304929,
+          "rangeEnd": 0.7680493
+        },
+        "Y": {
+          "rangeStart": -0.1,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.123041481,
+          "rangeEnd": 0.551958561
+        },
+        "Y": {
+          "rangeStart": -0.1,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.161443889,
+          "rangeEnd": 0.5135563
+        },
+        "Y": {
+          "rangeStart": -0.1,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.5915514,
+          "rangeEnd": 0.08344865
+        },
+        "Y": {
+          "rangeStart": -0.1,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.6212364,
+          "rangeEnd": 0.05376357
+        },
+        "Y": {
+          "rangeStart": -0.1,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -0.7748463,
+          "rangeEnd": -0.0998463
+        },
+        "Y": {
+          "rangeStart": -0.1,
+          "rangeEnd": 1.0
+        }
+      },
+      {
+        "X": {
+          "rangeStart": -1.0,
+          "rangeEnd": 1.0
+        },
+        "Y": {
+          "rangeStart": -0.1,
+          "rangeEnd": 1.0
+        }
+      }
+    ],
+    "id": 32,
+    "name": "Light Machine Gun",
+    "category": ""
+  },
+  {
+    "applyKickbackFromRootPosition": true,
+    "kickbackApplicationTime": 0.05,
+    "kickbackRecoveryTime": 0.125,
+    "kickbackRecoveryDelay": 0.0,
+    "kickbackApplication": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.4458418,
+          "value": 0.5473784,
+          "inTangent": 2.07764673,
+          "outTangent": 2.07764673,
+          "inWeight": 0.09361257,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "kickbackRecovery": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inTangent": 0.008869171,
+          "outTangent": 0.008869171,
+          "inWeight": 0.0,
+          "outWeight": 0.533333361,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 0.0,
+          "inTangent": -1.14650321,
+          "outTangent": -1.14650321,
+          "inWeight": 0.333333343,
+          "outWeight": 0.150874913,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "kickbackReduction": 0.45,
+    "kickbackRecoveryTimeReduction": 0.45,
+    "kickbackOffsetMultiplier": 1.0,
+    "kickbackOffset": {
+      "rangeStart": 0.0479949974,
+      "rangeEnd": 0.09473644
+    },
+    "recoilApplicationTime": 0.05,
+    "recoilRecoveryTime": 0.125,
+    "useCustomBulletRecoveryTime": true,
+    "bulletRecoveryTime": 0.01,
+    "recoilRecoveryDelay": 0.0,
+    "recoilApplication": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.4458418,
+          "value": 0.5473784,
+          "inTangent": 2.07764673,
+          "outTangent": 2.07764673,
+          "inWeight": 0.09361257,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "recoilRecovery": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inTangent": 0.008869171,
+          "outTangent": 0.008869171,
+          "inWeight": 0.0,
+          "outWeight": 0.533333361,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 0.0,
+          "inTangent": 0.0167228859,
+          "outTangent": 0.0167228859,
+          "inWeight": 0.162500024,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "recoilReduction": 0.45,
+    "recoilRecoveryTimeReduction": 0.45,
+    "angleLimit": {
+      "x": 17.5,
+      "y": 90.0
+    },
+    "recoilOffsetMultiplier": {
+      "x": 1.75,
+      "y": 2.0
+    },
+    "recoilOffsets": [
+      {
+        "X": {
+          "rangeStart": -1.75,
+          "rangeEnd": 1.75
+        },
+        "Y": {
+          "rangeStart": 1.05,
+          "rangeEnd": 2.0
+        }
+      }
+    ],
+    "id": 33,
+    "name": "Tommy Gun",
+    "category": ""
+  },
+  {
+    "applyKickbackFromRootPosition": true,
+    "kickbackApplicationTime": 0.05,
+    "kickbackRecoveryTime": 0.7,
+    "kickbackRecoveryDelay": 0.0,
+    "kickbackApplication": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.0885113552,
+          "value": 0.161542445,
+          "inTangent": 2.61277771,
+          "outTangent": 2.61277771,
+          "inWeight": 0.211006,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "kickbackRecovery": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inTangent": 0.008869171,
+          "outTangent": 0.008869171,
+          "inWeight": 0.0,
+          "outWeight": 0.533333361,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.6424975,
+          "value": 0.551120341,
+          "inTangent": -2.05090213,
+          "outTangent": -2.05090213,
+          "inWeight": 0.0956303552,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 0.0,
+          "inTangent": 0.0167228859,
+          "outTangent": 0.0167228859,
+          "inWeight": 0.162500024,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "kickbackReduction": 0.4,
+    "kickbackRecoveryTimeReduction": 0.7,
+    "kickbackOffsetMultiplier": 1.0,
+    "kickbackOffset": {
+      "rangeStart": 0.125,
+      "rangeEnd": 0.275
+    },
+    "recoilApplicationTime": 0.05,
+    "recoilRecoveryTime": 0.7,
+    "useCustomBulletRecoveryTime": true,
+    "bulletRecoveryTime": 0.01,
+    "recoilRecoveryDelay": 0.0,
+    "recoilApplication": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.0885113552,
+          "value": 0.161542445,
+          "inTangent": 2.61277771,
+          "outTangent": 2.61277771,
+          "inWeight": 0.211006,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "recoilRecovery": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inTangent": 0.008869171,
+          "outTangent": 0.008869171,
+          "inWeight": 0.0,
+          "outWeight": 0.533333361,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.6424975,
+          "value": 0.551120341,
+          "inTangent": -2.05090213,
+          "outTangent": -2.05090213,
+          "inWeight": 0.0956303552,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 0.0,
+          "inTangent": 0.0167228859,
+          "outTangent": 0.0167228859,
+          "inWeight": 0.162500024,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "recoilReduction": 0.4,
+    "recoilRecoveryTimeReduction": 0.7,
+    "angleLimit": {
+      "x": 10.0,
+      "y": 85.0
+    },
+    "recoilOffsetMultiplier": {
+      "x": 1.65,
+      "y": 4.0
+    },
+    "recoilOffsets": [
+      {
+        "X": {
+          "rangeStart": -2.0,
+          "rangeEnd": 2.0
+        },
+        "Y": {
+          "rangeStart": 2.0,
+          "rangeEnd": 3.0
+        }
+      }
+    ],
+    "id": 34,
+    "name": "Auto-Shotgun",
+    "category": ""
+  },
+  {
+    "applyKickbackFromRootPosition": true,
+    "kickbackApplicationTime": 0.1125,
+    "kickbackRecoveryTime": 0.625,
+    "kickbackRecoveryDelay": 0.0,
+    "kickbackApplication": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.289954364,
+          "value": 0.284388185,
+          "inTangent": 1.77687442,
+          "outTangent": 1.77687442,
+          "inWeight": 0.151134655,
+          "outWeight": 0.05099594,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "kickbackRecovery": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inTangent": 0.008869171,
+          "outTangent": 0.008869171,
+          "inWeight": 0.0,
+          "outWeight": 0.533333361,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.517673731,
+          "value": 0.291597217,
+          "inTangent": -1.03767419,
+          "outTangent": -1.03767419,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 0.0,
+          "inTangent": 0.0167228859,
+          "outTangent": 0.0167228859,
+          "inWeight": 0.162500024,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "kickbackReduction": 0.7,
+    "kickbackRecoveryTimeReduction": 0.4,
+    "kickbackOffsetMultiplier": 1.0,
+    "kickbackOffset": {
+      "rangeStart": 0.132138312,
+      "rangeEnd": 0.195850134
+    },
+    "recoilApplicationTime": 0.115,
+    "recoilRecoveryTime": 0.625,
+    "useCustomBulletRecoveryTime": true,
+    "bulletRecoveryTime": 0.1,
+    "recoilRecoveryDelay": 0.0,
+    "recoilApplication": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.277750432,
+          "value": 0.32250303,
+          "inTangent": 2.60301328,
+          "outTangent": 2.60301328,
+          "inWeight": 0.9580068,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "recoilRecovery": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.8237873,
+          "value": 0.214899242,
+          "inTangent": -2.55367756,
+          "outTangent": -2.55367756,
+          "inWeight": 0.0438999534,
+          "outWeight": 1.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "recoilReduction": 0.4,
+    "recoilRecoveryTimeReduction": 0.4,
+    "angleLimit": {
+      "x": 15.0,
+      "y": 60.0
+    },
+    "recoilOffsetMultiplier": {
+      "x": 1.25,
+      "y": 5.0
+    },
+    "recoilOffsets": [
+      {
+        "X": {
+          "rangeStart": -2.5,
+          "rangeEnd": 2.5
+        },
+        "Y": {
+          "rangeStart": 0.3163039,
+          "rangeEnd": 2.8128655
+        }
+      }
+    ],
+    "id": 35,
+    "name": "Hunting Rifle",
+    "category": ""
+  }
+]
+}

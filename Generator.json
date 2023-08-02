@@ -1,0 +1,426 @@
+{
+  "TableId": 127,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "handPose": 43,
+    "coilAnimations": [
+      {
+        "animationLength": 0.8000001,
+        "assetName": "Anim_Generator_Coil1",
+        "assetPath": "Assets/Art/Animations/VertigoResources/GeneratorAnimations/Anim_Generator_Coil1.anim",
+        "assetGUID": "ed0adc6084c113a419f79d3287d84857",
+        "resourcePath": "GeneratorAnimations/Anim_Generator_Coil1",
+        "isSubAsset": false
+      },
+      {
+        "animationLength": 0.8000001,
+        "assetName": "Anim_Generator_Coil2",
+        "assetPath": "Assets/Art/Animations/VertigoResources/GeneratorAnimations/Anim_Generator_Coil2.anim",
+        "assetGUID": "b46b71d183e0e9a429d00df117b86f10",
+        "resourcePath": "GeneratorAnimations/Anim_Generator_Coil2",
+        "isSubAsset": false
+      },
+      {
+        "animationLength": 0.8000001,
+        "assetName": "Anim_Generator_Coil3",
+        "assetPath": "Assets/Art/Animations/VertigoResources/GeneratorAnimations/Anim_Generator_Coil3.anim",
+        "assetGUID": "3edda6efca6c23042abf87e5943e54ed",
+        "resourcePath": "GeneratorAnimations/Anim_Generator_Coil3",
+        "isSubAsset": false
+      }
+    ],
+    "runningAnimation": {
+      "animationLength": 0.6666667,
+      "assetName": "Anim_Generator_Running",
+      "assetPath": "Assets/Art/Animations/VertigoResources/GeneratorAnimations/Anim_Generator_Running.anim",
+      "assetGUID": "d4b16a4ac5b30284081ea73731c950fc",
+      "resourcePath": "GeneratorAnimations/Anim_Generator_Running",
+      "isSubAsset": false
+    },
+    "triedPoweringWithEmptyFuelCellParticles": {
+      "assetName": "Generator_TriedPowering_Smoke",
+      "assetPath": "Assets/Art/FX Vertigo/FX/VertigoResources/Particles/Generator/Generator_TriedPowering_Smoke.prefab",
+      "assetGUID": "6861bbbd626e72947ac4aa8537f76492",
+      "resourcePath": "Particles/Generator/Generator_TriedPowering_Smoke",
+      "isSubAsset": false
+    },
+    "capacity": 2.0,
+    "timeToTransferChargeUnit": 3.0,
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 0,
+    "id": 0,
+    "name": "Default",
+    "category": "",
+    "displayName": "Generator",
+    "descriptionLocalizationKey": null,
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "",
+    "tooltipSubtitleDisplayName": "",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Gameplay_Generator_03_Prefab",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/PuzzleInteractables/Puzzles/Gameplay_Generator_03_Prefab.prefab",
+      "assetGUID": "c734356825240544981caddd4484a69a",
+      "resourcePath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/PuzzleInteractables/Puzzles/Gameplay_Generator_03_Prefab",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 0,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": null,
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": null,
+      "AssemblyQualifiedName": null
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPose": 43,
+    "coilAnimations": [
+      {
+        "animationLength": 0.8000001,
+        "assetName": "Anim_Generator_Coil1",
+        "assetPath": "Assets/Art/Animations/VertigoResources/GeneratorAnimations/Anim_Generator_Coil1.anim",
+        "assetGUID": "ed0adc6084c113a419f79d3287d84857",
+        "resourcePath": "GeneratorAnimations/Anim_Generator_Coil1",
+        "isSubAsset": false
+      },
+      {
+        "animationLength": 0.8000001,
+        "assetName": "Anim_Generator_Coil2",
+        "assetPath": "Assets/Art/Animations/VertigoResources/GeneratorAnimations/Anim_Generator_Coil2.anim",
+        "assetGUID": "b46b71d183e0e9a429d00df117b86f10",
+        "resourcePath": "GeneratorAnimations/Anim_Generator_Coil2",
+        "isSubAsset": false
+      },
+      {
+        "animationLength": 0.8000001,
+        "assetName": "Anim_Generator_Coil3",
+        "assetPath": "Assets/Art/Animations/VertigoResources/GeneratorAnimations/Anim_Generator_Coil3.anim",
+        "assetGUID": "3edda6efca6c23042abf87e5943e54ed",
+        "resourcePath": "GeneratorAnimations/Anim_Generator_Coil3",
+        "isSubAsset": false
+      }
+    ],
+    "runningAnimation": {
+      "animationLength": 0.6666667,
+      "assetName": "Anim_Generator_Running",
+      "assetPath": "Assets/Art/Animations/VertigoResources/GeneratorAnimations/Anim_Generator_Running.anim",
+      "assetGUID": "d4b16a4ac5b30284081ea73731c950fc",
+      "resourcePath": "GeneratorAnimations/Anim_Generator_Running",
+      "isSubAsset": false
+    },
+    "triedPoweringWithEmptyFuelCellParticles": {
+      "assetName": "Generator_TriedPowering_Smoke",
+      "assetPath": "Assets/Art/FX Vertigo/FX/VertigoResources/Particles/Generator/Generator_TriedPowering_Smoke.prefab",
+      "assetGUID": "6861bbbd626e72947ac4aa8537f76492",
+      "resourcePath": "Particles/Generator/Generator_TriedPowering_Smoke",
+      "isSubAsset": false
+    },
+    "capacity": 0.9,
+    "timeToTransferChargeUnit": 60.0,
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 0,
+    "id": 1,
+    "name": "DowntownChallenge",
+    "category": "",
+    "displayName": "Generator",
+    "descriptionLocalizationKey": null,
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "",
+    "tooltipSubtitleDisplayName": "",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Gameplay_Generator_03_Prefab",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/PuzzleInteractables/Puzzles/Gameplay_Generator_03_Prefab.prefab",
+      "assetGUID": "c734356825240544981caddd4484a69a",
+      "resourcePath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/PuzzleInteractables/Puzzles/Gameplay_Generator_03_Prefab",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 0,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": null,
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": null,
+      "AssemblyQualifiedName": null
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "handPose": 43,
+    "coilAnimations": [
+      {
+        "animationLength": 0.8000001,
+        "assetName": "Anim_Generator_Coil1",
+        "assetPath": "Assets/Art/Animations/VertigoResources/GeneratorAnimations/Anim_Generator_Coil1.anim",
+        "assetGUID": "ed0adc6084c113a419f79d3287d84857",
+        "resourcePath": "GeneratorAnimations/Anim_Generator_Coil1",
+        "isSubAsset": false
+      },
+      {
+        "animationLength": 0.8000001,
+        "assetName": "Anim_Generator_Coil2",
+        "assetPath": "Assets/Art/Animations/VertigoResources/GeneratorAnimations/Anim_Generator_Coil2.anim",
+        "assetGUID": "b46b71d183e0e9a429d00df117b86f10",
+        "resourcePath": "GeneratorAnimations/Anim_Generator_Coil2",
+        "isSubAsset": false
+      },
+      {
+        "animationLength": 0.8000001,
+        "assetName": "Anim_Generator_Coil3",
+        "assetPath": "Assets/Art/Animations/VertigoResources/GeneratorAnimations/Anim_Generator_Coil3.anim",
+        "assetGUID": "3edda6efca6c23042abf87e5943e54ed",
+        "resourcePath": "GeneratorAnimations/Anim_Generator_Coil3",
+        "isSubAsset": false
+      }
+    ],
+    "runningAnimation": {
+      "animationLength": 0.6666667,
+      "assetName": "Anim_Generator_Running",
+      "assetPath": "Assets/Art/Animations/VertigoResources/GeneratorAnimations/Anim_Generator_Running.anim",
+      "assetGUID": "d4b16a4ac5b30284081ea73731c950fc",
+      "resourcePath": "GeneratorAnimations/Anim_Generator_Running",
+      "isSubAsset": false
+    },
+    "triedPoweringWithEmptyFuelCellParticles": {
+      "assetName": "Generator_TriedPowering_Smoke",
+      "assetPath": "Assets/Art/FX Vertigo/FX/VertigoResources/Particles/Generator/Generator_TriedPowering_Smoke.prefab",
+      "assetGUID": "6861bbbd626e72947ac4aa8537f76492",
+      "resourcePath": "Particles/Generator/Generator_TriedPowering_Smoke",
+      "isSubAsset": false
+    },
+    "capacity": 0.9,
+    "timeToTransferChargeUnit": 1.0,
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 0,
+    "id": 2,
+    "name": "FinalArena",
+    "category": "",
+    "displayName": "Generator",
+    "descriptionLocalizationKey": null,
+    "tooltipUniqueIcon": null,
+    "tooltipTitleDisplayName": null,
+    "tooltipSubtitleDisplayName": null,
+    "inventoryIcon": null,
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Gameplay_Generator_03_Prefab",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/PuzzleInteractables/Puzzles/Gameplay_Generator_03_Prefab.prefab",
+      "assetGUID": "c734356825240544981caddd4484a69a",
+      "resourcePath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/PuzzleInteractables/Puzzles/Gameplay_Generator_03_Prefab",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 0,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": null,
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": null,
+      "AssemblyQualifiedName": null
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  }
+]
+}

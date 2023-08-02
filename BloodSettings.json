@@ -1,0 +1,204 @@
+{
+  "TableId": 93,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "bulletMinDecalSize": 1.5,
+    "bulletMaxDecalSize": 2.0,
+    "bulletMinSizeDistance": 1.0,
+    "bulletMaxDistance": 40.0,
+    "indirectMinDecalSize": 2.5,
+    "indirectMaxDecalSize": 3.5,
+    "bloodPoolTextures": [
+      {
+        "assetName": "T_Blood_Splat_02_SDF",
+        "assetPath": "Assets/Art/FX Vertigo/FX Blood/FX Blood Painting/Textures/VertigoResources/T_Blood_Splat_02_SDF.tga",
+        "assetGUID": "be290d2c051efbc458537ecf75db1c64",
+        "resourcePath": "T_Blood_Splat_02_SDF",
+        "isSubAsset": false
+      },
+      {
+        "assetName": "T_Blood_Splat_05_SDF",
+        "assetPath": "Assets/Art/FX Vertigo/FX Blood/FX Blood Painting/Textures/VertigoResources/T_Blood_Splat_05_SDF.tga",
+        "assetGUID": "2a6fb8b29ca7f0d4483e5262a6fcee67",
+        "resourcePath": "T_Blood_Splat_05_SDF",
+        "isSubAsset": false
+      }
+    ],
+    "straightDecalTextures": [
+      {
+        "assetName": "T_Blood_Splat_01_SDF",
+        "assetPath": "Assets/Art/FX Vertigo/FX Blood/FX Blood Painting/Textures/VertigoResources/T_Blood_Splat_01_SDF.tga",
+        "assetGUID": "127f41bbab805984a807bf7938edb585",
+        "resourcePath": "T_Blood_Splat_01_SDF",
+        "isSubAsset": false
+      },
+      {
+        "assetName": "T_Blood_Splat_02_SDF",
+        "assetPath": "Assets/Art/FX Vertigo/FX Blood/FX Blood Painting/Textures/VertigoResources/T_Blood_Splat_02_SDF.tga",
+        "assetGUID": "be290d2c051efbc458537ecf75db1c64",
+        "resourcePath": "T_Blood_Splat_02_SDF",
+        "isSubAsset": false
+      },
+      {
+        "assetName": "T_Blood_Splat_03_SDF",
+        "assetPath": "Assets/Art/FX Vertigo/FX Blood/FX Blood Painting/Textures/VertigoResources/T_Blood_Splat_03_SDF.tga",
+        "assetGUID": "3adcc839f19c3bd41ac212732a252f71",
+        "resourcePath": "T_Blood_Splat_03_SDF",
+        "isSubAsset": false
+      },
+      {
+        "assetName": "T_Blood_Splat_04_SDF",
+        "assetPath": "Assets/Art/FX Vertigo/FX Blood/FX Blood Painting/Textures/VertigoResources/T_Blood_Splat_04_SDF.tga",
+        "assetGUID": "7d77c0dd4f5c62c4b99197c6c089a417",
+        "resourcePath": "T_Blood_Splat_04_SDF",
+        "isSubAsset": false
+      },
+      {
+        "assetName": "T_Blood_Splat_05_SDF",
+        "assetPath": "Assets/Art/FX Vertigo/FX Blood/FX Blood Painting/Textures/VertigoResources/T_Blood_Splat_05_SDF.tga",
+        "assetGUID": "2a6fb8b29ca7f0d4483e5262a6fcee67",
+        "resourcePath": "T_Blood_Splat_05_SDF",
+        "isSubAsset": false
+      }
+    ],
+    "angledDecalTextures": [
+      {
+        "assetName": "T_Blood_SplatLong_01_SDF",
+        "assetPath": "Assets/Art/FX Vertigo/FX Blood/FX Blood Painting/Textures/VertigoResources/T_Blood_SplatLong_01_SDF.tga",
+        "assetGUID": "bbbe6429a469a604282daef5a56969fc",
+        "resourcePath": "T_Blood_SplatLong_01_SDF",
+        "isSubAsset": false
+      },
+      {
+        "assetName": "T_Blood_SplatLong_02_SDF",
+        "assetPath": "Assets/Art/FX Vertigo/FX Blood/FX Blood Painting/Textures/VertigoResources/T_Blood_SplatLong_02_SDF.tga",
+        "assetGUID": "ed82a9c7ab4a5cd438b775bdf89845ab",
+        "resourcePath": "T_Blood_SplatLong_02_SDF",
+        "isSubAsset": false
+      },
+      {
+        "assetName": "T_Blood_SplatLong_03_SDF",
+        "assetPath": "Assets/Art/FX Vertigo/FX Blood/FX Blood Painting/Textures/VertigoResources/T_Blood_SplatLong_03_SDF.tga",
+        "assetGUID": "253f00d5c87faae4fb0ff529ca151445",
+        "resourcePath": "T_Blood_SplatLong_03_SDF",
+        "isSubAsset": false
+      },
+      {
+        "assetName": "T_Blood_SplatLong_04_SDF",
+        "assetPath": "Assets/Art/FX Vertigo/FX Blood/FX Blood Painting/Textures/VertigoResources/T_Blood_SplatLong_04_SDF.tga",
+        "assetGUID": "6079591677c6c304589bee2b5a8b41c1",
+        "resourcePath": "T_Blood_SplatLong_04_SDF",
+        "isSubAsset": false
+      },
+      {
+        "assetName": "T_Blood_SplatLong_05_SDF",
+        "assetPath": "Assets/Art/FX Vertigo/FX Blood/FX Blood Painting/Textures/VertigoResources/T_Blood_SplatLong_05_SDF.tga",
+        "assetGUID": "8db5e47bb65680c418f76c1f4cb521f0",
+        "resourcePath": "T_Blood_SplatLong_05_SDF",
+        "isSubAsset": false
+      },
+      {
+        "assetName": "T_BloodSplatter_01_SDF",
+        "assetPath": "Assets/Art/FX Vertigo/FX Blood/FX Blood Painting/Textures/VertigoResources/T_BloodSplatter_01_SDF.tga",
+        "assetGUID": "47f367d0af27d434581cce04796622f6",
+        "resourcePath": "T_BloodSplatter_01_SDF",
+        "isSubAsset": false
+      }
+    ],
+    "indirectSplatterDecalTextures": [
+      {
+        "assetName": "T_Blood_Splat_01_SDF",
+        "assetPath": "Assets/Art/FX Vertigo/FX Blood/FX Blood Painting/Textures/VertigoResources/T_Blood_Splat_01_SDF.tga",
+        "assetGUID": "127f41bbab805984a807bf7938edb585",
+        "resourcePath": "T_Blood_Splat_01_SDF",
+        "isSubAsset": false
+      },
+      {
+        "assetName": "T_Blood_Splat_02_SDF",
+        "assetPath": "Assets/Art/FX Vertigo/FX Blood/FX Blood Painting/Textures/VertigoResources/T_Blood_Splat_02_SDF.tga",
+        "assetGUID": "be290d2c051efbc458537ecf75db1c64",
+        "resourcePath": "T_Blood_Splat_02_SDF",
+        "isSubAsset": false
+      },
+      {
+        "assetName": "T_Blood_Splat_04_SDF",
+        "assetPath": "Assets/Art/FX Vertigo/FX Blood/FX Blood Painting/Textures/VertigoResources/T_Blood_Splat_04_SDF.tga",
+        "assetGUID": "7d77c0dd4f5c62c4b99197c6c089a417",
+        "resourcePath": "T_Blood_Splat_04_SDF",
+        "isSubAsset": false
+      }
+    ],
+    "zombieBloodDecalTextures": [
+      {
+        "assetName": "T_Blood_Splat_06_SDF",
+        "assetPath": "Assets/Art/FX Vertigo/FX Blood/FX Blood Painting/Textures/VertigoResources/T_Blood_Splat_06_SDF.tif",
+        "assetGUID": "9e54d418e6e8b454383a1f8bd7894831",
+        "resourcePath": "T_Blood_Splat_06_SDF",
+        "isSubAsset": false
+      }
+    ],
+    "zombieBloodTexture": {
+      "assetName": "T_BloodMap_A_A",
+      "assetPath": "Assets/Art/Textures/T_Decals/VertigoResources/T_BloodMap_A_A.tga",
+      "assetGUID": "0be894e121d69644da4cd53f7f4c5c10",
+      "resourcePath": "T_BloodMap_A_A",
+      "isSubAsset": false
+    },
+    "zombieBloodONNR": {
+      "assetName": "T_BloodMap_A_ONNR",
+      "assetPath": "Assets/Art/Textures/T_Decals/VertigoResources/T_BloodMap_A_ONNR.tga",
+      "assetGUID": "8316a10f02412b04d8b5b71b071618c7",
+      "resourcePath": "T_BloodMap_A_ONNR",
+      "isSubAsset": false
+    },
+    "gibFloorPaintDelay": 0.15,
+    "gibFloorBloodTextures": [
+      {
+        "assetName": "T_Blood_Splat_01_SDF_Gib",
+        "assetPath": "Assets/Art/FX Vertigo/FX Blood/FX Blood Painting/Textures/VertigoResources/T_Blood_Splat_01_SDF_Gib.tga",
+        "assetGUID": "c59ebcf8535fd274ca16685d02de6b5d",
+        "resourcePath": "T_Blood_Splat_01_SDF_Gib",
+        "isSubAsset": false
+      }
+    ],
+    "minMaxGibFloorBloodSize": {
+      "x": 8.0,
+      "y": 10.0
+    },
+    "maxGibSplatterRaycastDistance": 15.0,
+    "gibSplatterRaycastMask": {
+      "value": 257
+    },
+    "maxGibSplatterRandomVerticalAngle": 15.0,
+    "maxGibSplatterRandomHirozntalAngleFraction": 0.75,
+    "gibSplatterPaintDelay": {
+      "x": 0.15,
+      "y": 0.3
+    },
+    "gibSplatterBloodTextures": [
+      {
+        "assetName": "T_Blood_Splat_01_SDF_Gib_Splatter",
+        "assetPath": "Assets/Art/FX Vertigo/FX Blood/FX Blood Painting/Textures/VertigoResources/T_Blood_Splat_01_SDF_Gib_Splatter.tga",
+        "assetGUID": "1d56db6a534301c48a1ff28c8de3e847",
+        "resourcePath": "T_Blood_Splat_01_SDF_Gib_Splatter",
+        "isSubAsset": false
+      },
+      {
+        "assetName": "T_Blood_Splat_01_SDF_Gib_Splatter2",
+        "assetPath": "Assets/Art/FX Vertigo/FX Blood/FX Blood Painting/Textures/VertigoResources/T_Blood_Splat_01_SDF_Gib_Splatter2.tga",
+        "assetGUID": "5a5d3710be95fbf4ca2a9a9b2da291ba",
+        "resourcePath": "T_Blood_Splat_01_SDF_Gib_Splatter2",
+        "isSubAsset": false
+      }
+    ],
+    "minMaxGibSplatterBloodSize": {
+      "x": 3.0,
+      "y": 4.0
+    },
+    "id": 0,
+    "name": "Blood",
+    "category": ""
+  }
+]
+}

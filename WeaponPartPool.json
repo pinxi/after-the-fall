@@ -1,0 +1,732 @@
+{
+  "TableId": 249,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "poolColor": {
+      "r": 0.6,
+      "g": 0.6,
+      "b": 0.6,
+      "a": 1.0
+    },
+    "localizationKey": "RARITY_BASE",
+    "weaponPartPool": [
+      {
+        "WeaponId": 0,
+        "PartId": 0
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 0
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 0
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 0
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 0
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 0
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 26
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 26
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 26
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 26
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 26
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 26
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 26
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 11
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 11
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 11
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 11
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 11
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 11
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 11
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 14
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 14
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 14
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 14
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 14
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 14
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 29
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 29
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 29
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 0
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 26
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 14
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 11
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 14
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 1
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 55
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 29
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 26
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 11
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 33
+      }
+    ],
+    "combatDevicePool": null,
+    "duplicateWeaponPartHarvestReward": 250,
+    "id": 0,
+    "name": "Base Attachments",
+    "category": ""
+  },
+  {
+    "poolColor": {
+      "r": 0.0,
+      "g": 0.785416842,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "localizationKey": "RARITY_IMPORT",
+    "weaponPartPool": [
+      {
+        "WeaponId": 0,
+        "PartId": 2
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 2
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 2
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 2
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 2
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 2
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 2
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 2
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 8
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 8
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 8
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 8
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 32
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 32
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 32
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 21
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 21
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 21
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 8
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 8
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 8
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 2
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 21
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 58
+      }
+    ],
+    "combatDevicePool": [],
+    "duplicateWeaponPartHarvestReward": 500,
+    "id": 1,
+    "name": "Import Attachments",
+    "category": ""
+  },
+  {
+    "poolColor": {
+      "r": 0.717495561,
+      "g": 0.136792481,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "localizationKey": "RARITY_INDUSTRIAL",
+    "weaponPartPool": [
+      {
+        "WeaponId": 0,
+        "PartId": 49
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 49
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 49
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 49
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 49
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 49
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 49
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 49
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 35
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 9
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 9
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 9
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 30
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 30
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 30
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 16
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 16
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 16
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 16
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 16
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 16
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 23
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 23
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 23
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 9
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 9
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 9
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 16
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 49
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 8
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 16
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 49
+      }
+    ],
+    "combatDevicePool": null,
+    "duplicateWeaponPartHarvestReward": 1000,
+    "id": 2,
+    "name": "Industrial Attachments",
+    "category": ""
+  },
+  {
+    "poolColor": {
+      "r": 1.0,
+      "g": 0.6236607,
+      "b": 0.0,
+      "a": 1.0
+    },
+    "localizationKey": "RARITY_MILITARY",
+    "weaponPartPool": [
+      {
+        "WeaponId": 0,
+        "PartId": 4
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 4
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 4
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 4
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 4
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 4
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 4
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 4
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 41
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 10
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 10
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 10
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 10
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 13
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 13
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 13
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 13
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 13
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 31
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 31
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 31
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 15
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 15
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 15
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 15
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 15
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 15
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 22
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 22
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 10
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 10
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 4
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 15
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 13
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 10
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 31
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 15
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 22
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 4
+      }
+    ],
+    "combatDevicePool": null,
+    "duplicateWeaponPartHarvestReward": 2500,
+    "id": 3,
+    "name": "Military Attachments",
+    "category": ""
+  },
+  {
+    "poolColor": {
+      "r": 0.9150943,
+      "g": 0.05948113,
+      "b": 0.0,
+      "a": 1.0
+    },
+    "localizationKey": "RARITY_PROTOTYPE",
+    "weaponPartPool": [
+      {
+        "WeaponId": 0,
+        "PartId": 3
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 3
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 3
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 3
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 3
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 3
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 12
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 12
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 12
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 12
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 12
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 24
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 24
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 17
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 17
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 17
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 17
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 17
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 17
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 17
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 12
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 3
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 57
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 38
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 24
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 12
+      }
+    ],
+    "combatDevicePool": [
+      1
+    ],
+    "duplicateWeaponPartHarvestReward": 5000,
+    "id": 4,
+    "name": "Prototype Attachments",
+    "category": ""
+  }
+]
+}

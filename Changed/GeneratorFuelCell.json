@@ -1,0 +1,811 @@
+{
+  "TableId": 128,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "startingCharge": 1.0,
+    "capacity": 1.0,
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "Icon_Generator_FuelCell_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Icon_Generator_FuelCell_01.png",
+      "assetGUID": "090f93d7fe525594dbb872f40c76bab2",
+      "resourcePath": "Icon_Generator_FuelCell_01:Icon_Generator_FuelCell_01.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 43,
+    "id": 0,
+    "name": "Generator Fuel Cell",
+    "category": "",
+    "handPoseId": 42,
+    "isPosedOnTrigger": false,
+    "canInsertInInventory": true,
+    "itemStartedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemStoppedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "displayName": "Fuel Cell",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "ITEM_FUELCELL_GENERATOR",
+    "tooltipSubtitleDisplayName": "ITEM_FUELCELL_GENERATOR_SUBTITLE",
+    "inventoryIcon": {
+      "assetName": "Icon_Generator_FuelCell_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Icon_Generator_FuelCell_01.png",
+      "assetGUID": "090f93d7fe525594dbb872f40c76bab2",
+      "resourcePath": "Icon_Generator_FuelCell_01:Icon_Generator_FuelCell_01.Sprite",
+      "isSubAsset": true
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Generator_02_FuelCell",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Grabbables/Generator_02_FuelCell.prefab",
+      "assetGUID": "7c10e3e8f90c95b4ca4d0715fef8ee2f",
+      "resourcePath": "Grabbables/Generator_02_FuelCell",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": true,
+    "correctionStrategy": 1,
+    "activeDurationBeforeCorrection": 5.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_gun",
+      "eventGuid": "eb71769e-b424-4f1c-b75a-edc7237f08b4"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab",
+      "eventGuid": "c15f1454-a82d-4583-a089-38c50e7a6fa5",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "startingCharge": 1.0,
+    "capacity": 1.0,
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "Icon_Generator_FuelCell_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Icon_Generator_FuelCell_01.png",
+      "assetGUID": "090f93d7fe525594dbb872f40c76bab2",
+      "resourcePath": "Icon_Generator_FuelCell_01:Icon_Generator_FuelCell_01.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 43,
+    "id": 1,
+    "name": "Spent Generator Fuel Cell",
+    "category": "",
+    "handPoseId": 42,
+    "isPosedOnTrigger": false,
+    "canInsertInInventory": true,
+    "itemStartedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemStoppedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "displayName": "Spent Fuel Cell",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "ITEM_FUELLCELL_SPENTGENERATOR",
+    "tooltipSubtitleDisplayName": "ITEM_FUELLCELL_SPENTGENERATOR_SUBTITLE",
+    "inventoryIcon": {
+      "assetName": "Icon_Generator_FuelCell_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Icon_Generator_FuelCell_01.png",
+      "assetGUID": "090f93d7fe525594dbb872f40c76bab2",
+      "resourcePath": "Icon_Generator_FuelCell_01:Icon_Generator_FuelCell_01.Sprite",
+      "isSubAsset": true
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Generator_02_FuelCell",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Grabbables/Generator_02_FuelCell.prefab",
+      "assetGUID": "7c10e3e8f90c95b4ca4d0715fef8ee2f",
+      "resourcePath": "Grabbables/Generator_02_FuelCell",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": true,
+    "correctionStrategy": 1,
+    "activeDurationBeforeCorrection": 5.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_gun",
+      "eventGuid": "eb71769e-b424-4f1c-b75a-edc7237f08b4"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab",
+      "eventGuid": "c15f1454-a82d-4583-a089-38c50e7a6fa5",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "startingCharge": 1.0,
+    "capacity": 1.0,
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "Icon_Generator_FuelCell_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Icon_Generator_FuelCell_01.png",
+      "assetGUID": "090f93d7fe525594dbb872f40c76bab2",
+      "resourcePath": "Icon_Generator_FuelCell_01:Icon_Generator_FuelCell_01.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 43,
+    "id": 2,
+    "name": "Spent Generator Fuel Cell (Allowed Empty)",
+    "category": "",
+    "handPoseId": 42,
+    "isPosedOnTrigger": false,
+    "canInsertInInventory": true,
+    "itemStartedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemStoppedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "displayName": "Spent Generator Fuel Cell",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "ITEM_FUELLCELL_SPENTGENERATORALLOWED",
+    "tooltipSubtitleDisplayName": "ITEM_FUELLCELL_SPENTGENERATORALLOWED_SUBTITLE",
+    "inventoryIcon": {
+      "assetName": "Icon_Generator_FuelCell_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Icon_Generator_FuelCell_01.png",
+      "assetGUID": "090f93d7fe525594dbb872f40c76bab2",
+      "resourcePath": "Icon_Generator_FuelCell_01:Icon_Generator_FuelCell_01.Sprite",
+      "isSubAsset": true
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Generator_02_FuelCell",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Grabbables/Generator_02_FuelCell.prefab",
+      "assetGUID": "7c10e3e8f90c95b4ca4d0715fef8ee2f",
+      "resourcePath": "Grabbables/Generator_02_FuelCell",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": true,
+    "correctionStrategy": 1,
+    "activeDurationBeforeCorrection": 5.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_gun",
+      "eventGuid": "eb71769e-b424-4f1c-b75a-edc7237f08b4"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab",
+      "eventGuid": "c15f1454-a82d-4583-a089-38c50e7a6fa5",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "startingCharge": 1.0,
+    "capacity": 1.0,
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "Icon_Generator_FuelCell_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Icon_Generator_FuelCell_01.png",
+      "assetGUID": "090f93d7fe525594dbb872f40c76bab2",
+      "resourcePath": "Icon_Generator_FuelCell_01:Icon_Generator_FuelCell_01.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 43,
+    "id": 3,
+    "name": "Little Charge Generator Fuel Cell",
+    "category": "",
+    "handPoseId": 42,
+    "isPosedOnTrigger": false,
+    "canInsertInInventory": true,
+    "itemStartedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemStoppedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "displayName": "Generator Fuel Cell",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "ITEM_FUELLCELL_LITTLECHARGE",
+    "tooltipSubtitleDisplayName": "ITEM_FUELLCELL_LITTLECHARGE_SUBTITLE",
+    "inventoryIcon": {
+      "assetName": "Icon_Generator_FuelCell_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Icon_Generator_FuelCell_01.png",
+      "assetGUID": "090f93d7fe525594dbb872f40c76bab2",
+      "resourcePath": "Icon_Generator_FuelCell_01:Icon_Generator_FuelCell_01.Sprite",
+      "isSubAsset": true
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Generator_02_FuelCell",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Grabbables/Generator_02_FuelCell.prefab",
+      "assetGUID": "7c10e3e8f90c95b4ca4d0715fef8ee2f",
+      "resourcePath": "Grabbables/Generator_02_FuelCell",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": true,
+    "correctionStrategy": 1,
+    "activeDurationBeforeCorrection": 5.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_gun",
+      "eventGuid": "eb71769e-b424-4f1c-b75a-edc7237f08b4"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab",
+      "eventGuid": "c15f1454-a82d-4583-a089-38c50e7a6fa5",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "startingCharge": 1.0,
+    "capacity": 1.0,
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "Icon_Generator_FuelCell_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Icon_Generator_FuelCell_01.png",
+      "assetGUID": "090f93d7fe525594dbb872f40c76bab2",
+      "resourcePath": "Icon_Generator_FuelCell_01:Icon_Generator_FuelCell_01.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 43,
+    "id": 4,
+    "name": "Jack's Debug Fuel Cell",
+    "category": "",
+    "handPoseId": 42,
+    "isPosedOnTrigger": false,
+    "canInsertInInventory": true,
+    "itemStartedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemStoppedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "displayName": "Generator Fuel Cell",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "",
+    "tooltipSubtitleDisplayName": "",
+    "inventoryIcon": {
+      "assetName": "Icon_Generator_FuelCell_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Icon_Generator_FuelCell_01.png",
+      "assetGUID": "090f93d7fe525594dbb872f40c76bab2",
+      "resourcePath": "Icon_Generator_FuelCell_01:Icon_Generator_FuelCell_01.Sprite",
+      "isSubAsset": true
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Generator_02_FuelCell",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Grabbables/Generator_02_FuelCell.prefab",
+      "assetGUID": "7c10e3e8f90c95b4ca4d0715fef8ee2f",
+      "resourcePath": "Grabbables/Generator_02_FuelCell",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": true,
+    "correctionStrategy": 1,
+    "activeDurationBeforeCorrection": 5.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_gun",
+      "eventGuid": "eb71769e-b424-4f1c-b75a-edc7237f08b4"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab",
+      "eventGuid": "c15f1454-a82d-4583-a089-38c50e7a6fa5",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "startingCharge": 0.0,
+    "capacity": 1.0,
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "Icon_Generator_FuelCell_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Icon_Generator_FuelCell_01.png",
+      "assetGUID": "090f93d7fe525594dbb872f40c76bab2",
+      "resourcePath": "Icon_Generator_FuelCell_01:Icon_Generator_FuelCell_01.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 43,
+    "id": 5,
+    "name": "Generator Challenge Juice Cell",
+    "category": "",
+    "handPoseId": 42,
+    "isPosedOnTrigger": false,
+    "canInsertInInventory": true,
+    "itemStartedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemStoppedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "displayName": "Juice Cell",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "ITEM_FUELLCELL_GENERATORCHALLENGE",
+    "tooltipSubtitleDisplayName": "ITEM_FUELLCELL_GENERATORCHALLENGE_SUBTITLE",
+    "inventoryIcon": {
+      "assetName": "Icon_Generator_FuelCell_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Icon_Generator_FuelCell_01.png",
+      "assetGUID": "090f93d7fe525594dbb872f40c76bab2",
+      "resourcePath": "Icon_Generator_FuelCell_01:Icon_Generator_FuelCell_01.Sprite",
+      "isSubAsset": true
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Generator_02_FuelCell",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Grabbables/Generator_02_FuelCell.prefab",
+      "assetGUID": "7c10e3e8f90c95b4ca4d0715fef8ee2f",
+      "resourcePath": "Grabbables/Generator_02_FuelCell",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": true,
+    "correctionStrategy": 1,
+    "activeDurationBeforeCorrection": 5.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_gun",
+      "eventGuid": "eb71769e-b424-4f1c-b75a-edc7237f08b4"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab",
+      "eventGuid": "c15f1454-a82d-4583-a089-38c50e7a6fa5",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "startingCharge": 1.0,
+    "capacity": 1.0,
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "Icon_Generator_FuelCell_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Icon_Generator_FuelCell_01.png",
+      "assetGUID": "090f93d7fe525594dbb872f40c76bab2",
+      "resourcePath": "Icon_Generator_FuelCell_01:Icon_Generator_FuelCell_01.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 43,
+    "id": 6,
+    "name": "Key Card Challenge Juice Cell",
+    "category": "",
+    "handPoseId": 42,
+    "isPosedOnTrigger": false,
+    "canInsertInInventory": true,
+    "itemStartedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemStoppedUseAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "displayName": "Juice Cell",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "ITEM_FUELLCELL_KEYCARDCHALLENGE",
+    "tooltipSubtitleDisplayName": "ITEM_FUELLCELL_KEYCARDCHALLENGE_SUBTITLE",
+    "inventoryIcon": {
+      "assetName": "Icon_Generator_FuelCell_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Icon_Generator_FuelCell_01.png",
+      "assetGUID": "090f93d7fe525594dbb872f40c76bab2",
+      "resourcePath": "Icon_Generator_FuelCell_01:Icon_Generator_FuelCell_01.Sprite",
+      "isSubAsset": true
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "Generator_02_FuelCell",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Grabbables/Generator_02_FuelCell.prefab",
+      "assetGUID": "7c10e3e8f90c95b4ca4d0715fef8ee2f",
+      "resourcePath": "Grabbables/Generator_02_FuelCell",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": true,
+    "correctionStrategy": 1,
+    "activeDurationBeforeCorrection": 5.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": [],
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_gun",
+      "eventGuid": "eb71769e-b424-4f1c-b75a-edc7237f08b4"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab",
+      "eventGuid": "c15f1454-a82d-4583-a089-38c50e7a6fa5",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  }
+]
+}

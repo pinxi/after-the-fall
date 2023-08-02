@@ -1,0 +1,33 @@
+{
+  "TableId": 50014,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "visualFallbackLeftController": 2,
+    "visualFallbackRightController": 3,
+    "visualFallbackSingleController": 0,
+    "gunCategoryId": 6,
+    "grabActionIds": [
+      4,
+      5
+    ],
+    "moveActionIds": [
+      9,
+      18
+    ],
+    "slideActionIds": [
+      6
+    ],
+    "selectionWheelLeftActionId": 2,
+    "selectionWheelRightActionId": 3,
+    "holsterLeftActionId": 4,
+    "holsterRightActionId": 5,
+    "reloadLeftActionId": 19,
+    "reloadRightActionId": 20,
+    "emptyFiresBeforeShowingHint": 1,
+    "id": 0,
+    "name": "name",
+    "category": ""
+  }
+]
+}

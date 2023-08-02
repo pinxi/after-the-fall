@@ -1,0 +1,212 @@
+{
+  "TableId": 50048,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "rigPoolSize": 6,
+    "supportsAnimationMirroring": false,
+    "lookAtEnabled": false,
+    "headLookAtSettings": {
+      "lookAtBone": 5,
+      "weight": 0.0
+    },
+    "spineLookatSettings": [],
+    "headBone": 5,
+    "zombieRigBody": {
+      "assetName": "CH_E_Jock_A_Rig",
+      "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Jock_M_A/CH_E_Jock_A_Rig.prefab",
+      "assetGUID": "3c6955c1180e231409421e31f64e0545",
+      "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Jock_M_A/CH_E_Jock_A_Rig",
+      "isSubAsset": false
+    },
+    "animationRootBone": 1,
+    "additiveReferencePose": {
+      "animationLength": 0.0333333351,
+      "assetName": "Neutral(T-pose)",
+      "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+      "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+      "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+      "isSubAsset": true
+    },
+    "id": 0,
+    "name": "Jock",
+    "category": ""
+  },
+  {
+    "rigPoolSize": 80,
+    "supportsAnimationMirroring": true,
+    "lookAtEnabled": true,
+    "headLookAtSettings": {
+      "lookAtBone": 5,
+      "weight": 0.5
+    },
+    "spineLookatSettings": [
+      {
+        "lookAtBone": 4,
+        "weight": 0.2
+      },
+      {
+        "lookAtBone": 3,
+        "weight": 0.175
+      },
+      {
+        "lookAtBone": 2,
+        "weight": 0.125
+      }
+    ],
+    "headBone": 5,
+    "zombieRigBody": {
+      "assetName": "CH_E_Common_M_Rig",
+      "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_Rigs/CH_E_Common_M_Rig.prefab",
+      "assetGUID": "e317ff180806c29488a9d872a95ddd95",
+      "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_Rigs/CH_E_Common_M_Rig",
+      "isSubAsset": false
+    },
+    "animationRootBone": 1,
+    "additiveReferencePose": {
+      "animationLength": 0.0333333351,
+      "assetName": "Neutral(T-pose)",
+      "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+      "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+      "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+      "isSubAsset": true
+    },
+    "id": 1,
+    "name": "Commons",
+    "category": ""
+  },
+  {
+    "rigPoolSize": 4,
+    "supportsAnimationMirroring": false,
+    "lookAtEnabled": false,
+    "headLookAtSettings": {
+      "lookAtBone": 5,
+      "weight": 1.0
+    },
+    "spineLookatSettings": [],
+    "headBone": 5,
+    "zombieRigBody": {
+      "assetName": "CH_E_Eater_Rig",
+      "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Eater_A/CH_E_Eater_Rig.prefab",
+      "assetGUID": "80f97bb04e56b07448bc7912f573d821",
+      "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Eater_A/CH_E_Eater_Rig",
+      "isSubAsset": false
+    },
+    "animationRootBone": 1,
+    "additiveReferencePose": {
+      "animationLength": 0.0333333351,
+      "assetName": "Neutral(T-pose)",
+      "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+      "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+      "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+      "isSubAsset": true
+    },
+    "id": 2,
+    "name": "Eater",
+    "category": ""
+  },
+  {
+    "rigPoolSize": 2,
+    "supportsAnimationMirroring": false,
+    "lookAtEnabled": false,
+    "headLookAtSettings": {
+      "lookAtBone": 5,
+      "weight": 1.0
+    },
+    "spineLookatSettings": [],
+    "headBone": 5,
+    "zombieRigBody": {
+      "assetName": "CH_E_Smasher_Rig",
+      "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Smasher/CH_E_Smasher_Rig.prefab",
+      "assetGUID": "5279c5c2c8faee147885e2e6821e84c1",
+      "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Smasher/CH_E_Smasher_Rig",
+      "isSubAsset": false
+    },
+    "animationRootBone": 1,
+    "additiveReferencePose": {
+      "animationLength": 0.0333333351,
+      "assetName": "Neutral(T-pose)",
+      "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+      "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+      "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+      "isSubAsset": true
+    },
+    "id": 3,
+    "name": "Smasher",
+    "category": ""
+  },
+  {
+    "rigPoolSize": 5,
+    "supportsAnimationMirroring": false,
+    "lookAtEnabled": false,
+    "headLookAtSettings": {
+      "lookAtBone": 5,
+      "weight": 1.0
+    },
+    "spineLookatSettings": [],
+    "headBone": 5,
+    "zombieRigBody": {
+      "assetName": "CH_E_Brute_Rig",
+      "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Brute/CH_E_Brute_Rig.prefab",
+      "assetGUID": "f7ca02f0cf6e0a247b8922fd3bcc5677",
+      "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Brute/CH_E_Brute_Rig",
+      "isSubAsset": false
+    },
+    "animationRootBone": 1,
+    "additiveReferencePose": {
+      "animationLength": 0.0333333351,
+      "assetName": "Neutral(T-pose)",
+      "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+      "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+      "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+      "isSubAsset": true
+    },
+    "id": 4,
+    "name": "Brute",
+    "category": ""
+  },
+  {
+    "rigPoolSize": 1,
+    "supportsAnimationMirroring": true,
+    "lookAtEnabled": false,
+    "headLookAtSettings": {
+      "lookAtBone": 5,
+      "weight": 0.5
+    },
+    "spineLookatSettings": [
+      {
+        "lookAtBone": 4,
+        "weight": 0.2
+      },
+      {
+        "lookAtBone": 3,
+        "weight": 0.175
+      },
+      {
+        "lookAtBone": 2,
+        "weight": 0.125
+      }
+    ],
+    "headBone": 5,
+    "zombieRigBody": {
+      "assetName": "CH_E_Common_M_Rig_LootGoblin",
+      "assetPath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_Rigs/CH_E_Common_M_Rig_LootGoblin.prefab",
+      "assetGUID": "d874cf81309cfa347be35c89a49295e4",
+      "resourcePath": "Assets/Prefabs/Zombies/Skins/Prefabs/Common_Rigs/CH_E_Common_M_Rig_LootGoblin",
+      "isSubAsset": false
+    },
+    "animationRootBone": 1,
+    "additiveReferencePose": {
+      "animationLength": 0.0333333351,
+      "assetName": "Neutral(T-pose)",
+      "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+      "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+      "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+      "isSubAsset": true
+    },
+    "id": 5,
+    "name": "Loot_Goblin",
+    "category": ""
+  }
+]
+}

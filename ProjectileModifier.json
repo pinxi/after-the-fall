@@ -1,0 +1,12 @@
+{
+  "TableId": 50046,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "modifierType": 1,
+    "id": 0,
+    "name": "Instant Kill",
+    "category": ""
+  }
+]
+}

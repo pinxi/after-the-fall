@@ -1,0 +1,118 @@
+{
+  "TableId": 194,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "particleFx": {
+      "assetName": "Part_Smasher_PullOut",
+      "assetPath": "Assets/Art/FX Vertigo/FX/VertigoResources/Particles/Infected/Part_Smasher_PullOut.prefab",
+      "assetGUID": "2595beafc0b7e7a44a6edb9d0ba03338",
+      "resourcePath": "Particles/Infected/Part_Smasher_PullOut",
+      "isSubAsset": false
+    },
+    "poolSize": 4,
+    "playOnAnimationEvent": "FX_Smasher_Pullout",
+    "id": 0,
+    "name": "Smasher Pullout",
+    "category": ""
+  },
+  {
+    "particleFx": {
+      "assetName": "Part_Smasher_Swipe",
+      "assetPath": "Assets/Art/FX Vertigo/FX/VertigoResources/Particles/Infected/Part_Smasher_Swipe.prefab",
+      "assetGUID": "eba255d4cb4d492419cfaa3a9d3da456",
+      "resourcePath": "Particles/Infected/Part_Smasher_Swipe",
+      "isSubAsset": false
+    },
+    "poolSize": 4,
+    "playOnAnimationEvent": "",
+    "id": 1,
+    "name": "Smasher Smash Melee Swipe",
+    "category": ""
+  },
+  {
+    "particleFx": {
+      "assetName": "Part_Smasher_Footstep",
+      "assetPath": "Assets/Art/FX Vertigo/FX/VertigoResources/Particles/Infected/Part_Smasher_Footstep.prefab",
+      "assetGUID": "199271507a425894695267eb1ce8593e",
+      "resourcePath": "Particles/Infected/Part_Smasher_Footstep",
+      "isSubAsset": false
+    },
+    "poolSize": 8,
+    "playOnAnimationEvent": "",
+    "id": 2,
+    "name": "Smasher Footstep",
+    "category": ""
+  },
+  {
+    "particleFx": {
+      "assetName": "Part_Smasher_Impact",
+      "assetPath": "Assets/Art/FX Vertigo/FX/VertigoResources/Particles/Infected/Part_Smasher_Impact.prefab",
+      "assetGUID": "7e54f448ec41f1148b610685245a36b1",
+      "resourcePath": "Particles/Infected/Part_Smasher_Impact",
+      "isSubAsset": false
+    },
+    "poolSize": 4,
+    "playOnAnimationEvent": "",
+    "id": 3,
+    "name": "Smasher Impact",
+    "category": ""
+  },
+  {
+    "particleFx": {
+      "assetName": "Part_Smasher_Swipe360",
+      "assetPath": "Assets/Art/FX Vertigo/FX/VertigoResources/Particles/Infected/Part_Smasher_Swipe360.prefab",
+      "assetGUID": "5180752c2464b0f459f8ef0bfd1e88fe",
+      "resourcePath": "Particles/Infected/Part_Smasher_Swipe360",
+      "isSubAsset": false
+    },
+    "poolSize": 4,
+    "playOnAnimationEvent": "FX_Smasher_Swipe360",
+    "id": 4,
+    "name": "Smasher Swipe 360",
+    "category": ""
+  },
+  {
+    "particleFx": {
+      "assetName": "Part_Smasher_Fall",
+      "assetPath": "Assets/Art/FX Vertigo/FX/VertigoResources/Particles/Infected/Part_Smasher_Fall.prefab",
+      "assetGUID": "3c94f0812529480409b54f8f66226685",
+      "resourcePath": "Particles/Infected/Part_Smasher_Fall",
+      "isSubAsset": false
+    },
+    "poolSize": 4,
+    "playOnAnimationEvent": "FX_Smasher_HitGround",
+    "id": 5,
+    "name": "Smasher Hit Ground",
+    "category": ""
+  },
+  {
+    "particleFx": {
+      "assetName": "Part_Smasher_Impact_RightFoot",
+      "assetPath": "Assets/Art/FX Vertigo/FX/VertigoResources/Particles/Infected/Part_Smasher_Impact_RightFoot.prefab",
+      "assetGUID": "cd105550dd9d31a439c96dd632a59051",
+      "resourcePath": "Particles/Infected/Part_Smasher_Impact_RightFoot",
+      "isSubAsset": false
+    },
+    "poolSize": 4,
+    "playOnAnimationEvent": "",
+    "id": 6,
+    "name": "Smasher Impact Foot Stomp",
+    "category": ""
+  },
+  {
+    "particleFx": {
+      "assetName": "Part_Smasher_Swipe_RightFoot",
+      "assetPath": "Assets/Art/FX Vertigo/FX/VertigoResources/Particles/Infected/Part_Smasher_Swipe_RightFoot.prefab",
+      "assetGUID": "6ba20598de7396a4da44b9971a40674a",
+      "resourcePath": "Particles/Infected/Part_Smasher_Swipe_RightFoot",
+      "isSubAsset": false
+    },
+    "poolSize": 4,
+    "playOnAnimationEvent": "",
+    "id": 7,
+    "name": "Smasher Foot Stomp Swipe",
+    "category": ""
+  }
+]
+}

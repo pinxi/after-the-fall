@@ -1,0 +1,1876 @@
+{
+  "TableId": 164,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "health": 100,
+    "healthRegenSettings": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "MaxHealthForHealthRegen": 25,
+          "HealthRegenPerSecond": 1.0,
+          "HealthRegenTimeout": 5.0
+        },
+        {
+          "MaxHealthForHealthRegen": 25,
+          "HealthRegenPerSecond": 0.825,
+          "HealthRegenTimeout": 6.0
+        },
+        {
+          "MaxHealthForHealthRegen": 25,
+          "HealthRegenPerSecond": 0.65,
+          "HealthRegenTimeout": 7.0
+        },
+        {
+          "MaxHealthForHealthRegen": 25,
+          "HealthRegenPerSecond": 0.475,
+          "HealthRegenTimeout": 8.0
+        },
+        {
+          "MaxHealthForHealthRegen": 0,
+          "HealthRegenPerSecond": 0.0,
+          "HealthRegenTimeout": 0.0
+        }
+      ]
+    },
+    "respawnDelay": 0.0,
+    "respawnInvulnerabilityDuration": 3.0,
+    "healthBasedDebuffs": [],
+    "outOfCombatAutoReviveHealth": 10.0,
+    "healthFresnelSettings": {
+      "fresnelHitEnabled": false,
+      "lerpInDuration": 0.0,
+      "activeDuration": 0.0,
+      "lerpOutDuration": 0.0
+    },
+    "infectionSettings": {
+      "infectedStartFraction": 1.0,
+      "infectionIncreasePerSecond": 1.0,
+      "infectionIncreasePerHit": 0.5,
+      "infectionIncreasePerTeamMemberInfected": 0.35,
+      "infectedStatModifiers": [
+        1,
+        3
+      ],
+      "injectDisinfectDuration": 1.0,
+      "injectDisinfectEaseMode": 0,
+      "selfDisinfectHealAmount": 10.0
+    },
+    "enableOverrideInfectedViewSettings": false,
+    "overrideInfectedViewSettings": {
+      "infectionViewOverlayPrefab": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      },
+      "overlayFreezeAnimDuration": 0.0,
+      "overlayFreezeCurve": {
+        "keys": [],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "overlayDefreezeAnimDuration": 0.0,
+      "overlayDefreezeCurve": {
+        "keys": [],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "infectedStateEnteredProfile": 0,
+      "infectedFogArtSettings": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      },
+      "infectFogTransitionDuration": 0.0,
+      "infectFogTransitionCurve": {
+        "keys": [],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "disinfectFogTransitionDuration": 0.0,
+      "disinfectFogTransitionCurve": {
+        "keys": [],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "frozenForceOutlineDistance": 0.0,
+      "frostStrengthCurve": {
+        "keys": [],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "iceStrengthCurve": {
+        "keys": [],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "infectedDistortSnapshot": {
+        "parameterSettings": [],
+        "eventPath": "",
+        "eventGuid": ""
+      }
+    },
+    "damageTakenFromBehindSettings": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "DamageTakenForDamageFromBehindFraction": 0.2
+        },
+        {
+          "DamageTakenForDamageFromBehindFraction": 0.4
+        },
+        {
+          "DamageTakenForDamageFromBehindFraction": 0.6
+        },
+        {
+          "DamageTakenForDamageFromBehindFraction": 0.8
+        },
+        {
+          "DamageTakenForDamageFromBehindFraction": 1.0
+        }
+      ]
+    },
+    "angleForDamageReduction": 90,
+    "damageTakenHapticsProfile": 22,
+    "hasLeftWristStartingItem": false,
+    "leftWristItem": {
+      "category": 3,
+      "onlyEnableInSingleHand": false,
+      "hasItem": true,
+      "startingItem": {
+        "CurrentIdx": 0,
+        "CellId": 0,
+        "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.CombatDeviceTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "NameTO": "CombatDeviceTO"
+      },
+      "attachmentIds": [],
+      "amount": 0
+    },
+    "hasRightWristStartingItem": false,
+    "rightWristItem": {
+      "category": 3,
+      "onlyEnableInSingleHand": false,
+      "hasItem": true,
+      "startingItem": {
+        "CurrentIdx": 0,
+        "CellId": 0,
+        "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.CombatDeviceTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "NameTO": "CombatDeviceTO"
+      },
+      "attachmentIds": [],
+      "amount": 1
+    },
+    "hasLeftThrowableStartingItem": false,
+    "leftThrowableStartingItem": {
+      "category": 0,
+      "onlyEnableInSingleHand": false,
+      "hasItem": false,
+      "startingItem": {
+        "CurrentIdx": 0,
+        "CellId": 0,
+        "AssemblyQualifiedNameTO": "",
+        "NameTO": ""
+      },
+      "attachmentIds": [],
+      "amount": 0
+    },
+    "hasRightThrowableStartingItem": false,
+    "rightThrowableStartingItem": {
+      "category": 0,
+      "onlyEnableInSingleHand": false,
+      "hasItem": false,
+      "startingItem": {
+        "CurrentIdx": 0,
+        "CellId": 0,
+        "AssemblyQualifiedNameTO": "",
+        "NameTO": ""
+      },
+      "attachmentIds": [],
+      "amount": 0
+    },
+    "inventoryItems": [
+      {
+        "category": 6,
+        "onlyEnableInSingleHand": false,
+        "hasItem": true,
+        "startingItem": {
+          "CurrentIdx": 1,
+          "CellId": 2,
+          "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.GunTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "NameTO": "GunTO"
+        },
+        "attachmentIds": [
+          0,
+          11,
+          14,
+          26
+        ],
+        "amount": 1
+      },
+      {
+        "category": 6,
+        "onlyEnableInSingleHand": false,
+        "hasItem": false,
+        "startingItem": {
+          "CurrentIdx": 4,
+          "CellId": 31,
+          "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.GunTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "NameTO": "GunTO"
+        },
+        "attachmentIds": [],
+        "amount": 1
+      },
+      {
+        "category": 2,
+        "onlyEnableInSingleHand": true,
+        "hasItem": false,
+        "startingItem": {
+          "CurrentIdx": 15,
+          "CellId": 0,
+          "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.BoosterTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "NameTO": "BoosterTO"
+        },
+        "attachmentIds": [],
+        "amount": 1
+      },
+      {
+        "category": 2,
+        "onlyEnableInSingleHand": true,
+        "hasItem": true,
+        "startingItem": {
+          "CurrentIdx": 21,
+          "CellId": 0,
+          "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.BoosterTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "NameTO": "BoosterTO"
+        },
+        "attachmentIds": [],
+        "amount": 1
+      }
+    ],
+    "selectionWheelSlots": 4,
+    "handMaxStackCount": 2,
+    "startingResources": [
+      {
+        "resourceType": 3,
+        "amount": 1
+      },
+      {
+        "resourceType": 4,
+        "amount": 80
+      },
+      {
+        "resourceType": 15,
+        "amount": 240
+      },
+      {
+        "resourceType": 16,
+        "amount": 0
+      },
+      {
+        "resourceType": 19,
+        "amount": 200
+      },
+      {
+        "resourceType": 7,
+        "amount": 0
+      },
+      {
+        "resourceType": 5,
+        "amount": 0
+      },
+      {
+        "resourceType": 17,
+        "amount": 40
+      },
+      {
+        "resourceType": 18,
+        "amount": 200
+      }
+    ],
+    "minimumRespawnResources": [
+      {
+        "resourceType": 4,
+        "amount": 20
+      },
+      {
+        "resourceType": 15,
+        "amount": 40
+      },
+      {
+        "resourceType": 17,
+        "amount": 10
+      },
+      {
+        "resourceType": 18,
+        "amount": 10
+      },
+      {
+        "resourceType": 19,
+        "amount": 30
+      }
+    ],
+    "chestHierarchyPrefab": {
+      "assetName": "Chest_Hierarchy",
+      "assetPath": "Assets/Prefabs/Player/VertigoResources/Chest_Hierarchy.prefab",
+      "assetGUID": "95db804559ddaab45a72a799d0a242d2",
+      "resourcePath": "Chest_Hierarchy",
+      "isSubAsset": false
+    },
+    "isLootingAmmoShared": false,
+    "showEnemyTeamName": false,
+    "collisionRadius": 0.75,
+    "hitRadius": 0.01,
+    "dropItemsOnDeath": false,
+    "canDespawnItemsWhenDropped": false,
+    "despawnDroppedItemsAfterSeconds": 30.0,
+    "maxSelfDamage": 0,
+    "maxFriendlyDamage": 0,
+    "maxSelfExplosiveDamage": 0,
+    "maxFriendlyExplosiveDamage": 0,
+    "waitForAllPlayersConnected": false,
+    "timeToWaitForAllPlayerConnected": 120.0,
+    "supportedEndConditions": [],
+    "id": 0,
+    "name": "Default",
+    "category": ""
+  },
+  {
+    "health": 100,
+    "healthRegenSettings": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "MaxHealthForHealthRegen": 25,
+          "HealthRegenPerSecond": 0.0,
+          "HealthRegenTimeout": 5.0
+        },
+        {
+          "MaxHealthForHealthRegen": 25,
+          "HealthRegenPerSecond": 0.0,
+          "HealthRegenTimeout": 5.0
+        },
+        {
+          "MaxHealthForHealthRegen": 25,
+          "HealthRegenPerSecond": 0.0,
+          "HealthRegenTimeout": 5.0
+        },
+        {
+          "MaxHealthForHealthRegen": 25,
+          "HealthRegenPerSecond": 0.0,
+          "HealthRegenTimeout": 5.0
+        },
+        {
+          "MaxHealthForHealthRegen": 25,
+          "HealthRegenPerSecond": 1.0,
+          "HealthRegenTimeout": 5.0
+        }
+      ]
+    },
+    "respawnDelay": 2.0,
+    "respawnInvulnerabilityDuration": 2.0,
+    "healthBasedDebuffs": [],
+    "outOfCombatAutoReviveHealth": 10.0,
+    "healthFresnelSettings": {
+      "fresnelHitEnabled": true,
+      "lerpInDuration": 0.1,
+      "activeDuration": 0.15,
+      "lerpOutDuration": 0.1
+    },
+    "infectionSettings": {
+      "infectedStartFraction": 0.0,
+      "infectionIncreasePerSecond": 0.0,
+      "infectionIncreasePerHit": 0.0,
+      "infectionIncreasePerTeamMemberInfected": 0.0,
+      "infectedStatModifiers": [],
+      "injectDisinfectDuration": 0.0,
+      "injectDisinfectEaseMode": 0,
+      "selfDisinfectHealAmount": 0.0
+    },
+    "enableOverrideInfectedViewSettings": false,
+    "overrideInfectedViewSettings": {
+      "infectionViewOverlayPrefab": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      },
+      "overlayFreezeAnimDuration": 0.0,
+      "overlayFreezeCurve": {
+        "keys": [],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "overlayDefreezeAnimDuration": 0.0,
+      "overlayDefreezeCurve": {
+        "keys": [],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "infectedStateEnteredProfile": 0,
+      "infectedFogArtSettings": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      },
+      "infectFogTransitionDuration": 0.0,
+      "infectFogTransitionCurve": {
+        "keys": [],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "disinfectFogTransitionDuration": 0.0,
+      "disinfectFogTransitionCurve": {
+        "keys": [],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "frozenForceOutlineDistance": 0.0,
+      "frostStrengthCurve": {
+        "keys": [],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "iceStrengthCurve": {
+        "keys": [],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "infectedDistortSnapshot": {
+        "parameterSettings": [],
+        "eventPath": "",
+        "eventGuid": ""
+      }
+    },
+    "damageTakenFromBehindSettings": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "DamageTakenForDamageFromBehindFraction": 1.0
+        },
+        {
+          "DamageTakenForDamageFromBehindFraction": 1.0
+        },
+        {
+          "DamageTakenForDamageFromBehindFraction": 1.0
+        },
+        {
+          "DamageTakenForDamageFromBehindFraction": 1.0
+        },
+        {
+          "DamageTakenForDamageFromBehindFraction": 1.0
+        }
+      ]
+    },
+    "angleForDamageReduction": 90,
+    "damageTakenHapticsProfile": 22,
+    "hasLeftWristStartingItem": false,
+    "leftWristItem": {
+      "category": 0,
+      "onlyEnableInSingleHand": false,
+      "hasItem": false,
+      "startingItem": {
+        "CurrentIdx": -1,
+        "CellId": 0,
+        "AssemblyQualifiedNameTO": "",
+        "NameTO": ""
+      },
+      "attachmentIds": [],
+      "amount": 1
+    },
+    "hasRightWristStartingItem": false,
+    "rightWristItem": {
+      "category": 0,
+      "onlyEnableInSingleHand": false,
+      "hasItem": false,
+      "startingItem": {
+        "CurrentIdx": -1,
+        "CellId": 0,
+        "AssemblyQualifiedNameTO": "",
+        "NameTO": ""
+      },
+      "attachmentIds": [],
+      "amount": 1
+    },
+    "hasLeftThrowableStartingItem": false,
+    "leftThrowableStartingItem": {
+      "category": 0,
+      "onlyEnableInSingleHand": false,
+      "hasItem": false,
+      "startingItem": {
+        "CurrentIdx": 0,
+        "CellId": 0,
+        "AssemblyQualifiedNameTO": "",
+        "NameTO": ""
+      },
+      "attachmentIds": [],
+      "amount": 0
+    },
+    "hasRightThrowableStartingItem": false,
+    "rightThrowableStartingItem": {
+      "category": 0,
+      "onlyEnableInSingleHand": false,
+      "hasItem": false,
+      "startingItem": {
+        "CurrentIdx": 0,
+        "CellId": 0,
+        "AssemblyQualifiedNameTO": "",
+        "NameTO": ""
+      },
+      "attachmentIds": [],
+      "amount": 0
+    },
+    "inventoryItems": [
+      {
+        "category": 6,
+        "onlyEnableInSingleHand": false,
+        "hasItem": true,
+        "startingItem": {
+          "CurrentIdx": 1,
+          "CellId": 2,
+          "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.GunTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "NameTO": "GunTO"
+        },
+        "attachmentIds": [],
+        "amount": 0
+      },
+      {
+        "category": 6,
+        "onlyEnableInSingleHand": false,
+        "hasItem": false,
+        "startingItem": {
+          "CurrentIdx": 0,
+          "CellId": 0,
+          "AssemblyQualifiedNameTO": "",
+          "NameTO": ""
+        },
+        "attachmentIds": [],
+        "amount": 0
+      },
+      {
+        "category": 2,
+        "onlyEnableInSingleHand": true,
+        "hasItem": true,
+        "startingItem": {
+          "CurrentIdx": 19,
+          "CellId": 0,
+          "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.ExplosiveItemTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "NameTO": "ExplosiveItemTO"
+        },
+        "attachmentIds": [],
+        "amount": 1
+      },
+      {
+        "category": 5,
+        "onlyEnableInSingleHand": true,
+        "hasItem": true,
+        "startingItem": {
+          "CurrentIdx": 0,
+          "CellId": 0,
+          "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.BoosterTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "NameTO": "BoosterTO"
+        },
+        "attachmentIds": [],
+        "amount": 1
+      }
+    ],
+    "selectionWheelSlots": 4,
+    "handMaxStackCount": 2,
+    "startingResources": [
+      {
+        "resourceType": 3,
+        "amount": 5
+      },
+      {
+        "resourceType": 4,
+        "amount": 60
+      },
+      {
+        "resourceType": 15,
+        "amount": 140
+      },
+      {
+        "resourceType": 19,
+        "amount": 180
+      },
+      {
+        "resourceType": 17,
+        "amount": 60
+      }
+    ],
+    "minimumRespawnResources": [
+      {
+        "resourceType": 4,
+        "amount": 60
+      },
+      {
+        "resourceType": 15,
+        "amount": 140
+      },
+      {
+        "resourceType": 17,
+        "amount": 60
+      },
+      {
+        "resourceType": 19,
+        "amount": 180
+      }
+    ],
+    "chestHierarchyPrefab": {
+      "assetName": "Chest_Hierarchy",
+      "assetPath": "Assets/Prefabs/Player/VertigoResources/Chest_Hierarchy.prefab",
+      "assetGUID": "95db804559ddaab45a72a799d0a242d2",
+      "resourcePath": "Chest_Hierarchy",
+      "isSubAsset": false
+    },
+    "isLootingAmmoShared": true,
+    "showEnemyTeamName": false,
+    "collisionRadius": 0.75,
+    "hitRadius": 0.25,
+    "dropItemsOnDeath": true,
+    "canDespawnItemsWhenDropped": true,
+    "despawnDroppedItemsAfterSeconds": 30.0,
+    "maxSelfDamage": 0,
+    "maxFriendlyDamage": 0,
+    "maxSelfExplosiveDamage": 10,
+    "maxFriendlyExplosiveDamage": 2,
+    "waitForAllPlayersConnected": false,
+    "timeToWaitForAllPlayerConnected": 30.0,
+    "supportedEndConditions": [
+      3,
+      4
+    ],
+    "id": 1,
+    "name": "PVP - TDM",
+    "category": ""
+  },
+  {
+    "health": 100,
+    "healthRegenSettings": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "MaxHealthForHealthRegen": 100,
+          "HealthRegenPerSecond": 2.0,
+          "HealthRegenTimeout": 5.0
+        },
+        {
+          "MaxHealthForHealthRegen": 50,
+          "HealthRegenPerSecond": 1.0,
+          "HealthRegenTimeout": 7.0
+        },
+        {
+          "MaxHealthForHealthRegen": 25,
+          "HealthRegenPerSecond": 0.5,
+          "HealthRegenTimeout": 10.0
+        },
+        {
+          "MaxHealthForHealthRegen": 0,
+          "HealthRegenPerSecond": 0.0,
+          "HealthRegenTimeout": 0.0
+        },
+        {
+          "MaxHealthForHealthRegen": 25,
+          "HealthRegenPerSecond": 1.0,
+          "HealthRegenTimeout": 5.0
+        }
+      ]
+    },
+    "respawnDelay": 0.0,
+    "respawnInvulnerabilityDuration": 3.0,
+    "healthBasedDebuffs": [],
+    "outOfCombatAutoReviveHealth": 10.0,
+    "healthFresnelSettings": {
+      "fresnelHitEnabled": false,
+      "lerpInDuration": 0.0,
+      "activeDuration": 0.0,
+      "lerpOutDuration": 0.0
+    },
+    "infectionSettings": {
+      "infectedStartFraction": 1.0,
+      "infectionIncreasePerSecond": 1.0,
+      "infectionIncreasePerHit": 0.5,
+      "infectionIncreasePerTeamMemberInfected": 0.35,
+      "infectedStatModifiers": [
+        1,
+        3
+      ],
+      "injectDisinfectDuration": 1.0,
+      "injectDisinfectEaseMode": 0,
+      "selfDisinfectHealAmount": 10.0
+    },
+    "enableOverrideInfectedViewSettings": false,
+    "overrideInfectedViewSettings": {
+      "infectionViewOverlayPrefab": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      },
+      "overlayFreezeAnimDuration": 0.0,
+      "overlayFreezeCurve": {
+        "keys": [],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "overlayDefreezeAnimDuration": 0.0,
+      "overlayDefreezeCurve": {
+        "keys": [],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "infectedStateEnteredProfile": 0,
+      "infectedFogArtSettings": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      },
+      "infectFogTransitionDuration": 0.0,
+      "infectFogTransitionCurve": {
+        "keys": [],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "disinfectFogTransitionDuration": 0.0,
+      "disinfectFogTransitionCurve": {
+        "keys": [],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "frozenForceOutlineDistance": 0.0,
+      "frostStrengthCurve": {
+        "keys": [],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "iceStrengthCurve": {
+        "keys": [],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "infectedDistortSnapshot": {
+        "parameterSettings": [],
+        "eventPath": "",
+        "eventGuid": ""
+      }
+    },
+    "damageTakenFromBehindSettings": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "DamageTakenForDamageFromBehindFraction": 0.2
+        },
+        {
+          "DamageTakenForDamageFromBehindFraction": 0.4
+        },
+        {
+          "DamageTakenForDamageFromBehindFraction": 0.6
+        },
+        {
+          "DamageTakenForDamageFromBehindFraction": 0.8
+        },
+        {
+          "DamageTakenForDamageFromBehindFraction": 1.0
+        }
+      ]
+    },
+    "angleForDamageReduction": 90,
+    "damageTakenHapticsProfile": 22,
+    "hasLeftWristStartingItem": false,
+    "leftWristItem": {
+      "category": 0,
+      "onlyEnableInSingleHand": false,
+      "hasItem": false,
+      "startingItem": {
+        "CurrentIdx": -1,
+        "CellId": 0,
+        "AssemblyQualifiedNameTO": "",
+        "NameTO": ""
+      },
+      "attachmentIds": [],
+      "amount": 1
+    },
+    "hasRightWristStartingItem": false,
+    "rightWristItem": {
+      "category": 0,
+      "onlyEnableInSingleHand": false,
+      "hasItem": false,
+      "startingItem": {
+        "CurrentIdx": -1,
+        "CellId": 0,
+        "AssemblyQualifiedNameTO": "",
+        "NameTO": ""
+      },
+      "attachmentIds": [],
+      "amount": 1
+    },
+    "hasLeftThrowableStartingItem": false,
+    "leftThrowableStartingItem": {
+      "category": 0,
+      "onlyEnableInSingleHand": false,
+      "hasItem": false,
+      "startingItem": {
+        "CurrentIdx": 0,
+        "CellId": 0,
+        "AssemblyQualifiedNameTO": "",
+        "NameTO": ""
+      },
+      "attachmentIds": [],
+      "amount": 0
+    },
+    "hasRightThrowableStartingItem": false,
+    "rightThrowableStartingItem": {
+      "category": 0,
+      "onlyEnableInSingleHand": false,
+      "hasItem": false,
+      "startingItem": {
+        "CurrentIdx": 0,
+        "CellId": 0,
+        "AssemblyQualifiedNameTO": "",
+        "NameTO": ""
+      },
+      "attachmentIds": [],
+      "amount": 0
+    },
+    "inventoryItems": [
+      {
+        "category": 6,
+        "onlyEnableInSingleHand": false,
+        "hasItem": false,
+        "startingItem": {
+          "CurrentIdx": 0,
+          "CellId": 0,
+          "AssemblyQualifiedNameTO": "",
+          "NameTO": ""
+        },
+        "attachmentIds": [],
+        "amount": 0
+      },
+      {
+        "category": 6,
+        "onlyEnableInSingleHand": false,
+        "hasItem": false,
+        "startingItem": {
+          "CurrentIdx": 0,
+          "CellId": 0,
+          "AssemblyQualifiedNameTO": "",
+          "NameTO": ""
+        },
+        "attachmentIds": [],
+        "amount": 0
+      },
+      {
+        "category": 2,
+        "onlyEnableInSingleHand": true,
+        "hasItem": false,
+        "startingItem": {
+          "CurrentIdx": 0,
+          "CellId": 0,
+          "AssemblyQualifiedNameTO": "",
+          "NameTO": ""
+        },
+        "attachmentIds": [],
+        "amount": 0
+      },
+      {
+        "category": 2,
+        "onlyEnableInSingleHand": true,
+        "hasItem": false,
+        "startingItem": {
+          "CurrentIdx": 0,
+          "CellId": 0,
+          "AssemblyQualifiedNameTO": "",
+          "NameTO": ""
+        },
+        "attachmentIds": [],
+        "amount": 0
+      }
+    ],
+    "selectionWheelSlots": 4,
+    "handMaxStackCount": 2,
+    "startingResources": [
+      {
+        "resourceType": 3,
+        "amount": 1
+      },
+      {
+        "resourceType": 4,
+        "amount": 80
+      },
+      {
+        "resourceType": 15,
+        "amount": 240
+      },
+      {
+        "resourceType": 16,
+        "amount": 0
+      },
+      {
+        "resourceType": 19,
+        "amount": 200
+      },
+      {
+        "resourceType": 7,
+        "amount": 0
+      },
+      {
+        "resourceType": 5,
+        "amount": 0
+      },
+      {
+        "resourceType": 17,
+        "amount": 40
+      },
+      {
+        "resourceType": 18,
+        "amount": 200
+      }
+    ],
+    "minimumRespawnResources": [
+      {
+        "resourceType": 4,
+        "amount": 10
+      },
+      {
+        "resourceType": 15,
+        "amount": 10
+      },
+      {
+        "resourceType": 17,
+        "amount": 10
+      },
+      {
+        "resourceType": 18,
+        "amount": 10
+      },
+      {
+        "resourceType": 19,
+        "amount": 10
+      }
+    ],
+    "chestHierarchyPrefab": {
+      "assetName": "Chest_Hierarchy",
+      "assetPath": "Assets/Prefabs/Player/VertigoResources/Chest_Hierarchy.prefab",
+      "assetGUID": "95db804559ddaab45a72a799d0a242d2",
+      "resourcePath": "Chest_Hierarchy",
+      "isSubAsset": false
+    },
+    "isLootingAmmoShared": false,
+    "showEnemyTeamName": false,
+    "collisionRadius": 0.75,
+    "hitRadius": 0.01,
+    "dropItemsOnDeath": false,
+    "canDespawnItemsWhenDropped": false,
+    "despawnDroppedItemsAfterSeconds": 30.0,
+    "maxSelfDamage": 0,
+    "maxFriendlyDamage": 0,
+    "maxSelfExplosiveDamage": 0,
+    "maxFriendlyExplosiveDamage": 0,
+    "waitForAllPlayersConnected": true,
+    "timeToWaitForAllPlayerConnected": 30.0,
+    "supportedEndConditions": [],
+    "id": 2,
+    "name": "Hub",
+    "category": ""
+  },
+  {
+    "health": 100,
+    "healthRegenSettings": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "MaxHealthForHealthRegen": 25,
+          "HealthRegenPerSecond": 0.0,
+          "HealthRegenTimeout": 5.0
+        },
+        {
+          "MaxHealthForHealthRegen": 25,
+          "HealthRegenPerSecond": 0.0,
+          "HealthRegenTimeout": 5.0
+        },
+        {
+          "MaxHealthForHealthRegen": 25,
+          "HealthRegenPerSecond": 0.0,
+          "HealthRegenTimeout": 5.0
+        },
+        {
+          "MaxHealthForHealthRegen": 25,
+          "HealthRegenPerSecond": 0.0,
+          "HealthRegenTimeout": 5.0
+        },
+        {
+          "MaxHealthForHealthRegen": 25,
+          "HealthRegenPerSecond": 1.0,
+          "HealthRegenTimeout": 5.0
+        }
+      ]
+    },
+    "respawnDelay": 2.0,
+    "respawnInvulnerabilityDuration": 2.0,
+    "healthBasedDebuffs": [],
+    "outOfCombatAutoReviveHealth": 10.0,
+    "healthFresnelSettings": {
+      "fresnelHitEnabled": true,
+      "lerpInDuration": 0.1,
+      "activeDuration": 0.15,
+      "lerpOutDuration": 0.1
+    },
+    "infectionSettings": {
+      "infectedStartFraction": 0.0,
+      "infectionIncreasePerSecond": 0.0,
+      "infectionIncreasePerHit": 0.0,
+      "infectionIncreasePerTeamMemberInfected": 0.0,
+      "infectedStatModifiers": [],
+      "injectDisinfectDuration": 0.0,
+      "injectDisinfectEaseMode": 0,
+      "selfDisinfectHealAmount": 0.0
+    },
+    "enableOverrideInfectedViewSettings": false,
+    "overrideInfectedViewSettings": {
+      "infectionViewOverlayPrefab": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      },
+      "overlayFreezeAnimDuration": 0.0,
+      "overlayFreezeCurve": {
+        "keys": [],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "overlayDefreezeAnimDuration": 0.0,
+      "overlayDefreezeCurve": {
+        "keys": [],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "infectedStateEnteredProfile": 0,
+      "infectedFogArtSettings": {
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      },
+      "infectFogTransitionDuration": 0.0,
+      "infectFogTransitionCurve": {
+        "keys": [],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "disinfectFogTransitionDuration": 0.0,
+      "disinfectFogTransitionCurve": {
+        "keys": [],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "frozenForceOutlineDistance": 0.0,
+      "frostStrengthCurve": {
+        "keys": [],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "iceStrengthCurve": {
+        "keys": [],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "infectedDistortSnapshot": {
+        "parameterSettings": [],
+        "eventPath": "",
+        "eventGuid": ""
+      }
+    },
+    "damageTakenFromBehindSettings": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "DamageTakenForDamageFromBehindFraction": 1.0
+        },
+        {
+          "DamageTakenForDamageFromBehindFraction": 1.0
+        },
+        {
+          "DamageTakenForDamageFromBehindFraction": 1.0
+        },
+        {
+          "DamageTakenForDamageFromBehindFraction": 1.0
+        },
+        {
+          "DamageTakenForDamageFromBehindFraction": 1.0
+        }
+      ]
+    },
+    "angleForDamageReduction": 90,
+    "damageTakenHapticsProfile": 22,
+    "hasLeftWristStartingItem": false,
+    "leftWristItem": {
+      "category": 0,
+      "onlyEnableInSingleHand": false,
+      "hasItem": false,
+      "startingItem": {
+        "CurrentIdx": -1,
+        "CellId": 0,
+        "AssemblyQualifiedNameTO": "",
+        "NameTO": ""
+      },
+      "attachmentIds": [],
+      "amount": 1
+    },
+    "hasRightWristStartingItem": false,
+    "rightWristItem": {
+      "category": 0,
+      "onlyEnableInSingleHand": false,
+      "hasItem": false,
+      "startingItem": {
+        "CurrentIdx": -1,
+        "CellId": 0,
+        "AssemblyQualifiedNameTO": "",
+        "NameTO": ""
+      },
+      "attachmentIds": [],
+      "amount": 1
+    },
+    "hasLeftThrowableStartingItem": false,
+    "leftThrowableStartingItem": {
+      "category": 0,
+      "onlyEnableInSingleHand": false,
+      "hasItem": false,
+      "startingItem": {
+        "CurrentIdx": 0,
+        "CellId": 0,
+        "AssemblyQualifiedNameTO": "",
+        "NameTO": ""
+      },
+      "attachmentIds": [],
+      "amount": 0
+    },
+    "hasRightThrowableStartingItem": false,
+    "rightThrowableStartingItem": {
+      "category": 0,
+      "onlyEnableInSingleHand": false,
+      "hasItem": false,
+      "startingItem": {
+        "CurrentIdx": 0,
+        "CellId": 0,
+        "AssemblyQualifiedNameTO": "",
+        "NameTO": ""
+      },
+      "attachmentIds": [],
+      "amount": 0
+    },
+    "inventoryItems": [
+      {
+        "category": 6,
+        "onlyEnableInSingleHand": false,
+        "hasItem": true,
+        "startingItem": {
+          "CurrentIdx": 1,
+          "CellId": 2,
+          "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.GunTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "NameTO": "GunTO"
+        },
+        "attachmentIds": [],
+        "amount": 0
+      },
+      {
+        "category": 6,
+        "onlyEnableInSingleHand": false,
+        "hasItem": false,
+        "startingItem": {
+          "CurrentIdx": 0,
+          "CellId": 0,
+          "AssemblyQualifiedNameTO": "",
+          "NameTO": ""
+        },
+        "attachmentIds": [],
+        "amount": 0
+      },
+      {
+        "category": 2,
+        "onlyEnableInSingleHand": true,
+        "hasItem": true,
+        "startingItem": {
+          "CurrentIdx": 19,
+          "CellId": 0,
+          "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.ExplosiveItemTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "NameTO": "ExplosiveItemTO"
+        },
+        "attachmentIds": [],
+        "amount": 1
+      },
+      {
+        "category": 5,
+        "onlyEnableInSingleHand": true,
+        "hasItem": true,
+        "startingItem": {
+          "CurrentIdx": 0,
+          "CellId": 0,
+          "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.BoosterTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "NameTO": "BoosterTO"
+        },
+        "attachmentIds": [],
+        "amount": 1
+      }
+    ],
+    "selectionWheelSlots": 4,
+    "handMaxStackCount": 2,
+    "startingResources": [
+      {
+        "resourceType": 3,
+        "amount": 5
+      },
+      {
+        "resourceType": 4,
+        "amount": 60
+      },
+      {
+        "resourceType": 15,
+        "amount": 140
+      },
+      {
+        "resourceType": 19,
+        "amount": 180
+      },
+      {
+        "resourceType": 17,
+        "amount": 60
+      }
+    ],
+    "minimumRespawnResources": [
+      {
+        "resourceType": 4,
+        "amount": 60
+      },
+      {
+        "resourceType": 15,
+        "amount": 140
+      },
+      {
+        "resourceType": 17,
+        "amount": 60
+      },
+      {
+        "resourceType": 19,
+        "amount": 180
+      }
+    ],
+    "chestHierarchyPrefab": {
+      "assetName": "Chest_Hierarchy",
+      "assetPath": "Assets/Prefabs/Player/VertigoResources/Chest_Hierarchy.prefab",
+      "assetGUID": "95db804559ddaab45a72a799d0a242d2",
+      "resourcePath": "Chest_Hierarchy",
+      "isSubAsset": false
+    },
+    "isLootingAmmoShared": true,
+    "showEnemyTeamName": false,
+    "collisionRadius": 0.75,
+    "hitRadius": 0.25,
+    "dropItemsOnDeath": true,
+    "canDespawnItemsWhenDropped": true,
+    "despawnDroppedItemsAfterSeconds": 30.0,
+    "maxSelfDamage": 0,
+    "maxFriendlyDamage": 0,
+    "maxSelfExplosiveDamage": 10,
+    "maxFriendlyExplosiveDamage": 2,
+    "waitForAllPlayersConnected": false,
+    "timeToWaitForAllPlayerConnected": 30.0,
+    "supportedEndConditions": [
+      2,
+      4
+    ],
+    "id": 3,
+    "name": "PVP - FFA",
+    "category": ""
+  },
+  {
+    "health": 100,
+    "healthRegenSettings": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "MaxHealthForHealthRegen": 25,
+          "HealthRegenPerSecond": 1000.0,
+          "HealthRegenTimeout": 0.0
+        },
+        {
+          "MaxHealthForHealthRegen": 25,
+          "HealthRegenPerSecond": 1000.0,
+          "HealthRegenTimeout": 0.0
+        },
+        {
+          "MaxHealthForHealthRegen": 25,
+          "HealthRegenPerSecond": 1000.0,
+          "HealthRegenTimeout": 0.0
+        },
+        {
+          "MaxHealthForHealthRegen": 25,
+          "HealthRegenPerSecond": 1000.0,
+          "HealthRegenTimeout": 0.0
+        },
+        {
+          "MaxHealthForHealthRegen": 25,
+          "HealthRegenPerSecond": 1.0,
+          "HealthRegenTimeout": 5.0
+        }
+      ]
+    },
+    "respawnDelay": 0.0,
+    "respawnInvulnerabilityDuration": 3.0,
+    "healthBasedDebuffs": [],
+    "outOfCombatAutoReviveHealth": 10.0,
+    "healthFresnelSettings": {
+      "fresnelHitEnabled": false,
+      "lerpInDuration": 0.0,
+      "activeDuration": 0.0,
+      "lerpOutDuration": 0.0
+    },
+    "infectionSettings": {
+      "infectedStartFraction": 1.0,
+      "infectionIncreasePerSecond": 1.0,
+      "infectionIncreasePerHit": 0.5,
+      "infectionIncreasePerTeamMemberInfected": 0.35,
+      "infectedStatModifiers": [
+        1,
+        3
+      ],
+      "injectDisinfectDuration": 1.0,
+      "injectDisinfectEaseMode": 0,
+      "selfDisinfectHealAmount": 10.0
+    },
+    "enableOverrideInfectedViewSettings": true,
+    "overrideInfectedViewSettings": {
+      "infectionViewOverlayPrefab": {
+        "assetName": "PlayerInfectedView",
+        "assetPath": "Assets/Prefabs/UI/VertigoResources/PlayerInfectedView.prefab",
+        "assetGUID": "e268f6cb21a6e7a4bb53691f033a5292",
+        "resourcePath": "PlayerInfectedView",
+        "isSubAsset": false
+      },
+      "overlayFreezeAnimDuration": 0.75,
+      "overlayFreezeCurve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 10.0,
+            "outTangent": 10.0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.1,
+            "value": 1.0,
+            "inTangent": 4.457143,
+            "outTangent": 4.457143,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.45,
+            "value": 0.62,
+            "inTangent": -0.515584469,
+            "outTangent": -0.515584469,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 0.65,
+            "inTangent": 0.0545454025,
+            "outTangent": 0.0545454025,
+            "inWeight": 0.333333343,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "overlayDefreezeAnimDuration": 1.0,
+      "overlayDefreezeCurve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inTangent": -2.01266146,
+            "outTangent": -2.01266146,
+            "inWeight": 0.0,
+            "outWeight": 0.0613810755,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "infectedStateEnteredProfile": 16,
+      "infectedFogArtSettings": {
+        "assetName": "FOG_Frozen",
+        "assetPath": "Assets/Art/FX Vertigo/FX_LUTs/VertigoResources/FOG_Frozen.prefab",
+        "assetGUID": "c7e164c51bf40db479f2adeb146cb61d",
+        "resourcePath": "FOG_Frozen",
+        "isSubAsset": false
+      },
+      "infectFogTransitionDuration": 0.75,
+      "infectFogTransitionCurve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 0.5,
+            "inTangent": 1.28375208,
+            "outTangent": 1.28375208,
+            "inWeight": 0.03836316,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "disinfectFogTransitionDuration": 0.5,
+      "disinfectFogTransitionCurve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.5,
+            "inTangent": -1.631888,
+            "outTangent": -1.631888,
+            "inWeight": 0.0,
+            "outWeight": 0.03836317,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "frozenForceOutlineDistance": 5.0,
+      "frostStrengthCurve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 0.0266430434,
+            "outTangent": 0.0266430434,
+            "inWeight": 0.0,
+            "outWeight": 1.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.05,
+            "value": 0.5,
+            "inTangent": 1.29275334,
+            "outTangent": 1.29275334,
+            "inWeight": 0.333333343,
+            "outWeight": 0.0550544634,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inTangent": -7.768408E-06,
+            "outTangent": -7.768408E-06,
+            "inWeight": 0.06461219,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "iceStrengthCurve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 1.0,
+            "outTangent": 1.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inTangent": 1.0,
+            "outTangent": 1.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "infectedDistortSnapshot": {
+        "parameterSettings": [],
+        "eventPath": "snapshot:/Mix_player_infected",
+        "eventGuid": "90b67f40-a9b6-4aeb-b3e8-e7877d8d1208"
+      }
+    },
+    "damageTakenFromBehindSettings": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        {
+          "DamageTakenForDamageFromBehindFraction": 0.2
+        },
+        {
+          "DamageTakenForDamageFromBehindFraction": 0.4
+        },
+        {
+          "DamageTakenForDamageFromBehindFraction": 0.6
+        },
+        {
+          "DamageTakenForDamageFromBehindFraction": 0.8
+        },
+        {
+          "DamageTakenForDamageFromBehindFraction": 1.0
+        }
+      ]
+    },
+    "angleForDamageReduction": 90,
+    "damageTakenHapticsProfile": 22,
+    "hasLeftWristStartingItem": false,
+    "leftWristItem": {
+      "category": 3,
+      "onlyEnableInSingleHand": false,
+      "hasItem": false,
+      "startingItem": {
+        "CurrentIdx": 2,
+        "CellId": 0,
+        "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.CombatDeviceTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "NameTO": "CombatDeviceTO"
+      },
+      "attachmentIds": [],
+      "amount": 0
+    },
+    "hasRightWristStartingItem": false,
+    "rightWristItem": {
+      "category": 3,
+      "onlyEnableInSingleHand": false,
+      "hasItem": false,
+      "startingItem": {
+        "CurrentIdx": 0,
+        "CellId": 0,
+        "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.CombatDeviceTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "NameTO": "CombatDeviceTO"
+      },
+      "attachmentIds": [],
+      "amount": 1
+    },
+    "hasLeftThrowableStartingItem": false,
+    "leftThrowableStartingItem": {
+      "category": 0,
+      "onlyEnableInSingleHand": false,
+      "hasItem": false,
+      "startingItem": {
+        "CurrentIdx": 0,
+        "CellId": 0,
+        "AssemblyQualifiedNameTO": "",
+        "NameTO": ""
+      },
+      "attachmentIds": [],
+      "amount": 0
+    },
+    "hasRightThrowableStartingItem": false,
+    "rightThrowableStartingItem": {
+      "category": 0,
+      "onlyEnableInSingleHand": false,
+      "hasItem": false,
+      "startingItem": {
+        "CurrentIdx": 0,
+        "CellId": 0,
+        "AssemblyQualifiedNameTO": "",
+        "NameTO": ""
+      },
+      "attachmentIds": [],
+      "amount": 0
+    },
+    "inventoryItems": [
+      {
+        "category": 6,
+        "onlyEnableInSingleHand": false,
+        "hasItem": false,
+        "startingItem": {
+          "CurrentIdx": 1,
+          "CellId": 2,
+          "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.GunTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "NameTO": "GunTO"
+        },
+        "attachmentIds": [],
+        "amount": 1
+      },
+      {
+        "category": 6,
+        "onlyEnableInSingleHand": false,
+        "hasItem": false,
+        "startingItem": {
+          "CurrentIdx": 4,
+          "CellId": 31,
+          "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.GunTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "NameTO": "GunTO"
+        },
+        "attachmentIds": [],
+        "amount": 1
+      },
+      {
+        "category": 2,
+        "onlyEnableInSingleHand": true,
+        "hasItem": false,
+        "startingItem": {
+          "CurrentIdx": 20,
+          "CellId": 0,
+          "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.BoosterTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "NameTO": "BoosterTO"
+        },
+        "attachmentIds": [],
+        "amount": 1
+      },
+      {
+        "category": 2,
+        "onlyEnableInSingleHand": true,
+        "hasItem": false,
+        "startingItem": {
+          "CurrentIdx": 15,
+          "CellId": 0,
+          "AssemblyQualifiedNameTO": "Vertigo.Snowbreed.BoosterTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "NameTO": "BoosterTO"
+        },
+        "attachmentIds": [],
+        "amount": 1
+      }
+    ],
+    "selectionWheelSlots": 4,
+    "handMaxStackCount": 2,
+    "startingResources": [
+      {
+        "resourceType": 4,
+        "amount": 0
+      },
+      {
+        "resourceType": 15,
+        "amount": 0
+      },
+      {
+        "resourceType": 19,
+        "amount": 0
+      },
+      {
+        "resourceType": 17,
+        "amount": 0
+      }
+    ],
+    "minimumRespawnResources": [],
+    "chestHierarchyPrefab": {
+      "assetName": "Chest_Hierarchy",
+      "assetPath": "Assets/Prefabs/Player/VertigoResources/Chest_Hierarchy.prefab",
+      "assetGUID": "95db804559ddaab45a72a799d0a242d2",
+      "resourcePath": "Chest_Hierarchy",
+      "isSubAsset": false
+    },
+    "isLootingAmmoShared": false,
+    "showEnemyTeamName": false,
+    "collisionRadius": 0.75,
+    "hitRadius": 0.01,
+    "dropItemsOnDeath": false,
+    "canDespawnItemsWhenDropped": false,
+    "despawnDroppedItemsAfterSeconds": 30.0,
+    "maxSelfDamage": 0,
+    "maxFriendlyDamage": 0,
+    "maxSelfExplosiveDamage": 25,
+    "maxFriendlyExplosiveDamage": 5,
+    "waitForAllPlayersConnected": true,
+    "timeToWaitForAllPlayerConnected": 30.0,
+    "supportedEndConditions": [],
+    "id": 4,
+    "name": "Intro",
+    "category": ""
+  }
+]
+}

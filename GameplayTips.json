@@ -1,0 +1,1111 @@
+{
+  "TableId": 50010,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "title": {
+      "Key": "TIP_TITLE_MATIC",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_MATIC",
+      "Category": "loc_interface"
+    },
+    "id": 0,
+    "name": "Harvest-O-Matic",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_STOCKUP",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_STOCKUP",
+      "Category": "loc_interface"
+    },
+    "id": 1,
+    "name": "Stock Up",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_HARVESTING",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_HARVESTING",
+      "Category": "loc_interface"
+    },
+    "id": 2,
+    "name": "Harvesting",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_BLUEPRINTS",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_BLUEPRINTS",
+      "Category": "loc_interface"
+    },
+    "id": 3,
+    "name": "Blueprints",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_FREEZE",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_FREEZE",
+      "Category": "loc_interface"
+    },
+    "id": 4,
+    "name": "Freeze",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_DEFREEZE",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_DEFREEZE",
+      "Category": "loc_interface"
+    },
+    "id": 5,
+    "name": "Defreeze",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_SKINS",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_SKINS",
+      "Category": "loc_interface"
+    },
+    "id": 6,
+    "name": "Skins",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_SKIN_CHALLENGE",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_SKIN_CHALLENGE",
+      "Category": "loc_interface"
+    },
+    "id": 7,
+    "name": "Skin Challenge",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_ADV_RELOAD",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_ADV_RELOAD",
+      "Category": "loc_interface"
+    },
+    "id": 8,
+    "name": "Advanced Reload",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_LOCK_LOAD",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_LOCK_LOAD",
+      "Category": "loc_interface"
+    },
+    "id": 9,
+    "name": "Lock 'n Load",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_ICE_AGE",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_ICE_AGE",
+      "Category": "loc_interface"
+    },
+    "id": 10,
+    "name": "Ice Age",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_ICE_ARMOR",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_ICE_ARMOR",
+      "Category": "loc_interface"
+    },
+    "id": 11,
+    "name": "Ice Armor",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_PLACEMENT",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_PLACEMENT",
+      "Category": "loc_interface"
+    },
+    "id": 12,
+    "name": "Shot Placement",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_SPRAWL",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_SPRAWL",
+      "Category": "loc_interface"
+    },
+    "id": 13,
+    "name": "Sprawl",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_SPRAWL_BLOCK",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_SPRAWL_BLOCK",
+      "Category": "loc_interface"
+    },
+    "id": 14,
+    "name": "Sprawl Block",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_HUSKS",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_HUSKS",
+      "Category": "loc_interface"
+    },
+    "id": 15,
+    "name": "Husks",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_FARMING",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_FARMING",
+      "Category": "loc_interface"
+    },
+    "id": 16,
+    "name": "Farming",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_EATER",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_EATER",
+      "Category": "loc_interface"
+    },
+    "id": 17,
+    "name": "Eater",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_EATER_TIP",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_EATER_TIP",
+      "Category": "loc_interface"
+    },
+    "id": 18,
+    "name": "Eater Tip",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_ROACH",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_ROACH",
+      "Category": "loc_interface"
+    },
+    "id": 19,
+    "name": "Roaches",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_ROACH_TIP",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_ROACH_TIP",
+      "Category": "loc_interface"
+    },
+    "id": 20,
+    "name": "Roaches Tip",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_JUGGERNAUT",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_JUGGERNAUT",
+      "Category": "loc_interface"
+    },
+    "id": 21,
+    "name": "Juggernaut",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_JUGGERNAUT_TIP",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_JUGGERNAUT_TIP",
+      "Category": "loc_interface"
+    },
+    "id": 22,
+    "name": "Juggernaut Tip",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_SMASHER",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_SMASHER",
+      "Category": "loc_interface"
+    },
+    "id": 23,
+    "name": "Smasher",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_SMASHER_TIP",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_SMASHER_TIP",
+      "Category": "loc_interface"
+    },
+    "id": 24,
+    "name": "Smasher Tip",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_ARMORY",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_ARMORY",
+      "Category": "loc_interface"
+    },
+    "id": 25,
+    "name": "Armory",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_UPGRADE",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_UPGRADE",
+      "Category": "loc_interface"
+    },
+    "id": 26,
+    "name": "Upgrade",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_BOOSTERS",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_BOOSTERS",
+      "Category": "loc_interface"
+    },
+    "id": 27,
+    "name": "Boosters",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_SAFEGUARD",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_SAFEGUARD",
+      "Category": "loc_interface"
+    },
+    "id": 28,
+    "name": "Safeguard",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_CALIBERS",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_CALIBERS",
+      "Category": "loc_interface"
+    },
+    "id": 29,
+    "name": "Calibers",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_ORDNANCE",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_ORDNANCE",
+      "Category": "loc_interface"
+    },
+    "id": 30,
+    "name": "Ordnance",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_DEVICES",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_DEVICES",
+      "Category": "loc_interface"
+    },
+    "id": 31,
+    "name": "Devices",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_QUARANTINE",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_QUARANTINE",
+      "Category": "loc_interface"
+    },
+    "id": 32,
+    "name": "Quarantine",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_CHINATOWN",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_CHINATOWN",
+      "Category": "loc_interface"
+    },
+    "id": 33,
+    "name": "Chinatown",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_SKIDROW",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_SKIDROW",
+      "Category": "loc_interface"
+    },
+    "id": 34,
+    "name": "Skidrow",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_RELAY",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_RELAY",
+      "Category": "loc_interface"
+    },
+    "id": 35,
+    "name": "Relay",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_PVP",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_PVP",
+      "Category": "loc_interface"
+    },
+    "id": 36,
+    "name": "PVP",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_HORDE",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_HORDE",
+      "Category": "loc_interface"
+    },
+    "id": 37,
+    "name": "Horde",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_FRANK",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_FRANK",
+      "Category": "loc_interface"
+    },
+    "id": 38,
+    "name": "Frank",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_LUNA",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_LUNA",
+      "Category": "loc_interface"
+    },
+    "id": 39,
+    "name": "Luna",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_HARRY",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_HARRY",
+      "Category": "loc_interface"
+    },
+    "id": 40,
+    "name": "Harry",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_MICHAEL",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_MICHAEL",
+      "Category": "loc_interface"
+    },
+    "id": 41,
+    "name": "Michael",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_JEN",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_JEN",
+      "Category": "loc_interface"
+    },
+    "id": 42,
+    "name": "Jen",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_MALIA",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_MALIA",
+      "Category": "loc_interface"
+    },
+    "id": 43,
+    "name": "Malia",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_JIMMY",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_JIMMY",
+      "Category": "loc_interface"
+    },
+    "id": 44,
+    "name": "Jimmy",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_SWEEPERS",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_SWEEPERS",
+      "Category": "loc_interface"
+    },
+    "id": 45,
+    "name": "Sweepers",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_DEV_HUB",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_DEV_HUB",
+      "Category": "loc_interface"
+    },
+    "id": 46,
+    "name": "Development Hub",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_RUNNERS",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_RUNNERS",
+      "Category": "loc_interface"
+    },
+    "id": 47,
+    "name": "Runners",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_ENVIRONMENT",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_ENVIRONMENT",
+      "Category": "loc_interface"
+    },
+    "id": 48,
+    "name": "Environment",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_FIST_FIGHT",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_FIST_FIGHT",
+      "Category": "loc_interface"
+    },
+    "id": 49,
+    "name": "Fist Fight",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_FOCUS_FIRE",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_FOCUS_FIRE",
+      "Category": "loc_interface"
+    },
+    "id": 50,
+    "name": "Focus Fire",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_AMMO_MAN",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_AMMO_MAN",
+      "Category": "loc_interface"
+    },
+    "id": 51,
+    "name": "Ammo Management",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_THE_FALL",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_THE_FALL",
+      "Category": "loc_interface"
+    },
+    "id": 52,
+    "name": "The Fall",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_REWARDS",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_REWARDS",
+      "Category": "loc_interface"
+    },
+    "id": 53,
+    "name": "Rewards",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_LOOT_ROOMS",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_LOOT_ROOMS",
+      "Category": "loc_interface"
+    },
+    "id": 54,
+    "name": "Loot Rooms",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_ORANGE_LIGHT",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_ORANGE_LIGHT",
+      "Category": "loc_interface"
+    },
+    "id": 55,
+    "name": "Orange Light",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_KEYCARD",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_KEYCARD",
+      "Category": "loc_interface"
+    },
+    "id": 56,
+    "name": "Keycard",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_DISPLAY",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_DISPLAY",
+      "Category": "loc_interface"
+    },
+    "id": 57,
+    "name": "Display",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_PLAYSTYLE",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_PLAYSTYLE",
+      "Category": "loc_interface"
+    },
+    "id": 58,
+    "name": "Playstyle",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_ACQUIRE",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_ACQUIRE",
+      "Category": "loc_interface"
+    },
+    "id": 59,
+    "name": "Acquiring Ammo",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_INC_REWARD",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_INC_REWARD",
+      "Category": "loc_interface"
+    },
+    "id": 60,
+    "name": "Increased Rewards",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_DIFFICULTY",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_DIFFICULTY",
+      "Category": "loc_interface"
+    },
+    "id": 61,
+    "name": "Difficulty",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_SUITS",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_SUITS",
+      "Category": "loc_interface"
+    },
+    "id": 62,
+    "name": "Harvester Suits",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_RECOIL_RED",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_RECOIL_RED",
+      "Category": "loc_interface"
+    },
+    "id": 63,
+    "name": "Recoil Reduction",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_CRAFTING",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_CRAFTING",
+      "Category": "loc_interface"
+    },
+    "id": 64,
+    "name": "Crafting",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_BASE",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_BASE",
+      "Category": "loc_interface"
+    },
+    "id": 65,
+    "name": "Base Floppy",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_IMPORT",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_IMPORT",
+      "Category": "loc_interface"
+    },
+    "id": 66,
+    "name": "Import Floppy",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_INDUSTRIAL",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_INDUSTRIAL",
+      "Category": "loc_interface"
+    },
+    "id": 67,
+    "name": "Industrial Floppy",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_MILITARY",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_MILITARY",
+      "Category": "loc_interface"
+    },
+    "id": 68,
+    "name": "Military Floppy",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_PROTOTYPE",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_PROTOTYPE",
+      "Category": "loc_interface"
+    },
+    "id": 69,
+    "name": "Prototype Floppy",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_FORENDS",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_FORENDS",
+      "Category": "loc_interface"
+    },
+    "id": 70,
+    "name": "Forends",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_STOCKS",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_STOCKS",
+      "Category": "loc_interface"
+    },
+    "id": 71,
+    "name": "Stocks",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_GRIPS",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_GRIPS",
+      "Category": "loc_interface"
+    },
+    "id": 72,
+    "name": "Grips",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_PIPE_BOMB",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_PIPE_BOMB",
+      "Category": "loc_interface"
+    },
+    "id": 73,
+    "name": "Pipe Bomb",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_BARRELS",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_BARRELS",
+      "Category": "loc_interface"
+    },
+    "id": 74,
+    "name": "Barrels",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_PISTOL",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_PISTOL",
+      "Category": "loc_interface"
+    },
+    "id": 75,
+    "name": "Pistol",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_SMG",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_SMG",
+      "Category": "loc_interface"
+    },
+    "id": 76,
+    "name": "SMG",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_SHOTGUN",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_SHOTGUN",
+      "Category": "loc_interface"
+    },
+    "id": 77,
+    "name": "Shotgun",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_MT-47",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_MT-47",
+      "Category": "loc_interface"
+    },
+    "id": 78,
+    "name": "MT-47",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_FALCON",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_FALCON",
+      "Category": "loc_interface"
+    },
+    "id": 79,
+    "name": "Arizona Falcon",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_M4",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_M4",
+      "Category": "loc_interface"
+    },
+    "id": 80,
+    "name": "M4",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_MISSILE_DEV",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_MISSILE_DEV",
+      "Category": "loc_interface"
+    },
+    "id": 81,
+    "name": "Missile Device",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_FLOPPY_REW",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_FLOPPY_REW",
+      "Category": "loc_interface"
+    },
+    "id": 82,
+    "name": "Floppy Reward",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_DECRYPT_HAR",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_DECRYPT_HAR",
+      "Category": "loc_interface"
+    },
+    "id": 83,
+    "name": "Decrypt Harvest",
+    "category": ""
+  },
+  {
+    "title": {
+      "Key": "TIP_TITLE_DECRYPT",
+      "Category": "loc_interface"
+    },
+    "description": {
+      "Key": "TIP_DESC_DECRYPT",
+      "Category": "loc_interface"
+    },
+    "id": 84,
+    "name": "Decryption",
+    "category": ""
+  }
+]
+}

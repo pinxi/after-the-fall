@@ -1,0 +1,426 @@
+{
+  "TableId": 110,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "controllerType": 2,
+    "controllerRole": 4,
+    "controllerArtPrefab": {
+      "assetName": "OculusTouch_Left",
+      "assetPath": "Assets/Art_Code/Controllers/OculusSDKControllers/OculusTouchForRift/VertigoResources/OculusTouch_Left.prefab",
+      "assetGUID": "0fddb3942bad9fa45bfde59e379ce101",
+      "resourcePath": "OculusTouch_Left",
+      "isSubAsset": false
+    },
+    "id": 0,
+    "name": "Oculus Rift Controller Left",
+    "category": ""
+  },
+  {
+    "controllerType": 2,
+    "controllerRole": 8,
+    "controllerArtPrefab": {
+      "assetName": "OculusTouch_Right",
+      "assetPath": "Assets/Art_Code/Controllers/OculusSDKControllers/OculusTouchForRift/VertigoResources/OculusTouch_Right.prefab",
+      "assetGUID": "3aba0c7cafea4904d83f44dfc7cb31e5",
+      "resourcePath": "OculusTouch_Right",
+      "isSubAsset": false
+    },
+    "id": 1,
+    "name": "Oculus Rift Controller Right",
+    "category": ""
+  },
+  {
+    "controllerType": 4,
+    "controllerRole": 4,
+    "controllerArtPrefab": {
+      "assetName": "OculusTouchForQuestAndRiftS_Left",
+      "assetPath": "Assets/Art_Code/Controllers/OculusSDKControllers/OculusTouchForQuestAndRiftS/VertigoResources/OculusTouchForQuestAndRiftS_Left.prefab",
+      "assetGUID": "ed1b8a130559e7f4dbd152495582aa30",
+      "resourcePath": "OculusTouchForQuestAndRiftS_Left",
+      "isSubAsset": false
+    },
+    "id": 2,
+    "name": "Oculus Quest/RiftS Controller Left",
+    "category": ""
+  },
+  {
+    "controllerType": 4,
+    "controllerRole": 8,
+    "controllerArtPrefab": {
+      "assetName": "OculusTouchForQuestAndRiftS_Right",
+      "assetPath": "Assets/Art_Code/Controllers/OculusSDKControllers/OculusTouchForQuestAndRiftS/VertigoResources/OculusTouchForQuestAndRiftS_Right.prefab",
+      "assetGUID": "2af50dd498723d349b3ae32a4400d50a",
+      "resourcePath": "OculusTouchForQuestAndRiftS_Right",
+      "isSubAsset": false
+    },
+    "id": 3,
+    "name": "Oculus Quest/RiftS Controller Right",
+    "category": ""
+  },
+  {
+    "controllerType": 32,
+    "controllerRole": 2,
+    "controllerArtPrefab": {
+      "assetName": "PS4_Aim",
+      "assetPath": "Assets/Art_Code/Controllers/aim_controller_ps4/VertigoResources/PS4_Aim.prefab",
+      "assetGUID": "eda845eb361ac1e4eb324d85d85a063e",
+      "resourcePath": "PS4_Aim",
+      "isSubAsset": false
+    },
+    "id": 4,
+    "name": "Playstation Aim",
+    "category": ""
+  },
+  {
+    "controllerType": 16,
+    "controllerRole": 2,
+    "controllerArtPrefab": {
+      "assetName": "PS4_DualShock",
+      "assetPath": "Assets/Art_Code/Controllers/dualshock_wireless_controller_ps4/VertigoResources/PS4_DualShock.prefab",
+      "assetGUID": "50ecf82b7da77334ea4014a14f02fe98",
+      "resourcePath": "PS4_DualShock",
+      "isSubAsset": false
+    },
+    "id": 5,
+    "name": "Playstation Dualshock",
+    "category": ""
+  },
+  {
+    "controllerType": 8,
+    "controllerRole": 4,
+    "controllerArtPrefab": {
+      "assetName": "PS4_Move",
+      "assetPath": "Assets/Art_Code/Controllers/move_controller_ps4/VertigoResources/PS4_Move.prefab",
+      "assetGUID": "2681ed8a99ab3634d82bfcbb07e74a11",
+      "resourcePath": "PS4_Move",
+      "isSubAsset": false
+    },
+    "id": 6,
+    "name": "Playstation Move Left",
+    "category": ""
+  },
+  {
+    "controllerType": 8,
+    "controllerRole": 8,
+    "controllerArtPrefab": {
+      "assetName": "PS4_Move_Right",
+      "assetPath": "Assets/Art_Code/Controllers/move_controller_ps4/VertigoResources/PS4_Move_Right.prefab",
+      "assetGUID": "5642299068b838f4280faa24023aafa4",
+      "resourcePath": "PS4_Move_Right",
+      "isSubAsset": false
+    },
+    "id": 7,
+    "name": "Playstation Move Right",
+    "category": ""
+  },
+  {
+    "controllerType": 256,
+    "controllerRole": 4,
+    "controllerArtPrefab": {
+      "assetName": "HtcViveWand_Left",
+      "assetPath": "Assets/Art_Code/Controllers/vr_controller_vive_1_5/VertigoResources/HtcViveWand_Left.prefab",
+      "assetGUID": "5336f44ad77a7424c8c92470e8ea552a",
+      "resourcePath": "HtcViveWand_Left",
+      "isSubAsset": false
+    },
+    "id": 8,
+    "name": "HTC Vive Wand Left",
+    "category": ""
+  },
+  {
+    "controllerType": 256,
+    "controllerRole": 8,
+    "controllerArtPrefab": {
+      "assetName": "HtcViveWand_Right",
+      "assetPath": "Assets/Art_Code/Controllers/vr_controller_vive_1_5/VertigoResources/HtcViveWand_Right.prefab",
+      "assetGUID": "60906a0a9abd6b24da94efe1a518ea10",
+      "resourcePath": "HtcViveWand_Right",
+      "isSubAsset": false
+    },
+    "id": 9,
+    "name": "HTC Vive Wand Right",
+    "category": ""
+  },
+  {
+    "controllerType": 2048,
+    "controllerRole": 4,
+    "controllerArtPrefab": {
+      "assetName": "HtcViveCosmos_Left",
+      "assetPath": "Assets/Art_Code/Controllers/Vive_Cosmos/VertigoResources/HtcViveCosmos_Left.prefab",
+      "assetGUID": "7826d695226285044982e3b219baba71",
+      "resourcePath": "HtcViveCosmos_Left",
+      "isSubAsset": false
+    },
+    "id": 10,
+    "name": "HTC Vive Cosmos Left",
+    "category": ""
+  },
+  {
+    "controllerType": 2048,
+    "controllerRole": 8,
+    "controllerArtPrefab": {
+      "assetName": "HtcViveCosmos_Right",
+      "assetPath": "Assets/Art_Code/Controllers/Vive_Cosmos/VertigoResources/HtcViveCosmos_Right.prefab",
+      "assetGUID": "00a255e8c548e164e9309934118da0e5",
+      "resourcePath": "HtcViveCosmos_Right",
+      "isSubAsset": false
+    },
+    "id": 11,
+    "name": "HTC Vive Cosmos Right",
+    "category": ""
+  },
+  {
+    "controllerType": 1024,
+    "controllerRole": 4,
+    "controllerArtPrefab": {
+      "assetName": "ValveKnuckle_Left",
+      "assetPath": "Assets/Art_Code/Controllers/Valve_Index/VertigoResources/ValveKnuckle_Left.prefab",
+      "assetGUID": "7bdc9beaf326f8d439896b8bfc731147",
+      "resourcePath": "ValveKnuckle_Left",
+      "isSubAsset": false
+    },
+    "id": 12,
+    "name": "Valve Knuckle Left",
+    "category": ""
+  },
+  {
+    "controllerType": 1024,
+    "controllerRole": 8,
+    "controllerArtPrefab": {
+      "assetName": "ValveKnuckle_Right",
+      "assetPath": "Assets/Art_Code/Controllers/Valve_Index/VertigoResources/ValveKnuckle_Right.prefab",
+      "assetGUID": "d1b1ab830b6f6354884eefc34acfc168",
+      "resourcePath": "ValveKnuckle_Right",
+      "isSubAsset": false
+    },
+    "id": 13,
+    "name": "Valve Knuckle Right",
+    "category": ""
+  },
+  {
+    "controllerType": 16384,
+    "controllerRole": 4,
+    "controllerArtPrefab": {
+      "assetName": "HPMotionController_Left",
+      "assetPath": "Assets/Art_Code/Controllers/WindowsMixedReality/v02/VertigoResources/HPMotionController_Left.prefab",
+      "assetGUID": "6288dcd4613e0f140b42b501036f6f97",
+      "resourcePath": "HPMotionController_Left",
+      "isSubAsset": false
+    },
+    "id": 14,
+    "name": "HP Motion Controller Left",
+    "category": ""
+  },
+  {
+    "controllerType": 16384,
+    "controllerRole": 8,
+    "controllerArtPrefab": {
+      "assetName": "HPMotionController_Right",
+      "assetPath": "Assets/Art_Code/Controllers/WindowsMixedReality/v02/VertigoResources/HPMotionController_Right.prefab",
+      "assetGUID": "abbfaaa1c1375d34a8bae25a947f47f3",
+      "resourcePath": "HPMotionController_Right",
+      "isSubAsset": false
+    },
+    "id": 15,
+    "name": "HP Motion Controller Right",
+    "category": ""
+  },
+  {
+    "controllerType": 512,
+    "controllerRole": 4,
+    "controllerArtPrefab": {
+      "assetName": "SpatialController_Left",
+      "assetPath": "Assets/Art_Code/Controllers/WindowsMixedReality/v01/VertigoResources/SpatialController_Left.prefab",
+      "assetGUID": "b91b5d314fecb9e47991130cd849132b",
+      "resourcePath": "SpatialController_Left",
+      "isSubAsset": false
+    },
+    "id": 16,
+    "name": "Spatial Controller Left",
+    "category": ""
+  },
+  {
+    "controllerType": 512,
+    "controllerRole": 8,
+    "controllerArtPrefab": {
+      "assetName": "SpatialController_Right",
+      "assetPath": "Assets/Art_Code/Controllers/WindowsMixedReality/v01/VertigoResources/SpatialController_Right.prefab",
+      "assetGUID": "f03a2d6e015085b4c9471b216ee1f3d8",
+      "resourcePath": "SpatialController_Right",
+      "isSubAsset": false
+    },
+    "id": 17,
+    "name": "Spatial Controller Right",
+    "category": ""
+  },
+  {
+    "controllerType": 32768,
+    "controllerRole": 4,
+    "controllerArtPrefab": {
+      "assetName": "Qiyu3_Handle_L",
+      "assetPath": "Assets/Art_Code/Controllers/QiyuControllers/Qiyu3Controller/VertigoResources/Qiyu3_Handle_L.prefab",
+      "assetGUID": "701072da835586a438fe44791b63c693",
+      "resourcePath": "Qiyu3_Handle_L",
+      "isSubAsset": false
+    },
+    "id": 18,
+    "name": "Qiyu3 Controller Left",
+    "category": ""
+  },
+  {
+    "controllerType": 32768,
+    "controllerRole": 8,
+    "controllerArtPrefab": {
+      "assetName": "Qiyu3_Handle_R",
+      "assetPath": "Assets/Art_Code/Controllers/QiyuControllers/Qiyu3Controller/VertigoResources/Qiyu3_Handle_R.prefab",
+      "assetGUID": "8b8d0dc7c8101c14f85da66883c0567c",
+      "resourcePath": "Qiyu3_Handle_R",
+      "isSubAsset": false
+    },
+    "id": 19,
+    "name": "Qiyu3 Controller Right",
+    "category": ""
+  },
+  {
+    "controllerType": 65536,
+    "controllerRole": 4,
+    "controllerArtPrefab": {
+      "assetName": "QiyuDream_Handle_L",
+      "assetPath": "Assets/Art_Code/Controllers/QiyuControllers/QiyuDreamController/VertigoResources/QiyuDream_Handle_L.prefab",
+      "assetGUID": "2cf611316a9a8c948bf8add3f3170599",
+      "resourcePath": "QiyuDream_Handle_L",
+      "isSubAsset": false
+    },
+    "id": 20,
+    "name": "Qiyu Dream Controller Left",
+    "category": ""
+  },
+  {
+    "controllerType": 65536,
+    "controllerRole": 8,
+    "controllerArtPrefab": {
+      "assetName": "QiyuDream_Handle_R",
+      "assetPath": "Assets/Art_Code/Controllers/QiyuControllers/QiyuDreamController/VertigoResources/QiyuDream_Handle_R.prefab",
+      "assetGUID": "3254464982e3b7e4cb9823a77f39dbec",
+      "resourcePath": "QiyuDream_Handle_R",
+      "isSubAsset": false
+    },
+    "id": 21,
+    "name": "Qiyu Dream Controller Right",
+    "category": ""
+  },
+  {
+    "controllerType": 131072,
+    "controllerRole": 4,
+    "controllerArtPrefab": {
+      "assetName": "Neo3_L",
+      "assetPath": "Assets/Art_Code/Controllers/PicoControllers/VertigoResources/Neo3_L.prefab",
+      "assetGUID": "dd72e87d7600565498a09bf408ad2b86",
+      "resourcePath": "Neo3_L",
+      "isSubAsset": false
+    },
+    "id": 22,
+    "name": "Pico Neo3 Controller Left",
+    "category": ""
+  },
+  {
+    "controllerType": 131072,
+    "controllerRole": 8,
+    "controllerArtPrefab": {
+      "assetName": "Neo3_R",
+      "assetPath": "Assets/Art_Code/Controllers/PicoControllers/VertigoResources/Neo3_R.prefab",
+      "assetGUID": "a941f83b276d77e4bbdc31d4ee88791a",
+      "resourcePath": "Neo3_R",
+      "isSubAsset": false
+    },
+    "id": 23,
+    "name": "Pico Neo3 Controller Right",
+    "category": ""
+  },
+  {
+    "controllerType": 524288,
+    "controllerRole": 4,
+    "controllerArtPrefab": {
+      "assetName": "YVR_Left",
+      "assetPath": "Assets/Art_Code/Controllers/YVRControllers/VertigoResources/YVR_Left.prefab",
+      "assetGUID": "ebc72b3ffd79c04489a9c569ae9b9181",
+      "resourcePath": "YVR_Left",
+      "isSubAsset": false
+    },
+    "id": 24,
+    "name": "YVR Left",
+    "category": ""
+  },
+  {
+    "controllerType": 524288,
+    "controllerRole": 8,
+    "controllerArtPrefab": {
+      "assetName": "YVR_Right",
+      "assetPath": "Assets/Art_Code/Controllers/YVRControllers/VertigoResources/YVR_Right.prefab",
+      "assetGUID": "07ff3a2fd2dd34e47bb654e9723ef341",
+      "resourcePath": "YVR_Right",
+      "isSubAsset": false
+    },
+    "id": 25,
+    "name": "YVR Right",
+    "category": ""
+  },
+  {
+    "controllerType": 1048576,
+    "controllerRole": 4,
+    "controllerArtPrefab": {
+      "assetName": "PicoPhoenix_Left",
+      "assetPath": "Assets/Art_Code/Controllers/PicoPhoenixControllers/VertigoResources/PicoPhoenix_Left.prefab",
+      "assetGUID": "69f8410b7802ba248bbdea54e97e50e7",
+      "resourcePath": "PicoPhoenix_Left",
+      "isSubAsset": false
+    },
+    "id": 26,
+    "name": "Pico Phoenix Controller Left",
+    "category": ""
+  },
+  {
+    "controllerType": 1048576,
+    "controllerRole": 8,
+    "controllerArtPrefab": {
+      "assetName": "PicoPhoenix_Right",
+      "assetPath": "Assets/Art_Code/Controllers/PicoPhoenixControllers/VertigoResources/PicoPhoenix_Right.prefab",
+      "assetGUID": "144fccc60aed8574babc22cd1e3b940c",
+      "resourcePath": "PicoPhoenix_Right",
+      "isSubAsset": false
+    },
+    "id": 27,
+    "name": "Pico Phoenix Controller Right",
+    "category": ""
+  },
+  {
+    "controllerType": 262144,
+    "controllerRole": 4,
+    "controllerArtPrefab": {
+      "assetName": "PSVR2_Sense",
+      "assetPath": "Assets/Art_Code/Controllers/psvr2_sense_controller/VertigoResources/PSVR2_Sense.prefab",
+      "assetGUID": "5220931499ab2b041b655b3405a1d8b5",
+      "resourcePath": "PSVR2_Sense",
+      "isSubAsset": false
+    },
+    "id": 28,
+    "name": "PSVR2 Sense Controller Left",
+    "category": ""
+  },
+  {
+    "controllerType": 262144,
+    "controllerRole": 8,
+    "controllerArtPrefab": {
+      "assetName": "PSVR2_Sense_Right",
+      "assetPath": "Assets/Art_Code/Controllers/psvr2_sense_controller/VertigoResources/PSVR2_Sense_Right.prefab",
+      "assetGUID": "3fcb3d6025ad63543a2eaa2aeb358c4a",
+      "resourcePath": "PSVR2_Sense_Right",
+      "isSubAsset": false
+    },
+    "id": 29,
+    "name": "PSVR2 Sense Controller Right",
+    "category": ""
+  }
+]
+}

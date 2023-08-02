@@ -1,0 +1,1992 @@
+{
+  "TableId": 133,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "defaultProfile": {
+      "duration": 0.1,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 1.0,
+        "curve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.183333337,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 0.5,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 0.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    },
+    "controllerSpecificOverrides": [
+      {
+        "controllerTypes": 1,
+        "configuration": {
+          "duration": 0.1,
+          "frequency": {
+            "mode": 0,
+            "constant": 0.0,
+            "curve": {
+              "keys": [
+                {
+                  "time": 0.0,
+                  "value": 1.0,
+                  "inTangent": 0.0,
+                  "outTangent": 0.0,
+                  "inWeight": 0.333333343,
+                  "outWeight": 0.183333337,
+                  "weightedMode": 0,
+                  "tangentMode": 0
+                },
+                {
+                  "time": 0.5,
+                  "value": 1.0,
+                  "inTangent": 0.0,
+                  "outTangent": 0.0,
+                  "inWeight": 0.333333343,
+                  "outWeight": 0.333333343,
+                  "weightedMode": 0,
+                  "tangentMode": 0
+                },
+                {
+                  "time": 1.0,
+                  "value": 0.0,
+                  "inTangent": 0.0,
+                  "outTangent": 0.0,
+                  "inWeight": 0.333333343,
+                  "outWeight": 0.333333343,
+                  "weightedMode": 0,
+                  "tangentMode": 0
+                }
+              ],
+              "preWrapMode": 8,
+              "postWrapMode": 8
+            }
+          },
+          "intensity": {
+            "mode": 1,
+            "constant": 0.0,
+            "curve": {
+              "keys": [
+                {
+                  "time": 0.0,
+                  "value": 1.0,
+                  "inTangent": 0.0,
+                  "outTangent": 0.0,
+                  "inWeight": 0.333333343,
+                  "outWeight": 0.183333337,
+                  "weightedMode": 0,
+                  "tangentMode": 0
+                },
+                {
+                  "time": 0.5,
+                  "value": 1.0,
+                  "inTangent": 0.0,
+                  "outTangent": 0.0,
+                  "inWeight": 0.333333343,
+                  "outWeight": 0.333333343,
+                  "weightedMode": 0,
+                  "tangentMode": 0
+                },
+                {
+                  "time": 1.0,
+                  "value": 0.0,
+                  "inTangent": 0.0,
+                  "outTangent": 0.0,
+                  "inWeight": 0.333333343,
+                  "outWeight": 0.333333343,
+                  "weightedMode": 0,
+                  "tangentMode": 0
+                }
+              ],
+              "preWrapMode": 8,
+              "postWrapMode": 8
+            }
+          }
+        }
+      },
+      {
+        "controllerTypes": 229390,
+        "configuration": {
+          "duration": 0.15,
+          "frequency": {
+            "mode": 0,
+            "constant": 0.0,
+            "curve": {
+              "keys": [
+                {
+                  "time": 0.0,
+                  "value": 1.0,
+                  "inTangent": 0.0,
+                  "outTangent": 0.0,
+                  "inWeight": 0.333333343,
+                  "outWeight": 0.183333337,
+                  "weightedMode": 0,
+                  "tangentMode": 0
+                },
+                {
+                  "time": 0.5,
+                  "value": 1.0,
+                  "inTangent": 0.0,
+                  "outTangent": 0.0,
+                  "inWeight": 0.333333343,
+                  "outWeight": 0.333333343,
+                  "weightedMode": 0,
+                  "tangentMode": 0
+                },
+                {
+                  "time": 1.0,
+                  "value": 0.0,
+                  "inTangent": 0.0,
+                  "outTangent": 0.0,
+                  "inWeight": 0.333333343,
+                  "outWeight": 0.333333343,
+                  "weightedMode": 0,
+                  "tangentMode": 0
+                }
+              ],
+              "preWrapMode": 8,
+              "postWrapMode": 8
+            }
+          },
+          "intensity": {
+            "mode": 0,
+            "constant": 1.0,
+            "curve": {
+              "keys": [
+                {
+                  "time": 0.0,
+                  "value": 1.0,
+                  "inTangent": 0.0,
+                  "outTangent": 0.0,
+                  "inWeight": 0.333333343,
+                  "outWeight": 0.183333337,
+                  "weightedMode": 0,
+                  "tangentMode": 0
+                },
+                {
+                  "time": 0.5,
+                  "value": 1.0,
+                  "inTangent": 0.0,
+                  "outTangent": 0.0,
+                  "inWeight": 0.333333343,
+                  "outWeight": 0.333333343,
+                  "weightedMode": 0,
+                  "tangentMode": 0
+                },
+                {
+                  "time": 1.0,
+                  "value": 0.0,
+                  "inTangent": 0.0,
+                  "outTangent": 0.0,
+                  "inWeight": 0.333333343,
+                  "outWeight": 0.333333343,
+                  "weightedMode": 0,
+                  "tangentMode": 0
+                }
+              ],
+              "preWrapMode": 8,
+              "postWrapMode": 8
+            }
+          }
+        }
+      }
+    ],
+    "doHmdHaptics": false,
+    "hmdHapticsProfile": {
+      "duration": 0.0,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      }
+    },
+    "id": 0,
+    "name": "GunShot Single",
+    "category": ""
+  },
+  {
+    "defaultProfile": {
+      "duration": 0.1,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 1.0,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    },
+    "controllerSpecificOverrides": [
+      {
+        "controllerTypes": 1,
+        "configuration": {
+          "duration": 0.025,
+          "frequency": {
+            "mode": 0,
+            "constant": 0.0,
+            "curve": {
+              "keys": [],
+              "preWrapMode": 4,
+              "postWrapMode": 4
+            }
+          },
+          "intensity": {
+            "mode": 0,
+            "constant": 1.0,
+            "curve": {
+              "keys": [],
+              "preWrapMode": 4,
+              "postWrapMode": 4
+            }
+          }
+        }
+      },
+      {
+        "controllerTypes": 229390,
+        "configuration": {
+          "duration": 0.15,
+          "frequency": {
+            "mode": 0,
+            "constant": 0.0,
+            "curve": {
+              "keys": [],
+              "preWrapMode": 4,
+              "postWrapMode": 4
+            }
+          },
+          "intensity": {
+            "mode": 0,
+            "constant": 1.0,
+            "curve": {
+              "keys": [],
+              "preWrapMode": 4,
+              "postWrapMode": 4
+            }
+          }
+        }
+      }
+    ],
+    "doHmdHaptics": false,
+    "hmdHapticsProfile": {
+      "duration": 0.0,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      }
+    },
+    "id": 1,
+    "name": "GunShot Auto",
+    "category": ""
+  },
+  {
+    "defaultProfile": {
+      "duration": 1.0,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      },
+      "intensity": {
+        "mode": 1,
+        "constant": 0.0,
+        "curve": {
+          "keys": [
+            {
+              "time": 0.00833511353,
+              "value": 0.0,
+              "inTangent": 0.4411801,
+              "outTangent": 0.4411801,
+              "inWeight": 0.333333343,
+              "outWeight": 0.2142843,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 0.99,
+              "value": 0.7,
+              "inTangent": 0.8001793,
+              "outTangent": 0.8001793,
+              "inWeight": 0.179223254,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inTangent": 1.59090924,
+              "outTangent": 1.59090924,
+              "inWeight": 0.137499988,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    },
+    "controllerSpecificOverrides": [],
+    "doHmdHaptics": false,
+    "hmdHapticsProfile": {
+      "duration": 0.0,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      }
+    },
+    "id": 2,
+    "name": "MissilePower Charge",
+    "category": ""
+  },
+  {
+    "defaultProfile": {
+      "duration": 0.25,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      },
+      "intensity": {
+        "mode": 1,
+        "constant": 0.0,
+        "curve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": -1.5,
+              "outTangent": -1.5,
+              "inWeight": 0.333333343,
+              "outWeight": 0.104166664,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 0.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    },
+    "controllerSpecificOverrides": [],
+    "doHmdHaptics": false,
+    "hmdHapticsProfile": {
+      "duration": 0.0,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      }
+    },
+    "id": 3,
+    "name": "MissilePower FireRocket",
+    "category": ""
+  },
+  {
+    "defaultProfile": {
+      "duration": 0.5,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.1,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      },
+      "intensity": {
+        "mode": 1,
+        "constant": 0.5,
+        "curve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 0.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 0.25,
+              "value": 0.3,
+              "inTangent": -0.01493916,
+              "outTangent": 0.0,
+              "inWeight": 0.309403,
+              "outWeight": 0.8092744,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 0.75,
+              "value": 0.3,
+              "inTangent": 0.0,
+              "outTangent": 0.010067137,
+              "inWeight": 0.333333343,
+              "outWeight": 0.4591396,
+              "weightedMode": 2,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 0.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    },
+    "controllerSpecificOverrides": [],
+    "doHmdHaptics": false,
+    "hmdHapticsProfile": {
+      "duration": 0.0,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      }
+    },
+    "id": 4,
+    "name": "SelectionWheel Hover",
+    "category": ""
+  },
+  {
+    "defaultProfile": {
+      "duration": 0.1,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.1,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      },
+      "intensity": {
+        "mode": 1,
+        "constant": 0.5,
+        "curve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 0.0,
+              "inTangent": 1.0,
+              "outTangent": 1.0,
+              "inWeight": 0.0,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 0.25,
+              "value": 0.25,
+              "inTangent": 1.0,
+              "outTangent": 1.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    },
+    "controllerSpecificOverrides": [
+      {
+        "controllerTypes": 229390,
+        "configuration": {
+          "duration": 0.05,
+          "frequency": {
+            "mode": 0,
+            "constant": 1.0,
+            "curve": {
+              "keys": [],
+              "preWrapMode": 4,
+              "postWrapMode": 4
+            }
+          },
+          "intensity": {
+            "mode": 0,
+            "constant": 1.0,
+            "curve": {
+              "keys": [],
+              "preWrapMode": 4,
+              "postWrapMode": 4
+            }
+          }
+        }
+      }
+    ],
+    "doHmdHaptics": false,
+    "hmdHapticsProfile": {
+      "duration": 0.0,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      }
+    },
+    "id": 5,
+    "name": "Hand Item Inserted",
+    "category": ""
+  },
+  {
+    "defaultProfile": {
+      "duration": 0.1,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.1,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      },
+      "intensity": {
+        "mode": 1,
+        "constant": 0.0,
+        "curve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 0.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 0.5,
+              "value": 0.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.100879073,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 0.0,
+              "inTangent": "Infinity",
+              "outTangent": -0.0170142539,
+              "inWeight": 0.2470628,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    },
+    "controllerSpecificOverrides": [],
+    "doHmdHaptics": false,
+    "hmdHapticsProfile": {
+      "duration": 0.0,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      }
+    },
+    "id": 6,
+    "name": "Hand Item Removed",
+    "category": ""
+  },
+  {
+    "defaultProfile": {
+      "duration": 0.01,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 0.3,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    },
+    "controllerSpecificOverrides": [
+      {
+        "controllerTypes": 229390,
+        "configuration": {
+          "duration": 0.05,
+          "frequency": {
+            "mode": 0,
+            "constant": 1.0,
+            "curve": {
+              "keys": [],
+              "preWrapMode": 4,
+              "postWrapMode": 4
+            }
+          },
+          "intensity": {
+            "mode": 0,
+            "constant": 0.5,
+            "curve": {
+              "keys": [],
+              "preWrapMode": 4,
+              "postWrapMode": 4
+            }
+          }
+        }
+      }
+    ],
+    "doHmdHaptics": false,
+    "hmdHapticsProfile": {
+      "duration": 0.0,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      }
+    },
+    "id": 7,
+    "name": "VRReload GrabAmmo",
+    "category": ""
+  },
+  {
+    "defaultProfile": {
+      "duration": 0.1,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 0.5,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    },
+    "controllerSpecificOverrides": [
+      {
+        "controllerTypes": 229390,
+        "configuration": {
+          "duration": 0.05,
+          "frequency": {
+            "mode": 0,
+            "constant": 1.0,
+            "curve": {
+              "keys": [],
+              "preWrapMode": 4,
+              "postWrapMode": 4
+            }
+          },
+          "intensity": {
+            "mode": 0,
+            "constant": 0.75,
+            "curve": {
+              "keys": [],
+              "preWrapMode": 4,
+              "postWrapMode": 4
+            }
+          }
+        }
+      }
+    ],
+    "doHmdHaptics": false,
+    "hmdHapticsProfile": {
+      "duration": 0.0,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      }
+    },
+    "id": 8,
+    "name": "VRReload InsertAmmo",
+    "category": ""
+  },
+  {
+    "defaultProfile": {
+      "duration": 0.1,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 0.1,
+        "curve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 0.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 0.5,
+              "value": 0.5,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 0.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    },
+    "controllerSpecificOverrides": [
+      {
+        "controllerTypes": 229390,
+        "configuration": {
+          "duration": 0.05,
+          "frequency": {
+            "mode": 0,
+            "constant": 1.0,
+            "curve": {
+              "keys": [],
+              "preWrapMode": 4,
+              "postWrapMode": 4
+            }
+          },
+          "intensity": {
+            "mode": 0,
+            "constant": 0.3,
+            "curve": {
+              "keys": [],
+              "preWrapMode": 4,
+              "postWrapMode": 4
+            }
+          }
+        }
+      }
+    ],
+    "doHmdHaptics": false,
+    "hmdHapticsProfile": {
+      "duration": 0.0,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      }
+    },
+    "id": 9,
+    "name": "VRReload EnterVolume",
+    "category": ""
+  },
+  {
+    "defaultProfile": {
+      "duration": 0.3,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 1.0,
+        "curve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 2.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    },
+    "controllerSpecificOverrides": [],
+    "doHmdHaptics": false,
+    "hmdHapticsProfile": {
+      "duration": 0.0,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      }
+    },
+    "id": 10,
+    "name": "GunShot Final",
+    "category": ""
+  },
+  {
+    "defaultProfile": {
+      "duration": 0.1,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.5,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      },
+      "intensity": {
+        "mode": 1,
+        "constant": 0.0,
+        "curve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 0.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 0.25,
+              "value": 0.5,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 0.5,
+              "value": 0.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 0.75,
+              "value": 0.5,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 0.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    },
+    "controllerSpecificOverrides": [],
+    "doHmdHaptics": false,
+    "hmdHapticsProfile": {
+      "duration": 0.0,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      }
+    },
+    "id": 11,
+    "name": "VRReload CannotInsertClip",
+    "category": ""
+  },
+  {
+    "defaultProfile": {
+      "duration": 0.6,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.1,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      },
+      "intensity": {
+        "mode": 1,
+        "constant": 0.0,
+        "curve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 0.75,
+              "inTangent": 0.0,
+              "outTangent": -3.24999976,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 0.2,
+              "value": 0.1,
+              "inTangent": -3.24999976,
+              "outTangent": 3.24999976,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 0.4,
+              "value": 0.75,
+              "inTangent": 3.24999976,
+              "outTangent": -3.74999976,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 0.6,
+              "value": 0.0,
+              "inTangent": -3.74999976,
+              "outTangent": -3.74999976,
+              "inWeight": 0.333333343,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    },
+    "controllerSpecificOverrides": [],
+    "doHmdHaptics": false,
+    "hmdHapticsProfile": {
+      "duration": 0.0,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      }
+    },
+    "id": 12,
+    "name": "SelectionWheel InvalidInsertion",
+    "category": ""
+  },
+  {
+    "defaultProfile": {
+      "duration": 0.1,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.5,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      },
+      "intensity": {
+        "mode": 1,
+        "constant": 0.0,
+        "curve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 0.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 0.25,
+              "value": 0.5,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 0.5,
+              "value": 0.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 0.75,
+              "value": 0.5,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 0.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    },
+    "controllerSpecificOverrides": [],
+    "doHmdHaptics": false,
+    "hmdHapticsProfile": {
+      "duration": 0.0,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      }
+    },
+    "id": 13,
+    "name": "VRReload NoAmmoRemaining",
+    "category": ""
+  },
+  {
+    "defaultProfile": {
+      "duration": 0.1,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 0.25,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    },
+    "controllerSpecificOverrides": [],
+    "doHmdHaptics": false,
+    "hmdHapticsProfile": {
+      "duration": 0.0,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      }
+    },
+    "id": 14,
+    "name": "UI Touch",
+    "category": ""
+  },
+  {
+    "defaultProfile": {
+      "duration": 0.05,
+      "frequency": {
+        "mode": 0,
+        "constant": 1.0,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 0.25,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    },
+    "controllerSpecificOverrides": [
+      {
+        "controllerTypes": 1,
+        "configuration": {
+          "duration": 0.05,
+          "frequency": {
+            "mode": 0,
+            "constant": 1.0,
+            "curve": {
+              "keys": [],
+              "preWrapMode": 4,
+              "postWrapMode": 4
+            }
+          },
+          "intensity": {
+            "mode": 0,
+            "constant": 0.25,
+            "curve": {
+              "keys": [],
+              "preWrapMode": 4,
+              "postWrapMode": 4
+            }
+          }
+        }
+      }
+    ],
+    "doHmdHaptics": false,
+    "hmdHapticsProfile": {
+      "duration": 0.0,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      }
+    },
+    "id": 15,
+    "name": "Single Tick (HighFreq, LowInt)",
+    "category": ""
+  },
+  {
+    "defaultProfile": {
+      "duration": 0.5,
+      "frequency": {
+        "mode": 1,
+        "constant": 1.0,
+        "curve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": -2.0,
+              "outTangent": -2.0,
+              "inWeight": 0.0,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 0.5,
+              "value": 0.0,
+              "inTangent": -2.0,
+              "outTangent": -2.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      },
+      "intensity": {
+        "mode": 1,
+        "constant": 1.0,
+        "curve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": -2.0,
+              "outTangent": -2.0,
+              "inWeight": 0.0,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 0.5,
+              "value": 0.0,
+              "inTangent": -2.0,
+              "outTangent": -2.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    },
+    "controllerSpecificOverrides": [],
+    "doHmdHaptics": false,
+    "hmdHapticsProfile": {
+      "duration": 0.0,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      }
+    },
+    "id": 16,
+    "name": "DownStateEntered",
+    "category": ""
+  },
+  {
+    "defaultProfile": {
+      "duration": 0.3,
+      "frequency": {
+        "mode": 0,
+        "constant": 1.0,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      },
+      "intensity": {
+        "mode": 1,
+        "constant": 0.0,
+        "curve": {
+          "keys": [
+            {
+              "time": 0.00247573853,
+              "value": 0.600254059,
+              "inTangent": -0.100266993,
+              "outTangent": -0.100266993,
+              "inWeight": 0.333333343,
+              "outWeight": 0.0389067419,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 0.9991455,
+              "value": 0.00261306763,
+              "inTangent": -2.13518476,
+              "outTangent": -2.13518476,
+              "inWeight": 0.0281457044,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    },
+    "controllerSpecificOverrides": [],
+    "doHmdHaptics": true,
+    "hmdHapticsProfile": {
+      "duration": 0.1,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 1.0,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    },
+    "id": 17,
+    "name": "Smasher Footsteps",
+    "category": ""
+  },
+  {
+    "defaultProfile": {
+      "duration": 1.0,
+      "frequency": {
+        "mode": 0,
+        "constant": 1.0,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      },
+      "intensity": {
+        "mode": 1,
+        "constant": 0.0,
+        "curve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 0.9986954,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.0487617329,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 0.9991455,
+              "value": 0.00261306763,
+              "inTangent": -3.04298878,
+              "outTangent": -3.04298878,
+              "inWeight": 0.0197946765,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    },
+    "controllerSpecificOverrides": [
+      {
+        "controllerTypes": 0,
+        "configuration": {
+          "duration": 0.85,
+          "frequency": {
+            "mode": 0,
+            "constant": 1.0,
+            "curve": {
+              "keys": [],
+              "preWrapMode": 4,
+              "postWrapMode": 4
+            }
+          },
+          "intensity": {
+            "mode": 1,
+            "constant": 0.0,
+            "curve": {
+              "keys": [
+                {
+                  "time": 0.0,
+                  "value": 0.9986954,
+                  "inTangent": 0.0,
+                  "outTangent": 0.0,
+                  "inWeight": 0.333333343,
+                  "outWeight": 0.0487617329,
+                  "weightedMode": 0,
+                  "tangentMode": 0
+                },
+                {
+                  "time": 0.9991455,
+                  "value": 0.00261306763,
+                  "inTangent": -3.04298878,
+                  "outTangent": -3.04298878,
+                  "inWeight": 0.0197946765,
+                  "outWeight": 0.333333343,
+                  "weightedMode": 0,
+                  "tangentMode": 0
+                }
+              ],
+              "preWrapMode": 8,
+              "postWrapMode": 8
+            }
+          }
+        }
+      }
+    ],
+    "doHmdHaptics": true,
+    "hmdHapticsProfile": {
+      "duration": 0.35,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 1.0,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    },
+    "id": 18,
+    "name": "Smasher Charge Impact",
+    "category": ""
+  },
+  {
+    "defaultProfile": {
+      "duration": 0.3,
+      "frequency": {
+        "mode": 0,
+        "constant": 1.0,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 0.5,
+        "curve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 2.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    },
+    "controllerSpecificOverrides": [],
+    "doHmdHaptics": false,
+    "hmdHapticsProfile": {
+      "duration": 0.0,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      }
+    },
+    "id": 19,
+    "name": "Transformable Interacting",
+    "category": ""
+  },
+  {
+    "defaultProfile": {
+      "duration": 0.3,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 1.0,
+        "curve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 2.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    },
+    "controllerSpecificOverrides": [],
+    "doHmdHaptics": false,
+    "hmdHapticsProfile": {
+      "duration": 0.0,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      }
+    },
+    "id": 20,
+    "name": "Transformable Activate",
+    "category": ""
+  },
+  {
+    "defaultProfile": {
+      "duration": 0.1,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 1.0,
+        "curve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 2.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    },
+    "controllerSpecificOverrides": [
+      {
+        "controllerTypes": 3,
+        "configuration": {
+          "duration": 0.075,
+          "frequency": {
+            "mode": 0,
+            "constant": 0.0,
+            "curve": {
+              "keys": [],
+              "preWrapMode": 4,
+              "postWrapMode": 4
+            }
+          },
+          "intensity": {
+            "mode": 0,
+            "constant": 1.0,
+            "curve": {
+              "keys": [],
+              "preWrapMode": 4,
+              "postWrapMode": 4
+            }
+          }
+        }
+      }
+    ],
+    "doHmdHaptics": false,
+    "hmdHapticsProfile": {
+      "duration": 0.0,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      }
+    },
+    "id": 21,
+    "name": "Gun Slide Activated",
+    "category": ""
+  },
+  {
+    "defaultProfile": {
+      "duration": 1.0,
+      "frequency": {
+        "mode": 0,
+        "constant": 1.0,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 1.0,
+        "curve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.0,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 2.0,
+              "value": 1.0,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.0,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    },
+    "controllerSpecificOverrides": [],
+    "doHmdHaptics": true,
+    "hmdHapticsProfile": {
+      "duration": 0.1,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 1.0,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    },
+    "id": 22,
+    "name": "Damage Taken",
+    "category": ""
+  },
+  {
+    "defaultProfile": {
+      "duration": 1.0,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": {
+          "keys": [],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 0.35,
+        "curve": {
+          "keys": [
+            {
+              "time": 0.0,
+              "value": 0.5,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            },
+            {
+              "time": 1.0,
+              "value": 0.5,
+              "inTangent": 0.0,
+              "outTangent": 0.0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343,
+              "weightedMode": 0,
+              "tangentMode": 0
+            }
+          ],
+          "preWrapMode": 8,
+          "postWrapMode": 8
+        }
+      }
+    },
+    "controllerSpecificOverrides": [],
+    "doHmdHaptics": false,
+    "hmdHapticsProfile": {
+      "duration": 0.0,
+      "frequency": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      },
+      "intensity": {
+        "mode": 0,
+        "constant": 0.0,
+        "curve": null
+      }
+    },
+    "id": 23,
+    "name": "ShockwavePower Charge",
+    "category": ""
+  }
+]
+}

@@ -1,0 +1,25 @@
+{
+  "TableId": 50005,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "snowMesh": {
+      "assetName": "Snow_Falling",
+      "assetPath": "Assets/Art/FX Vertigo/FX Snow/FX Global Snow/VertigoResources/FBX/Snow_Falling.fbx",
+      "assetGUID": "22e119eafdd5e3b4496b6f4ac09e49e1",
+      "resourcePath": "FBX/Snow_Falling",
+      "isSubAsset": false
+    },
+    "defaultSnowMaterial": {
+      "assetName": "Mat_Snow_Falling",
+      "assetPath": "Assets/Art/FX Vertigo/FX Snow/FX Global Snow/VertigoResources/Material/Mat_Snow_Falling.mat",
+      "assetGUID": "01a67d05790a8e445807fdf77509f012",
+      "resourcePath": "Material/Mat_Snow_Falling",
+      "isSubAsset": false
+    },
+    "id": 0,
+    "name": "name",
+    "category": ""
+  }
+]
+}

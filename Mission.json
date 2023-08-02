@@ -1,0 +1,2407 @@
+{
+  "TableId": 154,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "displayNameKey": "GOING_QUARANTINE_NAME",
+    "missionType": 2,
+    "missionScene": {
+      "sceneName": "CM02_Downtown",
+      "sceneAssetPath": "Assets/Scenes/Game/Missions/CM02_Downtown/CM02_Downtown.unity"
+    },
+    "resetMissionProgressOnSceneExit": false,
+    "shouldStartDialogOnMissionStart": true,
+    "onMissionStartDialogId": 7,
+    "needsPlayerInRangeForMissionStartDialogue": true,
+    "shouldStartDialogOnMissionComplete": true,
+    "onMissionCompleteDialogId": 8,
+    "needsPlayerInRangeForMissionCompleteDialogue": true,
+    "needsToBeHandedInByPlayerOnMissionComplete": true,
+    "automaticallyHandInAfterDialogComplete": true,
+    "missionDependencies": [
+      {
+        "missionDependency": 3,
+        "activeMissionState": 3
+      }
+    ],
+    "hasMissionItemReward": false,
+    "hasMissionHarvestReward": false,
+    "hasMissionWeaponFrameReward": false,
+    "hasUnlockableReward": false,
+    "itemRewardOnMissionComplete": {
+      "rewardType": {
+        "CurrentIndex": 15,
+        "DisplayName": "CombatDeviceTO",
+        "AssemblyQualifiedName": "Vertigo.Snowbreed.Client.CombatDeviceTO, Snowbreed.Client, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+      },
+      "cellId": 0,
+      "attachments": [],
+      "spawnPositionOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "spawnRotationOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "hasSpecificRewardClaimer": false,
+      "specificRewardClaimerId": 0,
+      "ignoreNonGameplayModeHiding": false
+    },
+    "harvestRewardOnMissionComplete": {
+      "harvestAmount": 0.0
+    },
+    "weaponFrameRewardOnMissionComplete": {
+      "cellId": 0
+    },
+    "unlockableRewardsOnMissionComplete": {
+      "rewards": []
+    },
+    "briefingOverrideKey": "",
+    "preMissionDescriptionKey": "GOING_DOWNTOWN_PRE_2",
+    "acceptMissionDescriptionKey": "",
+    "continueMissionDescriptionKey": "",
+    "postMissionDescriptionKey": "GOING_DOWNTOWN_POST",
+    "objectives": [
+      {
+        "name": "Clear the Downtown area",
+        "objectiveType": 2,
+        "objectiveDependencies": [],
+        "ignoreDependenciesOnceActivated": false,
+        "overrideDescriptionKey": "GOING_DOWNTOWN_OBJ_01",
+        "shouldAutoComplete": false,
+        "shouldStartDialogOnObjectiveStart": false,
+        "showObjectiveMarker": false,
+        "objectiveMarkerIcon": {
+          "assetName": "",
+          "assetPath": "",
+          "assetGUID": "",
+          "resourcePath": "",
+          "isSubAsset": false
+        },
+        "objectiveMarkerTextLocalizationKey": "",
+        "objectiveMarkerOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "showNotification": true,
+        "onObjectiveStartDialogId": 0,
+        "needsPlayerInRangeForObjectiveStartDialogue": false,
+        "stopObjectiveStartDialogueWhenObjectiveIsCompleted": false,
+        "keepActiveUntilObjectivesAreCompleted": [],
+        "hasObjectiveItemReward": false,
+        "hasObjectiveHarvestReward": false,
+        "hasObjectiveWeaponFrameReward": true,
+        "hasUnlockableReward": false,
+        "itemRewardOnObjectiveComplete": {
+          "rewardType": {
+            "CurrentIndex": 15,
+            "DisplayName": "CombatDeviceTO",
+            "AssemblyQualifiedName": "Vertigo.Snowbreed.Client.CombatDeviceTO, Snowbreed.Client, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+          },
+          "cellId": 0,
+          "attachments": [],
+          "spawnPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "spawnRotationOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "hasSpecificRewardClaimer": false,
+          "specificRewardClaimerId": 0,
+          "ignoreNonGameplayModeHiding": false
+        },
+        "harvestRewardOnObjectiveComplete": {
+          "harvestAmount": 0.0
+        },
+        "weaponFrameRewardOnObjectiveComplete": {
+          "cellId": 3
+        },
+        "unlockableRewardsOnMissionComplete": {
+          "rewards": []
+        },
+        "onlySaveProgressionIfObjectivesHaveBeenCompleted": [],
+        "zombieObjective": {
+          "targetZombies": [],
+          "killAmount": 1
+        },
+        "collectObjective": {
+          "itemType": {
+            "CurrentIndex": 0,
+            "DisplayName": "",
+            "AssemblyQualifiedName": ""
+          },
+          "targetItem": 0,
+          "collectAmount": 0,
+          "mustCollectSelf": false
+        },
+        "visitNPCObjective": {
+          "npcId": 0
+        },
+        "sequencerObjectiveData": {
+          "triggerAmount": 1
+        },
+        "decryptFloppyObjectiveData": {},
+        "completeHordeRoundData": {
+          "roundToComplete": 0
+        }
+      }
+    ],
+    "id": 0,
+    "name": "Quarantine Center",
+    "category": ""
+  },
+  {
+    "displayNameKey": "HIGHRISE_NAME",
+    "missionType": 2,
+    "missionScene": {
+      "sceneName": "CM04_BankTower",
+      "sceneAssetPath": "Assets/Scenes/Game/Missions/CM04_BankTower/CM04_BankTower.unity"
+    },
+    "resetMissionProgressOnSceneExit": false,
+    "shouldStartDialogOnMissionStart": true,
+    "onMissionStartDialogId": 11,
+    "needsPlayerInRangeForMissionStartDialogue": true,
+    "shouldStartDialogOnMissionComplete": true,
+    "onMissionCompleteDialogId": 12,
+    "needsPlayerInRangeForMissionCompleteDialogue": true,
+    "needsToBeHandedInByPlayerOnMissionComplete": true,
+    "automaticallyHandInAfterDialogComplete": true,
+    "missionDependencies": [
+      {
+        "missionDependency": 5,
+        "activeMissionState": 3
+      }
+    ],
+    "hasMissionItemReward": false,
+    "hasMissionHarvestReward": false,
+    "hasMissionWeaponFrameReward": false,
+    "hasUnlockableReward": false,
+    "itemRewardOnMissionComplete": {
+      "rewardType": {
+        "CurrentIndex": 0,
+        "DisplayName": "",
+        "AssemblyQualifiedName": ""
+      },
+      "cellId": 0,
+      "attachments": [],
+      "spawnPositionOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "spawnRotationOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "hasSpecificRewardClaimer": false,
+      "specificRewardClaimerId": 0,
+      "ignoreNonGameplayModeHiding": false
+    },
+    "harvestRewardOnMissionComplete": {
+      "harvestAmount": 0.0
+    },
+    "weaponFrameRewardOnMissionComplete": {
+      "cellId": 0
+    },
+    "unlockableRewardsOnMissionComplete": {
+      "rewards": []
+    },
+    "briefingOverrideKey": "",
+    "preMissionDescriptionKey": "HIGHRISE_PRE",
+    "acceptMissionDescriptionKey": "",
+    "continueMissionDescriptionKey": "",
+    "postMissionDescriptionKey": "HIGHRISE_POST",
+    "objectives": [
+      {
+        "name": "Clear the area and find out what happened to the previous team.",
+        "objectiveType": 2,
+        "objectiveDependencies": [],
+        "ignoreDependenciesOnceActivated": false,
+        "overrideDescriptionKey": "HIGHRISE_OBJ_01",
+        "shouldAutoComplete": false,
+        "shouldStartDialogOnObjectiveStart": false,
+        "showObjectiveMarker": false,
+        "objectiveMarkerIcon": {
+          "assetName": "",
+          "assetPath": "",
+          "assetGUID": "",
+          "resourcePath": "",
+          "isSubAsset": false
+        },
+        "objectiveMarkerTextLocalizationKey": "",
+        "objectiveMarkerOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "showNotification": true,
+        "onObjectiveStartDialogId": 0,
+        "needsPlayerInRangeForObjectiveStartDialogue": false,
+        "stopObjectiveStartDialogueWhenObjectiveIsCompleted": false,
+        "keepActiveUntilObjectivesAreCompleted": [],
+        "hasObjectiveItemReward": false,
+        "hasObjectiveHarvestReward": false,
+        "hasObjectiveWeaponFrameReward": true,
+        "hasUnlockableReward": false,
+        "itemRewardOnObjectiveComplete": {
+          "rewardType": {
+            "CurrentIndex": 0,
+            "DisplayName": "",
+            "AssemblyQualifiedName": ""
+          },
+          "cellId": 0,
+          "attachments": [],
+          "spawnPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "spawnRotationOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "hasSpecificRewardClaimer": false,
+          "specificRewardClaimerId": 0,
+          "ignoreNonGameplayModeHiding": false
+        },
+        "harvestRewardOnObjectiveComplete": {
+          "harvestAmount": 0.0
+        },
+        "weaponFrameRewardOnObjectiveComplete": {
+          "cellId": 2
+        },
+        "unlockableRewardsOnMissionComplete": {
+          "rewards": []
+        },
+        "onlySaveProgressionIfObjectivesHaveBeenCompleted": [],
+        "zombieObjective": {
+          "targetZombies": [],
+          "killAmount": 0
+        },
+        "collectObjective": {
+          "itemType": {
+            "CurrentIndex": 0,
+            "DisplayName": "",
+            "AssemblyQualifiedName": ""
+          },
+          "targetItem": 0,
+          "collectAmount": 0,
+          "mustCollectSelf": false
+        },
+        "visitNPCObjective": {
+          "npcId": 0
+        },
+        "sequencerObjectiveData": {
+          "triggerAmount": 1
+        },
+        "decryptFloppyObjectiveData": {},
+        "completeHordeRoundData": {
+          "roundToComplete": 0
+        }
+      }
+    ],
+    "id": 3,
+    "name": "Union Tower",
+    "category": ""
+  },
+  {
+    "displayNameKey": "SKIDROW_NAME",
+    "missionType": 2,
+    "missionScene": {
+      "sceneName": "CM01_Skidrow",
+      "sceneAssetPath": "Assets/Scenes/Game/Missions/CM01_Skidrow/CM01_Skidrow.unity"
+    },
+    "resetMissionProgressOnSceneExit": false,
+    "shouldStartDialogOnMissionStart": true,
+    "onMissionStartDialogId": 1,
+    "needsPlayerInRangeForMissionStartDialogue": true,
+    "shouldStartDialogOnMissionComplete": true,
+    "onMissionCompleteDialogId": 6,
+    "needsPlayerInRangeForMissionCompleteDialogue": true,
+    "needsToBeHandedInByPlayerOnMissionComplete": true,
+    "automaticallyHandInAfterDialogComplete": true,
+    "missionDependencies": [
+      {
+        "missionDependency": 7,
+        "activeMissionState": 3
+      }
+    ],
+    "hasMissionItemReward": false,
+    "hasMissionHarvestReward": false,
+    "hasMissionWeaponFrameReward": false,
+    "hasUnlockableReward": false,
+    "itemRewardOnMissionComplete": {
+      "rewardType": {
+        "CurrentIndex": 15,
+        "DisplayName": "CombatDeviceTO",
+        "AssemblyQualifiedName": "Vertigo.Snowbreed.Client.CombatDeviceTO, Snowbreed.Client, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+      },
+      "cellId": 0,
+      "attachments": [],
+      "spawnPositionOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "spawnRotationOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "hasSpecificRewardClaimer": false,
+      "specificRewardClaimerId": 0,
+      "ignoreNonGameplayModeHiding": false
+    },
+    "harvestRewardOnMissionComplete": {
+      "harvestAmount": 0.0
+    },
+    "weaponFrameRewardOnMissionComplete": {
+      "cellId": 0
+    },
+    "unlockableRewardsOnMissionComplete": {
+      "rewards": []
+    },
+    "briefingOverrideKey": "",
+    "preMissionDescriptionKey": "SKIDROW_PRE",
+    "acceptMissionDescriptionKey": "",
+    "continueMissionDescriptionKey": "",
+    "postMissionDescriptionKey": "SKIDROW_POST",
+    "objectives": [
+      {
+        "name": "Clear the streets, check the safe rooms and report back.",
+        "objectiveType": 2,
+        "objectiveDependencies": [],
+        "ignoreDependenciesOnceActivated": false,
+        "overrideDescriptionKey": "SKIDROW_OBJ_01",
+        "shouldAutoComplete": false,
+        "shouldStartDialogOnObjectiveStart": false,
+        "showObjectiveMarker": false,
+        "objectiveMarkerIcon": {
+          "assetName": "",
+          "assetPath": "",
+          "assetGUID": "",
+          "resourcePath": "",
+          "isSubAsset": false
+        },
+        "objectiveMarkerTextLocalizationKey": "",
+        "objectiveMarkerOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "showNotification": true,
+        "onObjectiveStartDialogId": 0,
+        "needsPlayerInRangeForObjectiveStartDialogue": false,
+        "stopObjectiveStartDialogueWhenObjectiveIsCompleted": false,
+        "keepActiveUntilObjectivesAreCompleted": [],
+        "hasObjectiveItemReward": false,
+        "hasObjectiveHarvestReward": false,
+        "hasObjectiveWeaponFrameReward": true,
+        "hasUnlockableReward": false,
+        "itemRewardOnObjectiveComplete": {
+          "rewardType": {
+            "CurrentIndex": 0,
+            "DisplayName": "",
+            "AssemblyQualifiedName": ""
+          },
+          "cellId": 0,
+          "attachments": [],
+          "spawnPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "spawnRotationOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "hasSpecificRewardClaimer": false,
+          "specificRewardClaimerId": 0,
+          "ignoreNonGameplayModeHiding": false
+        },
+        "harvestRewardOnObjectiveComplete": {
+          "harvestAmount": 0.0
+        },
+        "weaponFrameRewardOnObjectiveComplete": {
+          "cellId": 1
+        },
+        "unlockableRewardsOnMissionComplete": {
+          "rewards": []
+        },
+        "onlySaveProgressionIfObjectivesHaveBeenCompleted": [],
+        "zombieObjective": {
+          "targetZombies": [],
+          "killAmount": 0
+        },
+        "collectObjective": {
+          "itemType": {
+            "CurrentIndex": 0,
+            "DisplayName": "",
+            "AssemblyQualifiedName": ""
+          },
+          "targetItem": 0,
+          "collectAmount": 0,
+          "mustCollectSelf": false
+        },
+        "visitNPCObjective": {
+          "npcId": 0
+        },
+        "sequencerObjectiveData": {
+          "triggerAmount": 1
+        },
+        "decryptFloppyObjectiveData": {},
+        "completeHordeRoundData": {
+          "roundToComplete": 0
+        }
+      }
+    ],
+    "id": 4,
+    "name": "Skidrow",
+    "category": ""
+  },
+  {
+    "displayNameKey": "CHINATOWN_NAME",
+    "missionType": 2,
+    "missionScene": {
+      "sceneName": "CM06_Chinatown-02",
+      "sceneAssetPath": "Assets/Scenes/Game/Missions/CM06_Chinatown-02/CM06_Chinatown-02.unity"
+    },
+    "resetMissionProgressOnSceneExit": false,
+    "shouldStartDialogOnMissionStart": true,
+    "onMissionStartDialogId": 9,
+    "needsPlayerInRangeForMissionStartDialogue": true,
+    "shouldStartDialogOnMissionComplete": true,
+    "onMissionCompleteDialogId": 10,
+    "needsPlayerInRangeForMissionCompleteDialogue": true,
+    "needsToBeHandedInByPlayerOnMissionComplete": true,
+    "automaticallyHandInAfterDialogComplete": true,
+    "missionDependencies": [
+      {
+        "missionDependency": 4,
+        "activeMissionState": 3
+      }
+    ],
+    "hasMissionItemReward": true,
+    "hasMissionHarvestReward": false,
+    "hasMissionWeaponFrameReward": false,
+    "hasUnlockableReward": true,
+    "itemRewardOnMissionComplete": {
+      "rewardType": {
+        "CurrentIndex": 4,
+        "DisplayName": "CombatDeviceTO",
+        "AssemblyQualifiedName": "Vertigo.Snowbreed.Client.CombatDeviceTO, Snowbreed.Client, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+      },
+      "cellId": 0,
+      "attachments": [],
+      "spawnPositionOffset": {
+        "x": 0.011,
+        "y": -0.041,
+        "z": 0.035
+      },
+      "spawnRotationOffset": {
+        "x": 6.129,
+        "y": -93.988,
+        "z": 28.304
+      },
+      "hasSpecificRewardClaimer": true,
+      "specificRewardClaimerId": 0,
+      "ignoreNonGameplayModeHiding": false
+    },
+    "harvestRewardOnMissionComplete": {
+      "harvestAmount": 0.0
+    },
+    "weaponFrameRewardOnMissionComplete": {
+      "cellId": 0
+    },
+    "unlockableRewardsOnMissionComplete": {
+      "rewards": [
+        {
+          "itemType": {
+            "CurrentIndex": 0,
+            "DisplayName": "AmmoTO",
+            "AssemblyQualifiedName": "Vertigo.Snowbreed.Client.AmmoTO, Snowbreed.Client, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+          },
+          "item": 36
+        }
+      ]
+    },
+    "briefingOverrideKey": "",
+    "preMissionDescriptionKey": "CHINATOWN_PRE",
+    "acceptMissionDescriptionKey": "",
+    "continueMissionDescriptionKey": "",
+    "postMissionDescriptionKey": "CHINATOWN_POST",
+    "objectives": [
+      {
+        "name": "Check out Chinatown for survivors.",
+        "objectiveType": 2,
+        "objectiveDependencies": [],
+        "ignoreDependenciesOnceActivated": false,
+        "overrideDescriptionKey": "CHINATOWN_OBJ_01",
+        "shouldAutoComplete": false,
+        "shouldStartDialogOnObjectiveStart": false,
+        "showObjectiveMarker": false,
+        "objectiveMarkerIcon": {
+          "assetName": "",
+          "assetPath": "",
+          "assetGUID": "",
+          "resourcePath": "",
+          "isSubAsset": false
+        },
+        "objectiveMarkerTextLocalizationKey": "",
+        "objectiveMarkerOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "showNotification": true,
+        "onObjectiveStartDialogId": 0,
+        "needsPlayerInRangeForObjectiveStartDialogue": false,
+        "stopObjectiveStartDialogueWhenObjectiveIsCompleted": false,
+        "keepActiveUntilObjectivesAreCompleted": [],
+        "hasObjectiveItemReward": false,
+        "hasObjectiveHarvestReward": false,
+        "hasObjectiveWeaponFrameReward": true,
+        "hasUnlockableReward": false,
+        "itemRewardOnObjectiveComplete": {
+          "rewardType": {
+            "CurrentIndex": 0,
+            "DisplayName": "",
+            "AssemblyQualifiedName": ""
+          },
+          "cellId": 0,
+          "attachments": [],
+          "spawnPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "spawnRotationOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "hasSpecificRewardClaimer": false,
+          "specificRewardClaimerId": 0,
+          "ignoreNonGameplayModeHiding": false
+        },
+        "harvestRewardOnObjectiveComplete": {
+          "harvestAmount": 0.0
+        },
+        "weaponFrameRewardOnObjectiveComplete": {
+          "cellId": 4
+        },
+        "unlockableRewardsOnMissionComplete": {
+          "rewards": []
+        },
+        "onlySaveProgressionIfObjectivesHaveBeenCompleted": [],
+        "zombieObjective": {
+          "targetZombies": [],
+          "killAmount": 0
+        },
+        "collectObjective": {
+          "itemType": {
+            "CurrentIndex": 0,
+            "DisplayName": "",
+            "AssemblyQualifiedName": ""
+          },
+          "targetItem": 0,
+          "collectAmount": 0,
+          "mustCollectSelf": false
+        },
+        "visitNPCObjective": {
+          "npcId": 0
+        },
+        "sequencerObjectiveData": {
+          "triggerAmount": 1
+        },
+        "decryptFloppyObjectiveData": {},
+        "completeHordeRoundData": {
+          "roundToComplete": 0
+        }
+      }
+    ],
+    "id": 5,
+    "name": "Chinatown",
+    "category": ""
+  },
+  {
+    "displayNameKey": "RELAYTOWER_NAME",
+    "missionType": 2,
+    "missionScene": {
+      "sceneName": "CM04_BankTower-02",
+      "sceneAssetPath": "Assets/Scenes/Game/Missions/CM04_BankTower-02/CM04_BankTower-02.unity"
+    },
+    "resetMissionProgressOnSceneExit": false,
+    "shouldStartDialogOnMissionStart": true,
+    "onMissionStartDialogId": 13,
+    "needsPlayerInRangeForMissionStartDialogue": true,
+    "shouldStartDialogOnMissionComplete": true,
+    "onMissionCompleteDialogId": 15,
+    "needsPlayerInRangeForMissionCompleteDialogue": true,
+    "needsToBeHandedInByPlayerOnMissionComplete": true,
+    "automaticallyHandInAfterDialogComplete": true,
+    "missionDependencies": [
+      {
+        "missionDependency": 0,
+        "activeMissionState": 3
+      }
+    ],
+    "hasMissionItemReward": false,
+    "hasMissionHarvestReward": false,
+    "hasMissionWeaponFrameReward": false,
+    "hasUnlockableReward": false,
+    "itemRewardOnMissionComplete": {
+      "rewardType": {
+        "CurrentIndex": 15,
+        "DisplayName": "CombatDeviceTO",
+        "AssemblyQualifiedName": "Vertigo.Snowbreed.Client.CombatDeviceTO, Snowbreed.Client, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+      },
+      "cellId": 0,
+      "attachments": [],
+      "spawnPositionOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "spawnRotationOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "hasSpecificRewardClaimer": false,
+      "specificRewardClaimerId": 0,
+      "ignoreNonGameplayModeHiding": false
+    },
+    "harvestRewardOnMissionComplete": {
+      "harvestAmount": 0.0
+    },
+    "weaponFrameRewardOnMissionComplete": {
+      "cellId": 0
+    },
+    "unlockableRewardsOnMissionComplete": {
+      "rewards": []
+    },
+    "briefingOverrideKey": "",
+    "preMissionDescriptionKey": "RELAYTOWER_PRE",
+    "acceptMissionDescriptionKey": "",
+    "continueMissionDescriptionKey": "",
+    "postMissionDescriptionKey": "RELAYTOWER_POST",
+    "objectives": [
+      {
+        "name": "Deal with the strange sprawl.",
+        "objectiveType": 2,
+        "objectiveDependencies": [],
+        "ignoreDependenciesOnceActivated": false,
+        "overrideDescriptionKey": "RELAYTOWER_OBJ_01",
+        "shouldAutoComplete": false,
+        "shouldStartDialogOnObjectiveStart": false,
+        "showObjectiveMarker": false,
+        "objectiveMarkerIcon": {
+          "assetName": "",
+          "assetPath": "",
+          "assetGUID": "",
+          "resourcePath": "",
+          "isSubAsset": false
+        },
+        "objectiveMarkerTextLocalizationKey": "",
+        "objectiveMarkerOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "showNotification": true,
+        "onObjectiveStartDialogId": 0,
+        "needsPlayerInRangeForObjectiveStartDialogue": false,
+        "stopObjectiveStartDialogueWhenObjectiveIsCompleted": false,
+        "keepActiveUntilObjectivesAreCompleted": [],
+        "hasObjectiveItemReward": false,
+        "hasObjectiveHarvestReward": false,
+        "hasObjectiveWeaponFrameReward": true,
+        "hasUnlockableReward": false,
+        "itemRewardOnObjectiveComplete": {
+          "rewardType": {
+            "CurrentIndex": 0,
+            "DisplayName": "",
+            "AssemblyQualifiedName": ""
+          },
+          "cellId": 0,
+          "attachments": [],
+          "spawnPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "spawnRotationOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "hasSpecificRewardClaimer": false,
+          "specificRewardClaimerId": 0,
+          "ignoreNonGameplayModeHiding": false
+        },
+        "harvestRewardOnObjectiveComplete": {
+          "harvestAmount": 0.0
+        },
+        "weaponFrameRewardOnObjectiveComplete": {
+          "cellId": 5
+        },
+        "unlockableRewardsOnMissionComplete": {
+          "rewards": []
+        },
+        "onlySaveProgressionIfObjectivesHaveBeenCompleted": [],
+        "zombieObjective": {
+          "targetZombies": [],
+          "killAmount": 0
+        },
+        "collectObjective": {
+          "itemType": {
+            "CurrentIndex": 0,
+            "DisplayName": "",
+            "AssemblyQualifiedName": ""
+          },
+          "targetItem": 0,
+          "collectAmount": 0,
+          "mustCollectSelf": false
+        },
+        "visitNPCObjective": {
+          "npcId": 0
+        },
+        "sequencerObjectiveData": {
+          "triggerAmount": 1
+        },
+        "decryptFloppyObjectiveData": {},
+        "completeHordeRoundData": {
+          "roundToComplete": 0
+        }
+      }
+    ],
+    "id": 6,
+    "name": "Relay Tower",
+    "category": ""
+  },
+  {
+    "displayNameKey": "VISIT_LUNA_NAME",
+    "missionType": 1,
+    "missionScene": {
+      "sceneName": "Hub",
+      "sceneAssetPath": "Assets/Scenes/Game/Hub/Hub.unity"
+    },
+    "resetMissionProgressOnSceneExit": true,
+    "shouldStartDialogOnMissionStart": false,
+    "onMissionStartDialogId": 0,
+    "needsPlayerInRangeForMissionStartDialogue": true,
+    "shouldStartDialogOnMissionComplete": true,
+    "onMissionCompleteDialogId": 22,
+    "needsPlayerInRangeForMissionCompleteDialogue": true,
+    "needsToBeHandedInByPlayerOnMissionComplete": true,
+    "automaticallyHandInAfterDialogComplete": true,
+    "missionDependencies": [],
+    "hasMissionItemReward": false,
+    "hasMissionHarvestReward": false,
+    "hasMissionWeaponFrameReward": false,
+    "hasUnlockableReward": false,
+    "itemRewardOnMissionComplete": {
+      "rewardType": {
+        "CurrentIndex": 15,
+        "DisplayName": "CombatDeviceTO",
+        "AssemblyQualifiedName": "Vertigo.Snowbreed.Client.CombatDeviceTO, Snowbreed.Client, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+      },
+      "cellId": 0,
+      "attachments": [],
+      "spawnPositionOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "spawnRotationOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "hasSpecificRewardClaimer": false,
+      "specificRewardClaimerId": 0,
+      "ignoreNonGameplayModeHiding": false
+    },
+    "harvestRewardOnMissionComplete": {
+      "harvestAmount": 0.0
+    },
+    "weaponFrameRewardOnMissionComplete": {
+      "cellId": 0
+    },
+    "unlockableRewardsOnMissionComplete": {
+      "rewards": []
+    },
+    "briefingOverrideKey": "",
+    "preMissionDescriptionKey": "VISIT_LUNA",
+    "acceptMissionDescriptionKey": "VISIT_LUNA",
+    "continueMissionDescriptionKey": "VISIT_LUNA",
+    "postMissionDescriptionKey": "VISIT_LUNA",
+    "objectives": [
+      {
+        "name": "Visit Luna",
+        "objectiveType": 3,
+        "objectiveDependencies": [],
+        "ignoreDependenciesOnceActivated": false,
+        "overrideDescriptionKey": "",
+        "shouldAutoComplete": false,
+        "shouldStartDialogOnObjectiveStart": true,
+        "showObjectiveMarker": true,
+        "objectiveMarkerIcon": {
+          "assetName": "Icon_Notification_NewMission_02",
+          "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_Notification_NewMission_02.png",
+          "assetGUID": "56664c31d1b99ed4ba2cea5e6174684f",
+          "resourcePath": "Tooltips/Icon_Notification_NewMission_02:Icon_Notification_NewMission_02.Sprite",
+          "isSubAsset": true
+        },
+        "objectiveMarkerTextLocalizationKey": "",
+        "objectiveMarkerOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "showNotification": true,
+        "onObjectiveStartDialogId": 3,
+        "needsPlayerInRangeForObjectiveStartDialogue": false,
+        "stopObjectiveStartDialogueWhenObjectiveIsCompleted": true,
+        "keepActiveUntilObjectivesAreCompleted": [],
+        "hasObjectiveItemReward": true,
+        "hasObjectiveHarvestReward": false,
+        "hasObjectiveWeaponFrameReward": false,
+        "hasUnlockableReward": false,
+        "itemRewardOnObjectiveComplete": {
+          "rewardType": {
+            "CurrentIndex": 8,
+            "DisplayName": "FloppyDiskItemTO",
+            "AssemblyQualifiedName": "Vertigo.Snowbreed.Client.FloppyDiskItemTO, Snowbreed.Client, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+          },
+          "cellId": 0,
+          "attachments": [],
+          "spawnPositionOffset": {
+            "x": -0.1482,
+            "y": -0.045,
+            "z": 0.0409
+          },
+          "spawnRotationOffset": {
+            "x": 105.14,
+            "y": 13.78,
+            "z": 21.48
+          },
+          "hasSpecificRewardClaimer": true,
+          "specificRewardClaimerId": 0,
+          "ignoreNonGameplayModeHiding": true
+        },
+        "harvestRewardOnObjectiveComplete": {
+          "harvestAmount": 0.0
+        },
+        "weaponFrameRewardOnObjectiveComplete": {
+          "cellId": 0
+        },
+        "unlockableRewardsOnMissionComplete": {
+          "rewards": []
+        },
+        "onlySaveProgressionIfObjectivesHaveBeenCompleted": [
+          3
+        ],
+        "zombieObjective": {
+          "targetZombies": [],
+          "killAmount": 0
+        },
+        "collectObjective": {
+          "itemType": {
+            "CurrentIndex": 0,
+            "DisplayName": "",
+            "AssemblyQualifiedName": ""
+          },
+          "targetItem": 0,
+          "collectAmount": 0,
+          "mustCollectSelf": false
+        },
+        "visitNPCObjective": {
+          "npcId": 0
+        },
+        "sequencerObjectiveData": {
+          "triggerAmount": 0
+        },
+        "decryptFloppyObjectiveData": {},
+        "completeHordeRoundData": {
+          "roundToComplete": 0
+        }
+      },
+      {
+        "name": "Collect Floppy",
+        "objectiveType": 1,
+        "objectiveDependencies": [
+          0
+        ],
+        "ignoreDependenciesOnceActivated": false,
+        "overrideDescriptionKey": "",
+        "shouldAutoComplete": false,
+        "shouldStartDialogOnObjectiveStart": true,
+        "showObjectiveMarker": true,
+        "objectiveMarkerIcon": {
+          "assetName": "",
+          "assetPath": "",
+          "assetGUID": "",
+          "resourcePath": "",
+          "isSubAsset": false
+        },
+        "objectiveMarkerTextLocalizationKey": "",
+        "objectiveMarkerOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "showNotification": true,
+        "onObjectiveStartDialogId": 0,
+        "needsPlayerInRangeForObjectiveStartDialogue": true,
+        "stopObjectiveStartDialogueWhenObjectiveIsCompleted": false,
+        "keepActiveUntilObjectivesAreCompleted": [
+          2
+        ],
+        "hasObjectiveItemReward": false,
+        "hasObjectiveHarvestReward": false,
+        "hasObjectiveWeaponFrameReward": false,
+        "hasUnlockableReward": false,
+        "itemRewardOnObjectiveComplete": {
+          "rewardType": {
+            "CurrentIndex": 0,
+            "DisplayName": "",
+            "AssemblyQualifiedName": ""
+          },
+          "cellId": 0,
+          "attachments": [],
+          "spawnPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "spawnRotationOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "hasSpecificRewardClaimer": false,
+          "specificRewardClaimerId": 0,
+          "ignoreNonGameplayModeHiding": false
+        },
+        "harvestRewardOnObjectiveComplete": {
+          "harvestAmount": 0.0
+        },
+        "weaponFrameRewardOnObjectiveComplete": {
+          "cellId": 0
+        },
+        "unlockableRewardsOnMissionComplete": {
+          "rewards": []
+        },
+        "onlySaveProgressionIfObjectivesHaveBeenCompleted": [
+          3
+        ],
+        "zombieObjective": {
+          "targetZombies": [],
+          "killAmount": 0
+        },
+        "collectObjective": {
+          "itemType": {
+            "CurrentIndex": 13,
+            "DisplayName": "FloppyDiskItemTO",
+            "AssemblyQualifiedName": "Vertigo.Snowbreed.FloppyDiskItemTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+          },
+          "targetItem": 0,
+          "collectAmount": 1,
+          "mustCollectSelf": true
+        },
+        "visitNPCObjective": {
+          "npcId": 0
+        },
+        "sequencerObjectiveData": {
+          "triggerAmount": 0
+        },
+        "decryptFloppyObjectiveData": {},
+        "completeHordeRoundData": {
+          "roundToComplete": 0
+        }
+      },
+      {
+        "name": "Decrypt Floppy",
+        "objectiveType": 4,
+        "objectiveDependencies": [
+          1
+        ],
+        "ignoreDependenciesOnceActivated": true,
+        "overrideDescriptionKey": "",
+        "shouldAutoComplete": false,
+        "shouldStartDialogOnObjectiveStart": false,
+        "showObjectiveMarker": true,
+        "objectiveMarkerIcon": {
+          "assetName": "Icon_item_disk_02",
+          "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_item_disk_02.png",
+          "assetGUID": "6736be3ee56382e4ebdf27144979f816",
+          "resourcePath": "Tooltips/Icon_item_disk_02:Icon_item_disk_02.Sprite",
+          "isSubAsset": true
+        },
+        "objectiveMarkerTextLocalizationKey": "",
+        "objectiveMarkerOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "showNotification": true,
+        "onObjectiveStartDialogId": 0,
+        "needsPlayerInRangeForObjectiveStartDialogue": false,
+        "stopObjectiveStartDialogueWhenObjectiveIsCompleted": false,
+        "keepActiveUntilObjectivesAreCompleted": [],
+        "hasObjectiveItemReward": false,
+        "hasObjectiveHarvestReward": false,
+        "hasObjectiveWeaponFrameReward": true,
+        "hasUnlockableReward": false,
+        "itemRewardOnObjectiveComplete": {
+          "rewardType": {
+            "CurrentIndex": 11,
+            "DisplayName": "GunTO",
+            "AssemblyQualifiedName": "Vertigo.Snowbreed.Client.GunTO, Snowbreed.Client, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+          },
+          "cellId": 2,
+          "attachments": [
+            0,
+            11,
+            14,
+            26
+          ],
+          "spawnPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "spawnRotationOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "hasSpecificRewardClaimer": true,
+          "specificRewardClaimerId": 1,
+          "ignoreNonGameplayModeHiding": false
+        },
+        "harvestRewardOnObjectiveComplete": {
+          "harvestAmount": 0.0
+        },
+        "weaponFrameRewardOnObjectiveComplete": {
+          "cellId": 0
+        },
+        "unlockableRewardsOnMissionComplete": {
+          "rewards": []
+        },
+        "onlySaveProgressionIfObjectivesHaveBeenCompleted": [
+          3
+        ],
+        "zombieObjective": {
+          "targetZombies": [],
+          "killAmount": 0
+        },
+        "collectObjective": {
+          "itemType": {
+            "CurrentIndex": 13,
+            "DisplayName": "FloppyDiskItemTO",
+            "AssemblyQualifiedName": "Vertigo.Snowbreed.FloppyDiskItemTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+          },
+          "targetItem": 0,
+          "collectAmount": 1,
+          "mustCollectSelf": true
+        },
+        "visitNPCObjective": {
+          "npcId": 0
+        },
+        "sequencerObjectiveData": {
+          "triggerAmount": 0
+        },
+        "decryptFloppyObjectiveData": {},
+        "completeHordeRoundData": {
+          "roundToComplete": 0
+        }
+      },
+      {
+        "name": "Collect Reward",
+        "objectiveType": 1,
+        "objectiveDependencies": [
+          2
+        ],
+        "ignoreDependenciesOnceActivated": false,
+        "overrideDescriptionKey": "",
+        "shouldAutoComplete": false,
+        "shouldStartDialogOnObjectiveStart": false,
+        "showObjectiveMarker": true,
+        "objectiveMarkerIcon": {
+          "assetName": "",
+          "assetPath": "",
+          "assetGUID": "",
+          "resourcePath": "",
+          "isSubAsset": true
+        },
+        "objectiveMarkerTextLocalizationKey": "",
+        "objectiveMarkerOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "showNotification": true,
+        "onObjectiveStartDialogId": 0,
+        "needsPlayerInRangeForObjectiveStartDialogue": false,
+        "stopObjectiveStartDialogueWhenObjectiveIsCompleted": false,
+        "keepActiveUntilObjectivesAreCompleted": [],
+        "hasObjectiveItemReward": false,
+        "hasObjectiveHarvestReward": false,
+        "hasObjectiveWeaponFrameReward": false,
+        "hasUnlockableReward": false,
+        "itemRewardOnObjectiveComplete": {
+          "rewardType": {
+            "CurrentIndex": 0,
+            "DisplayName": "",
+            "AssemblyQualifiedName": ""
+          },
+          "cellId": 0,
+          "attachments": [],
+          "spawnPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "spawnRotationOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "hasSpecificRewardClaimer": false,
+          "specificRewardClaimerId": 0,
+          "ignoreNonGameplayModeHiding": false
+        },
+        "harvestRewardOnObjectiveComplete": {
+          "harvestAmount": 0.0
+        },
+        "weaponFrameRewardOnObjectiveComplete": {
+          "cellId": 0
+        },
+        "unlockableRewardsOnMissionComplete": {
+          "rewards": []
+        },
+        "onlySaveProgressionIfObjectivesHaveBeenCompleted": [],
+        "zombieObjective": {
+          "targetZombies": [],
+          "killAmount": 0
+        },
+        "collectObjective": {
+          "itemType": {
+            "CurrentIndex": 20,
+            "DisplayName": "GunTO",
+            "AssemblyQualifiedName": "Vertigo.Snowbreed.GunTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+          },
+          "targetItem": 2,
+          "collectAmount": 1,
+          "mustCollectSelf": true
+        },
+        "visitNPCObjective": {
+          "npcId": 0
+        },
+        "sequencerObjectiveData": {
+          "triggerAmount": 0
+        },
+        "decryptFloppyObjectiveData": {},
+        "completeHordeRoundData": {
+          "roundToComplete": 0
+        }
+      }
+    ],
+    "id": 7,
+    "name": "Hub Intro",
+    "category": ""
+  },
+  {
+    "displayNameKey": "TUTORIAL_NAME",
+    "missionType": 2,
+    "missionScene": {
+      "sceneName": "CM00_Intro",
+      "sceneAssetPath": "Assets/Scenes/Game/Missions/CM00_Intro/CM00_Intro.unity"
+    },
+    "resetMissionProgressOnSceneExit": false,
+    "shouldStartDialogOnMissionStart": false,
+    "onMissionStartDialogId": 0,
+    "needsPlayerInRangeForMissionStartDialogue": true,
+    "shouldStartDialogOnMissionComplete": false,
+    "onMissionCompleteDialogId": 0,
+    "needsPlayerInRangeForMissionCompleteDialogue": true,
+    "needsToBeHandedInByPlayerOnMissionComplete": false,
+    "automaticallyHandInAfterDialogComplete": true,
+    "missionDependencies": [],
+    "hasMissionItemReward": false,
+    "hasMissionHarvestReward": false,
+    "hasMissionWeaponFrameReward": false,
+    "hasUnlockableReward": false,
+    "itemRewardOnMissionComplete": {
+      "rewardType": {
+        "CurrentIndex": 0,
+        "DisplayName": "",
+        "AssemblyQualifiedName": ""
+      },
+      "cellId": 0,
+      "attachments": [],
+      "spawnPositionOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "spawnRotationOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "hasSpecificRewardClaimer": false,
+      "specificRewardClaimerId": 0,
+      "ignoreNonGameplayModeHiding": false
+    },
+    "harvestRewardOnMissionComplete": {
+      "harvestAmount": 0.0
+    },
+    "weaponFrameRewardOnMissionComplete": {
+      "cellId": 0
+    },
+    "unlockableRewardsOnMissionComplete": {
+      "rewards": []
+    },
+    "briefingOverrideKey": "",
+    "preMissionDescriptionKey": "",
+    "acceptMissionDescriptionKey": "",
+    "continueMissionDescriptionKey": "",
+    "postMissionDescriptionKey": "",
+    "objectives": [
+      {
+        "name": "Go To Arcade Machine",
+        "objectiveType": 2,
+        "objectiveDependencies": [],
+        "ignoreDependenciesOnceActivated": false,
+        "overrideDescriptionKey": "TUTORIAL_GOTO_ARCADE",
+        "shouldAutoComplete": false,
+        "shouldStartDialogOnObjectiveStart": false,
+        "showObjectiveMarker": true,
+        "objectiveMarkerIcon": {
+          "assetName": "Icon_Notification_NewMission_02",
+          "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_Notification_NewMission_02.png",
+          "assetGUID": "56664c31d1b99ed4ba2cea5e6174684f",
+          "resourcePath": "Tooltips/Icon_Notification_NewMission_02:Icon_Notification_NewMission_02.Sprite",
+          "isSubAsset": true
+        },
+        "objectiveMarkerTextLocalizationKey": "",
+        "objectiveMarkerOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "showNotification": false,
+        "onObjectiveStartDialogId": 0,
+        "needsPlayerInRangeForObjectiveStartDialogue": false,
+        "stopObjectiveStartDialogueWhenObjectiveIsCompleted": false,
+        "keepActiveUntilObjectivesAreCompleted": [],
+        "hasObjectiveItemReward": false,
+        "hasObjectiveHarvestReward": false,
+        "hasObjectiveWeaponFrameReward": false,
+        "hasUnlockableReward": false,
+        "itemRewardOnObjectiveComplete": {
+          "rewardType": {
+            "CurrentIndex": 0,
+            "DisplayName": "",
+            "AssemblyQualifiedName": ""
+          },
+          "cellId": 0,
+          "attachments": [],
+          "spawnPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "spawnRotationOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "hasSpecificRewardClaimer": false,
+          "specificRewardClaimerId": 0,
+          "ignoreNonGameplayModeHiding": false
+        },
+        "harvestRewardOnObjectiveComplete": {
+          "harvestAmount": 0.0
+        },
+        "weaponFrameRewardOnObjectiveComplete": {
+          "cellId": 0
+        },
+        "unlockableRewardsOnMissionComplete": {
+          "rewards": []
+        },
+        "onlySaveProgressionIfObjectivesHaveBeenCompleted": [],
+        "zombieObjective": {
+          "targetZombies": [],
+          "killAmount": 0
+        },
+        "collectObjective": {
+          "itemType": {
+            "CurrentIndex": 13,
+            "DisplayName": "FloppyDiskItemTO",
+            "AssemblyQualifiedName": "Vertigo.Snowbreed.FloppyDiskItemTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+          },
+          "targetItem": 5,
+          "collectAmount": 1,
+          "mustCollectSelf": true
+        },
+        "visitNPCObjective": {
+          "npcId": 0
+        },
+        "sequencerObjectiveData": {
+          "triggerAmount": 1
+        },
+        "decryptFloppyObjectiveData": {},
+        "completeHordeRoundData": {
+          "roundToComplete": 0
+        }
+      },
+      {
+        "name": "Collect Floppy",
+        "objectiveType": 1,
+        "objectiveDependencies": [
+          0
+        ],
+        "ignoreDependenciesOnceActivated": false,
+        "overrideDescriptionKey": "TUTORIAL_GRAB_FLOPPY",
+        "shouldAutoComplete": false,
+        "shouldStartDialogOnObjectiveStart": false,
+        "showObjectiveMarker": true,
+        "objectiveMarkerIcon": {
+          "assetName": "Icon_item_disk_01",
+          "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_item_disk_01.png",
+          "assetGUID": "2e13ac7d361ac3143ab2fb89022aa015",
+          "resourcePath": "Tooltips/Icon_item_disk_01:Icon_item_disk_01.Sprite",
+          "isSubAsset": true
+        },
+        "objectiveMarkerTextLocalizationKey": "PICK_UP",
+        "objectiveMarkerOffset": {
+          "x": 0.0,
+          "y": 0.3,
+          "z": 0.0
+        },
+        "showNotification": false,
+        "onObjectiveStartDialogId": 0,
+        "needsPlayerInRangeForObjectiveStartDialogue": false,
+        "stopObjectiveStartDialogueWhenObjectiveIsCompleted": false,
+        "keepActiveUntilObjectivesAreCompleted": [],
+        "hasObjectiveItemReward": false,
+        "hasObjectiveHarvestReward": false,
+        "hasObjectiveWeaponFrameReward": false,
+        "hasUnlockableReward": false,
+        "itemRewardOnObjectiveComplete": {
+          "rewardType": {
+            "CurrentIndex": 0,
+            "DisplayName": "",
+            "AssemblyQualifiedName": ""
+          },
+          "cellId": 0,
+          "attachments": [],
+          "spawnPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "spawnRotationOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "hasSpecificRewardClaimer": false,
+          "specificRewardClaimerId": 0,
+          "ignoreNonGameplayModeHiding": false
+        },
+        "harvestRewardOnObjectiveComplete": {
+          "harvestAmount": 0.0
+        },
+        "weaponFrameRewardOnObjectiveComplete": {
+          "cellId": 0
+        },
+        "unlockableRewardsOnMissionComplete": {
+          "rewards": []
+        },
+        "onlySaveProgressionIfObjectivesHaveBeenCompleted": [],
+        "zombieObjective": {
+          "targetZombies": [],
+          "killAmount": 0
+        },
+        "collectObjective": {
+          "itemType": {
+            "CurrentIndex": 13,
+            "DisplayName": "FloppyDiskItemTO",
+            "AssemblyQualifiedName": "Vertigo.Snowbreed.FloppyDiskItemTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+          },
+          "targetItem": 5,
+          "collectAmount": 1,
+          "mustCollectSelf": true
+        },
+        "visitNPCObjective": {
+          "npcId": 0
+        },
+        "sequencerObjectiveData": {
+          "triggerAmount": 0
+        },
+        "decryptFloppyObjectiveData": {},
+        "completeHordeRoundData": {
+          "roundToComplete": 0
+        }
+      },
+      {
+        "name": "Decrypt Floppy",
+        "objectiveType": 4,
+        "objectiveDependencies": [
+          1
+        ],
+        "ignoreDependenciesOnceActivated": false,
+        "overrideDescriptionKey": "TUTORIAL_DECRYPT_FLOPPY",
+        "shouldAutoComplete": false,
+        "shouldStartDialogOnObjectiveStart": false,
+        "showObjectiveMarker": true,
+        "objectiveMarkerIcon": {
+          "assetName": "Icon_item_disk_02",
+          "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_item_disk_02.png",
+          "assetGUID": "6736be3ee56382e4ebdf27144979f816",
+          "resourcePath": "Tooltips/Icon_item_disk_02:Icon_item_disk_02.Sprite",
+          "isSubAsset": true
+        },
+        "objectiveMarkerTextLocalizationKey": "",
+        "objectiveMarkerOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "showNotification": false,
+        "onObjectiveStartDialogId": 0,
+        "needsPlayerInRangeForObjectiveStartDialogue": false,
+        "stopObjectiveStartDialogueWhenObjectiveIsCompleted": false,
+        "keepActiveUntilObjectivesAreCompleted": [],
+        "hasObjectiveItemReward": false,
+        "hasObjectiveHarvestReward": false,
+        "hasObjectiveWeaponFrameReward": false,
+        "hasUnlockableReward": false,
+        "itemRewardOnObjectiveComplete": {
+          "rewardType": {
+            "CurrentIndex": 0,
+            "DisplayName": "",
+            "AssemblyQualifiedName": ""
+          },
+          "cellId": 0,
+          "attachments": [],
+          "spawnPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "spawnRotationOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "hasSpecificRewardClaimer": false,
+          "specificRewardClaimerId": 0,
+          "ignoreNonGameplayModeHiding": false
+        },
+        "harvestRewardOnObjectiveComplete": {
+          "harvestAmount": 0.0
+        },
+        "weaponFrameRewardOnObjectiveComplete": {
+          "cellId": 0
+        },
+        "unlockableRewardsOnMissionComplete": {
+          "rewards": []
+        },
+        "onlySaveProgressionIfObjectivesHaveBeenCompleted": [],
+        "zombieObjective": {
+          "targetZombies": [],
+          "killAmount": 0
+        },
+        "collectObjective": {
+          "itemType": {
+            "CurrentIndex": 13,
+            "DisplayName": "FloppyDiskItemTO",
+            "AssemblyQualifiedName": "Vertigo.Snowbreed.FloppyDiskItemTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+          },
+          "targetItem": 5,
+          "collectAmount": 1,
+          "mustCollectSelf": true
+        },
+        "visitNPCObjective": {
+          "npcId": 0
+        },
+        "sequencerObjectiveData": {
+          "triggerAmount": 0
+        },
+        "decryptFloppyObjectiveData": {},
+        "completeHordeRoundData": {
+          "roundToComplete": 0
+        }
+      },
+      {
+        "name": "Collect Gun Pre",
+        "objectiveType": 2,
+        "objectiveDependencies": [
+          2
+        ],
+        "ignoreDependenciesOnceActivated": false,
+        "overrideDescriptionKey": "",
+        "shouldAutoComplete": false,
+        "shouldStartDialogOnObjectiveStart": false,
+        "showObjectiveMarker": false,
+        "objectiveMarkerIcon": {
+          "assetName": "",
+          "assetPath": "",
+          "assetGUID": "",
+          "resourcePath": "",
+          "isSubAsset": true
+        },
+        "objectiveMarkerTextLocalizationKey": "",
+        "objectiveMarkerOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "showNotification": false,
+        "onObjectiveStartDialogId": 0,
+        "needsPlayerInRangeForObjectiveStartDialogue": false,
+        "stopObjectiveStartDialogueWhenObjectiveIsCompleted": false,
+        "keepActiveUntilObjectivesAreCompleted": [],
+        "hasObjectiveItemReward": false,
+        "hasObjectiveHarvestReward": false,
+        "hasObjectiveWeaponFrameReward": false,
+        "hasUnlockableReward": false,
+        "itemRewardOnObjectiveComplete": {
+          "rewardType": {
+            "CurrentIndex": 0,
+            "DisplayName": "",
+            "AssemblyQualifiedName": ""
+          },
+          "cellId": 0,
+          "attachments": [],
+          "spawnPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "spawnRotationOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "hasSpecificRewardClaimer": false,
+          "specificRewardClaimerId": 0,
+          "ignoreNonGameplayModeHiding": false
+        },
+        "harvestRewardOnObjectiveComplete": {
+          "harvestAmount": 0.0
+        },
+        "weaponFrameRewardOnObjectiveComplete": {
+          "cellId": 0
+        },
+        "unlockableRewardsOnMissionComplete": {
+          "rewards": []
+        },
+        "onlySaveProgressionIfObjectivesHaveBeenCompleted": [],
+        "zombieObjective": {
+          "targetZombies": [],
+          "killAmount": 0
+        },
+        "collectObjective": {
+          "itemType": {
+            "CurrentIndex": 20,
+            "DisplayName": "GunTO",
+            "AssemblyQualifiedName": "Vertigo.Snowbreed.GunTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+          },
+          "targetItem": 2,
+          "collectAmount": 1,
+          "mustCollectSelf": true
+        },
+        "visitNPCObjective": {
+          "npcId": 0
+        },
+        "sequencerObjectiveData": {
+          "triggerAmount": 1
+        },
+        "decryptFloppyObjectiveData": {},
+        "completeHordeRoundData": {
+          "roundToComplete": 0
+        }
+      },
+      {
+        "name": "Collect Gun",
+        "objectiveType": 2,
+        "objectiveDependencies": [
+          3
+        ],
+        "ignoreDependenciesOnceActivated": false,
+        "overrideDescriptionKey": "TUTORIAL_GRAB_GUN",
+        "shouldAutoComplete": false,
+        "shouldStartDialogOnObjectiveStart": false,
+        "showObjectiveMarker": false,
+        "objectiveMarkerIcon": {
+          "assetName": "",
+          "assetPath": "",
+          "assetGUID": "",
+          "resourcePath": "",
+          "isSubAsset": false
+        },
+        "objectiveMarkerTextLocalizationKey": "",
+        "objectiveMarkerOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "showNotification": false,
+        "onObjectiveStartDialogId": 0,
+        "needsPlayerInRangeForObjectiveStartDialogue": false,
+        "stopObjectiveStartDialogueWhenObjectiveIsCompleted": false,
+        "keepActiveUntilObjectivesAreCompleted": [],
+        "hasObjectiveItemReward": false,
+        "hasObjectiveHarvestReward": false,
+        "hasObjectiveWeaponFrameReward": false,
+        "hasUnlockableReward": false,
+        "itemRewardOnObjectiveComplete": {
+          "rewardType": {
+            "CurrentIndex": 0,
+            "DisplayName": "",
+            "AssemblyQualifiedName": ""
+          },
+          "cellId": 0,
+          "attachments": [],
+          "spawnPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "spawnRotationOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "hasSpecificRewardClaimer": false,
+          "specificRewardClaimerId": 0,
+          "ignoreNonGameplayModeHiding": false
+        },
+        "harvestRewardOnObjectiveComplete": {
+          "harvestAmount": 0.0
+        },
+        "weaponFrameRewardOnObjectiveComplete": {
+          "cellId": 0
+        },
+        "unlockableRewardsOnMissionComplete": {
+          "rewards": []
+        },
+        "onlySaveProgressionIfObjectivesHaveBeenCompleted": [],
+        "zombieObjective": {
+          "targetZombies": [],
+          "killAmount": 0
+        },
+        "collectObjective": {
+          "itemType": {
+            "CurrentIndex": 20,
+            "DisplayName": "GunTO",
+            "AssemblyQualifiedName": "Vertigo.Snowbreed.GunTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+          },
+          "targetItem": 2,
+          "collectAmount": 1,
+          "mustCollectSelf": true
+        },
+        "visitNPCObjective": {
+          "npcId": 0
+        },
+        "sequencerObjectiveData": {
+          "triggerAmount": 1
+        },
+        "decryptFloppyObjectiveData": {},
+        "completeHordeRoundData": {
+          "roundToComplete": 0
+        }
+      },
+      {
+        "name": "Gun Practice",
+        "objectiveType": 2,
+        "objectiveDependencies": [
+          4
+        ],
+        "ignoreDependenciesOnceActivated": false,
+        "overrideDescriptionKey": "",
+        "shouldAutoComplete": false,
+        "shouldStartDialogOnObjectiveStart": false,
+        "showObjectiveMarker": false,
+        "objectiveMarkerIcon": {
+          "assetName": "icon_headshot",
+          "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/PvP/icon_headshot.png",
+          "assetGUID": "c9945b240556e544b8bd239b4868cbce",
+          "resourcePath": "PvP/icon_headshot:icon_headshot.Sprite",
+          "isSubAsset": true
+        },
+        "objectiveMarkerTextLocalizationKey": "",
+        "objectiveMarkerOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "showNotification": false,
+        "onObjectiveStartDialogId": 0,
+        "needsPlayerInRangeForObjectiveStartDialogue": false,
+        "stopObjectiveStartDialogueWhenObjectiveIsCompleted": false,
+        "keepActiveUntilObjectivesAreCompleted": [],
+        "hasObjectiveItemReward": false,
+        "hasObjectiveHarvestReward": false,
+        "hasObjectiveWeaponFrameReward": false,
+        "hasUnlockableReward": false,
+        "itemRewardOnObjectiveComplete": {
+          "rewardType": {
+            "CurrentIndex": 0,
+            "DisplayName": "",
+            "AssemblyQualifiedName": ""
+          },
+          "cellId": 0,
+          "attachments": [],
+          "spawnPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "spawnRotationOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "hasSpecificRewardClaimer": false,
+          "specificRewardClaimerId": 0,
+          "ignoreNonGameplayModeHiding": false
+        },
+        "harvestRewardOnObjectiveComplete": {
+          "harvestAmount": 0.0
+        },
+        "weaponFrameRewardOnObjectiveComplete": {
+          "cellId": 0
+        },
+        "unlockableRewardsOnMissionComplete": {
+          "rewards": []
+        },
+        "onlySaveProgressionIfObjectivesHaveBeenCompleted": [],
+        "zombieObjective": {
+          "targetZombies": [],
+          "killAmount": 0
+        },
+        "collectObjective": {
+          "itemType": {
+            "CurrentIndex": 20,
+            "DisplayName": "GunTO",
+            "AssemblyQualifiedName": "Vertigo.Snowbreed.GunTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+          },
+          "targetItem": 2,
+          "collectAmount": 1,
+          "mustCollectSelf": true
+        },
+        "visitNPCObjective": {
+          "npcId": 0
+        },
+        "sequencerObjectiveData": {
+          "triggerAmount": 1
+        },
+        "decryptFloppyObjectiveData": {},
+        "completeHordeRoundData": {
+          "roundToComplete": 0
+        }
+      },
+      {
+        "name": "Shoot Sprawl",
+        "objectiveType": 2,
+        "objectiveDependencies": [
+          5
+        ],
+        "ignoreDependenciesOnceActivated": false,
+        "overrideDescriptionKey": "TUTORIAL_SHOOT_SPRAWL",
+        "shouldAutoComplete": false,
+        "shouldStartDialogOnObjectiveStart": false,
+        "showObjectiveMarker": true,
+        "objectiveMarkerIcon": {
+          "assetName": "icon_marker_Shoot",
+          "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/icon_marker_Shoot.png",
+          "assetGUID": "af445eb5d3ee12d48abfaf6e3a366000",
+          "resourcePath": "icon_marker_Shoot:icon_marker_Shoot.Sprite",
+          "isSubAsset": true
+        },
+        "objectiveMarkerTextLocalizationKey": "SHOOT",
+        "objectiveMarkerOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "showNotification": false,
+        "onObjectiveStartDialogId": 0,
+        "needsPlayerInRangeForObjectiveStartDialogue": false,
+        "stopObjectiveStartDialogueWhenObjectiveIsCompleted": false,
+        "keepActiveUntilObjectivesAreCompleted": [],
+        "hasObjectiveItemReward": false,
+        "hasObjectiveHarvestReward": false,
+        "hasObjectiveWeaponFrameReward": false,
+        "hasUnlockableReward": false,
+        "itemRewardOnObjectiveComplete": {
+          "rewardType": {
+            "CurrentIndex": 0,
+            "DisplayName": "",
+            "AssemblyQualifiedName": ""
+          },
+          "cellId": 0,
+          "attachments": [],
+          "spawnPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "spawnRotationOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "hasSpecificRewardClaimer": false,
+          "specificRewardClaimerId": 0,
+          "ignoreNonGameplayModeHiding": false
+        },
+        "harvestRewardOnObjectiveComplete": {
+          "harvestAmount": 0.0
+        },
+        "weaponFrameRewardOnObjectiveComplete": {
+          "cellId": 0
+        },
+        "unlockableRewardsOnMissionComplete": {
+          "rewards": []
+        },
+        "onlySaveProgressionIfObjectivesHaveBeenCompleted": [],
+        "zombieObjective": {
+          "targetZombies": [],
+          "killAmount": 0
+        },
+        "collectObjective": {
+          "itemType": {
+            "CurrentIndex": 20,
+            "DisplayName": "GunTO",
+            "AssemblyQualifiedName": "Vertigo.Snowbreed.GunTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+          },
+          "targetItem": 2,
+          "collectAmount": 1,
+          "mustCollectSelf": true
+        },
+        "visitNPCObjective": {
+          "npcId": 0
+        },
+        "sequencerObjectiveData": {
+          "triggerAmount": 1
+        },
+        "decryptFloppyObjectiveData": {},
+        "completeHordeRoundData": {
+          "roundToComplete": 0
+        }
+      },
+      {
+        "name": "Open Door Pre",
+        "objectiveType": 2,
+        "objectiveDependencies": [
+          6
+        ],
+        "ignoreDependenciesOnceActivated": false,
+        "overrideDescriptionKey": "",
+        "shouldAutoComplete": false,
+        "shouldStartDialogOnObjectiveStart": false,
+        "showObjectiveMarker": false,
+        "objectiveMarkerIcon": {
+          "assetName": "",
+          "assetPath": "",
+          "assetGUID": "",
+          "resourcePath": "",
+          "isSubAsset": true
+        },
+        "objectiveMarkerTextLocalizationKey": "",
+        "objectiveMarkerOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "showNotification": false,
+        "onObjectiveStartDialogId": 0,
+        "needsPlayerInRangeForObjectiveStartDialogue": false,
+        "stopObjectiveStartDialogueWhenObjectiveIsCompleted": false,
+        "keepActiveUntilObjectivesAreCompleted": [],
+        "hasObjectiveItemReward": false,
+        "hasObjectiveHarvestReward": false,
+        "hasObjectiveWeaponFrameReward": false,
+        "hasUnlockableReward": false,
+        "itemRewardOnObjectiveComplete": {
+          "rewardType": {
+            "CurrentIndex": 0,
+            "DisplayName": "",
+            "AssemblyQualifiedName": ""
+          },
+          "cellId": 0,
+          "attachments": [],
+          "spawnPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "spawnRotationOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "hasSpecificRewardClaimer": false,
+          "specificRewardClaimerId": 0,
+          "ignoreNonGameplayModeHiding": false
+        },
+        "harvestRewardOnObjectiveComplete": {
+          "harvestAmount": 0.0
+        },
+        "weaponFrameRewardOnObjectiveComplete": {
+          "cellId": 0
+        },
+        "unlockableRewardsOnMissionComplete": {
+          "rewards": []
+        },
+        "onlySaveProgressionIfObjectivesHaveBeenCompleted": [],
+        "zombieObjective": {
+          "targetZombies": [],
+          "killAmount": 0
+        },
+        "collectObjective": {
+          "itemType": {
+            "CurrentIndex": 20,
+            "DisplayName": "GunTO",
+            "AssemblyQualifiedName": "Vertigo.Snowbreed.GunTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+          },
+          "targetItem": 2,
+          "collectAmount": 1,
+          "mustCollectSelf": true
+        },
+        "visitNPCObjective": {
+          "npcId": 0
+        },
+        "sequencerObjectiveData": {
+          "triggerAmount": 1
+        },
+        "decryptFloppyObjectiveData": {},
+        "completeHordeRoundData": {
+          "roundToComplete": 0
+        }
+      },
+      {
+        "name": "Open Door",
+        "objectiveType": 2,
+        "objectiveDependencies": [
+          7
+        ],
+        "ignoreDependenciesOnceActivated": false,
+        "overrideDescriptionKey": "",
+        "shouldAutoComplete": false,
+        "shouldStartDialogOnObjectiveStart": false,
+        "showObjectiveMarker": true,
+        "objectiveMarkerIcon": {
+          "assetName": "",
+          "assetPath": "",
+          "assetGUID": "",
+          "resourcePath": "",
+          "isSubAsset": true
+        },
+        "objectiveMarkerTextLocalizationKey": "",
+        "objectiveMarkerOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "showNotification": false,
+        "onObjectiveStartDialogId": 0,
+        "needsPlayerInRangeForObjectiveStartDialogue": false,
+        "stopObjectiveStartDialogueWhenObjectiveIsCompleted": false,
+        "keepActiveUntilObjectivesAreCompleted": [],
+        "hasObjectiveItemReward": false,
+        "hasObjectiveHarvestReward": false,
+        "hasObjectiveWeaponFrameReward": false,
+        "hasUnlockableReward": false,
+        "itemRewardOnObjectiveComplete": {
+          "rewardType": {
+            "CurrentIndex": 0,
+            "DisplayName": "",
+            "AssemblyQualifiedName": ""
+          },
+          "cellId": 0,
+          "attachments": [],
+          "spawnPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "spawnRotationOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "hasSpecificRewardClaimer": false,
+          "specificRewardClaimerId": 0,
+          "ignoreNonGameplayModeHiding": false
+        },
+        "harvestRewardOnObjectiveComplete": {
+          "harvestAmount": 0.0
+        },
+        "weaponFrameRewardOnObjectiveComplete": {
+          "cellId": 0
+        },
+        "unlockableRewardsOnMissionComplete": {
+          "rewards": []
+        },
+        "onlySaveProgressionIfObjectivesHaveBeenCompleted": [],
+        "zombieObjective": {
+          "targetZombies": [],
+          "killAmount": 0
+        },
+        "collectObjective": {
+          "itemType": {
+            "CurrentIndex": 20,
+            "DisplayName": "GunTO",
+            "AssemblyQualifiedName": "Vertigo.Snowbreed.GunTO, Snowbreed.TO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+          },
+          "targetItem": 2,
+          "collectAmount": 1,
+          "mustCollectSelf": true
+        },
+        "visitNPCObjective": {
+          "npcId": 0
+        },
+        "sequencerObjectiveData": {
+          "triggerAmount": 1
+        },
+        "decryptFloppyObjectiveData": {},
+        "completeHordeRoundData": {
+          "roundToComplete": 0
+        }
+      }
+    ],
+    "id": 8,
+    "name": "Tutorial",
+    "category": ""
+  },
+  {
+    "displayNameKey": "HORDE_NAME",
+    "missionType": 16,
+    "missionScene": {
+      "sceneName": "",
+      "sceneAssetPath": ""
+    },
+    "resetMissionProgressOnSceneExit": false,
+    "shouldStartDialogOnMissionStart": false,
+    "onMissionStartDialogId": 7,
+    "needsPlayerInRangeForMissionStartDialogue": true,
+    "shouldStartDialogOnMissionComplete": false,
+    "onMissionCompleteDialogId": 8,
+    "needsPlayerInRangeForMissionCompleteDialogue": true,
+    "needsToBeHandedInByPlayerOnMissionComplete": false,
+    "automaticallyHandInAfterDialogComplete": false,
+    "missionDependencies": [],
+    "hasMissionItemReward": false,
+    "hasMissionHarvestReward": false,
+    "hasMissionWeaponFrameReward": false,
+    "hasUnlockableReward": false,
+    "itemRewardOnMissionComplete": {
+      "rewardType": {
+        "CurrentIndex": 15,
+        "DisplayName": "CombatDeviceTO",
+        "AssemblyQualifiedName": "Vertigo.Snowbreed.Client.CombatDeviceTO, Snowbreed.Client, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+      },
+      "cellId": 0,
+      "attachments": [],
+      "spawnPositionOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "spawnRotationOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "hasSpecificRewardClaimer": false,
+      "specificRewardClaimerId": 0,
+      "ignoreNonGameplayModeHiding": false
+    },
+    "harvestRewardOnMissionComplete": {
+      "harvestAmount": 0.0
+    },
+    "weaponFrameRewardOnMissionComplete": {
+      "cellId": 0
+    },
+    "unlockableRewardsOnMissionComplete": {
+      "rewards": []
+    },
+    "briefingOverrideKey": "",
+    "preMissionDescriptionKey": "HORDE_PRE",
+    "acceptMissionDescriptionKey": "",
+    "continueMissionDescriptionKey": "",
+    "postMissionDescriptionKey": "HORDE_POST",
+    "objectives": [
+      {
+        "name": "Reach wave 6 in horde mode",
+        "objectiveType": 5,
+        "objectiveDependencies": [],
+        "ignoreDependenciesOnceActivated": false,
+        "overrideDescriptionKey": "",
+        "shouldAutoComplete": false,
+        "shouldStartDialogOnObjectiveStart": false,
+        "showObjectiveMarker": false,
+        "objectiveMarkerIcon": {
+          "assetName": "",
+          "assetPath": "",
+          "assetGUID": "",
+          "resourcePath": "",
+          "isSubAsset": false
+        },
+        "objectiveMarkerTextLocalizationKey": "",
+        "objectiveMarkerOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "showNotification": true,
+        "onObjectiveStartDialogId": 0,
+        "needsPlayerInRangeForObjectiveStartDialogue": false,
+        "stopObjectiveStartDialogueWhenObjectiveIsCompleted": false,
+        "keepActiveUntilObjectivesAreCompleted": [],
+        "hasObjectiveItemReward": false,
+        "hasObjectiveHarvestReward": false,
+        "hasObjectiveWeaponFrameReward": true,
+        "hasUnlockableReward": false,
+        "itemRewardOnObjectiveComplete": {
+          "rewardType": {
+            "CurrentIndex": 15,
+            "DisplayName": "CombatDeviceTO",
+            "AssemblyQualifiedName": "Vertigo.Snowbreed.Client.CombatDeviceTO, Snowbreed.Client, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+          },
+          "cellId": 0,
+          "attachments": [],
+          "spawnPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "spawnRotationOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "hasSpecificRewardClaimer": false,
+          "specificRewardClaimerId": 0,
+          "ignoreNonGameplayModeHiding": false
+        },
+        "harvestRewardOnObjectiveComplete": {
+          "harvestAmount": 0.0
+        },
+        "weaponFrameRewardOnObjectiveComplete": {
+          "cellId": 6
+        },
+        "unlockableRewardsOnMissionComplete": {
+          "rewards": []
+        },
+        "onlySaveProgressionIfObjectivesHaveBeenCompleted": [],
+        "zombieObjective": {
+          "targetZombies": [],
+          "killAmount": 1
+        },
+        "collectObjective": {
+          "itemType": {
+            "CurrentIndex": 0,
+            "DisplayName": "",
+            "AssemblyQualifiedName": ""
+          },
+          "targetItem": 0,
+          "collectAmount": 0,
+          "mustCollectSelf": false
+        },
+        "visitNPCObjective": {
+          "npcId": 0
+        },
+        "sequencerObjectiveData": {
+          "triggerAmount": 1
+        },
+        "decryptFloppyObjectiveData": {},
+        "completeHordeRoundData": {
+          "roundToComplete": 6
+        }
+      }
+    ],
+    "id": 9,
+    "name": "Horde",
+    "category": ""
+  },
+  {
+    "displayNameKey": "BOULEVARD_NAME",
+    "missionType": 2,
+    "missionScene": {
+      "sceneName": "DLC03_Boulevard",
+      "sceneAssetPath": "Assets/Scenes/Game/Missions/DLC03_Boulevard/DLC03_Boulevard.unity"
+    },
+    "resetMissionProgressOnSceneExit": false,
+    "shouldStartDialogOnMissionStart": false,
+    "onMissionStartDialogId": 11,
+    "needsPlayerInRangeForMissionStartDialogue": true,
+    "shouldStartDialogOnMissionComplete": false,
+    "onMissionCompleteDialogId": 12,
+    "needsPlayerInRangeForMissionCompleteDialogue": true,
+    "needsToBeHandedInByPlayerOnMissionComplete": false,
+    "automaticallyHandInAfterDialogComplete": false,
+    "missionDependencies": [
+      {
+        "missionDependency": 6,
+        "activeMissionState": 3
+      }
+    ],
+    "hasMissionItemReward": false,
+    "hasMissionHarvestReward": false,
+    "hasMissionWeaponFrameReward": false,
+    "hasUnlockableReward": false,
+    "itemRewardOnMissionComplete": {
+      "rewardType": {
+        "CurrentIndex": 0,
+        "DisplayName": "",
+        "AssemblyQualifiedName": ""
+      },
+      "cellId": 0,
+      "attachments": [],
+      "spawnPositionOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "spawnRotationOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "hasSpecificRewardClaimer": false,
+      "specificRewardClaimerId": 0,
+      "ignoreNonGameplayModeHiding": false
+    },
+    "harvestRewardOnMissionComplete": {
+      "harvestAmount": 0.0
+    },
+    "weaponFrameRewardOnMissionComplete": {
+      "cellId": 0
+    },
+    "unlockableRewardsOnMissionComplete": {
+      "rewards": []
+    },
+    "briefingOverrideKey": "",
+    "preMissionDescriptionKey": "BOULEVARD_PRE",
+    "acceptMissionDescriptionKey": "",
+    "continueMissionDescriptionKey": "",
+    "postMissionDescriptionKey": "BOULEVARD_POST",
+    "objectives": [
+      {
+        "name": "Clear the area and find out what happened to the previous team.",
+        "objectiveType": 2,
+        "objectiveDependencies": [],
+        "ignoreDependenciesOnceActivated": false,
+        "overrideDescriptionKey": "BOULEVARD_OBJ1",
+        "shouldAutoComplete": false,
+        "shouldStartDialogOnObjectiveStart": false,
+        "showObjectiveMarker": false,
+        "objectiveMarkerIcon": {
+          "assetName": "",
+          "assetPath": "",
+          "assetGUID": "",
+          "resourcePath": "",
+          "isSubAsset": false
+        },
+        "objectiveMarkerTextLocalizationKey": "",
+        "objectiveMarkerOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "showNotification": true,
+        "onObjectiveStartDialogId": 0,
+        "needsPlayerInRangeForObjectiveStartDialogue": false,
+        "stopObjectiveStartDialogueWhenObjectiveIsCompleted": false,
+        "keepActiveUntilObjectivesAreCompleted": [],
+        "hasObjectiveItemReward": false,
+        "hasObjectiveHarvestReward": false,
+        "hasObjectiveWeaponFrameReward": true,
+        "hasUnlockableReward": false,
+        "itemRewardOnObjectiveComplete": {
+          "rewardType": {
+            "CurrentIndex": 0,
+            "DisplayName": "",
+            "AssemblyQualifiedName": ""
+          },
+          "cellId": 0,
+          "attachments": [],
+          "spawnPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "spawnRotationOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "hasSpecificRewardClaimer": false,
+          "specificRewardClaimerId": 0,
+          "ignoreNonGameplayModeHiding": false
+        },
+        "harvestRewardOnObjectiveComplete": {
+          "harvestAmount": 0.0
+        },
+        "weaponFrameRewardOnObjectiveComplete": {
+          "cellId": 7
+        },
+        "unlockableRewardsOnMissionComplete": {
+          "rewards": []
+        },
+        "onlySaveProgressionIfObjectivesHaveBeenCompleted": [],
+        "zombieObjective": {
+          "targetZombies": [],
+          "killAmount": 0
+        },
+        "collectObjective": {
+          "itemType": {
+            "CurrentIndex": 0,
+            "DisplayName": "",
+            "AssemblyQualifiedName": ""
+          },
+          "targetItem": 0,
+          "collectAmount": 0,
+          "mustCollectSelf": false
+        },
+        "visitNPCObjective": {
+          "npcId": 0
+        },
+        "sequencerObjectiveData": {
+          "triggerAmount": 1
+        },
+        "decryptFloppyObjectiveData": {},
+        "completeHordeRoundData": {
+          "roundToComplete": 0
+        }
+      }
+    ],
+    "id": 10,
+    "name": "Boulevard",
+    "category": ""
+  }
+]
+}

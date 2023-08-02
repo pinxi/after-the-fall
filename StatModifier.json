@@ -1,0 +1,62 @@
+{
+  "TableId": 175,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "stat": 5,
+    "type": 1,
+    "amount": 0.5,
+    "id": 0,
+    "name": "50% Reduced Movement Speed",
+    "category": ""
+  },
+  {
+    "stat": 6,
+    "type": 1,
+    "amount": 0.2,
+    "id": 1,
+    "name": "80% Reduced Teleport Range",
+    "category": ""
+  },
+  {
+    "stat": 6,
+    "type": 1,
+    "amount": 0.5,
+    "id": 2,
+    "name": "50% Reduced Teleport Range",
+    "category": ""
+  },
+  {
+    "stat": 5,
+    "type": 1,
+    "amount": 0.2,
+    "id": 3,
+    "name": "80% Reduced Movement Speed",
+    "category": ""
+  },
+  {
+    "stat": 2,
+    "type": 1,
+    "amount": 2.0,
+    "id": 4,
+    "name": "200% Self Damage",
+    "category": ""
+  },
+  {
+    "stat": 7,
+    "type": 1,
+    "amount": 2.0,
+    "id": 5,
+    "name": "200% Harvest Gain",
+    "category": ""
+  },
+  {
+    "stat": 8,
+    "type": 1,
+    "amount": 2.0,
+    "id": 6,
+    "name": "200% Increased Teleport Cooldown",
+    "category": ""
+  }
+]
+}

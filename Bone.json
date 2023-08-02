@@ -1,0 +1,708 @@
+{
+  "TableId": 94,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "mutilatablePart": 0,
+    "id": 0,
+    "name": "Reference",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 6,
+    "id": 1,
+    "name": "Hips",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 6,
+    "id": 2,
+    "name": "Spine",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 6,
+    "id": 3,
+    "name": "Spine1",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 5,
+    "id": 4,
+    "name": "Neck",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 5,
+    "id": 5,
+    "name": "Head",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 1,
+    "id": 6,
+    "name": "LeftArm",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 1,
+    "id": 7,
+    "name": "LeftForeArm",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 1,
+    "id": 8,
+    "name": "LeftHand",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 2,
+    "id": 9,
+    "name": "RightArm",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 2,
+    "id": 10,
+    "name": "RightForeArm",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 2,
+    "id": 11,
+    "name": "RightHand",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 3,
+    "id": 12,
+    "name": "LeftUpLeg",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 3,
+    "id": 13,
+    "name": "LeftLeg",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 3,
+    "id": 14,
+    "name": "LeftFoot",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 4,
+    "id": 15,
+    "name": "RightUpLeg",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 4,
+    "id": 16,
+    "name": "RightLeg",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 4,
+    "id": 17,
+    "name": "RightFoot",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 1,
+    "id": 18,
+    "name": "LeftShoulder",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 2,
+    "id": 19,
+    "name": "RightShoulder",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 5,
+    "id": 20,
+    "name": "Jaw",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 3,
+    "id": 21,
+    "name": "LeftToeBase",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 4,
+    "id": 22,
+    "name": "RightToeBase",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 6,
+    "id": 23,
+    "name": "ChestTarget",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 5,
+    "id": 24,
+    "name": "L_Eyeball",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 5,
+    "id": 25,
+    "name": "R_Eyeball",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 6,
+    "id": 26,
+    "name": "Spine2",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 3,
+    "id": 27,
+    "name": "LeftToe1",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 4,
+    "id": 28,
+    "name": "RightToe1",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 1,
+    "id": 29,
+    "name": "LeftFinger",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 2,
+    "id": 30,
+    "name": "RightFinger",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 6,
+    "id": 31,
+    "name": "TailBone",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 5,
+    "id": 32,
+    "name": "Chin",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 5,
+    "id": 33,
+    "name": "Valve",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 5,
+    "id": 34,
+    "name": "Grip",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 1,
+    "id": 36,
+    "name": "LeftFingerBase",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 2,
+    "id": 37,
+    "name": "RightFingerBase",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 6,
+    "id": 38,
+    "name": "GutLeftLower",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 6,
+    "id": 39,
+    "name": "GutLeftLower1",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 6,
+    "id": 40,
+    "name": "GutLeftLower2",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 6,
+    "id": 41,
+    "name": "GutLeftUpper",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 6,
+    "id": 42,
+    "name": "GutLeftUpper1",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 6,
+    "id": 43,
+    "name": "GutLeftUpper2",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 6,
+    "id": 44,
+    "name": "GutRight",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 6,
+    "id": 45,
+    "name": "GutRight1",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 6,
+    "id": 46,
+    "name": "GutRight2",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 5,
+    "id": 47,
+    "name": "L_Tentacle_Lower_Root",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 5,
+    "id": 48,
+    "name": "L_Tentacle_Lower_00",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 5,
+    "id": 49,
+    "name": "L_Tentacle_Lower_01",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 5,
+    "id": 50,
+    "name": "L_Tentacle_Lower_02",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 5,
+    "id": 51,
+    "name": "L_Tentacle_Lower_03",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 5,
+    "id": 52,
+    "name": "R_Tentacle_Lower_Root",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 5,
+    "id": 53,
+    "name": "R_Tentacle_Lower_00",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 5,
+    "id": 54,
+    "name": "R_Tentacle_Lower_01",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 5,
+    "id": 55,
+    "name": "R_Tentacle_Lower_02",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 5,
+    "id": 56,
+    "name": "R_Tentacle_Lower_03",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 5,
+    "id": 57,
+    "name": "L_Tentacle_Upper_Root",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 5,
+    "id": 58,
+    "name": "L_Tentacle_Upper_00",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 5,
+    "id": 59,
+    "name": "L_Tentacle_Upper_01",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 5,
+    "id": 60,
+    "name": "L_Tentacle_Upper_02",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 5,
+    "id": 61,
+    "name": "L_Tentacle_Upper_03",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 5,
+    "id": 62,
+    "name": "R_Tentacle_Upper_Root",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 5,
+    "id": 63,
+    "name": "R_Tentacle_Upper_00",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 5,
+    "id": 64,
+    "name": "R_Tentacle_Upper_01",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 5,
+    "id": 65,
+    "name": "R_Tentacle_Upper_02",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 5,
+    "id": 66,
+    "name": "R_Tentacle_Upper_03",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 1,
+    "id": 67,
+    "name": "LeftHandIndex1",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 1,
+    "id": 68,
+    "name": "LeftHandIndex2",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 1,
+    "id": 69,
+    "name": "LeftHandIndex3",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 1,
+    "id": 70,
+    "name": "LeftHandIndex4",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 1,
+    "id": 71,
+    "name": "LeftHandMiddle1",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 1,
+    "id": 72,
+    "name": "LeftHandMiddle2",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 1,
+    "id": 73,
+    "name": "LeftHandMiddle3",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 1,
+    "id": 74,
+    "name": "LeftHandMiddle4",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 1,
+    "id": 75,
+    "name": "LeftHandPinky1",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 1,
+    "id": 76,
+    "name": "LeftHandPinky2",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 1,
+    "id": 77,
+    "name": "LeftHandPinky3",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 1,
+    "id": 78,
+    "name": "LeftHandPinky4",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 1,
+    "id": 79,
+    "name": "LeftHandRing1",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 1,
+    "id": 80,
+    "name": "LeftHandRing2",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 1,
+    "id": 81,
+    "name": "LeftHandRing3",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 1,
+    "id": 82,
+    "name": "LeftHandRing4",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 1,
+    "id": 83,
+    "name": "LeftHandThumb1",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 1,
+    "id": 84,
+    "name": "LeftHandThumb2",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 1,
+    "id": 85,
+    "name": "LeftHandThumb3",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 1,
+    "id": 86,
+    "name": "LeftHandThumb4",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 2,
+    "id": 87,
+    "name": "RightHandIndex1",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 2,
+    "id": 88,
+    "name": "RightHandIndex2",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 2,
+    "id": 89,
+    "name": "RightHandIndex3",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 2,
+    "id": 90,
+    "name": "RightHandIndex4",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 2,
+    "id": 91,
+    "name": "RightHandMiddle1",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 2,
+    "id": 92,
+    "name": "RightHandMiddle2",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 2,
+    "id": 93,
+    "name": "RightHandMiddle3",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 2,
+    "id": 94,
+    "name": "RightHandMiddle4",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 2,
+    "id": 95,
+    "name": "RightHandPinky1",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 2,
+    "id": 96,
+    "name": "RightHandPinky2",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 2,
+    "id": 97,
+    "name": "RightHandPinky3",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 2,
+    "id": 98,
+    "name": "RightHandPinky4",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 2,
+    "id": 99,
+    "name": "RightHandRing1",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 2,
+    "id": 100,
+    "name": "RightHandRing2",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 2,
+    "id": 101,
+    "name": "RightHandRing3",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 2,
+    "id": 102,
+    "name": "RightHandRing4",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 2,
+    "id": 103,
+    "name": "RightHandThumb1",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 2,
+    "id": 104,
+    "name": "RightHandThumb2",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 2,
+    "id": 105,
+    "name": "RightHandThumb3",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 2,
+    "id": 106,
+    "name": "RightHandThumb4",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 6,
+    "id": 107,
+    "name": "LeftRibcage",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 6,
+    "id": 108,
+    "name": "RightRibcage",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 6,
+    "id": 109,
+    "name": "LeftLowerMandible1",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 6,
+    "id": 110,
+    "name": "LeftLowerMandible2",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 6,
+    "id": 111,
+    "name": "RightLowerMandible1",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 6,
+    "id": 112,
+    "name": "RightLowerMandible2",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 6,
+    "id": 113,
+    "name": "LeftUpperMandible1",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 6,
+    "id": 114,
+    "name": "LeftUpperMandible2",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 6,
+    "id": 115,
+    "name": "RightUpperMandible1",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 6,
+    "id": 116,
+    "name": "RightUpperMandible2",
+    "category": ""
+  },
+  {
+    "mutilatablePart": 6,
+    "id": 117,
+    "name": "SpitOrgan",
+    "category": ""
+  }
+]
+}

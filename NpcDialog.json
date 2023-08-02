@@ -1,0 +1,722 @@
+{
+  "TableId": 244,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "npcId": 0,
+    "animatorTriggers": [
+      "402 Meeting (Luna)"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": true,
+    "directlyPlayAudio": false,
+    "audioLines": [],
+    "faceAnimationsToPlay": [
+      11
+    ],
+    "id": 0,
+    "name": "402 Meeting (Luna)",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "animatorTriggers": [
+      "Generic Briefing"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [
+      {
+        "audio": {
+          "eventPath": "event:/ATF_PC/Voice/Luna/EN_LUN_409",
+          "eventGuid": "fb660efa-b45b-45a2-9913-9e245c74e0de",
+          "parameterSettings": []
+        },
+        "playAtSecondsFromLastAudioLine": 0.0
+      }
+    ],
+    "faceAnimationsToPlay": [
+      3
+    ],
+    "id": 1,
+    "name": "409 Skidrow Briefing",
+    "category": ""
+  },
+  {
+    "npcId": 1,
+    "animatorTriggers": [
+      "436 Meeting"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [
+      {
+        "audio": {
+          "eventPath": "event:/ATF_PC/Voice/Frank/EN_FRA_436_1",
+          "eventGuid": "fd885e62-fa78-4c5f-96bc-e55de8befe7a",
+          "parameterSettings": []
+        },
+        "playAtSecondsFromLastAudioLine": 4.83333349
+      }
+    ],
+    "faceAnimationsToPlay": [],
+    "id": 2,
+    "name": "436 Meeting (Frank)",
+    "category": ""
+  },
+  {
+    "npcId": 1,
+    "animatorTriggers": [
+      "401 Hub Arrival"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [],
+    "faceAnimationsToPlay": [
+      18
+    ],
+    "id": 3,
+    "name": "401 Hub Arrival",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "animatorTriggers": [
+      "404 Luna continues"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [
+      {
+        "audio": {
+          "eventPath": "event:/ATF_PC/Voice/Luna/EN_LUN_404",
+          "eventGuid": "f42ecfdd-0afb-426e-a2a1-68623e762759",
+          "parameterSettings": []
+        },
+        "playAtSecondsFromLastAudioLine": 0.0
+      }
+    ],
+    "faceAnimationsToPlay": [],
+    "id": 5,
+    "name": "404 Luna continues",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "animatorTriggers": [
+      "Generic Briefing"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [
+      {
+        "audio": {
+          "eventPath": "event:/ATF_PC/Voice/Luna/EN_LUN_408",
+          "eventGuid": "a3362b3c-4b20-4849-a09f-cb108b79ba8e",
+          "parameterSettings": []
+        },
+        "playAtSecondsFromLastAudioLine": 0.0
+      }
+    ],
+    "faceAnimationsToPlay": [
+      4
+    ],
+    "id": 6,
+    "name": "408 Skidrow Debriefing",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "animatorTriggers": [
+      "Generic Briefing"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [
+      {
+        "audio": {
+          "eventPath": "event:/ATF_PC/Voice/Luna/EN_LUN_410",
+          "eventGuid": "e8fda5f1-bea0-429e-b435-442c07a17f7c",
+          "parameterSettings": []
+        },
+        "playAtSecondsFromLastAudioLine": 0.0
+      }
+    ],
+    "faceAnimationsToPlay": [
+      5
+    ],
+    "id": 7,
+    "name": "410 Downtown Briefing",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "animatorTriggers": [
+      "Generic Briefing"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [
+      {
+        "audio": {
+          "eventPath": "event:/ATF_PC/Voice/Luna/EN_LUN_411",
+          "eventGuid": "0d70f4fe-c5d3-4d1b-a844-4bedda530c3a",
+          "parameterSettings": []
+        },
+        "playAtSecondsFromLastAudioLine": 0.0
+      }
+    ],
+    "faceAnimationsToPlay": [
+      6
+    ],
+    "id": 8,
+    "name": "411 Downtown Debriefing",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "animatorTriggers": [
+      "Generic Briefing"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [],
+    "faceAnimationsToPlay": [
+      7
+    ],
+    "id": 9,
+    "name": "412 Chinatown Briefing",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "animatorTriggers": [
+      "413 Chinatown Debriefing"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [],
+    "faceAnimationsToPlay": [
+      8
+    ],
+    "id": 10,
+    "name": "413 Chinatown Debriefing",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "animatorTriggers": [
+      "Generic Briefing"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [
+      {
+        "audio": {
+          "eventPath": "event:/ATF_PC/Voice/Luna/EN_LUN_414",
+          "eventGuid": "698eeee6-ebe1-4ce9-b90a-1d5d178ede13",
+          "parameterSettings": []
+        },
+        "playAtSecondsFromLastAudioLine": 0.0
+      }
+    ],
+    "faceAnimationsToPlay": [
+      9
+    ],
+    "id": 11,
+    "name": "414 Banktower Briefing",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "animatorTriggers": [
+      "Generic Briefing"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [
+      {
+        "audio": {
+          "eventPath": "event:/ATF_PC/Voice/Luna/EN_LUN_415",
+          "eventGuid": "551e0a66-585d-4b85-8af4-1cf8ef7ac1ae",
+          "parameterSettings": []
+        },
+        "playAtSecondsFromLastAudioLine": 0.0
+      }
+    ],
+    "faceAnimationsToPlay": [
+      10
+    ],
+    "id": 12,
+    "name": "415 Banktower Debriefing",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "animatorTriggers": [
+      "416 Luna Earthquake"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [],
+    "faceAnimationsToPlay": [
+      12
+    ],
+    "id": 13,
+    "name": "416 Endtower cutscene 1",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "animatorTriggers": [
+      "418 Endtower Debriefing"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [],
+    "faceAnimationsToPlay": [
+      13
+    ],
+    "id": 15,
+    "name": "418 Endtower Debriefing",
+    "category": ""
+  },
+  {
+    "npcId": 1,
+    "animatorTriggers": [
+      "418 Endtower Debriefing Frank End"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [
+      {
+        "audio": {
+          "eventPath": "event:/ATF_PC/Voice/Frank/EN_FRA_418_D_1",
+          "eventGuid": "f9e03ce1-ec3a-4266-ab3a-0b545726b57a",
+          "parameterSettings": []
+        },
+        "playAtSecondsFromLastAudioLine": 0.0
+      }
+    ],
+    "faceAnimationsToPlay": [],
+    "id": 16,
+    "name": "418 Endtower Debriefing Frank End",
+    "category": ""
+  },
+  {
+    "npcId": 1,
+    "animatorTriggers": [
+      "436 Showcase (Frank)"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [
+      {
+        "audio": {
+          "eventPath": "event:/ATF_PC/Voice/Frank/EN_FRA_436_2",
+          "eventGuid": "4f558a1a-fc6d-49bc-8673-f26404c1adfa",
+          "parameterSettings": []
+        },
+        "playAtSecondsFromLastAudioLine": 0.5
+      }
+    ],
+    "faceAnimationsToPlay": [],
+    "id": 17,
+    "name": "436 Showcase (Frank)",
+    "category": ""
+  },
+  {
+    "npcId": 1,
+    "animatorTriggers": [
+      "1102 Frank Rescue"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [
+      {
+        "audio": {
+          "eventPath": "event:/ATF_PC/Voice/Frank/EN_FRA_1102",
+          "eventGuid": "a2dd804a-8213-47a8-95a0-eae91daf4c8f",
+          "parameterSettings": []
+        },
+        "playAtSecondsFromLastAudioLine": 0.0
+      }
+    ],
+    "faceAnimationsToPlay": [],
+    "id": 18,
+    "name": "1102 Frank to the Rescue",
+    "category": ""
+  },
+  {
+    "npcId": 1,
+    "animatorTriggers": [
+      "1102 Frank Rescue"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [
+      {
+        "audio": {
+          "eventPath": "event:/ATF_PC/Voice/Frank/EN_FRA_1103",
+          "eventGuid": "99cb0751-8c34-4080-93f9-c3b50e846f6e",
+          "parameterSettings": []
+        },
+        "playAtSecondsFromLastAudioLine": 0.0
+      }
+    ],
+    "faceAnimationsToPlay": [],
+    "id": 19,
+    "name": "1103 Frank talks in Snowcat",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "animatorTriggers": [
+      "Generic Reward"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": true,
+    "directlyPlayAudio": false,
+    "audioLines": [],
+    "faceAnimationsToPlay": [
+      2
+    ],
+    "id": 20,
+    "name": "434 Luna Generic Reward",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "animatorTriggers": [
+      "Generic Briefing"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [],
+    "faceAnimationsToPlay": [
+      14
+    ],
+    "id": 21,
+    "name": "447 Luna Welcome",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "animatorTriggers": [],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [],
+    "faceAnimationsToPlay": [],
+    "id": 22,
+    "name": "Luna Nothing",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "animatorTriggers": [
+      "Generic Briefing"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [],
+    "faceAnimationsToPlay": [
+      19
+    ],
+    "id": 23,
+    "name": "499_1 Luna reminds player about crafting",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "animatorTriggers": [
+      "Generic Briefing"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [],
+    "faceAnimationsToPlay": [
+      20
+    ],
+    "id": 24,
+    "name": "499_2 Luna reminds player about crafting",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "animatorTriggers": [
+      "Generic Briefing"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [],
+    "faceAnimationsToPlay": [
+      21
+    ],
+    "id": 25,
+    "name": "499_3 Luna reminds player about tundradome",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "animatorTriggers": [
+      "Generic Briefing"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [],
+    "faceAnimationsToPlay": [
+      22
+    ],
+    "id": 26,
+    "name": "499_4 Luna reminds player about tundradome",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "animatorTriggers": [
+      "Generic Briefing"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [],
+    "faceAnimationsToPlay": [
+      23
+    ],
+    "id": 27,
+    "name": "499_5 Luna reminds player about hordemode",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "animatorTriggers": [
+      "Generic Briefing"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [],
+    "faceAnimationsToPlay": [
+      24
+    ],
+    "id": 28,
+    "name": "499_6 Luna reminds player about hordemode",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "animatorTriggers": [
+      "Generic Briefing"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [],
+    "faceAnimationsToPlay": [
+      25
+    ],
+    "id": 29,
+    "name": "499_7 Luna reminds player about gamemodes",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "animatorTriggers": [
+      "Generic Briefing"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [],
+    "faceAnimationsToPlay": [
+      26
+    ],
+    "id": 30,
+    "name": "457_6 Luna reminds player about Skid Row mission",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "animatorTriggers": [
+      "Generic Briefing"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [],
+    "faceAnimationsToPlay": [
+      27
+    ],
+    "id": 31,
+    "name": "457_7 Luna reminds player about Skid Row mission",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "animatorTriggers": [
+      "Generic Briefing"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [],
+    "faceAnimationsToPlay": [
+      28
+    ],
+    "id": 32,
+    "name": "457_8 Luna reminds player about Chinatown mission",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "animatorTriggers": [
+      "Generic Briefing"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [],
+    "faceAnimationsToPlay": [
+      29
+    ],
+    "id": 33,
+    "name": "457_9 Luna reminds player about Chinatown mission",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "animatorTriggers": [
+      "Generic Briefing"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [],
+    "faceAnimationsToPlay": [
+      30
+    ],
+    "id": 34,
+    "name": "457_10 Luna reminds player about Downtown mission",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "animatorTriggers": [
+      "Generic Briefing"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [],
+    "faceAnimationsToPlay": [
+      31
+    ],
+    "id": 35,
+    "name": "457_11 Luna reminds player about Downtown mission",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "animatorTriggers": [
+      "Generic Briefing"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [],
+    "faceAnimationsToPlay": [
+      32
+    ],
+    "id": 36,
+    "name": "457_12 Luna reminds player about Union Tower mission",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "animatorTriggers": [
+      "Generic Briefing"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [],
+    "faceAnimationsToPlay": [
+      33
+    ],
+    "id": 37,
+    "name": "457_13 Luna reminds player about Union Tower mission",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "animatorTriggers": [
+      "Generic Briefing"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [],
+    "faceAnimationsToPlay": [
+      34
+    ],
+    "id": 38,
+    "name": "457_14 Luna reminds player about Relay Tower mission",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "animatorTriggers": [
+      "Generic Briefing"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [],
+    "faceAnimationsToPlay": [
+      35
+    ],
+    "id": 39,
+    "name": "457_15 Luna reminds player about Relay Tower mission",
+    "category": ""
+  },
+  {
+    "npcId": 0,
+    "animatorTriggers": [
+      "Generic Briefing"
+    ],
+    "allowPlayerInteraction": false,
+    "animationHandlesMissionItemReward": false,
+    "directlyPlayAudio": false,
+    "audioLines": [],
+    "faceAnimationsToPlay": [
+      36
+    ],
+    "id": 40,
+    "name": "402_Alt Luna reminds player about Floppy",
+    "category": ""
+  }
+]
+}

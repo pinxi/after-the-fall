@@ -1,0 +1,21 @@
+{
+  "TableId": 145,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "id": 0,
+    "name": "RandomItemLootbox",
+    "category": ""
+  },
+  {
+    "id": 1,
+    "name": "WeightedItemsLootbox",
+    "category": ""
+  },
+  {
+    "id": 2,
+    "name": "GuaranteedThenWeightedItemsLootbox",
+    "category": ""
+  }
+]
+}

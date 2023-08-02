@@ -1,0 +1,927 @@
+{
+  "TableId": 209,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "animationDuration": 2.435,
+    "moveInDirectionDistance": 0.25,
+    "tauntAnimations": [
+      {
+        "animationDuration": 2.453334,
+        "animationClipLeft180": {
+          "animationLength": 3.06666684,
+          "assetName": "Anim_CH_E_Horde_Taunt_Turn_L_180_Aggro",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts.fbx",
+          "assetGUID": "19b8290d668c10d42b3f15b29f1d61e0",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts:Anim_CH_E_Horde_Taunt_Turn_L_180_Aggro.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardLeftBlend": {
+          "animationLength": 3.06666756,
+          "assetName": "Anim_CH_E_Horde_Taunt_Slow_1",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts.fbx",
+          "assetGUID": "19b8290d668c10d42b3f15b29f1d61e0",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts:Anim_CH_E_Horde_Taunt_Slow_1.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardRightBlend": {
+          "animationLength": 3.06666756,
+          "assetName": "Anim_CH_E_Horde_Taunt_Slow_1_Mirror",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts.fbx",
+          "assetGUID": "19b8290d668c10d42b3f15b29f1d61e0",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts:Anim_CH_E_Horde_Taunt_Slow_1_Mirror.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight180": {
+          "animationLength": 3.06666684,
+          "assetName": "Anim_CH_E_Horde_Taunt_Turn_R_180_Aggro",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts.fbx",
+          "assetGUID": "19b8290d668c10d42b3f15b29f1d61e0",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts:Anim_CH_E_Horde_Taunt_Turn_R_180_Aggro.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationStartTimeFraction": 0.0,
+        "animationEndTimeFraction": 0.8,
+        "startMatchTargetTime": 0.0,
+        "endMatchTargetTime": 0.8,
+        "runCycleNormalizedStartTime": 0.0,
+        "runCycleNormalizedEndTime": 1.0,
+        "runCycleLocomotionStartAnchorTime": 0.0
+      },
+      {
+        "animationDuration": 2.4226675,
+        "animationClipLeft180": {
+          "animationLength": 3.06666684,
+          "assetName": "Anim_CH_E_Horde_Taunt_Turn_L_180_Aggro",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts.fbx",
+          "assetGUID": "19b8290d668c10d42b3f15b29f1d61e0",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts:Anim_CH_E_Horde_Taunt_Turn_L_180_Aggro.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardLeftBlend": {
+          "animationLength": 3.06666756,
+          "assetName": "Anim_CH_E_Horde_Taunt_Slow_2",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts.fbx",
+          "assetGUID": "19b8290d668c10d42b3f15b29f1d61e0",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts:Anim_CH_E_Horde_Taunt_Slow_2.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardRightBlend": {
+          "animationLength": 3.06666756,
+          "assetName": "Anim_CH_E_Horde_Taunt_Slow_2_Mirror",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts.fbx",
+          "assetGUID": "19b8290d668c10d42b3f15b29f1d61e0",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts:Anim_CH_E_Horde_Taunt_Slow_2_Mirror.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight180": {
+          "animationLength": 3.06666684,
+          "assetName": "Anim_CH_E_Horde_Taunt_Turn_R_180_Aggro",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts.fbx",
+          "assetGUID": "19b8290d668c10d42b3f15b29f1d61e0",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts:Anim_CH_E_Horde_Taunt_Turn_R_180_Aggro.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationStartTimeFraction": 0.06,
+        "animationEndTimeFraction": 0.85,
+        "startMatchTargetTime": 0.18,
+        "endMatchTargetTime": 0.85,
+        "runCycleNormalizedStartTime": 0.0,
+        "runCycleNormalizedEndTime": 1.0,
+        "runCycleLocomotionStartAnchorTime": 0.0
+      }
+    ],
+    "id": 0,
+    "name": "Generic Taunt Slow",
+    "category": ""
+  },
+  {
+    "animationDuration": 1.1,
+    "moveInDirectionDistance": 0.25,
+    "tauntAnimations": [
+      {
+        "animationDuration": 1.09500062,
+        "animationClipLeft180": {
+          "animationLength": 1.5,
+          "assetName": "Anim_CH_E_Horde_Taunt_Turn_Med_1_L",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts.fbx",
+          "assetGUID": "19b8290d668c10d42b3f15b29f1d61e0",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts:Anim_CH_E_Horde_Taunt_Turn_Med_1_L.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardLeftBlend": {
+          "animationLength": 1.500001,
+          "assetName": "Anim_CH_E_Horde_Taunt_Fast_1_Mirror",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts.fbx",
+          "assetGUID": "19b8290d668c10d42b3f15b29f1d61e0",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts:Anim_CH_E_Horde_Taunt_Fast_1_Mirror.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardRightBlend": {
+          "animationLength": 1.500001,
+          "assetName": "Anim_CH_E_Horde_Taunt_Fast_1",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts.fbx",
+          "assetGUID": "19b8290d668c10d42b3f15b29f1d61e0",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts:Anim_CH_E_Horde_Taunt_Fast_1.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight180": {
+          "animationLength": 1.5,
+          "assetName": "Anim_CH_E_Horde_Taunt_Turn_Med_1_R",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts.fbx",
+          "assetGUID": "19b8290d668c10d42b3f15b29f1d61e0",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts:Anim_CH_E_Horde_Taunt_Turn_Med_1_R.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationStartTimeFraction": 0.1,
+        "animationEndTimeFraction": 0.83,
+        "startMatchTargetTime": 0.129,
+        "endMatchTargetTime": 0.8,
+        "runCycleNormalizedStartTime": 0.0,
+        "runCycleNormalizedEndTime": 1.0,
+        "runCycleLocomotionStartAnchorTime": 0.0
+      },
+      {
+        "animationDuration": 1.09500062,
+        "animationClipLeft180": {
+          "animationLength": 1.50000012,
+          "assetName": "Anim_CH_E_Horde_Taunt_Turn_Med_2_L",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts.fbx",
+          "assetGUID": "19b8290d668c10d42b3f15b29f1d61e0",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts:Anim_CH_E_Horde_Taunt_Turn_Med_2_L.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardLeftBlend": {
+          "animationLength": 1.500001,
+          "assetName": "Anim_CH_E_Horde_Taunt_Fast_1_Mirror",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts.fbx",
+          "assetGUID": "19b8290d668c10d42b3f15b29f1d61e0",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts:Anim_CH_E_Horde_Taunt_Fast_1_Mirror.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardRightBlend": {
+          "animationLength": 1.500001,
+          "assetName": "Anim_CH_E_Horde_Taunt_Fast_1",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts.fbx",
+          "assetGUID": "19b8290d668c10d42b3f15b29f1d61e0",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts:Anim_CH_E_Horde_Taunt_Fast_1.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight180": {
+          "animationLength": 1.50000012,
+          "assetName": "Anim_CH_E_Horde_Taunt_Turn_Med_2_R",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts.fbx",
+          "assetGUID": "19b8290d668c10d42b3f15b29f1d61e0",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts:Anim_CH_E_Horde_Taunt_Turn_Med_2_R.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationStartTimeFraction": 0.1,
+        "animationEndTimeFraction": 0.83,
+        "startMatchTargetTime": 0.17,
+        "endMatchTargetTime": 0.78,
+        "runCycleNormalizedStartTime": 0.0,
+        "runCycleNormalizedEndTime": 1.0,
+        "runCycleLocomotionStartAnchorTime": 0.0
+      },
+      {
+        "animationDuration": 1.09500062,
+        "animationClipLeft180": {
+          "animationLength": 1.50000024,
+          "assetName": "Anim_CH_E_Horde_Taunt_Turn_Med_3_L",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts.fbx",
+          "assetGUID": "19b8290d668c10d42b3f15b29f1d61e0",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts:Anim_CH_E_Horde_Taunt_Turn_Med_3_L.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardLeftBlend": {
+          "animationLength": 1.500001,
+          "assetName": "Anim_CH_E_Horde_Taunt_Fast_1_Mirror",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts.fbx",
+          "assetGUID": "19b8290d668c10d42b3f15b29f1d61e0",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts:Anim_CH_E_Horde_Taunt_Fast_1_Mirror.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardRightBlend": {
+          "animationLength": 1.500001,
+          "assetName": "Anim_CH_E_Horde_Taunt_Fast_1",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts.fbx",
+          "assetGUID": "19b8290d668c10d42b3f15b29f1d61e0",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts:Anim_CH_E_Horde_Taunt_Fast_1.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight180": {
+          "animationLength": 1.50000024,
+          "assetName": "Anim_CH_E_Horde_Taunt_Turn_Med_3_R",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts.fbx",
+          "assetGUID": "19b8290d668c10d42b3f15b29f1d61e0",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts:Anim_CH_E_Horde_Taunt_Turn_Med_3_R.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationStartTimeFraction": 0.1,
+        "animationEndTimeFraction": 0.83,
+        "startMatchTargetTime": 0.11,
+        "endMatchTargetTime": 0.7,
+        "runCycleNormalizedStartTime": 0.0,
+        "runCycleNormalizedEndTime": 1.0,
+        "runCycleLocomotionStartAnchorTime": 0.0
+      }
+    ],
+    "id": 1,
+    "name": "Generic Taunt Medium",
+    "category": ""
+  },
+  {
+    "animationDuration": 1.0,
+    "moveInDirectionDistance": 0.25,
+    "tauntAnimations": [
+      {
+        "animationDuration": 0.9750006,
+        "animationClipLeft180": {
+          "animationLength": 1.50000012,
+          "assetName": "Anim_CH_E_Horde_Taunt_Turn_Fast_1_L",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts.fbx",
+          "assetGUID": "19b8290d668c10d42b3f15b29f1d61e0",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts:Anim_CH_E_Horde_Taunt_Turn_Fast_1_L.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardLeftBlend": {
+          "animationLength": 1.500001,
+          "assetName": "Anim_CH_E_Horde_Taunt_Fast_1_Mirror",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts.fbx",
+          "assetGUID": "19b8290d668c10d42b3f15b29f1d61e0",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts:Anim_CH_E_Horde_Taunt_Fast_1_Mirror.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardRightBlend": {
+          "animationLength": 1.500001,
+          "assetName": "Anim_CH_E_Horde_Taunt_Fast_1",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts.fbx",
+          "assetGUID": "19b8290d668c10d42b3f15b29f1d61e0",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts:Anim_CH_E_Horde_Taunt_Fast_1.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight180": {
+          "animationLength": 1.50000012,
+          "assetName": "Anim_CH_E_Horde_Taunt_Turn_Fast_1_R",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts.fbx",
+          "assetGUID": "19b8290d668c10d42b3f15b29f1d61e0",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts:Anim_CH_E_Horde_Taunt_Turn_Fast_1_R.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationStartTimeFraction": 0.1,
+        "animationEndTimeFraction": 0.75,
+        "startMatchTargetTime": 0.25,
+        "endMatchTargetTime": 0.642,
+        "runCycleNormalizedStartTime": 0.0,
+        "runCycleNormalizedEndTime": 1.0,
+        "runCycleLocomotionStartAnchorTime": 0.0
+      },
+      {
+        "animationDuration": 0.9750006,
+        "animationClipLeft180": {
+          "animationLength": 1.50000012,
+          "assetName": "Anim_CH_E_Horde_Taunt_Turn_Fast_2_L",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts.fbx",
+          "assetGUID": "19b8290d668c10d42b3f15b29f1d61e0",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts:Anim_CH_E_Horde_Taunt_Turn_Fast_2_L.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardLeftBlend": {
+          "animationLength": 1.500001,
+          "assetName": "Anim_CH_E_Horde_Taunt_Fast_1_Mirror",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts.fbx",
+          "assetGUID": "19b8290d668c10d42b3f15b29f1d61e0",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts:Anim_CH_E_Horde_Taunt_Fast_1_Mirror.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardRightBlend": {
+          "animationLength": 1.500001,
+          "assetName": "Anim_CH_E_Horde_Taunt_Fast_1",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts.fbx",
+          "assetGUID": "19b8290d668c10d42b3f15b29f1d61e0",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts:Anim_CH_E_Horde_Taunt_Fast_1.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight180": {
+          "animationLength": 1.50000012,
+          "assetName": "Anim_CH_E_Horde_Taunt_Turn_Fast_2_R",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts.fbx",
+          "assetGUID": "19b8290d668c10d42b3f15b29f1d61e0",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts:Anim_CH_E_Horde_Taunt_Turn_Fast_2_R.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationStartTimeFraction": 0.15,
+        "animationEndTimeFraction": 0.8,
+        "startMatchTargetTime": 0.2,
+        "endMatchTargetTime": 0.75,
+        "runCycleNormalizedStartTime": 0.0,
+        "runCycleNormalizedEndTime": 1.0,
+        "runCycleLocomotionStartAnchorTime": 0.0
+      },
+      {
+        "animationDuration": 0.9750006,
+        "animationClipLeft180": {
+          "animationLength": 1.50000012,
+          "assetName": "Anim_CH_E_Horde_Taunt_Turn_Fast_3_L",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts.fbx",
+          "assetGUID": "19b8290d668c10d42b3f15b29f1d61e0",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts:Anim_CH_E_Horde_Taunt_Turn_Fast_3_L.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardLeftBlend": {
+          "animationLength": 1.500001,
+          "assetName": "Anim_CH_E_Horde_Taunt_Fast_1_Mirror",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts.fbx",
+          "assetGUID": "19b8290d668c10d42b3f15b29f1d61e0",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts:Anim_CH_E_Horde_Taunt_Fast_1_Mirror.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardRightBlend": {
+          "animationLength": 1.500001,
+          "assetName": "Anim_CH_E_Horde_Taunt_Fast_1",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts.fbx",
+          "assetGUID": "19b8290d668c10d42b3f15b29f1d61e0",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts:Anim_CH_E_Horde_Taunt_Fast_1.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight180": {
+          "animationLength": 1.50000012,
+          "assetName": "Anim_CH_E_Horde_Taunt_Turn_Fast_3_R",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts.fbx",
+          "assetGUID": "19b8290d668c10d42b3f15b29f1d61e0",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts:Anim_CH_E_Horde_Taunt_Turn_Fast_3_R.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationStartTimeFraction": 0.15,
+        "animationEndTimeFraction": 0.8,
+        "startMatchTargetTime": 0.2,
+        "endMatchTargetTime": 0.5,
+        "runCycleNormalizedStartTime": 0.0,
+        "runCycleNormalizedEndTime": 1.0,
+        "runCycleLocomotionStartAnchorTime": 0.0
+      }
+    ],
+    "id": 2,
+    "name": "Generic Taunt Fast",
+    "category": ""
+  },
+  {
+    "animationDuration": 2.0,
+    "moveInDirectionDistance": 1.75,
+    "tauntAnimations": [
+      {
+        "animationDuration": 2.00000024,
+        "animationClipLeft180": {
+          "animationLength": 2.66666675,
+          "assetName": "Anim_CH_E_Smasher_Taunt_Lt180_B",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Taunts.fbx",
+          "assetGUID": "f26c05cd339676245b8553e2f3ab033f",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Taunts:Anim_CH_E_Smasher_Taunt_Lt180_B.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardLeftBlend": {
+          "animationLength": 2.66666675,
+          "assetName": "Anim_CH_E_Smasher_Taunt_Lt45_B",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Taunts.fbx",
+          "assetGUID": "f26c05cd339676245b8553e2f3ab033f",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Taunts:Anim_CH_E_Smasher_Taunt_Lt45_B.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardRightBlend": {
+          "animationLength": 2.66666675,
+          "assetName": "Anim_CH_E_Smasher_Taunt_Rt45_B",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Taunts.fbx",
+          "assetGUID": "f26c05cd339676245b8553e2f3ab033f",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Taunts:Anim_CH_E_Smasher_Taunt_Rt45_B.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight180": {
+          "animationLength": 2.66666675,
+          "assetName": "Anim_CH_E_Smasher_Taunt_Rt180_B",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Taunts.fbx",
+          "assetGUID": "f26c05cd339676245b8553e2f3ab033f",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Taunts:Anim_CH_E_Smasher_Taunt_Rt180_B.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationStartTimeFraction": 0.1,
+        "animationEndTimeFraction": 0.85,
+        "startMatchTargetTime": 0.136,
+        "endMatchTargetTime": 0.886,
+        "runCycleNormalizedStartTime": 0.0,
+        "runCycleNormalizedEndTime": 1.0,
+        "runCycleLocomotionStartAnchorTime": 0.25
+      }
+    ],
+    "id": 4,
+    "name": "Smasher",
+    "category": ""
+  },
+  {
+    "animationDuration": 2.66,
+    "moveInDirectionDistance": 0.0,
+    "tauntAnimations": [
+      {
+        "animationDuration": 2.66667175,
+        "animationClipLeft180": {
+          "animationLength": 3.33333588,
+          "assetName": "Anim_CH_E_Horde_Idle_Feast_Taunt_L180",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Feast.fbx",
+          "assetGUID": "58515f71bb8db7f4b96eb9ae712b0a14",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Feast:Anim_CH_E_Horde_Idle_Feast_Taunt_L180.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardLeftBlend": {
+          "animationLength": 3.33333969,
+          "assetName": "Anim_CH_E_Horde_Idle_Feast_Taunt_Fwd",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Feast.fbx",
+          "assetGUID": "58515f71bb8db7f4b96eb9ae712b0a14",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Feast:Anim_CH_E_Horde_Idle_Feast_Taunt_Fwd.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardRightBlend": {
+          "animationLength": 3.33333969,
+          "assetName": "Anim_CH_E_Horde_Idle_Feast_Taunt_Fwd",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Feast.fbx",
+          "assetGUID": "58515f71bb8db7f4b96eb9ae712b0a14",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Feast:Anim_CH_E_Horde_Idle_Feast_Taunt_Fwd.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight180": {
+          "animationLength": 3.33333588,
+          "assetName": "Anim_CH_E_Horde_Idle_Feast_Taunt_R180",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Feast.fbx",
+          "assetGUID": "58515f71bb8db7f4b96eb9ae712b0a14",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Feast:Anim_CH_E_Horde_Idle_Feast_Taunt_R180.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationStartTimeFraction": 0.1,
+        "animationEndTimeFraction": 0.9,
+        "startMatchTargetTime": 0.55,
+        "endMatchTargetTime": 0.851,
+        "runCycleNormalizedStartTime": 0.0,
+        "runCycleNormalizedEndTime": 1.0,
+        "runCycleLocomotionStartAnchorTime": 0.0
+      }
+    ],
+    "id": 5,
+    "name": "CorpseEating Taunt",
+    "category": ""
+  },
+  {
+    "animationDuration": 2.0,
+    "moveInDirectionDistance": 0.0,
+    "tauntAnimations": [
+      {
+        "animationDuration": 2.00000024,
+        "animationClipLeft180": {
+          "animationLength": 2.50000024,
+          "assetName": "Anim_CH_E_Horde_Taunt_A_01_L180",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts2.fbx",
+          "assetGUID": "0334010f7328d5341a711402457c91ce",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts2:Anim_CH_E_Horde_Taunt_A_01_L180.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardLeftBlend": {
+          "animationLength": 2.50000024,
+          "assetName": "Anim_CH_E_Horde_Taunt_A_01_Fwd_L",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts2.fbx",
+          "assetGUID": "0334010f7328d5341a711402457c91ce",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts2:Anim_CH_E_Horde_Taunt_A_01_Fwd_L.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardRightBlend": {
+          "animationLength": 2.50000024,
+          "assetName": "Anim_CH_E_Horde_Taunt_A_01_Fwd_R",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts2.fbx",
+          "assetGUID": "0334010f7328d5341a711402457c91ce",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts2:Anim_CH_E_Horde_Taunt_A_01_Fwd_R.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight180": {
+          "animationLength": 2.50000024,
+          "assetName": "Anim_CH_E_Horde_Taunt_A_01_R180",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts2.fbx",
+          "assetGUID": "0334010f7328d5341a711402457c91ce",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts2:Anim_CH_E_Horde_Taunt_A_01_R180.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationStartTimeFraction": 0.0,
+        "animationEndTimeFraction": 0.8,
+        "startMatchTargetTime": 0.05,
+        "endMatchTargetTime": 0.75,
+        "runCycleNormalizedStartTime": 0.0,
+        "runCycleNormalizedEndTime": 1.0,
+        "runCycleLocomotionStartAnchorTime": 0.0
+      },
+      {
+        "animationDuration": 2.0,
+        "animationClipLeft180": {
+          "animationLength": 2.5,
+          "assetName": "Anim_CH_E_Horde_Taunt_A_05_L180",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts2.fbx",
+          "assetGUID": "0334010f7328d5341a711402457c91ce",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts2:Anim_CH_E_Horde_Taunt_A_05_L180.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardLeftBlend": {
+          "animationLength": 2.5,
+          "assetName": "Anim_CH_E_Horde_Taunt_A_05_Fwd_L",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts2.fbx",
+          "assetGUID": "0334010f7328d5341a711402457c91ce",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts2:Anim_CH_E_Horde_Taunt_A_05_Fwd_L.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardRightBlend": {
+          "animationLength": 2.5,
+          "assetName": "Anim_CH_E_Horde_Taunt_A_05_Fwd_R",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts2.fbx",
+          "assetGUID": "0334010f7328d5341a711402457c91ce",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts2:Anim_CH_E_Horde_Taunt_A_05_Fwd_R.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight180": {
+          "animationLength": 2.5,
+          "assetName": "Anim_CH_E_Horde_Taunt_A_05_R180",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts2.fbx",
+          "assetGUID": "0334010f7328d5341a711402457c91ce",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts2:Anim_CH_E_Horde_Taunt_A_05_R180.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationStartTimeFraction": 0.0,
+        "animationEndTimeFraction": 0.8,
+        "startMatchTargetTime": 0.05,
+        "endMatchTargetTime": 0.75,
+        "runCycleNormalizedStartTime": 0.0,
+        "runCycleNormalizedEndTime": 1.0,
+        "runCycleLocomotionStartAnchorTime": 0.0
+      },
+      {
+        "animationDuration": 2.00000024,
+        "animationClipLeft180": {
+          "animationLength": 2.50000024,
+          "assetName": "Anim_CH_E_Horde_Taunt_B_02_L180",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts2.fbx",
+          "assetGUID": "0334010f7328d5341a711402457c91ce",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts2:Anim_CH_E_Horde_Taunt_B_02_L180.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardLeftBlend": {
+          "animationLength": 2.50000024,
+          "assetName": "Anim_CH_E_Horde_Taunt_B_02_Fwd_L",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts2.fbx",
+          "assetGUID": "0334010f7328d5341a711402457c91ce",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts2:Anim_CH_E_Horde_Taunt_B_02_Fwd_L.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardRightBlend": {
+          "animationLength": 2.50000024,
+          "assetName": "Anim_CH_E_Horde_Taunt_B_02_Fwd_R",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts2.fbx",
+          "assetGUID": "0334010f7328d5341a711402457c91ce",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts2:Anim_CH_E_Horde_Taunt_B_02_Fwd_R.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight180": {
+          "animationLength": 2.50000024,
+          "assetName": "Anim_CH_E_Horde_Taunt_B_02_R180",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts2.fbx",
+          "assetGUID": "0334010f7328d5341a711402457c91ce",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts2:Anim_CH_E_Horde_Taunt_B_02_R180.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationStartTimeFraction": 0.0,
+        "animationEndTimeFraction": 0.8,
+        "startMatchTargetTime": 0.05,
+        "endMatchTargetTime": 0.75,
+        "runCycleNormalizedStartTime": 0.0,
+        "runCycleNormalizedEndTime": 1.0,
+        "runCycleLocomotionStartAnchorTime": 0.0
+      },
+      {
+        "animationDuration": 2.0,
+        "animationClipLeft180": {
+          "animationLength": 2.5,
+          "assetName": "Anim_CH_E_Horde_Taunt_B_04_L180",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts2.fbx",
+          "assetGUID": "0334010f7328d5341a711402457c91ce",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts2:Anim_CH_E_Horde_Taunt_B_04_L180.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardLeftBlend": {
+          "animationLength": 2.5,
+          "assetName": "Anim_CH_E_Horde_Taunt_B_04_Fwd_L",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts2.fbx",
+          "assetGUID": "0334010f7328d5341a711402457c91ce",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts2:Anim_CH_E_Horde_Taunt_B_04_Fwd_L.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardRightBlend": {
+          "animationLength": 2.5,
+          "assetName": "Anim_CH_E_Horde_Taunt_B_04_Fwd_R",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts2.fbx",
+          "assetGUID": "0334010f7328d5341a711402457c91ce",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts2:Anim_CH_E_Horde_Taunt_B_04_Fwd_R.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight180": {
+          "animationLength": 2.5,
+          "assetName": "Anim_CH_E_Horde_Taunt_B_04_R180",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts2.fbx",
+          "assetGUID": "0334010f7328d5341a711402457c91ce",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts2:Anim_CH_E_Horde_Taunt_B_04_R180.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationStartTimeFraction": 0.0,
+        "animationEndTimeFraction": 0.8,
+        "startMatchTargetTime": 0.05,
+        "endMatchTargetTime": 0.75,
+        "runCycleNormalizedStartTime": 0.0,
+        "runCycleNormalizedEndTime": 1.0,
+        "runCycleLocomotionStartAnchorTime": 0.0
+      }
+    ],
+    "id": 6,
+    "name": "Common Taunt Lunge Attack",
+    "category": ""
+  },
+  {
+    "animationDuration": 1.2,
+    "moveInDirectionDistance": 0.0,
+    "tauntAnimations": [
+      {
+        "animationDuration": 0.900000036,
+        "animationClipLeft180": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Taunts_L180_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts3.fbx",
+          "assetGUID": "0689d49fd8902a942ac45e2544fb2553",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts3:Anim_CH_E_Horde_Taunts_L180_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardLeftBlend": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Taunts_L45_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts3.fbx",
+          "assetGUID": "0689d49fd8902a942ac45e2544fb2553",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts3:Anim_CH_E_Horde_Taunts_L45_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardRightBlend": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Taunts_R45_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts3.fbx",
+          "assetGUID": "0689d49fd8902a942ac45e2544fb2553",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts3:Anim_CH_E_Horde_Taunts_R45_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight180": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Taunts_R180_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts3.fbx",
+          "assetGUID": "0689d49fd8902a942ac45e2544fb2553",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts3:Anim_CH_E_Horde_Taunts_R180_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationStartTimeFraction": 0.15,
+        "animationEndTimeFraction": 0.6,
+        "startMatchTargetTime": 0.16,
+        "endMatchTargetTime": 0.34,
+        "runCycleNormalizedStartTime": 0.0,
+        "runCycleNormalizedEndTime": 1.0,
+        "runCycleLocomotionStartAnchorTime": 0.0
+      },
+      {
+        "animationDuration": 0.900000036,
+        "animationClipLeft180": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Taunts_L180_B",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts3.fbx",
+          "assetGUID": "0689d49fd8902a942ac45e2544fb2553",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts3:Anim_CH_E_Horde_Taunts_L180_B.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardLeftBlend": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Taunts_L45_B",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts3.fbx",
+          "assetGUID": "0689d49fd8902a942ac45e2544fb2553",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts3:Anim_CH_E_Horde_Taunts_L45_B.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardRightBlend": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Taunts_R45_B",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts3.fbx",
+          "assetGUID": "0689d49fd8902a942ac45e2544fb2553",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts3:Anim_CH_E_Horde_Taunts_R45_B.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight180": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Taunts_R180_B",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts3.fbx",
+          "assetGUID": "0689d49fd8902a942ac45e2544fb2553",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts3:Anim_CH_E_Horde_Taunts_R180_B.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationStartTimeFraction": 0.15,
+        "animationEndTimeFraction": 0.6,
+        "startMatchTargetTime": 0.16,
+        "endMatchTargetTime": 0.34,
+        "runCycleNormalizedStartTime": 0.0,
+        "runCycleNormalizedEndTime": 1.0,
+        "runCycleLocomotionStartAnchorTime": 0.0
+      },
+      {
+        "animationDuration": 0.900000036,
+        "animationClipLeft180": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Taunts_L180_C",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts3.fbx",
+          "assetGUID": "0689d49fd8902a942ac45e2544fb2553",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts3:Anim_CH_E_Horde_Taunts_L180_C.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardLeftBlend": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Taunts_L45_C",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts3.fbx",
+          "assetGUID": "0689d49fd8902a942ac45e2544fb2553",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts3:Anim_CH_E_Horde_Taunts_L45_C.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardRightBlend": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Taunts_R45_C",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts3.fbx",
+          "assetGUID": "0689d49fd8902a942ac45e2544fb2553",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts3:Anim_CH_E_Horde_Taunts_R45_C.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight180": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Taunts_R180_C",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts3.fbx",
+          "assetGUID": "0689d49fd8902a942ac45e2544fb2553",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts3:Anim_CH_E_Horde_Taunts_R180_C.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationStartTimeFraction": 0.15,
+        "animationEndTimeFraction": 0.6,
+        "startMatchTargetTime": 0.24,
+        "endMatchTargetTime": 0.42,
+        "runCycleNormalizedStartTime": 0.0,
+        "runCycleNormalizedEndTime": 1.0,
+        "runCycleLocomotionStartAnchorTime": 0.0
+      },
+      {
+        "animationDuration": 0.900000036,
+        "animationClipLeft180": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Taunts_L180_D",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts3.fbx",
+          "assetGUID": "0689d49fd8902a942ac45e2544fb2553",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts3:Anim_CH_E_Horde_Taunts_L180_D.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardLeftBlend": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Taunts_L45_D",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts3.fbx",
+          "assetGUID": "0689d49fd8902a942ac45e2544fb2553",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts3:Anim_CH_E_Horde_Taunts_L45_D.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardRightBlend": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Taunts_R45_D",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts3.fbx",
+          "assetGUID": "0689d49fd8902a942ac45e2544fb2553",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts3:Anim_CH_E_Horde_Taunts_R45_D.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight180": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Taunts_R180_D",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts3.fbx",
+          "assetGUID": "0689d49fd8902a942ac45e2544fb2553",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Taunts3:Anim_CH_E_Horde_Taunts_R180_D.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationStartTimeFraction": 0.15,
+        "animationEndTimeFraction": 0.6,
+        "startMatchTargetTime": 0.24,
+        "endMatchTargetTime": 0.42,
+        "runCycleNormalizedStartTime": 0.0,
+        "runCycleNormalizedEndTime": 1.0,
+        "runCycleLocomotionStartAnchorTime": 0.0
+      }
+    ],
+    "id": 7,
+    "name": "Common Taunt Lunge Mocap Test",
+    "category": ""
+  },
+  {
+    "animationDuration": 1.9,
+    "moveInDirectionDistance": 2.21,
+    "tauntAnimations": [
+      {
+        "animationDuration": 2.13333344,
+        "animationClipLeft180": {
+          "animationLength": 2.66667175,
+          "assetName": "Anim_CH_E_Charger_Taunt_Lt180",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Charger.fbx",
+          "assetGUID": "757657d8ee012e649a5c8d56ebadc5bf",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Charger:Anim_CH_E_Charger_Taunt_Lt180.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardLeftBlend": {
+          "animationLength": 2.666667,
+          "assetName": "Anim_CH_E_Charger_Taunt_Fwd",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Charger.fbx",
+          "assetGUID": "757657d8ee012e649a5c8d56ebadc5bf",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Charger:Anim_CH_E_Charger_Taunt_Fwd.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardRightBlend": {
+          "animationLength": 2.666667,
+          "assetName": "Anim_CH_E_Charger_Taunt_Fwd",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Charger.fbx",
+          "assetGUID": "757657d8ee012e649a5c8d56ebadc5bf",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Charger:Anim_CH_E_Charger_Taunt_Fwd.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight180": {
+          "animationLength": 2.66667175,
+          "assetName": "Anim_CH_E_Charger_Taunt_Rt180",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Charger.fbx",
+          "assetGUID": "757657d8ee012e649a5c8d56ebadc5bf",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Charger:Anim_CH_E_Charger_Taunt_Rt180.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationStartTimeFraction": 0.1,
+        "animationEndTimeFraction": 0.9,
+        "startMatchTargetTime": 0.68,
+        "endMatchTargetTime": 0.94,
+        "runCycleNormalizedStartTime": 0.0,
+        "runCycleNormalizedEndTime": 1.0,
+        "runCycleLocomotionStartAnchorTime": 0.25
+      }
+    ],
+    "id": 8,
+    "name": "Charger Taunt",
+    "category": ""
+  },
+  {
+    "animationDuration": 2.167,
+    "moveInDirectionDistance": 0.0,
+    "tauntAnimations": [
+      {
+        "animationDuration": 3.33334947,
+        "animationClipLeft180": {
+          "animationLength": 4.166687,
+          "assetName": "Anim_CH_E_Gunner_Taunt_Lt180",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Gunner.fbx",
+          "assetGUID": "d35f070f4d4f530469979f4ba6f37369",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Gunner:Anim_CH_E_Gunner_Taunt_Lt180.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardLeftBlend": {
+          "animationLength": 4.166687,
+          "assetName": "Anim_CH_E_Gunner_Taunt_Fwd",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Gunner.fbx",
+          "assetGUID": "d35f070f4d4f530469979f4ba6f37369",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Gunner:Anim_CH_E_Gunner_Taunt_Fwd.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipForwardRightBlend": {
+          "animationLength": 4.166687,
+          "assetName": "Anim_CH_E_Gunner_Taunt_Fwd",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Gunner.fbx",
+          "assetGUID": "d35f070f4d4f530469979f4ba6f37369",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Gunner:Anim_CH_E_Gunner_Taunt_Fwd.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight180": {
+          "animationLength": 4.166687,
+          "assetName": "Anim_CH_E_Gunner_Taunt_Rt180",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Gunner.fbx",
+          "assetGUID": "d35f070f4d4f530469979f4ba6f37369",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Gunner:Anim_CH_E_Gunner_Taunt_Rt180.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationStartTimeFraction": 0.1,
+        "animationEndTimeFraction": 0.9,
+        "startMatchTargetTime": 0.45,
+        "endMatchTargetTime": 0.6,
+        "runCycleNormalizedStartTime": 0.0,
+        "runCycleNormalizedEndTime": 0.0,
+        "runCycleLocomotionStartAnchorTime": 0.0
+      }
+    ],
+    "id": 9,
+    "name": "Gunner Taunt",
+    "category": ""
+  }
+]
+}

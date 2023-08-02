@@ -1,0 +1,29 @@
+{
+  "TableId": 188,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "poolSize": 30,
+    "allowedSkins": [
+      0
+    ],
+    "minZombieSizeMultiplier": 0.9,
+    "maxZombieSizeMultiplier": 1.1,
+    "behaviourTreeType": 0,
+    "movementSpeedRange": {
+      "rangeStart": 0.3,
+      "rangeEnd": 0.8
+    },
+    "wanderCooldownTime": {
+      "rangeStart": 5.0,
+      "rangeEnd": 8.0
+    },
+    "animationCollection": 0,
+    "despawnAfterSeconds": 20.0,
+    "voiceAudio": 0,
+    "id": 0,
+    "name": "BackgroundCommon",
+    "category": ""
+  }
+]
+}

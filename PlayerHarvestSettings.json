@@ -1,0 +1,63 @@
+{
+  "TableId": 162,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "firstTimeStartHarvest": 5000,
+    "maxLevelHarvestEarned": 500000.0,
+    "harvestDamageMultiplier": 0.01,
+    "advancedReloadingHarvestDamageMultiplierIncreasePercentage": 0,
+    "bodyPartHarvestSettings": [
+      {
+        "bodyPart": 0,
+        "bodyPartHarvestMultiplier": 1.0
+      },
+      {
+        "bodyPart": 1,
+        "bodyPartHarvestMultiplier": 1.0
+      },
+      {
+        "bodyPart": 2,
+        "bodyPartHarvestMultiplier": 1.0
+      },
+      {
+        "bodyPart": 3,
+        "bodyPartHarvestMultiplier": 1.0
+      },
+      {
+        "bodyPart": 4,
+        "bodyPartHarvestMultiplier": 1.0
+      },
+      {
+        "bodyPart": 5,
+        "bodyPartHarvestMultiplier": 4.0
+      },
+      {
+        "bodyPart": 6,
+        "bodyPartHarvestMultiplier": 1.0
+      }
+    ],
+    "sprawlWeakpointHarvestAmount": 5,
+    "lootPinataHarvestAmount": 10,
+    "noFreezeBonusMultiplier": 25,
+    "noDamageBonusMultiplier": 50,
+    "realPlayerBonusMultiplierIncrease": 10,
+    "accuracyBonusMultiplierPercentage": 50,
+    "minimumAccuracyPercentageForAccuracyBonus": 40,
+    "timeMultHarvestBonus": 400,
+    "loseCurrentHarvestOnMissionFailed": false,
+    "percentageLostOnMissionFailed": 0.0,
+    "loseCurrentHarvestOnDisconnect": false,
+    "percentageLostOnDisconnect": 0.0,
+    "loseCurrentHarvestOnDisconnectSafeHouse": false,
+    "percentageLostOnDisconnectSafeHouse": 0.0,
+    "loseCurrentHarvestOnDisconnectWhileFrozen": false,
+    "percentageLostOnDisconnectFrozen": 0.0,
+    "baseHarvestInRank": 3000,
+    "rankHarvestExponent": 1.5,
+    "id": 0,
+    "name": "name",
+    "category": ""
+  }
+]
+}

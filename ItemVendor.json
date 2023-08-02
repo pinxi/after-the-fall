@@ -1,0 +1,154 @@
+{
+  "TableId": 143,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "renderTextureResolution": {
+      "x": 800,
+      "y": 600
+    },
+    "rerollCost": 5000,
+    "rerollAmount": 1,
+    "lockedItemIcon": {
+      "assetName": "T_Stop_Icon",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/T_Stop_Icon.png",
+      "assetGUID": "7e90bb29dd908794584aeba700448b06",
+      "resourcePath": "T_Stop_Icon:T_Stop_Icon.Sprite",
+      "isSubAsset": true
+    },
+    "defaultMaxPurchaseCountPerItem": 1,
+    "overrideMaxPurchaseCountPerGameMode": [
+      {
+        "gameMode": 4,
+        "maxPurchaseCountPerItem": 1
+      }
+    ],
+    "lootboxResourceType": 20,
+    "provideEachPlayerWithLootboxOnInsert": true,
+    "discountOnPriceAlreadyUnlockedLootboxItem": 0.25,
+    "focusedLightIntensity": 1.0,
+    "dimmedLightIntensity": 0.0,
+    "attentionSequenceTimePerLight": 0.5,
+    "attentionSequence": [
+      2,
+      32,
+      8
+    ],
+    "vendorGunInsertedAndInRangeLightColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    "vendorGunEjectedOrOutOfRangeLightColor": {
+      "color4": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    "weaponDoorFullyOpenedColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    "weaponDoorOpeningColor": {
+      "color4": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    "readyUpButtonReadyColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    "readyUpButtonUnreadyColor": {
+      "color4": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    "makeGunUIColorBasedOnAmmoType": true,
+    "defaultUIButtonColor": {
+      "color4": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.1647,
+        "w": 1.0
+      }
+    },
+    "powerSwitchTweenTime": 3.0,
+    "renderTextureShaderProperty": "_ScreenTest",
+    "albedoArray": "_AlbedoArray",
+    "screenNeonLightIntensityShaderProperty": "_Light1Intensity",
+    "screenNeonLightColorShaderProperty": "_Light1Color",
+    "trayNeonLightIntensityShaderProperty": "_Light2Intensity",
+    "trayNeonLightColorShaderProperty": "_Light2Color",
+    "doorSidePanelNeonLightIntensityShaderProperty": "_Light3Intensity",
+    "doorSidePanelNeonLightColorShaderProperty": "_Light3Color",
+    "doorNeonLightIntensityShaderProperty": "_Light4Intensity",
+    "doorNeonLightColorShaderProperty": "_Light4Color",
+    "vendorGunNeonLightIntensityShaderProperty": "_Light5Intensity",
+    "vendorGunNeonLightColorShaderProperty": "_Light5Color",
+    "juiceHoseAmountShaderProperty": "_JuiceAmount",
+    "generatorIntensityShaderProperty": "_GeneratorIntensity",
+    "purchaseSuccessAudio": {
+      "eventPath": "event:/ATF_PC/Interaction/Weapon_locker/Weapon_locker_ui_purchase",
+      "eventGuid": "13933c6f-ddfc-4cf1-b5fd-93ac4c2734fc",
+      "parameterSettings": []
+    },
+    "doorOpenAudio": {
+      "eventPath": "event:/ATF_PC/Interaction/Weapon_locker/Weapon_locker_open_weapon",
+      "eventGuid": "c60a774a-60d4-466d-9146-c70edf6956db",
+      "parameterSettings": []
+    },
+    "doorClosingAudio": {
+      "eventPath": "event:/ATF_PC/Interaction/Weapon_locker/Weapon_locker_close_weapon",
+      "eventGuid": "48c7a723-5497-4639-9f20-f651b1150916",
+      "parameterSettings": []
+    },
+    "trayOpenAudio": {
+      "eventPath": "event:/ATF_PC/Interaction/Weapon_locker/Weapon_locker_open_item",
+      "eventGuid": "2686a377-7f01-45a1-b396-ebc6c6d59895",
+      "parameterSettings": []
+    },
+    "trayclosingAudio": {
+      "eventPath": "event:/ATF_PC/Interaction/Weapon_locker/Weapon_locker_close_item",
+      "eventGuid": "2477bd84-0809-47c6-867c-75cb8eff1fc8",
+      "parameterSettings": []
+    },
+    "musicAudio": {
+      "eventPath": "event:/ATF_PC/Interaction/Weapon_locker/Weapon_locker_idle",
+      "eventGuid": "7a88e74b-2fff-4590-a3bb-49b713ce1df0",
+      "parameterSettings": []
+    },
+    "uiElementClicked": {
+      "eventPath": "event:/ATF_PC/Interaction/Weapon_locker/Weapon_locker_ui_cycle",
+      "eventGuid": "adb43296-c510-4873-9298-aff64f11a878",
+      "parameterSettings": []
+    },
+    "uiElementSelected": {
+      "eventPath": "event:/ATF_PC/Interaction/Weapon_locker/Weapon_locker_ui_select",
+      "eventGuid": "8f7c7083-4f2b-4d70-a2a2-5e047e1a557e",
+      "parameterSettings": []
+    },
+    "id": 0,
+    "name": "name",
+    "category": ""
+  }
+]
+}

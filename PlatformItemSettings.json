@@ -1,0 +1,114 @@
+{
+  "TableId": 50018,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "localizationKey": "",
+    "itemIds": [
+      {
+        "platform": 0,
+        "id": ""
+      },
+      {
+        "platform": 1,
+        "id": ""
+      },
+      {
+        "platform": 2,
+        "id": ""
+      },
+      {
+        "platform": 3,
+        "id": ""
+      },
+      {
+        "platform": 4,
+        "id": ""
+      },
+      {
+        "platform": 5,
+        "id": ""
+      },
+      {
+        "platform": 6,
+        "id": ""
+      }
+    ],
+    "id": 0,
+    "name": "DeluxeEdition",
+    "category": ""
+  },
+  {
+    "localizationKey": "SKIN_SUNSHINE_SUBTITLE",
+    "itemIds": [
+      {
+        "platform": 0,
+        "id": ""
+      },
+      {
+        "platform": 1,
+        "id": "457599"
+      },
+      {
+        "platform": 2,
+        "id": "after_the_fall_arizonasunshine"
+      },
+      {
+        "platform": 3,
+        "id": ""
+      },
+      {
+        "platform": 4,
+        "id": ""
+      },
+      {
+        "platform": 5,
+        "id": ""
+      },
+      {
+        "platform": 6,
+        "id": ""
+      }
+    ],
+    "id": 1,
+    "name": "ArizonaDeluxeEdition",
+    "category": ""
+  },
+  {
+    "localizationKey": "SKIN_UNCLEBOB_SUBTITLE",
+    "itemIds": [
+      {
+        "platform": 1,
+        "id": ""
+      }
+    ],
+    "id": 2,
+    "name": "DeluxeEditionSteam",
+    "category": ""
+  },
+  {
+    "localizationKey": "SKIN_FUTURE_SUBTITLE",
+    "itemIds": [
+      {
+        "platform": 2,
+        "id": ""
+      }
+    ],
+    "id": 3,
+    "name": "DeluxeEditionOculus",
+    "category": ""
+  },
+  {
+    "localizationKey": "SKIN_BUSTER_SUBTITLE",
+    "itemIds": [
+      {
+        "platform": 4,
+        "id": ""
+      }
+    ],
+    "id": 4,
+    "name": "DeluxeEditionPS4",
+    "category": ""
+  }
+]
+}

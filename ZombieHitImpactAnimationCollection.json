@@ -1,0 +1,1691 @@
+{
+  "TableId": 195,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "canDoGenericHitAnimation": true,
+    "impactSetups": [
+      {
+        "name": "Head (Neck)",
+        "boneIds": [
+          5
+        ],
+        "overrideAngleBone": true,
+        "overrideAngleBoneId": 4,
+        "normal": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "hitAngles": [
+          {
+            "directionAngle": 0.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Head_Back",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Head_Back.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 90.0,
+            "animationClip": {
+              "animationLength": 0.833333433,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Head_Left",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Head_Left.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 180.0,
+            "animationClip": {
+              "animationLength": 0.9,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Head_Front",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Head_Front.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 270.0,
+            "animationClip": {
+              "animationLength": 0.833333433,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Head_Right",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Head_Right.AnimationClip",
+              "isSubAsset": true
+            }
+          }
+        ]
+      },
+      {
+        "name": "Left Shoulder (Arm Upper Left)",
+        "boneIds": [
+          6
+        ],
+        "overrideAngleBone": true,
+        "overrideAngleBoneId": 18,
+        "normal": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "hitAngles": [
+          {
+            "directionAngle": 0.0,
+            "animationClip": {
+              "animationLength": 0.8000002,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Torso_Front_RD_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Torso_Front_RD_L.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 90.0,
+            "animationClip": {
+              "animationLength": 0.800000668,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Torso_Front_CU_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Torso_Front_CU_L.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 180.0,
+            "animationClip": {
+              "animationLength": 0.8000004,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Torso_Front_RU_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Torso_Front_RU_L.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 270.0,
+            "animationClip": {
+              "animationLength": 0.800000668,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Torso_Front_CU_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Torso_Front_CU_R.AnimationClip",
+              "isSubAsset": true
+            }
+          }
+        ]
+      },
+      {
+        "name": "Arm Left",
+        "boneIds": [
+          7,
+          8
+        ],
+        "overrideAngleBone": false,
+        "overrideAngleBoneId": 0,
+        "normal": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "hitAngles": [
+          {
+            "directionAngle": 0.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Arms_BackToFront_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Arms_BackToFront_L.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 90.0,
+            "animationClip": {
+              "animationLength": 0.8000002,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Arms_TopToBottom_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Arms_TopToBottom_L.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 180.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Arms_FrontToBack_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Arms_FrontToBack_L.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 270.0,
+            "animationClip": {
+              "animationLength": 0.8000002,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Arms_BottomToTop_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Arms_BottomToTop_L.AnimationClip",
+              "isSubAsset": true
+            }
+          }
+        ]
+      },
+      {
+        "name": "Right Shoulder (Arm Upper Right)",
+        "boneIds": [
+          9
+        ],
+        "overrideAngleBone": true,
+        "overrideAngleBoneId": 9,
+        "normal": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "hitAngles": [
+          {
+            "directionAngle": 0.0,
+            "animationClip": {
+              "animationLength": 0.8000002,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Torso_Front_RD_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Torso_Front_RD_R.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 90.0,
+            "animationClip": {
+              "animationLength": 0.800000668,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Torso_Front_CU_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Torso_Front_CU_L.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 180.0,
+            "animationClip": {
+              "animationLength": 0.8000004,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Torso_Front_RU_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Torso_Front_RU_R.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 270.0,
+            "animationClip": {
+              "animationLength": 0.800000668,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Torso_Front_CU_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Torso_Front_CU_R.AnimationClip",
+              "isSubAsset": true
+            }
+          }
+        ]
+      },
+      {
+        "name": "Arm Right",
+        "boneIds": [
+          10,
+          11
+        ],
+        "overrideAngleBone": false,
+        "overrideAngleBoneId": 0,
+        "normal": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "hitAngles": [
+          {
+            "directionAngle": 0.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Arms_BackToFront_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Arms_BackToFront_R.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 90.0,
+            "animationClip": {
+              "animationLength": 0.8000002,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Arms_TopToBottom_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Arms_TopToBottom_R.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 180.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Arms_FrontToBack_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Arms_FrontToBack_R.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 270.0,
+            "animationClip": {
+              "animationLength": 0.8000002,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Arms_BottomToTop_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Arms_BottomToTop_R.AnimationClip",
+              "isSubAsset": true
+            }
+          }
+        ]
+      },
+      {
+        "name": "Leg Left",
+        "boneIds": [
+          12,
+          13,
+          14
+        ],
+        "overrideAngleBone": false,
+        "overrideAngleBoneId": 0,
+        "normal": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "hitAngles": [
+          {
+            "directionAngle": 0.0,
+            "animationClip": {
+              "animationLength": 0.76666677,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Legs_BackToFront_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Legs_BackToFront_L.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 90.0,
+            "animationClip": {
+              "animationLength": 0.8000002,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Legs_RightToLeft_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Legs_RightToLeft_L.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 180.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Legs_FrontToBack_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Legs_FrontToBack_L.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 270.0,
+            "animationClip": {
+              "animationLength": 0.8333335,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Legs_LeftToRight_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Legs_LeftToRight_L.AnimationClip",
+              "isSubAsset": true
+            }
+          }
+        ]
+      },
+      {
+        "name": "Leg Right",
+        "boneIds": [
+          15,
+          16,
+          17
+        ],
+        "overrideAngleBone": false,
+        "overrideAngleBoneId": 0,
+        "normal": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "hitAngles": [
+          {
+            "directionAngle": 0.0,
+            "animationClip": {
+              "animationLength": 0.76666677,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Legs_BackToFront_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Legs_BackToFront_R.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 90.0,
+            "animationClip": {
+              "animationLength": 0.8333335,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Legs_LeftToRight_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Legs_LeftToRight_R.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 180.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Legs_FrontToBack_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Legs_FrontToBack_R.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 270.0,
+            "animationClip": {
+              "animationLength": 0.8000002,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Legs_RightToLeft_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Legs_RightToLeft_R.AnimationClip",
+              "isSubAsset": true
+            }
+          }
+        ]
+      },
+      {
+        "name": "Torso Upper",
+        "boneIds": [
+          3
+        ],
+        "overrideAngleBone": false,
+        "overrideAngleBoneId": 0,
+        "normal": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "hitAngles": [
+          {
+            "directionAngle": 0.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Torso_Front_CD",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Torso_Front_CD.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 90.0,
+            "animationClip": {
+              "animationLength": 0.800000668,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Torso_Front_CU_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Torso_Front_CU_L.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 180.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Torso_Front_CU",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Torso_Front_CU.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 270.0,
+            "animationClip": {
+              "animationLength": 0.800000668,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Torso_Front_CU_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Torso_Front_CU_R.AnimationClip",
+              "isSubAsset": true
+            }
+          }
+        ]
+      },
+      {
+        "name": "Torso Lower",
+        "boneIds": [
+          1,
+          2
+        ],
+        "overrideAngleBone": false,
+        "overrideAngleBoneId": 0,
+        "normal": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "hitAngles": [
+          {
+            "directionAngle": 0.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Torso_Front_CU",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Torso_Front_CU.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 90.0,
+            "animationClip": {
+              "animationLength": 0.800000668,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Torso_Front_CU_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Torso_Front_CU_R.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 180.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Torso_Front_CD",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Torso_Front_CD.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 270.0,
+            "animationClip": {
+              "animationLength": 0.800000668,
+              "assetName": "Anim_CH_E_Horde_HitImpact_Torso_Front_CU_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts.fbx",
+              "assetGUID": "799eedb5e511dbd499d18c1699364c2c",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_HitImpacts:Anim_CH_E_Horde_HitImpact_Torso_Front_CU_L.AnimationClip",
+              "isSubAsset": true
+            }
+          }
+        ]
+      }
+    ],
+    "id": 0,
+    "name": "Generic Humanoid Impacts",
+    "category": ""
+  },
+  {
+    "canDoGenericHitAnimation": true,
+    "impactSetups": [
+      {
+        "name": "Head (Neck)",
+        "boneIds": [],
+        "overrideAngleBone": true,
+        "overrideAngleBoneId": 0,
+        "normal": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "hitAngles": [
+          {
+            "directionAngle": 0.0,
+            "animationClip": {
+              "animationLength": 0.6666667,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Head_Back",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Head_Back.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 90.0,
+            "animationClip": {
+              "animationLength": 0.800000668,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Head_Left",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Head_Left.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 180.0,
+            "animationClip": {
+              "animationLength": 0.6666667,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Head_Frontal",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Head_Frontal.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 270.0,
+            "animationClip": {
+              "animationLength": 0.800000668,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Head_Right",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Head_Right.AnimationClip",
+              "isSubAsset": true
+            }
+          }
+        ]
+      },
+      {
+        "name": "Arm Left",
+        "boneIds": [],
+        "overrideAngleBone": false,
+        "overrideAngleBoneId": 0,
+        "normal": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "hitAngles": [
+          {
+            "directionAngle": 0.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Arm_L_Back",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Arm_L_Back.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 90.0,
+            "animationClip": {
+              "animationLength": 0.8000002,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Arm_L_Top",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Arm_L_Top.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 180.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Arm_L_Front",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Arm_L_Front.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 270.0,
+            "animationClip": {
+              "animationLength": 0.8000002,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Arm_L_Bottom",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Arm_L_Bottom.AnimationClip",
+              "isSubAsset": true
+            }
+          }
+        ]
+      },
+      {
+        "name": "Right Shoulder (Arm Upper Right)",
+        "boneIds": [],
+        "overrideAngleBone": true,
+        "overrideAngleBoneId": 0,
+        "normal": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "hitAngles": [
+          {
+            "directionAngle": 0.0,
+            "animationClip": {
+              "animationLength": 0.8000002,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Torso_RightShoulder_Back",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Torso_RightShoulder_Back.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 90.0,
+            "animationClip": {
+              "animationLength": 0.800000668,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Head_Left",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Head_Left.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 180.0,
+            "animationClip": {
+              "animationLength": 0.8000002,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Torso_RightShoulder_Front",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Torso_RightShoulder_Front.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 270.0,
+            "animationClip": {
+              "animationLength": 0.800000668,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Head_Right",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Head_Right.AnimationClip",
+              "isSubAsset": true
+            }
+          }
+        ]
+      },
+      {
+        "name": "Leg Left",
+        "boneIds": [],
+        "overrideAngleBone": false,
+        "overrideAngleBoneId": 0,
+        "normal": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "hitAngles": [
+          {
+            "directionAngle": 0.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Legs_BackToFront_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Legs_BackToFront_L.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 90.0,
+            "animationClip": {
+              "animationLength": 0.8000002,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Legs_RightToLeft_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Legs_RightToLeft_L.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 180.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Legs_FrontToBack_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Legs_FrontToBack_L.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 270.0,
+            "animationClip": {
+              "animationLength": 0.8000002,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Legs_LeftToRight_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Legs_LeftToRight_L.AnimationClip",
+              "isSubAsset": true
+            }
+          }
+        ]
+      },
+      {
+        "name": "Leg Right",
+        "boneIds": [],
+        "overrideAngleBone": false,
+        "overrideAngleBoneId": 0,
+        "normal": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "hitAngles": [
+          {
+            "directionAngle": 0.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Legs_BackToFront_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Legs_BackToFront_R.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 90.0,
+            "animationClip": {
+              "animationLength": 0.8000002,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Legs_LeftToRight_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Legs_LeftToRight_R.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 180.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Legs_FrontToBack_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Legs_FrontToBack_R.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 270.0,
+            "animationClip": {
+              "animationLength": 0.8000002,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Legs_RightToLeft_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Legs_RightToLeft_R.AnimationClip",
+              "isSubAsset": true
+            }
+          }
+        ]
+      },
+      {
+        "name": "Torso Upper",
+        "boneIds": [],
+        "overrideAngleBone": false,
+        "overrideAngleBoneId": 0,
+        "normal": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "hitAngles": [
+          {
+            "directionAngle": 0.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Torso_Chest",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Torso_Chest.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 90.0,
+            "animationClip": {
+              "animationLength": 0.800000668,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Head_Left",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Head_Left.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 180.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Torso_Chest",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Torso_Chest.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 270.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Torso_Stomach",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Torso_Stomach.AnimationClip",
+              "isSubAsset": true
+            }
+          }
+        ]
+      },
+      {
+        "name": "Torso Lower",
+        "boneIds": [],
+        "overrideAngleBone": false,
+        "overrideAngleBoneId": 0,
+        "normal": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "hitAngles": [
+          {
+            "directionAngle": 0.0,
+            "animationClip": {
+              "animationLength": 0.6333334,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_LowerBack",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_LowerBack.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 90.0,
+            "animationClip": {
+              "animationLength": 0.800000668,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Head_Right",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Head_Right.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 180.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Torso_Stomach",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Torso_Stomach.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 270.0,
+            "animationClip": {
+              "animationLength": 0.800000668,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Head_Left",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Head_Left.AnimationClip",
+              "isSubAsset": true
+            }
+          }
+        ]
+      },
+      {
+        "name": "Arm Right",
+        "boneIds": [],
+        "overrideAngleBone": false,
+        "overrideAngleBoneId": 0,
+        "normal": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "hitAngles": [
+          {
+            "directionAngle": 0.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Arm_R_Back",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Arm_R_Back.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 90.0,
+            "animationClip": {
+              "animationLength": 0.8000002,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Arm_R_Top",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Arm_R_Top.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 180.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Arm_R_Front",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Arm_R_Front.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 270.0,
+            "animationClip": {
+              "animationLength": 0.8000002,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Arm_R_Bottom",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Arm_R_Bottom.AnimationClip",
+              "isSubAsset": true
+            }
+          }
+        ]
+      },
+      {
+        "name": "Left Shoulder (Arm Upper Left)",
+        "boneIds": [],
+        "overrideAngleBone": true,
+        "overrideAngleBoneId": 0,
+        "normal": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "hitAngles": [
+          {
+            "directionAngle": 0.0,
+            "animationClip": {
+              "animationLength": 0.8000002,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Torso_Front_RD_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Torso_Front_RD_L.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 90.0,
+            "animationClip": {
+              "animationLength": 0.8000002,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Torso_Right_CU_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Torso_Right_CU_L.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 180.0,
+            "animationClip": {
+              "animationLength": 0.8000004,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Torso_Front_RU_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Torso_Front_RU_L.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 270.0,
+            "animationClip": {
+              "animationLength": 0.800000668,
+              "assetName": "Anim_CH_E_Smasher_HitImpact_Torso_Right_CU_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts.fbx",
+              "assetGUID": "5b4098bfc6ee9054282fc743e5c5c006",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_HitImpacts:Anim_CH_E_Smasher_HitImpact_Torso_Right_CU_R.AnimationClip",
+              "isSubAsset": true
+            }
+          }
+        ]
+      }
+    ],
+    "id": 2,
+    "name": "Smasher Impacts",
+    "category": ""
+  },
+  {
+    "canDoGenericHitAnimation": true,
+    "impactSetups": [
+      {
+        "name": "Head (Neck)",
+        "boneIds": [],
+        "overrideAngleBone": true,
+        "overrideAngleBoneId": 0,
+        "normal": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "hitAngles": [
+          {
+            "directionAngle": 0.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Head_Back",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Head_Back.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 90.0,
+            "animationClip": {
+              "animationLength": 0.833333433,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Head_Left",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Head_Left.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 180.0,
+            "animationClip": {
+              "animationLength": 1.66666663,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Head_Front",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Head_Front.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 270.0,
+            "animationClip": {
+              "animationLength": 0.833333433,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Head_Right",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Head_Right.AnimationClip",
+              "isSubAsset": true
+            }
+          }
+        ]
+      },
+      {
+        "name": "Left Shoulder (Arm Upper Left)",
+        "boneIds": [],
+        "overrideAngleBone": true,
+        "overrideAngleBoneId": 0,
+        "normal": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "hitAngles": [
+          {
+            "directionAngle": 0.0,
+            "animationClip": {
+              "animationLength": 0.8000002,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Torso_Front_RD_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Torso_Front_RD_L.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 90.0,
+            "animationClip": {
+              "animationLength": 0.800000668,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Torso_Front_CU_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Torso_Front_CU_L.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 180.0,
+            "animationClip": {
+              "animationLength": 0.8000004,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Torso_Front_RU_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Torso_Front_RU_L.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 270.0,
+            "animationClip": {
+              "animationLength": 0.800000668,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Torso_Front_CU_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Torso_Front_CU_R.AnimationClip",
+              "isSubAsset": true
+            }
+          }
+        ]
+      },
+      {
+        "name": "Arm Left",
+        "boneIds": [],
+        "overrideAngleBone": false,
+        "overrideAngleBoneId": 0,
+        "normal": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "hitAngles": [
+          {
+            "directionAngle": 0.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Arms_BackToFront_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Arms_BackToFront_L.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 90.0,
+            "animationClip": {
+              "animationLength": 0.8000002,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Arms_TopToBottom_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Arms_TopToBottom_L.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 180.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Arms_FrontToBack_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Arms_FrontToBack_L.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 270.0,
+            "animationClip": {
+              "animationLength": 0.8000002,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Arms_BottomToTop_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Arms_BottomToTop_L.AnimationClip",
+              "isSubAsset": true
+            }
+          }
+        ]
+      },
+      {
+        "name": "Right Shoulder (Arm Upper Right)",
+        "boneIds": [],
+        "overrideAngleBone": true,
+        "overrideAngleBoneId": 0,
+        "normal": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "hitAngles": [
+          {
+            "directionAngle": 0.0,
+            "animationClip": {
+              "animationLength": 0.8000002,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Torso_Front_RD_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Torso_Front_RD_R.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 90.0,
+            "animationClip": {
+              "animationLength": 0.800000668,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Torso_Front_CU_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Torso_Front_CU_L.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 180.0,
+            "animationClip": {
+              "animationLength": 0.8000004,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Torso_Front_RU_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Torso_Front_RU_R.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 270.0,
+            "animationClip": {
+              "animationLength": 0.800000668,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Torso_Front_CU_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Torso_Front_CU_R.AnimationClip",
+              "isSubAsset": true
+            }
+          }
+        ]
+      },
+      {
+        "name": "Arm Right",
+        "boneIds": [],
+        "overrideAngleBone": false,
+        "overrideAngleBoneId": 0,
+        "normal": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "hitAngles": [
+          {
+            "directionAngle": 0.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Arms_BackToFront_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Arms_BackToFront_R.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 90.0,
+            "animationClip": {
+              "animationLength": 0.8000002,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Arms_TopToBottom_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Arms_TopToBottom_R.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 180.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Arms_FrontToBack_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Arms_FrontToBack_R.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 270.0,
+            "animationClip": {
+              "animationLength": 0.8000002,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Arms_BottomToTop_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Arms_BottomToTop_R.AnimationClip",
+              "isSubAsset": true
+            }
+          }
+        ]
+      },
+      {
+        "name": "Leg Left",
+        "boneIds": [],
+        "overrideAngleBone": false,
+        "overrideAngleBoneId": 0,
+        "normal": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "hitAngles": [
+          {
+            "directionAngle": 0.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Legs_BackToFront_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Legs_BackToFront_L.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 90.0,
+            "animationClip": {
+              "animationLength": 0.8000002,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Legs_RightToLeft_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Legs_RightToLeft_L.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 180.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Legs_FrontToBack_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Legs_FrontToBack_L.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 270.0,
+            "animationClip": {
+              "animationLength": 0.8333335,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Legs_LeftToRight_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Legs_LeftToRight_L.AnimationClip",
+              "isSubAsset": true
+            }
+          }
+        ]
+      },
+      {
+        "name": "Leg Right",
+        "boneIds": [],
+        "overrideAngleBone": false,
+        "overrideAngleBoneId": 0,
+        "normal": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "hitAngles": [
+          {
+            "directionAngle": 0.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Legs_BackToFront_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Legs_BackToFront_R.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 90.0,
+            "animationClip": {
+              "animationLength": 0.8333335,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Legs_LeftToRight_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Legs_LeftToRight_R.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 180.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Legs_FrontToBack_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Legs_FrontToBack_R.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 270.0,
+            "animationClip": {
+              "animationLength": 0.8000002,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Legs_RightToLeft_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Legs_RightToLeft_R.AnimationClip",
+              "isSubAsset": true
+            }
+          }
+        ]
+      },
+      {
+        "name": "Torso Upper",
+        "boneIds": [],
+        "overrideAngleBone": false,
+        "overrideAngleBoneId": 0,
+        "normal": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "hitAngles": [
+          {
+            "directionAngle": 0.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Torso_Front_CD",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Torso_Front_CD.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 90.0,
+            "animationClip": {
+              "animationLength": 0.800000668,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Torso_Front_CU_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Torso_Front_CU_L.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 180.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Torso_Front_CU",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Torso_Front_CU.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 270.0,
+            "animationClip": {
+              "animationLength": 0.800000668,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Torso_Front_CU_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Torso_Front_CU_R.AnimationClip",
+              "isSubAsset": true
+            }
+          }
+        ]
+      },
+      {
+        "name": "Torso Lower",
+        "boneIds": [],
+        "overrideAngleBone": false,
+        "overrideAngleBoneId": 0,
+        "normal": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "hitAngles": [
+          {
+            "directionAngle": 0.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Torso_Front_CU",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Torso_Front_CU.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 90.0,
+            "animationClip": {
+              "animationLength": 0.800000668,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Torso_Front_CU_R",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Torso_Front_CU_R.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 180.0,
+            "animationClip": {
+              "animationLength": 0.8000001,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Torso_Front_CD",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Torso_Front_CD.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 270.0,
+            "animationClip": {
+              "animationLength": 0.800000668,
+              "assetName": "Anim_CH_E_Eater_HitImpact_Torso_Front_CU_L",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts.fbx",
+              "assetGUID": "a040ee294ad55e0438436a5ae3c46876",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_HitImpacts:Anim_CH_E_Eater_HitImpact_Torso_Front_CU_L.AnimationClip",
+              "isSubAsset": true
+            }
+          }
+        ]
+      }
+    ],
+    "id": 4,
+    "name": "Eater Impacts",
+    "category": ""
+  },
+  {
+    "canDoGenericHitAnimation": false,
+    "impactSetups": [
+      {
+        "name": "Hips",
+        "boneIds": [
+          1
+        ],
+        "overrideAngleBone": false,
+        "overrideAngleBoneId": 1,
+        "normal": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "hitAngles": [
+          {
+            "directionAngle": 0.0,
+            "animationClip": {
+              "animationLength": 0.8333334,
+              "assetName": "Anim_CH_E_Crawler_HitImpact_Fwd",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Crawler.fbx",
+              "assetGUID": "7cbd236bf477b3a44ae599d1f7428f10",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Crawler:Anim_CH_E_Crawler_HitImpact_Fwd.AnimationClip",
+              "isSubAsset": true
+            }
+          }
+        ]
+      }
+    ],
+    "id": 5,
+    "name": "Crawler Impacts",
+    "category": ""
+  },
+  {
+    "canDoGenericHitAnimation": true,
+    "impactSetups": [
+      {
+        "name": "Head (Neck)",
+        "boneIds": [
+          5
+        ],
+        "overrideAngleBone": true,
+        "overrideAngleBoneId": 4,
+        "normal": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "hitAngles": [
+          {
+            "directionAngle": 0.0,
+            "animationClip": {
+              "animationLength": 0.6666667,
+              "assetName": "Anim_CH_E_Jock_HitImpact_Head_Front_A",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Jock.fbx",
+              "assetGUID": "95546d9cd327a294db235abc252e557d",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Jock:Anim_CH_E_Jock_HitImpact_Head_Front_A.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 0.0,
+            "animationClip": {
+              "animationLength": 0.6666667,
+              "assetName": "Anim_CH_E_Jock_HitImpact_Head_Front_B",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Jock.fbx",
+              "assetGUID": "95546d9cd327a294db235abc252e557d",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Jock:Anim_CH_E_Jock_HitImpact_Head_Front_B.AnimationClip",
+              "isSubAsset": true
+            }
+          },
+          {
+            "directionAngle": 0.0,
+            "animationClip": {
+              "animationLength": 0.6666667,
+              "assetName": "Anim_CH_E_Jock_HitImpact_Head_Front_C",
+              "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Jock.fbx",
+              "assetGUID": "95546d9cd327a294db235abc252e557d",
+              "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Jock:Anim_CH_E_Jock_HitImpact_Head_Front_C.AnimationClip",
+              "isSubAsset": true
+            }
+          }
+        ]
+      }
+    ],
+    "id": 7,
+    "name": "Jock Impacts",
+    "category": ""
+  },
+  {
+    "canDoGenericHitAnimation": false,
+    "impactSetups": [],
+    "id": 8,
+    "name": "Brute Impacts",
+    "category": ""
+  }
+]
+}

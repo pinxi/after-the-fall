@@ -1,0 +1,22 @@
+{
+  "TableId": 50012,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "description": {
+      "Key": "TEASER_HORDE_MODE",
+      "Category": "loc_interface"
+    },
+    "previewVideo": {
+      "assetName": "ATF_Video_Chinatown_HM_Sprite",
+      "assetPath": "Assets/Art_Code/UI/Videos/VertigoResources/ATF_Video_Chinatown_HM_Sprite.tiff",
+      "assetGUID": "5739aa9063c5a5e47b022c505891fcc3",
+      "resourcePath": "ATF_Video_Chinatown_HM_Sprite",
+      "isSubAsset": false
+    },
+    "id": 0,
+    "name": "Horde Mode",
+    "category": ""
+  }
+]
+}

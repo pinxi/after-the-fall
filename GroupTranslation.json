@@ -1,0 +1,704 @@
+{
+  "TableId": 130,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "closingAnimation": {
+      "animationLength": 1.0,
+      "assetName": "ExampleGroupTranslationClosingAnimation",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/StaticInteractables/VertigoResources/GroupTranslations/Example/ExampleGroupTranslationClosingAnimation.anim",
+      "assetGUID": "db8070442ab60814c9c035da4a15dd05",
+      "resourcePath": "GroupTranslations/Example/ExampleGroupTranslationClosingAnimation",
+      "isSubAsset": false
+    },
+    "openingAnimation": {
+      "animationLength": 1.0,
+      "assetName": "ExampleGroupTranslationOpeningAnimation",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/StaticInteractables/VertigoResources/GroupTranslations/Example/ExampleGroupTranslationOpeningAnimation.anim",
+      "assetGUID": "1848a61321b580349a251d371d6116f9",
+      "resourcePath": "GroupTranslations/Example/ExampleGroupTranslationOpeningAnimation",
+      "isSubAsset": false
+    },
+    "openingDoorsSound": {
+      "eventPath": "event:/ATF_PC/Interaction/Elevator/Elevator_door_open",
+      "eventGuid": "fef0c894-4335-43f7-8f7c-079beefb057b",
+      "parameterSettings": []
+    },
+    "closingDoorsSound": {
+      "eventPath": "event:/ATF_PC/Interaction/Elevator/Elevator_door_close",
+      "eventGuid": "1ce9b54c-27ba-4352-9006-fad5792d24de",
+      "parameterSettings": []
+    },
+    "startingSound": {
+      "eventPath": "event:/ATF_PC/Interaction/Elevator/Elevator_start",
+      "eventGuid": "eba84862-9a27-4767-9a7b-e2f4762e267e",
+      "parameterSettings": []
+    },
+    "invalidLocationAdjustmentFadeTime": 1.0,
+    "invalidLocationBoundsAreaSizeScaler": 0.9,
+    "interactionTimeOut": 4.0,
+    "invalidMessageDisplayTime": 4.0,
+    "notAllPlayersMessageLocalizationKey": "GROUPTRANSLATOR_NOTALLPLAYERS",
+    "zombiesInVolumeMessageLocalizationKey": "GROUPTRANSLATOR_ZOMBIESINVOLUME",
+    "translatorInUseLocalizationKey": "GROUPTRANSLATOR_INUSE",
+    "translatorOneWayLocalizationKey": "GROUPTRANSLATOR_ONEWAY",
+    "supportsTranslatingWithZombies": true,
+    "zombieAgentId": -1372625422,
+    "companionNavMeshArea": 8,
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 0,
+    "id": 0,
+    "name": "Example",
+    "category": "",
+    "displayName": "ExampleTranslator",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "",
+    "tooltipSubtitleDisplayName": "",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "closingAnimation": {
+      "animationLength": 1.0,
+      "assetName": "ElevatorSuspendedPlatformClosingAnimation",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/StaticInteractables/VertigoResources/GroupTranslations/ElevatorSuspendedPlatform/ElevatorSuspendedPlatformClosingAnimation.anim",
+      "assetGUID": "7d315c75dab0c304ba9a43999e7fb257",
+      "resourcePath": "GroupTranslations/ElevatorSuspendedPlatform/ElevatorSuspendedPlatformClosingAnimation",
+      "isSubAsset": false
+    },
+    "openingAnimation": {
+      "animationLength": 1.0,
+      "assetName": "ElevatorSuspendedPlatformOpeningAnimation",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/StaticInteractables/VertigoResources/GroupTranslations/ElevatorSuspendedPlatform/ElevatorSuspendedPlatformOpeningAnimation.anim",
+      "assetGUID": "1e316177ae13639459755d89e2df4171",
+      "resourcePath": "GroupTranslations/ElevatorSuspendedPlatform/ElevatorSuspendedPlatformOpeningAnimation",
+      "isSubAsset": false
+    },
+    "openingDoorsSound": {
+      "eventPath": "event:/ATF_PC/Scripted/CM01/CM01_Suspended_elevator_door",
+      "eventGuid": "72253feb-d560-4918-968c-eb2b9a54be47",
+      "parameterSettings": []
+    },
+    "closingDoorsSound": {
+      "eventPath": "event:/ATF_PC/Scripted/HUB/Door_hub_open_scripted",
+      "eventGuid": "cb22ae28-32eb-4bc8-8baf-fdcd72e4a315",
+      "parameterSettings": []
+    },
+    "startingSound": {
+      "eventPath": "event:/ATF_PC/Scripted/CM01/CM01_Suspended_elevator_start",
+      "eventGuid": "1faafd9f-23b8-41ec-bcc9-4b1e26773129",
+      "parameterSettings": []
+    },
+    "invalidLocationAdjustmentFadeTime": 1.0,
+    "invalidLocationBoundsAreaSizeScaler": 0.9,
+    "interactionTimeOut": 4.0,
+    "invalidMessageDisplayTime": 4.0,
+    "notAllPlayersMessageLocalizationKey": "GROUPTRANSLATOR_NOTALLPLAYERS",
+    "zombiesInVolumeMessageLocalizationKey": "GROUPTRANSLATOR_ZOMBIESINVOLUME",
+    "translatorInUseLocalizationKey": "GROUPTRANSLATOR_INUSE",
+    "translatorOneWayLocalizationKey": "GROUPTRANSLATOR_ONEWAY",
+    "supportsTranslatingWithZombies": true,
+    "zombieAgentId": -1372625422,
+    "companionNavMeshArea": 8,
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 0,
+    "id": 1,
+    "name": "SuspendedPlatform",
+    "category": "",
+    "displayName": "SuspendedPlatform",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "",
+    "tooltipSubtitleDisplayName": "",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "closingAnimation": {
+      "animationLength": 2.0,
+      "assetName": "SnowcatDoorClose",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/StaticInteractables/VertigoResources/GroupTranslations/Snowcat/SnowcatDoorClose.anim",
+      "assetGUID": "6aa2cdb082aa98048b6e04984701454d",
+      "resourcePath": "GroupTranslations/Snowcat/SnowcatDoorClose",
+      "isSubAsset": false
+    },
+    "openingAnimation": {
+      "animationLength": 8.333333,
+      "assetName": "SnowcatDoorOpen",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/StaticInteractables/VertigoResources/GroupTranslations/Snowcat/SnowcatDoorOpen.anim",
+      "assetGUID": "51d2ec8c7f0f3744f8a2ffdd82daf943",
+      "resourcePath": "GroupTranslations/Snowcat/SnowcatDoorOpen",
+      "isSubAsset": false
+    },
+    "openingDoorsSound": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "closingDoorsSound": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "startingSound": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "invalidLocationAdjustmentFadeTime": 1.0,
+    "invalidLocationBoundsAreaSizeScaler": 0.9,
+    "interactionTimeOut": 4.0,
+    "invalidMessageDisplayTime": 4.0,
+    "notAllPlayersMessageLocalizationKey": "GROUPTRANSLATOR_NOTALLPLAYERS",
+    "zombiesInVolumeMessageLocalizationKey": "GROUPTRANSLATOR_ZOMBIESINVOLUME",
+    "translatorInUseLocalizationKey": "GROUPTRANSLATOR_INUSE",
+    "translatorOneWayLocalizationKey": "GROUPTRANSLATOR_ONEWAY",
+    "supportsTranslatingWithZombies": false,
+    "zombieAgentId": -1372625422,
+    "companionNavMeshArea": 8,
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 0,
+    "id": 2,
+    "name": "Snowcat",
+    "category": "",
+    "displayName": "Snowcat",
+    "descriptionLocalizationKey": null,
+    "tooltipUniqueIcon": null,
+    "tooltipTitleDisplayName": null,
+    "tooltipSubtitleDisplayName": null,
+    "inventoryIcon": null,
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": null,
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": null,
+      "AssemblyQualifiedName": null
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "closingAnimation": {
+      "animationLength": 1.5,
+      "assetName": "ElevatorCloseDoorsAnimation",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/StaticInteractables/VertigoResources/GroupTranslations/Elevator/ElevatorCloseDoorsAnimation.anim",
+      "assetGUID": "26d75568c191500498e8521b8307e91b",
+      "resourcePath": "GroupTranslations/Elevator/ElevatorCloseDoorsAnimation",
+      "isSubAsset": false
+    },
+    "openingAnimation": {
+      "animationLength": 1.5,
+      "assetName": "ElevatorOpenDoorsAnimation",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/StaticInteractables/VertigoResources/GroupTranslations/Elevator/ElevatorOpenDoorsAnimation.anim",
+      "assetGUID": "138e81f213739ba43b2d8d69556f44dc",
+      "resourcePath": "GroupTranslations/Elevator/ElevatorOpenDoorsAnimation",
+      "isSubAsset": false
+    },
+    "openingDoorsSound": {
+      "eventPath": "event:/ATF_PC/Interaction/Elevator/Elevator_door_open",
+      "eventGuid": "fef0c894-4335-43f7-8f7c-079beefb057b",
+      "parameterSettings": []
+    },
+    "closingDoorsSound": {
+      "eventPath": "event:/ATF_PC/Interaction/Elevator/Elevator_door_close",
+      "eventGuid": "1ce9b54c-27ba-4352-9006-fad5792d24de",
+      "parameterSettings": []
+    },
+    "startingSound": {
+      "eventPath": "event:/ATF_PC/Interaction/Elevator/Elevator_start",
+      "eventGuid": "eba84862-9a27-4767-9a7b-e2f4762e267e",
+      "parameterSettings": []
+    },
+    "invalidLocationAdjustmentFadeTime": 1.0,
+    "invalidLocationBoundsAreaSizeScaler": 0.9,
+    "interactionTimeOut": 4.0,
+    "invalidMessageDisplayTime": 4.0,
+    "notAllPlayersMessageLocalizationKey": "GROUPTRANSLATOR_NOTALLPLAYERS",
+    "zombiesInVolumeMessageLocalizationKey": "GROUPTRANSLATOR_ZOMBIESINVOLUME",
+    "translatorInUseLocalizationKey": "GROUPTRANSLATOR_INUSE",
+    "translatorOneWayLocalizationKey": "GROUPTRANSLATOR_ONEWAY",
+    "supportsTranslatingWithZombies": true,
+    "zombieAgentId": -1372625422,
+    "companionNavMeshArea": 8,
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 0,
+    "id": 3,
+    "name": "ElevatorGroupTranslator",
+    "category": "",
+    "displayName": "ElevatorGroupTranslator",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "",
+    "tooltipSubtitleDisplayName": "",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "closingAnimation": {
+      "animationLength": 1.0,
+      "assetName": "ElevatorSuspendedPlatformClosingAnimation_DLC04_Hospital",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/StaticInteractables/VertigoResources/GroupTranslations/ElevatorSuspendedPlatform/ElevatorSuspendedPlatformClosingAnimation_DLC04_Hospital.anim",
+      "assetGUID": "b852fc30ec302224785efe9bcdc883bf",
+      "resourcePath": "GroupTranslations/ElevatorSuspendedPlatform/ElevatorSuspendedPlatformClosingAnimation_DLC04_Hospital",
+      "isSubAsset": false
+    },
+    "openingAnimation": {
+      "animationLength": 1.0,
+      "assetName": "ElevatorSuspendedPlatformOpeningAnimation",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/StaticInteractables/VertigoResources/GroupTranslations/ElevatorSuspendedPlatform/ElevatorSuspendedPlatformOpeningAnimation.anim",
+      "assetGUID": "1e316177ae13639459755d89e2df4171",
+      "resourcePath": "GroupTranslations/ElevatorSuspendedPlatform/ElevatorSuspendedPlatformOpeningAnimation",
+      "isSubAsset": false
+    },
+    "openingDoorsSound": {
+      "eventPath": "event:/ATF_PC/Scripted/CM01/CM01_Suspended_elevator_door",
+      "eventGuid": "72253feb-d560-4918-968c-eb2b9a54be47",
+      "parameterSettings": []
+    },
+    "closingDoorsSound": {
+      "eventPath": "event:/ATF_PC/Scripted/HUB/Door_hub_open_scripted",
+      "eventGuid": "cb22ae28-32eb-4bc8-8baf-fdcd72e4a315",
+      "parameterSettings": []
+    },
+    "startingSound": {
+      "eventPath": "event:/ATF_PC/Scripted/CM01/CM01_Suspended_elevator_start",
+      "eventGuid": "1faafd9f-23b8-41ec-bcc9-4b1e26773129",
+      "parameterSettings": []
+    },
+    "invalidLocationAdjustmentFadeTime": 1.0,
+    "invalidLocationBoundsAreaSizeScaler": 0.9,
+    "interactionTimeOut": 4.0,
+    "invalidMessageDisplayTime": 4.0,
+    "notAllPlayersMessageLocalizationKey": "GROUPTRANSLATOR_NOTALLPLAYERS",
+    "zombiesInVolumeMessageLocalizationKey": "GROUPTRANSLATOR_ZOMBIESINVOLUME",
+    "translatorInUseLocalizationKey": "GROUPTRANSLATOR_INUSE",
+    "translatorOneWayLocalizationKey": "GROUPTRANSLATOR_ONEWAY",
+    "supportsTranslatingWithZombies": true,
+    "zombieAgentId": -1372625422,
+    "companionNavMeshArea": 8,
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "itemIconType": 0,
+    "id": 4,
+    "name": "SuspendedPlatform_DLC04_Hospital",
+    "category": "",
+    "displayName": "SuspendedPlatform",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "",
+    "tooltipSubtitleDisplayName": "",
+    "inventoryIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 0,
+    "activeDurationBeforeCorrection": 30.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  }
+]
+}

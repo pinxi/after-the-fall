@@ -1,0 +1,70 @@
+{
+  "TableId": 169,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "lockedOnColor": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 1.0
+    },
+    "lockedOnScale": 0.5,
+    "seekingStyle": 1,
+    "speed": 7.0,
+    "impactDamage": {
+      "damageRange": {
+        "rangeStart": 15.0,
+        "rangeEnd": 15.0
+      },
+      "staggerDamageRange": {
+        "rangeStart": 200.0,
+        "rangeEnd": 200.0
+      },
+      "criticalHitChance": 0.0,
+      "criticalHitDamageMulitplier": 1.5,
+      "mutilationType": 8,
+      "impactType": 9
+    },
+    "explosionType": 3,
+    "timeBetweenHitAndExplosion": 1.0,
+    "firstHitAlwaysHeadshot": true,
+    "headshotChance": 30,
+    "firePrefab": {
+      "assetName": "Part_PowerMissile_FrontFlame",
+      "assetPath": "Assets/Art/FX Vertigo/FX/VertigoResources/Particles/Power/Part_PowerMissile_FrontFlame.prefab",
+      "assetGUID": "3e212db95b6cf3242ae4fe6b4726b4fb",
+      "resourcePath": "Particles/Power/Part_PowerMissile_FrontFlame",
+      "isSubAsset": false
+    },
+    "explosionForce": {
+      "rangeStart": 2.0,
+      "rangeEnd": 3.0
+    },
+    "randomOffset": true,
+    "offsetStrength": 0.05,
+    "aimStrength": 0.6,
+    "specialPathChance": 100,
+    "specialPathRotationSpeed": 37.5,
+    "pathVertexDensity": 10,
+    "timeoutAfterMissingTarget": 1.0,
+    "explodeAudio": {
+      "eventPath": "event:/ATF_PC/Weapons/Special 01/Weapon_power_missile_explode",
+      "eventGuid": "3a6f0dc6-ae74-487a-8c2f-c0eadae04b5d",
+      "parameterSettings": []
+    },
+    "debugLines": false,
+    "id": 0,
+    "name": "Missile Combat Device Seeking Missile",
+    "category": "",
+    "artPrefab": {
+      "assetName": "SeekingMissile",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Projectiles/SeekingMissile.prefab",
+      "assetGUID": "c7cb61bfc06f63f4198d63a478f9c833",
+      "resourcePath": "Projectiles/SeekingMissile",
+      "isSubAsset": false
+    },
+    "poolSize": 30
+  }
+]
+}

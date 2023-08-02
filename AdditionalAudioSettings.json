@@ -1,0 +1,1562 @@
+{
+  "TableId": 220,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "loadingScreenMusic": {
+      "eventPath": "event:/ATF_PC/Music/LoadingScreen",
+      "eventGuid": "f21f8a9a-401e-4915-b74c-e9e813244f44",
+      "parameterSettings": []
+    },
+    "defaultNotificationSound": {
+      "eventPath": "event:/ATF_PC/UI/UI_Notify",
+      "eventGuid": "36a54e9a-e486-407b-a84e-4fc0ea144d5c",
+      "parameterSettings": []
+    },
+    "missionNotificationSound": {
+      "eventPath": "event:/ATF_PC/UI/UI_Objective",
+      "eventGuid": "704a7d4c-227d-4bc8-ad8d-ffdbfe6c2f6a",
+      "parameterSettings": []
+    },
+    "friendlyKilledNotificationSound": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "nonFriendlyKilledNotificationSound": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "friendlyKilledByNotificationSound": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "nonFriendlyKilledByNotificationSound": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "campaignWinNotificationSound": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "campaignLossNotificationSound": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "pvpDrawNotificationSound": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "teamDeathMatchWinNotificationSound": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "teamDeathMatchLossNotificationSound": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "freeForAllWinNotificationSound": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "freeForAllLossNotificationSound": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "specialZombieKillSound": {
+      "eventPath": "event:/ATF_PC/Music/Stinger_special_killed",
+      "eventGuid": "0833c2ce-7c42-421b-ad79-f6d1701aa2bf",
+      "parameterSettings": []
+    },
+    "partyInviteSound": {
+      "eventPath": "event:/ATF_PC/UI/UI_Party_invite",
+      "eventGuid": "4912089a-88ff-472a-a9ae-ec6a44f95d45",
+      "parameterSettings": []
+    },
+    "partyAcceptSound": {
+      "eventPath": "event:/ATF_PC/UI/UI_Party_accept",
+      "eventGuid": "9dab76e9-2760-4a80-9e42-50ad806acfb6",
+      "parameterSettings": []
+    },
+    "partyDeclineSound": {
+      "eventPath": "event:/ATF_PC/UI/UI_Party_decline",
+      "eventGuid": "7f2cd71f-8bfe-4db7-9255-59a7a817e3df",
+      "parameterSettings": []
+    },
+    "partyPlayerJoinedNotificationSound": {
+      "eventPath": "event:/ATF_PC/UI/UI_Party_accept",
+      "eventGuid": "9dab76e9-2760-4a80-9e42-50ad806acfb6",
+      "parameterSettings": []
+    },
+    "pinataExplodeSound": {
+      "eventPath": "event:/ATF_PC/Physics/Impact_break_survivor_light",
+      "eventGuid": "68683b1c-80b7-4518-9a12-fa351a1c8be2",
+      "parameterSettings": []
+    },
+    "machineUiButtonPressedSound": {
+      "eventPath": "event:/ATF_PC/UI/UI_Calibration_click",
+      "eventGuid": "cb565e6e-147e-462d-a1be-3c7e47f156f2",
+      "parameterSettings": []
+    },
+    "machineUiButtonDisabledPressedSound": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "machineUiButtonHoveredSound": {
+      "eventPath": "event:/ATF_PC/UI/UI_Calibration_hover",
+      "eventGuid": "db9dc618-6063-4c55-a313-b228e48f50cc",
+      "parameterSettings": []
+    },
+    "machineUiButtonSelectedSound": {
+      "eventPath": "event:/ATF_PC/UI/UI_Calibration_hover",
+      "eventGuid": "db9dc618-6063-4c55-a313-b228e48f50cc",
+      "parameterSettings": []
+    },
+    "machineUiTogglePressedSound": {
+      "eventPath": "event:/ATF_PC/UI/UI_Calibration_click",
+      "eventGuid": "cb565e6e-147e-462d-a1be-3c7e47f156f2",
+      "parameterSettings": []
+    },
+    "machineUiToggleHoveredSound": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "machineUiToggleSelectedSound": {
+      "eventPath": "event:/ATF_PC/UI/UI_Calibration_hover",
+      "eventGuid": "db9dc618-6063-4c55-a313-b228e48f50cc",
+      "parameterSettings": []
+    },
+    "busesToPauseOnPause": [
+      {
+        "bank": "8a773a19-a5d8-4d34-abc6-349b44135055",
+        "bus": "b724d549-f8cb-4d8f-8c5e-cc0ff8a24722"
+      },
+      {
+        "bank": "8a773a19-a5d8-4d34-abc6-349b44135055",
+        "bus": "e53ac3e7-261a-44d3-a144-52e7fb3eb0bb"
+      },
+      {
+        "bank": "8a773a19-a5d8-4d34-abc6-349b44135055",
+        "bus": "73d85cfc-1378-4fbe-aeef-c86289fdf51a"
+      },
+      {
+        "bank": "8a773a19-a5d8-4d34-abc6-349b44135055",
+        "bus": "06687daf-cc0a-49b7-ad6b-1e0d5833dee8"
+      },
+      {
+        "bank": "8a773a19-a5d8-4d34-abc6-349b44135055",
+        "bus": "3a2cd76b-3ba2-4a03-a59c-d663bff1dc07"
+      },
+      {
+        "bank": "8a773a19-a5d8-4d34-abc6-349b44135055",
+        "bus": "9d3b3b29-0761-4def-8574-f95e7bd96126"
+      },
+      {
+        "bank": "8a773a19-a5d8-4d34-abc6-349b44135055",
+        "bus": "f4b5a340-cdc8-48b2-b86c-0053f9522804"
+      },
+      {
+        "bank": "8a773a19-a5d8-4d34-abc6-349b44135055",
+        "bus": "7ae6b9eb-f2e0-4f49-b7af-21765340e257"
+      },
+      {
+        "bank": "8a773a19-a5d8-4d34-abc6-349b44135055",
+        "bus": "c0156080-da8f-49e0-9b9d-3ce40d25d4c1"
+      }
+    ],
+    "busesToPauseOnApplicationUnfocus": [
+      {
+        "bank": "8a773a19-a5d8-4d34-abc6-349b44135055",
+        "bus": "b724d549-f8cb-4d8f-8c5e-cc0ff8a24722"
+      },
+      {
+        "bank": "8a773a19-a5d8-4d34-abc6-349b44135055",
+        "bus": "bcbce42a-5627-4214-b1d3-bb8787e82f03"
+      },
+      {
+        "bank": "8a773a19-a5d8-4d34-abc6-349b44135055",
+        "bus": "e53ac3e7-261a-44d3-a144-52e7fb3eb0bb"
+      },
+      {
+        "bank": "8a773a19-a5d8-4d34-abc6-349b44135055",
+        "bus": "73d85cfc-1378-4fbe-aeef-c86289fdf51a"
+      },
+      {
+        "bank": "8a773a19-a5d8-4d34-abc6-349b44135055",
+        "bus": "ffda6c10-2bf9-460b-9e94-be858bb10a33"
+      },
+      {
+        "bank": "8a773a19-a5d8-4d34-abc6-349b44135055",
+        "bus": "c0156080-da8f-49e0-9b9d-3ce40d25d4c1"
+      }
+    ],
+    "zombieFootstepYPositionOffset": 0.1,
+    "defaultAudioObstructionFraction": 0.7,
+    "audioObstructionSmoothTime": 0.05,
+    "ObstructionLayerMask": {
+      "value": 1344282369
+    },
+    "excludeEventsFromObstruction": [
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_sprawl/Enemy_sprawl_disappear",
+        "eventGuid": "ea818a42-b5cb-4b48-88db-d461c011b679",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_sprawl/Enemy_sprawl_gate_disappear",
+        "eventGuid": "61eed6c0-fed8-4cd9-95ca-317e2f0e059f",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/CM01/CM01_Crane_start",
+        "eventGuid": "21938eb7-5450-4af5-bca5-d91e82c06972",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/CM01/CM01_Crane_stop",
+        "eventGuid": "a539f61c-1edf-4515-be54-1c246c48a3b2",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/CM01/CM01_Suspended_elevator_start",
+        "eventGuid": "1faafd9f-23b8-41ec-bcc9-4b1e26773129",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/CM01/CM01_Suspended_elevator_stop",
+        "eventGuid": "d261b7e8-f7b7-4d1a-9b45-fffdae50830b",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/CM01/CM01_Suspended_elevator_door",
+        "eventGuid": "72253feb-d560-4918-968c-eb2b9a54be47",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/CM04/Scripted_CM04_Smasher_intro_climb_01",
+        "eventGuid": "ab0eb86d-5ef4-4cac-a303-4ff1c8c97788",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/CM04/Scripted_CM04_Smasher_intro_climb_02",
+        "eventGuid": "f7aacb9e-7085-4068-bb38-eda3c5bac409",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/CM04/Scripted_CM04_Smasher_intro_roar",
+        "eventGuid": "0eb69f8c-92b5-4e3b-b815-dfb2772fe4d2",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/CM04/Scripted_CM04_Smasher_land",
+        "eventGuid": "58511ef0-7777-465e-af20-218340bb9b20",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Outdoor/Outdoor World/Ambience_outdoor_snowstorm_L",
+        "eventGuid": "cf38524d-4be7-4667-addc-6485c25d5749",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Outdoor/Outdoor World/Ambience_outdoor_snowstorm_R",
+        "eventGuid": "d3a8788c-b362-456b-965c-199ae89d6e47",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Outdoor/Outdoor World/Ambience_outdoor_snowstorm_SL",
+        "eventGuid": "4da996d4-cc61-4fb2-9c9b-f45fb3f35287",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Outdoor/Outdoor World/Ambience_outdoor_snowstorm_SR",
+        "eventGuid": "4619d1b6-534b-4a53-8ad4-dfbfe4ace5fc",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Outdoor/Outdoor World/Ambience_outdoor_world",
+        "eventGuid": "1d751149-4d2a-40a8-9f5c-391577a2fe29",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_jock/Enemy_jock_announcement",
+        "eventGuid": "6bec4e52-d02b-45cf-a45e-773c63c041c9",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor CM01 Arcade/Ambience_indoor_skidrow_arcade",
+        "eventGuid": "df608516-84f9-44dd-ac3c-0f56ad7b10b6",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor CM01 Arcade/Ambience_indoor_skidrow_arcade_neon_01",
+        "eventGuid": "171ff06f-9800-4f4c-82f7-fb862175866b",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor CM01 Arcade/Ambience_indoor_skidrow_arcade_neon_02",
+        "eventGuid": "1054e07e-cfac-4a9c-943e-6719d9478eb7",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor CM01 Metro/Ambience_indoor_skidrow_metro",
+        "eventGuid": "ec82d22a-9c97-470e-8264-990bc294a394",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor CM01 Warehouse/Ambience_indoor_skidrow_warehouse",
+        "eventGuid": "747449fc-2cac-4a5a-9e10-bb57e3b267d5",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor CM01 Appartments/Ambience_indoor_skidrow_appartments_01",
+        "eventGuid": "ce55ad74-d5c7-4340-bdca-fc98d145955c",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor CM01 Appartments/Ambience_indoor_skidrow_appartments_02",
+        "eventGuid": "e007bc43-4b20-4fd9-a2c7-21a4ad85b2fe",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor CM02/Ambience_indoor_downtown_01",
+        "eventGuid": "cc1e49a2-d5dc-48cd-98dc-9b95fa6fb498",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor CM02/Ambience_indoor_downtown_02",
+        "eventGuid": "8ecc1726-7414-4c79-b9c4-e117512a5d4a",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor CM04/Ambience_indoor_banktower_floor_01",
+        "eventGuid": "22c3df88-42b4-4b80-8808-d85a2b1b82cd",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor CM04/Ambience_indoor_banktower_floor_02",
+        "eventGuid": "d14de4db-ff71-4bdb-a7dd-56de705a84c9",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor CM04/Ambience_indoor_banktower_floor_03",
+        "eventGuid": "437072fd-4e79-40ed-bfdd-958720353a22",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor CM04/Ambience_indoor_banktower_main",
+        "eventGuid": "30ea03a4-f602-4daa-a69f-28d44a185088",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor CM06/Ambience_indoor_chinatown_house_01",
+        "eventGuid": "ca0c15e3-bdfa-42d7-bae6-a91680b6520b",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor CM06/Ambience_indoor_restroom",
+        "eventGuid": "3e589dfe-ce2e-4417-bb66-0c31d92df8e8",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor HUB/Ambience_indoor_hub_main",
+        "eventGuid": "9dea8d9a-59a0-4bd3-a93f-11da8fa10052",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor HUB/Ambience_indoor_hub_room_01",
+        "eventGuid": "22144758-78c5-4006-830b-f8210ea5120b",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor HUB/Ambience_indoor_hub_room_02",
+        "eventGuid": "14e1cdb3-a2a7-47f7-952e-fa21ac669d4b",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor HUB/Ambience_indoor_hub_subway",
+        "eventGuid": "88c27c78-0f15-4465-aabb-b27b236b0f19",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/AK47/Weapon_ak_fire_start",
+        "eventGuid": "1aa96721-cea4-412c-a2d7-a4215bd19cab",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/AK47/Weapon_ak_fire_repeat",
+        "eventGuid": "030afb5e-5852-4356-b754-2514eec1d1a4",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/AK47_scoped/Weapon_ak_02_fire_start",
+        "eventGuid": "ad28fd27-4ec5-490a-a870-451a7e0c9e89",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/AK47_scoped/Weapon_ak_02_fire_repeat",
+        "eventGuid": "df1baf6c-bcf2-4cbd-9a2d-6339e627d620",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/AR M4/Weapon_ar_01_fire_start",
+        "eventGuid": "be6b7a69-5091-4e0c-ad44-cbd121de8fd0",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/AR M4/Weapon_ar_01_fire_repeat",
+        "eventGuid": "a2dfdc13-99b6-4352-8d90-c743cbf6f76e",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/AR M4 Heavy/Weapon_ar_02_fire_start",
+        "eventGuid": "828aaa6d-b6b7-4a87-b023-80307b1a9d19",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/AR M4 Heavy/Weapon_ar_02_fire_repeat",
+        "eventGuid": "6f96c1e3-1eb3-40c3-8585-5893b80f6c87",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/Grenade/WP_Grenade_explode",
+        "eventGuid": "46dab984-67b6-45c4-a4dd-da3665c230cc",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/Pipebomb/Pipebomb_explode",
+        "eventGuid": "601ea644-cc62-44ae-a603-8658ca3bdfdf",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/Pistol 01 M9 Brawler/Weapon_pistol_fire",
+        "eventGuid": "ab8a9984-706b-4c6b-a6e8-3494e395e3e0",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/Pistol 02 Falcon/Weapon_pistol_02_fire",
+        "eventGuid": "26c5c8c6-7fdc-40c5-9a8f-ac602bf11f09",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/Pistol 03 M9 Repeater/Weapon_pistol_03_fire_start",
+        "eventGuid": "0c980ad2-74e5-4237-bac6-3db9be2364d9",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/Pistol 03 M9 Repeater/Weapon_pistol_03_fire_repeat",
+        "eventGuid": "d52629ba-3b41-4388-8e4c-320c3b6bfa2d",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/Pistol 04 Heavy Falcon/Weapon_pistol_04_fire",
+        "eventGuid": "e6bb41c1-46c8-4ee4-945d-3815609dd83e",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/Pistol 05 M9 Enforcer/Weapon_pistol_05_fire",
+        "eventGuid": "f5224c52-ee3d-49e5-977b-cf1c831f54fc",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/Shotgun/Weapon_shotgun_fire",
+        "eventGuid": "313ddc58-3892-48b0-b830-c2aae2948687",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/Shotgun_scoped/Weapon_shotgun_02_fire",
+        "eventGuid": "26f87991-25c1-4591-a3fb-4efa27d187ed",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/SMG/Weapon_smg_fire_start",
+        "eventGuid": "65887405-cb32-4e1d-a458-c3fca254ce91",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/SMG/Weapon_smg_fire_repeat",
+        "eventGuid": "935bba77-da9f-4bf6-9d06-f573c30257f6",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/SMG 02/Weapon_smg_02_fire_start",
+        "eventGuid": "1e007f69-5441-4f92-8872-588ffd2a7302",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/SMG 02/Weapon_smg_02_fire_repeat",
+        "eventGuid": "1c306ad8-c68d-4100-9eda-11dcf1cfc82e",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/SMG 03/Weapon_smg_03_fire_start",
+        "eventGuid": "8648b0ed-97d4-42f5-9326-76397044eb47",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/SMG 03/Weapon_smg_03_fire_repeat",
+        "eventGuid": "327532a4-581e-4242-9354-bc039f39be9f",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/Special 01/Weapon_power_missile_fire",
+        "eventGuid": "4bc48b51-13a9-4083-bc6d-9e9eef9bd56f",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/Special 01/Weapon_power_missile_explode",
+        "eventGuid": "3a6f0dc6-ae74-487a-8c2f-c0eadae04b5d",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/Impacts/Impact_bullet_headshot",
+        "eventGuid": "e106e092-02bd-4d92-924e-2aa039edacf0",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/Impacts/Impact_player_death_PVP",
+        "eventGuid": "8f693fd8-f4de-4130-913e-17650ee6e343",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/Impacts/Impact_player_headshot_PVP",
+        "eventGuid": "f65eda98-5e49-481f-9cd2-2cb6af554166",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/Impacts/Impact_player_hit_PVP",
+        "eventGuid": "f28c6cc6-1a6d-472e-a04f-67fff854b7eb",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_break_concrete",
+        "eventGuid": "53ad78c4-5f91-4b1d-bc4f-5f8a9763faaa",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_break_electronics",
+        "eventGuid": "2b9c0d9a-44b7-413a-90c2-9ba1bd2fd208",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_break_glass",
+        "eventGuid": "09c80125-7d33-4187-82b3-2633c3df76e7",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_break_icicle",
+        "eventGuid": "a83af5d0-d56e-4b1f-95ec-10c1f3c41401",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_break_lock",
+        "eventGuid": "4af5611d-6ee8-4686-bcf6-7f35298c11b1",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_break_metal",
+        "eventGuid": "a1ed6fe2-2772-47bb-bb3f-84a8f2d33744",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_break_survivor",
+        "eventGuid": "f2526e90-cdb0-43fe-b886-2f50266646d3",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_break_wood",
+        "eventGuid": "5d8368d2-ab7a-4e45-b172-ea5d25ece751",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_item_body",
+        "eventGuid": "6136f402-7dba-4ac2-ab94-516ed7950269",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_item_book",
+        "eventGuid": "e5baf439-f73d-4ce4-95cc-597b35bc565e",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_item_bottle",
+        "eventGuid": "b47323f8-bb7b-4b14-a7e0-0f036bfa9496",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_item_cardboard_small",
+        "eventGuid": "1d7113e4-4a0a-4b14-9d4b-02aaa69bad4b",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_item_ceramic",
+        "eventGuid": "ef751d44-7606-42df-ba23-39a5eb429519",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_item_eater",
+        "eventGuid": "fdb107ae-f184-44fb-98e0-eb79f39f99bb",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_item_electronics",
+        "eventGuid": "223b053a-a176-44e2-a719-fcc0c545bda9",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_item_fabric",
+        "eventGuid": "c681d6eb-6a76-4546-9b23-6ed997f8edca",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_item_flesh",
+        "eventGuid": "a18a52c6-0c13-486a-b283-6eca9106c31b",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_item_glass",
+        "eventGuid": "ac11cbe1-5a4b-4329-8fe5-7aa80216e300",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_item_glass_shards",
+        "eventGuid": "714cee5b-2081-414f-914f-936ee046228f",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_item_gun",
+        "eventGuid": "37e441c9-4dee-4bc2-9839-123dba86e837",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_item_ice",
+        "eventGuid": "85c24a72-d6b6-48c4-9dec-247b1e982185",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_item_metal",
+        "eventGuid": "4a0c5c67-5d09-41c6-bf57-db2088fc4052",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_item_metal_can",
+        "eventGuid": "31a8a0ad-42f3-4a86-8a06-0f178e06565a",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_item_metal_hollow",
+        "eventGuid": "6c0d46be-3456-4976-b25a-2c487ebfe724",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_item_pipebomb",
+        "eventGuid": "45728940-064f-42f8-9b38-75f07c206180",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_item_plastic",
+        "eventGuid": "11fabebc-a363-4760-be51-d92d1cf53a5d",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_item_plastic_small",
+        "eventGuid": "5b425dfa-bac7-432a-bb93-a2f3eb0a3fd1",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_item_snow",
+        "eventGuid": "1f28bffa-8bb8-4df8-8269-182d315d34a8",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_item_stone",
+        "eventGuid": "b78c7f55-f9e5-4ae1-aafc-b3e6c5d82a75",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_item_wood",
+        "eventGuid": "64624ecb-47f5-4db8-89fd-ede5292d509f",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_item_wood_partial",
+        "eventGuid": "88c2f4c8-5702-43a8-8a43-800d79af2b5e",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_object_ammobox",
+        "eventGuid": "9e023b59-02bb-4348-8d29-9e4d349dd6d8",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_object_ammoclip",
+        "eventGuid": "90d85817-2dbd-4ae4-9007-2a1a5d8d6e48",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_object_chair_impact",
+        "eventGuid": "b507eb0a-8f6f-47a6-9fce-11280f963d99",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_object_chair_move",
+        "eventGuid": "d74c1ab7-a34c-4e4b-92ca-0997bef0796a",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_object_office-chair_move",
+        "eventGuid": "1795927a-a964-4560-9182-659b4422c551",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_object_pipebomb",
+        "eventGuid": "d55d4738-99d0-405e-b4a8-3facf627f7ba",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_object_toiletseat",
+        "eventGuid": "6914fc51-3d29-4170-9764-968ff423448c",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Interaction/Door_saferoom/Door_saferoom_close",
+        "eventGuid": "e9047a54-96b8-4c5d-a3ee-4a49719c7a6b",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Interaction/Door_saferoom/Door_saferoom_open",
+        "eventGuid": "b7cf1b69-045b-443d-8a14-06962276c0a7",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_smasher/Enemy_smasher_announcement",
+        "eventGuid": "dae69ff5-684d-44de-a629-bf4ba4be7e4b",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_jock/Enemy_jock_vo_taunt",
+        "eventGuid": "efa0da2a-317c-4ffe-bf42-20f90b96063b",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/LevelTransitions/Scripted_transition_metro_arrive",
+        "eventGuid": "117ea78d-affa-43a5-9a76-0dcd551027ba",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/LevelTransitions/Scripted_transition_metro_door_close",
+        "eventGuid": "f14b678e-4e42-4358-b0b2-1c039c21a15e",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/LevelTransitions/Scripted_transition_metro_door_open",
+        "eventGuid": "48476018-964b-4b61-bdf5-3ea1f458d413",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/LevelTransitions/Scripted_transition_metro_leave",
+        "eventGuid": "2791ac9f-a224-43f0-884e-a31d301a17cf",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/LevelTransitions/Scripted_transition_elevator_arrive",
+        "eventGuid": "af61bfac-6d4b-407c-a149-18e7080d609e",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/LevelTransitions/Scripted_transition_elevator_door_close",
+        "eventGuid": "ebb28aae-13db-4d8e-8520-fde07db8d823",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/LevelTransitions/Scripted_transition_elevator_door_open",
+        "eventGuid": "6c0dd6b2-57c7-49ce-881c-7682142ab492",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/LevelTransitions/Scripted_transition_elevator_leave",
+        "eventGuid": "2805db27-409d-4ca1-b762-328a1cea8f81",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Interaction/Interact_zipline",
+        "eventGuid": "99e7f8d5-a58c-4209-8f9f-b4d3532ca457",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/LevelTransitions/Scripted_transition_snowcat_arrive",
+        "eventGuid": "c71b53f1-0f47-4cfe-952c-5e607c168780",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/LevelTransitions/Scripted_transition_snowcat_door_close",
+        "eventGuid": "53b2c549-16aa-4369-bf49-c3d47968164b",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/LevelTransitions/Scripted_transition_snowcat_door_open",
+        "eventGuid": "1c31573a-30e9-47dc-a610-94ee6de91279",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/LevelTransitions/Scripted_transition_snowcat_leave",
+        "eventGuid": "c8f96925-95ca-46e1-96f6-99f0dfb6e4b7",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/CM00 Intro/Scripted_snowcat_rescue",
+        "eventGuid": "86f28d1f-796a-4259-8f88-330b21f189c9",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/CM00 Intro/Scripted_snowcat_drive_off",
+        "eventGuid": "d0393341-9ea8-408c-8162-86e2ca40b727",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/CM00 Intro/Scripted_snowcat_drive_loop",
+        "eventGuid": "ad0ca335-84be-4cee-a616-391408b69337",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_brute/Enemy_brute_announcement",
+        "eventGuid": "61846e7f-ff83-4d64-9dd4-16109df4e828",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_eater/Enemy_eater_announcement",
+        "eventGuid": "4c5bf35a-82ba-4dfc-8f39-a8a72329392e",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Interaction/Weapon_locker/Weapon_locker_insert floppy",
+        "eventGuid": "9347adaa-ed30-4c70-9bcd-b3dee7c424be",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Physics/Impact_object_floppy",
+        "eventGuid": "db10c77f-c8c3-4a8a-a040-2853a4890e43",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Machinery/AirlockDoors/AirlockDoor_start",
+        "eventGuid": "479ae0a6-9d39-457e-a3cf-6db17ce0ee52",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Machinery/AirlockDoors/AirlockDoor_stop",
+        "eventGuid": "551a2cac-93a8-4ae1-9a2c-b6ccfe4ea2e9",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_common/Enemy_common_appear",
+        "eventGuid": "0fbe80ed-e912-4945-8567-89ff78ee9b48",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_common/Enemy_common_appear_ceiling",
+        "eventGuid": "fdc405bb-5138-42c4-900c-22f9ce20e803",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Machinery/CrankGenerator/Crank_chug_loop",
+        "eventGuid": "33671b45-745e-49f9-a8c5-269076c6625b",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Machinery/CrankGenerator/Crank_construction_ring",
+        "eventGuid": "708c6096-b326-4364-b487-9c0e31a02280",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Machinery/EnergyGenerator/Generator_active",
+        "eventGuid": "77a15ee6-a0ed-4fef-92c7-a5579eaa264e",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Machinery/EnergyGenerator/Generator_open",
+        "eventGuid": "b740d6b7-710f-489f-b489-cddc682b32fb",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Machinery/EnergyGenerator/Generator_cell_insert",
+        "eventGuid": "6fcfc9d8-6c37-4200-8de0-c81ba08180d2",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Machinery/EnergyGenerator/Generator_cell_remove",
+        "eventGuid": "331ec090-5f5d-4442-a0ef-d32890ab0897",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Machinery/EnergyGenerator/Generator_charge",
+        "eventGuid": "a5c3bbae-c175-4b83-b315-c3b78f5ec338",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Machinery/EnergyGenerator/Generator_open",
+        "eventGuid": "b740d6b7-710f-489f-b489-cddc682b32fb",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Machinery/EnergyGenerator/Generator_powerdown",
+        "eventGuid": "1ed5e6b8-c872-49a4-8252-10a43708b5dd",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Machinery/EnergyGenerator/Generator_idle",
+        "eventGuid": "1c45aa34-afd5-4b53-9ef2-2fd0852080b6",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_jock/Enemy_jock_land_concrete",
+        "eventGuid": "65e9cbac-1cf0-4d06-9737-55ef00724c08",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_jock/Enemy_jock_land_metal",
+        "eventGuid": "f71b8699-6917-4c34-ab0c-dc0be465c58d",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_jock/Enemy_jock_land_snow",
+        "eventGuid": "b9f5f726-9e29-4cf9-bd5f-7a5099b31951",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_jock/Enemy_jock_land_wood",
+        "eventGuid": "fc8c8ddb-f39a-482b-92c9-92c879b1ae49",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_smasher/Enemy_smasher_vo_charge",
+        "eventGuid": "99a4faa7-d2fe-4a2f-8887-75c6e6787fe2",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_smasher/Enemy_smasher_vo_death",
+        "eventGuid": "279a7eb1-0837-4890-98a5-1715a3fa8c8d",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_smasher/Enemy_smasher_vo_roar",
+        "eventGuid": "670a2daf-3ef5-4f2c-94a5-7448e754f45b",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_smasher/Enemy_smasher_vo_telegraph",
+        "eventGuid": "c13e649f-cca3-4069-8110-8b8564ba9a60",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_smasher/Enemy_smasher_land",
+        "eventGuid": "35025935-7ee2-4c0e-8887-ba351e7b0409",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Interaction/Door_metal_fence/Door_metal_fence_close",
+        "eventGuid": "2d2c0a9e-3600-45e1-97c0-f894b90ece3c",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Interaction/Door_metal_fence/Door_metal_fence_move",
+        "eventGuid": "9fb69f63-96e1-45e6-96ab-1f823158e7cc",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Interaction/Door_metal_fence/Door_metal_fence_open",
+        "eventGuid": "50128530-6dc5-455a-820c-9cc7d3784e30",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Music/Stinger_freeze_death",
+        "eventGuid": "e7abf387-866e-47a7-a0ef-bc97b61fbf98",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/WP_light_hum",
+        "eventGuid": "87ba1ed1-80a9-4724-a05a-52f24867ba82",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/UI/UI_Objective",
+        "eventGuid": "704a7d4c-227d-4bc8-ad8d-ffdbfe6c2f6a",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Luna/ANIM_luna_footstep",
+        "eventGuid": "3a91869c-ea77-4303-8820-6539cc394b7d",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Luna/ANIM_luna_grab",
+        "eventGuid": "e045766a-8387-46aa-a3a3-3e167882cf01",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Luna/ANIM_luna_item_drop",
+        "eventGuid": "b7ec0d8f-f4cf-40b8-ad9c-d36bcd653d85",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Luna/ANIM_luna_metal_arm",
+        "eventGuid": "6f7fa533-6605-4fab-8a3a-f49aa0d83c51",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Luna/ANIM_luna_radio",
+        "eventGuid": "e02af075-1d93-43ad-a8fb-ea2ce54aec79",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Luna/ANIM_luna_sit_chair",
+        "eventGuid": "4caf31c8-a4bf-441f-8ebe-d938e7c7c503",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Luna/ANIM_luna_turn_chair",
+        "eventGuid": "bc756c21-3d3f-4ea8-b653-9258395ba103",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Luna/ANIM_luna_turn_valve",
+        "eventGuid": "832dd01f-f572-4d91-b0f7-ffaf11697838",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Luna/ANIM_luna_type",
+        "eventGuid": "8d9e52ef-a8a5-479e-8b7b-02e0fccdfb32",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Luna/ANIM_luna_welder_drop",
+        "eventGuid": "f0741176-cc21-41f9-a542-f73c4409566b",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Luna/ANIM_luna_welder_pickup",
+        "eventGuid": "1ca71b53-6ddb-4289-9a9d-33cc96e8a7e0",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Luna/ANIM_luna_wipe_clothes",
+        "eventGuid": "85e9b40f-8b84-4112-ae80-e42e400be99b",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/HUB/Scripted_earthquake_01",
+        "eventGuid": "83d88d7f-091d-4498-81ff-57e5e04a3562",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/HUB/Scripted_earthquake_02",
+        "eventGuid": "fda3a8a0-8cc6-4849-822c-77360068a83b",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Luna/ANIM_luna_busy_vo",
+        "eventGuid": "ff24e2f2-2bd5-438f-bed6-3828b51a443b",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Luna/ANIM_luna_weld_vo",
+        "eventGuid": "8e9cbe1b-5d01-46fb-9c28-e5c432f08e91",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Luna/ANIM_luna_switch",
+        "eventGuid": "52a95973-bc21-4e34-af39-3a0e59884555",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/UI/UI_Calibration_click",
+        "eventGuid": "cb565e6e-147e-462d-a1be-3c7e47f156f2",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/UI/UI_Calibration_hover",
+        "eventGuid": "db9dc618-6063-4c55-a313-b228e48f50cc",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/CM00 Intro/Scripted_frank_booster",
+        "eventGuid": "72488113-c688-4b6f-8711-580880f91dca",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/CM00 Intro/Scripted_frank_footstep",
+        "eventGuid": "8b1755f1-c4ac-4925-96be-9b46f2c453e6",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/CM00 Intro/Scripted_frank_jumpland",
+        "eventGuid": "696c9ad7-c545-4e88-b80b-0cc5a724fe4b",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/CM00 Intro/Scripted_frank_openhatch",
+        "eventGuid": "43dfe842-f3c1-4769-9c23-3d842003094e",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/CM00 Intro/Scripted_frank_shoots",
+        "eventGuid": "87de9986-5272-4674-ad32-dc3bc91eed9f",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/CM00 Intro/Scripted_frank_snowbreed",
+        "eventGuid": "22c592af-c7fb-4c1d-ba93-1299c2aaf8bf",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/CM00 Intro/Scripted_frank_snowbreed_crawl",
+        "eventGuid": "d178fdc0-0bc6-4100-af62-e24b27a5cfaa",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/CM00 Intro/Scripted_ATF_Logo",
+        "eventGuid": "0d4e6fe4-0a95-434c-b7a8-81e6ac19c54c",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor CM00 Intro/Ambience_CM00_Gunfight_01",
+        "eventGuid": "a938315a-80fa-424f-a8d9-a5e19d6cbc4c",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor CM00 Intro/Ambience_CM00_Gunfight_02",
+        "eventGuid": "213dc0e7-657f-4393-b89f-75485db8167c",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor CM00 Intro/Ambience_CM00_Gunfight_03",
+        "eventGuid": "326b383e-7fe3-40ef-bbec-03754ebd4a08",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_jock/Enemy_jock_footstep_concrete",
+        "eventGuid": "c75dac33-e053-4c73-81ab-dfce07d4dade",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_jock/Enemy_jock_footstep_dirt",
+        "eventGuid": "3a904e01-2265-4070-adfb-6dba8a7e5884",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_jock/Enemy_jock_footstep_glass",
+        "eventGuid": "d9d82012-9c33-4f6b-bce6-9ebdefacf448",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_jock/Enemy_jock_footstep_ice",
+        "eventGuid": "62b5a502-2596-4483-bd01-08e252ceaae5",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_jock/Enemy_jock_footstep_metal_hollow",
+        "eventGuid": "336199e8-0342-4e02-a90c-61ba5ce8e9ba",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_jock/Enemy_jock_footstep_metal_solid",
+        "eventGuid": "d609a34d-3666-4b07-bf15-5240207c0945",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_jock/Enemy_jock_footstep_snow_deep",
+        "eventGuid": "de1563a5-8848-47f5-a88a-0b78d6c51a41",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_jock/Enemy_jock_footstep_snow_wet",
+        "eventGuid": "61eedc5d-ef81-4542-93cb-2058519ae69d",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_jock/Enemy_jock_footstep_wood",
+        "eventGuid": "c4eefc1a-6d76-46d6-89a4-b0ccfd2f3403",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_common/Enemy_common_appear_slow",
+        "eventGuid": "4a683264-f442-4523-9567-e59a7e1c9a63",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_common/Enemy_common_fencestep",
+        "eventGuid": "df59ae5b-1b0f-4126-90a5-cfc949e9b0a2",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_common/Enemy_common_land_concrete",
+        "eventGuid": "0f7b551d-0e02-49e5-8d6e-4b870bfe8463",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_common/Enemy_common_land_metal",
+        "eventGuid": "17dda301-38c5-4796-8b44-95498d09defb",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_common/Enemy_common_land_snow",
+        "eventGuid": "a6134b45-c542-4de5-84e5-38f65151bd76",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_common/Enemy_common_land_wood",
+        "eventGuid": "b5ff2344-295e-4529-b742-2488a262c9dd",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_common/Enemy_common_melee",
+        "eventGuid": "cc7cc7e2-786e-49e6-bdcf-60c2991b9177",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/Crafting/Weapon_crafting_robot_offline",
+        "eventGuid": "ec8df282-2891-461e-8600-b95eed185914",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/Crafting/Weapon_crafting_robot_online",
+        "eventGuid": "f8bb1082-51ee-4f88-8ec2-736024dce030",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/CM00 Intro/Scripted_snowbreed_splat",
+        "eventGuid": "8b6321b3-2df9-44ec-b53e-31c8679adad3",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/CM00 Intro/Scripted_snowcat_rescue_stinger",
+        "eventGuid": "2d33f2bc-05db-43e0-87da-3451f5e8e315",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/CM00 Intro/Scripted_jock_walk_away",
+        "eventGuid": "99ccc4f4-7417-4ea3-8618-3a370f398109",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/Special 01/Weapon_power_missile_fire",
+        "eventGuid": "4bc48b51-13a9-4083-bc6d-9e9eef9bd56f",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Machinery/EnergyGenerator/AlarmTest",
+        "eventGuid": "e9b35b14-79e8-4180-bdb7-dcf221c546ed",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_common/Enemy_common_vo_announce",
+        "eventGuid": "2f982146-7870-4ba8-a055-4ee84193f0a0",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Outdoor/Outdoor World/Ambience_outdoor_clear_L",
+        "eventGuid": "af130288-03fd-489c-b29e-099726c7eb2c",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Outdoor/Outdoor World/Ambience_outdoor_clear_R",
+        "eventGuid": "cd0d6b40-c182-40ee-9491-5a287ce220a3",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Outdoor/Outdoor World/Ambience_outdoor_clear_SL",
+        "eventGuid": "3ca4c33d-b7da-4014-acfa-bedb5f588252",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Outdoor/Outdoor World/Ambience_outdoor_clear_SR",
+        "eventGuid": "8b8e1aed-ce44-43b0-b5f6-2b6168d43b35",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Outdoor/Outdoor World/Ambience_outdoor_world_02",
+        "eventGuid": "2155ef83-f323-4f9f-8845-cce6766903fc",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Outdoor/Outdoor World/Ambience_outdoor_world_SprawlCluster",
+        "eventGuid": "79f59204-f1c8-448a-a737-0875a330e400",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor DLC03/Ambience_indoor_boulevard_shop",
+        "eventGuid": "bc801ec1-f760-40e0-8ec1-7b51adb57ed1",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_skimmer/Enemy_skimmer_vo_announce",
+        "eventGuid": "caeb632d-b6f8-47be-aa04-f9d344ad76f6",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_skimmer/Enemy_skimmer_vo_despawn",
+        "eventGuid": "358c2caa-c92b-4176-93c7-3efe31cc4f9a",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Outdoor/Outdoor World/Ambience_outdoor_sprawl_calls",
+        "eventGuid": "a824e99b-e059-4b01-a1ca-274210400146",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Outdoor/Outdoor World/Ambience_outdoor_sprawl_calls_scatterer",
+        "eventGuid": "771a2cfe-2bff-451b-be60-fe3217e10b11",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Outdoor/Outdoor DLC03/Ambience_outdoor_dlc03_sprawl_cluster",
+        "eventGuid": "95f8ac52-d65a-44c0-bfd3-f0c1e965c233",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Outdoor/Outdoor DLC03/Ambience_outdoor_dlc03_sprawl_cluster_scatterer",
+        "eventGuid": "80773ceb-191b-4396-9a6b-5e8e9de51f20",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Outdoor/Outdoor DLC03/Ambience_outdoor_dlc03_building",
+        "eventGuid": "d29a0731-c418-4ee9-a3e2-0ae362edba28",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Outdoor/Outdoor DLC03/Ambience_outdoor_dlc03_building_scatterer",
+        "eventGuid": "4e5c3525-a4b5-4d04-89cb-02e496011250",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor DLC03/Ambience_indoor_dlc03_roomtone_01",
+        "eventGuid": "00342b02-cd5e-4733-838b-b2006a8b7668",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor DLC03/Ambience_indoor_dlc03_roomtone_02",
+        "eventGuid": "a8fc309b-ccf4-42f1-a8fb-09cd74185627",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor DLC03/Ambience_indoor_dlc03_saferoom",
+        "eventGuid": "f77e91ed-c7f6-4ef8-844c-d65cd628abb8",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor DLC03/Ambience_indoor_dlc03_sewerpipes",
+        "eventGuid": "8e310b46-73bf-4f81-a6bb-202e48fba0f8",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Outdoor/Outdoor DLC03/Ambience_outdoor_dlc03_wind",
+        "eventGuid": "10823d32-cf72-41f3-916a-53e9d25781dd",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Outdoor/Outdoor DLC03/Ambience_outdoor_dlc03_building_02",
+        "eventGuid": "16520088-9680-49cc-9dc5-519a37bdcbfb",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor DLC03/Ambience_indoor_dlc03_saferoom_final",
+        "eventGuid": "1ef67492-81cb-4053-990d-271dd6e97b4b",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_skimmer/Enemy_skimmer_vo_idle",
+        "eventGuid": "5391cd5f-3eed-434d-8a8a-7922fddf2524",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_skimmer/Enemy_skimmer_vo_aggro",
+        "eventGuid": "57db223a-0ebb-438c-b844-6583c3f3c148",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_skimmer/Enemy_skimmer_drop_loot",
+        "eventGuid": "3e57364b-5776-4840-9c00-dc335be0e140",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_skimmer/Enemy_skimmer_explode",
+        "eventGuid": "3fc5ac88-f6ec-4409-aaad-7317df19bd0f",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/RageBooster/Rage_booster_heartbeat",
+        "eventGuid": "ce5aeb7f-f3f4-400e-abb8-c5838d695ed5",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Player/Player_heartbeat",
+        "eventGuid": "7608f4d2-555a-4c34-b363-c46ec6d98e7b",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/Warhead/Warhead_explode",
+        "eventGuid": "9104edba-1129-4ba7-a9b2-5d985f13b9fc",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/LMG/Weapon_LMG_fire",
+        "eventGuid": "cd59b819-9c30-4b4c-ba44-07da74bfcfbd",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Weapons/Shotgun_auto/Weapon_shotgun_auto_fire",
+        "eventGuid": "4155baab-b4e1-4131-9243-133af5d6e3a1",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_sprawl/Enemy_sprawl_worm_appear",
+        "eventGuid": "7a0f5215-d4cf-42bb-ba60-c6839b32b5bc",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_sprawl/Enemy_sprawl_worm_disappear",
+        "eventGuid": "395b738b-9571-4567-b298-ca998e98365a",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_sprawl/Enemy_sprawl_worm_boss_appear",
+        "eventGuid": "57623be9-ebec-4872-a87a-d338e44bedec",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/DLC01/Scripted_rolling_door_open",
+        "eventGuid": "bf3675a7-5f2a-4010-b08b-8b409e086942",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor DLC01/Ambience_indoor_dlc01_sprawl_cluster",
+        "eventGuid": "626e70d5-7b68-4b3b-a3bf-7f2bee127d89",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Scripted/DLC01/Scripted_rolling_door_continue",
+        "eventGuid": "b86d22cf-4613-4fcd-814c-7e150c48c432",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_sprawl/Enemy_sprawl_worm_boss_spray",
+        "eventGuid": "425ee418-c19f-4cf3-a372-668ee2da7817",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Character/Enemy_sprawl/Enemy_sprawl_worm_boss_disappear",
+        "eventGuid": "1250e9ad-356f-4225-929b-ef68448757aa",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Outdoor/Outdoor DLC01/Ambience_outdoor_dlc01_building_01",
+        "eventGuid": "2c924d0f-8f2f-4443-96a0-318b5725e17c",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor DLC01/Ambience_indoor_bonaventura_01",
+        "eventGuid": "209dd413-5abe-4358-9a12-842e7d5d15da",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor DLC05/Amb_indoor_dlc05_ice",
+        "eventGuid": "724be66d-f989-48de-b3b0-786b2d6490fa",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor DLC05/Amb_indoor_dlc05_loop",
+        "eventGuid": "4f1bdad1-8602-4d7e-9304-7b7c3ba26f91",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor DLC05/Amb_indoor_dlc05_metal_scatterer",
+        "eventGuid": "822e803d-abf2-4c16-bf2d-368bc8459116",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor DLC05/Amb_indoor_dlc05_metrostress",
+        "eventGuid": "fe599275-4c1b-4335-b2b5-b289ac3c36d9",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor DLC05/Amb_indoor_dlc05_metrostress_scatterer",
+        "eventGuid": "8bb3d9fe-ffcf-4560-b065-5d171a6605cf",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor DLC05/Amb_indoor_dlc05_snowbreed_distant_scatterer",
+        "eventGuid": "aab0f769-a58c-41cd-b0ae-880bb51bdd8e",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor DLC05/Amb_indoor_dlc05_cave-opening",
+        "eventGuid": "bc614793-35c8-4ae6-9253-fa1dc32b17f8",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor DLC05/Amb_indoor_dlc05_roomtone_01",
+        "eventGuid": "bd9919a7-ad20-4c6b-9c70-29b5dba4b5c9",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor DLC05/Amb_indoor_dlc05_distant_sparks_scatterer",
+        "eventGuid": "c2b4b0cc-da6c-484f-947e-8bcea162662d",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor DLC05/Amb_indoor_dlc05_roomtone_02",
+        "eventGuid": "879f7da8-d15c-405c-bbb9-a515675fe3e7",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor DLC04/Amb_indoor_dlc04_gore_scatterer",
+        "eventGuid": "ff15525b-5a67-4c15-ac02-545e1107faa5",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor DLC04/Amb_indoor_dlc04_impactmetal_scatterer",
+        "eventGuid": "7a4baa3d-c9f3-4079-98c1-95de4a069dd0",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor DLC04/Amb_indoor_dlc04_loop",
+        "eventGuid": "71afbef2-4a56-48c0-a8d6-59c76ced8ad6",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor DLC04/Amb_indoor_dlc04_lowmetal_scatterer",
+        "eventGuid": "a774ecd3-fb8c-4ac5-9475-5e8106aac394",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor DLC04/Amb_indoor_dlc04_lowroar_scatterer",
+        "eventGuid": "c5b686c3-609b-4136-b203-4e63c0c8ca50",
+        "parameterSettings": []
+      },
+      {
+        "eventPath": "event:/ATF_PC/Ambiences/Indoor/Indoor DLC04/Amb_indoor_dlc04_screams_scatterer",
+        "eventGuid": "1b8f1fd9-0492-4586-acf6-712a77d89484",
+        "parameterSettings": []
+      }
+    ],
+    "excludedBankGuidsFromObstruction": [
+      "5ea1e4bb-a432-4d8d-b7d1-5b1a022fd0d7",
+      "00000000-0000-0000-0000-000000000000"
+    ],
+    "id": 0,
+    "name": "",
+    "category": ""
+  }
+]
+}

@@ -1,0 +1,2281 @@
+{
+  "TableId": 202,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "additiveTurnAnimations": {
+      "hasAdditiveTurnAnimations": false,
+      "animationClipFastLeft": {
+        "animationLength": 0.0333333351,
+        "assetName": "Lean_FarLeft",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Lean_FarLeft.AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipLeft": {
+        "animationLength": 0.0333333351,
+        "assetName": "Lean_Left",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Lean_Left.AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipNeutral": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipRight": {
+        "animationLength": 0.0333333351,
+        "assetName": "Lean_Right",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Lean_Right.AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipFastRight": {
+        "animationLength": 0.0333333351,
+        "assetName": "Lean_FarRight",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Lean_FarRight.AnimationClip",
+        "isSubAsset": true
+      }
+    },
+    "supportsStumbles": false,
+    "walkAnimations": [
+      {
+        "animationClipForward": {
+          "animationLength": 2.66666675,
+          "assetName": "Anim_CH_E_Horde_Walks_Fwd_B",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2.fbx",
+          "assetGUID": "6c145ab8c7e03d44ab78fc5c2bc7a53e",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2:Anim_CH_E_Horde_Walks_Fwd_B.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight45": {
+          "animationLength": 2.66666675,
+          "assetName": "Anim_CH_E_Horde_Walks_Fwd_B",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2.fbx",
+          "assetGUID": "6c145ab8c7e03d44ab78fc5c2bc7a53e",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2:Anim_CH_E_Horde_Walks_Fwd_B.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight90": {
+          "animationLength": 2.66666675,
+          "assetName": "Anim_CH_E_Horde_Walks_Rt90_B",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2.fbx",
+          "assetGUID": "6c145ab8c7e03d44ab78fc5c2bc7a53e",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2:Anim_CH_E_Horde_Walks_Rt90_B.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight135": {
+          "animationLength": 2.66666675,
+          "assetName": "Anim_CH_E_Horde_Walks_Rt135_B",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2.fbx",
+          "assetGUID": "6c145ab8c7e03d44ab78fc5c2bc7a53e",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2:Anim_CH_E_Horde_Walks_Rt135_B.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipBackward": {
+          "animationLength": 2.66666675,
+          "assetName": "Anim_CH_E_Horde_Walks_Bwd_B",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2.fbx",
+          "assetGUID": "6c145ab8c7e03d44ab78fc5c2bc7a53e",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2:Anim_CH_E_Horde_Walks_Bwd_B.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft135": {
+          "animationLength": 2.66666675,
+          "assetName": "Anim_CH_E_Horde_Walks_Lt135_B",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2.fbx",
+          "assetGUID": "6c145ab8c7e03d44ab78fc5c2bc7a53e",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2:Anim_CH_E_Horde_Walks_Lt135_B.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft90": {
+          "animationLength": 2.66666675,
+          "assetName": "Anim_CH_E_Horde_Walks_Lt90_B",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2.fbx",
+          "assetGUID": "6c145ab8c7e03d44ab78fc5c2bc7a53e",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2:Anim_CH_E_Horde_Walks_Lt90_B.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft45": {
+          "animationLength": 2.66666675,
+          "assetName": "Anim_CH_E_Horde_Walks_Fwd_B",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2.fbx",
+          "assetGUID": "6c145ab8c7e03d44ab78fc5c2bc7a53e",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2:Anim_CH_E_Horde_Walks_Fwd_B.AnimationClip",
+          "isSubAsset": true
+        },
+        "stumbleAnimationClips": [],
+        "stumbleChance": 0.5,
+        "animationMovementSpeed": 0.875,
+        "blendToIdleSpeedFraction": 0.5,
+        "blendToIdleCycleSpeedFraction": 0.25
+      },
+      {
+        "animationClipForward": {
+          "animationLength": 3.00000024,
+          "assetName": "Anim_CH_E_Horde_Walks_Fwd_D",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2.fbx",
+          "assetGUID": "6c145ab8c7e03d44ab78fc5c2bc7a53e",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2:Anim_CH_E_Horde_Walks_Fwd_D.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight45": {
+          "animationLength": 3.00000024,
+          "assetName": "Anim_CH_E_Horde_Walks_Fwd_D",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2.fbx",
+          "assetGUID": "6c145ab8c7e03d44ab78fc5c2bc7a53e",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2:Anim_CH_E_Horde_Walks_Fwd_D.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight90": {
+          "animationLength": 3.00000024,
+          "assetName": "Anim_CH_E_Horde_Walks_Fwd_D",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2.fbx",
+          "assetGUID": "6c145ab8c7e03d44ab78fc5c2bc7a53e",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2:Anim_CH_E_Horde_Walks_Fwd_D.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight135": {
+          "animationLength": 3.00000024,
+          "assetName": "Anim_CH_E_Horde_Walks_Fwd_D",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2.fbx",
+          "assetGUID": "6c145ab8c7e03d44ab78fc5c2bc7a53e",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2:Anim_CH_E_Horde_Walks_Fwd_D.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipBackward": {
+          "animationLength": 3.00000024,
+          "assetName": "Anim_CH_E_Horde_Walks_Fwd_D",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2.fbx",
+          "assetGUID": "6c145ab8c7e03d44ab78fc5c2bc7a53e",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2:Anim_CH_E_Horde_Walks_Fwd_D.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft135": {
+          "animationLength": 3.00000024,
+          "assetName": "Anim_CH_E_Horde_Walks_Fwd_D",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2.fbx",
+          "assetGUID": "6c145ab8c7e03d44ab78fc5c2bc7a53e",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2:Anim_CH_E_Horde_Walks_Fwd_D.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft90": {
+          "animationLength": 3.00000024,
+          "assetName": "Anim_CH_E_Horde_Walks_Fwd_D",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2.fbx",
+          "assetGUID": "6c145ab8c7e03d44ab78fc5c2bc7a53e",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2:Anim_CH_E_Horde_Walks_Fwd_D.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft45": {
+          "animationLength": 3.00000024,
+          "assetName": "Anim_CH_E_Horde_Walks_Fwd_D",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2.fbx",
+          "assetGUID": "6c145ab8c7e03d44ab78fc5c2bc7a53e",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks2:Anim_CH_E_Horde_Walks_Fwd_D.AnimationClip",
+          "isSubAsset": true
+        },
+        "stumbleAnimationClips": [],
+        "stumbleChance": 0.5,
+        "animationMovementSpeed": 0.8,
+        "blendToIdleSpeedFraction": 0.5,
+        "blendToIdleCycleSpeedFraction": 0.25
+      }
+    ],
+    "id": 0,
+    "name": "Generic Idle",
+    "category": ""
+  },
+  {
+    "additiveTurnAnimations": {
+      "hasAdditiveTurnAnimations": false,
+      "animationClipFastLeft": {
+        "animationLength": 0.0333333351,
+        "assetName": "Lean_FarLeft",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Lean_FarLeft.AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipLeft": {
+        "animationLength": 0.0333333351,
+        "assetName": "Lean_Left",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Lean_Left.AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipNeutral": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipRight": {
+        "animationLength": 0.0333333351,
+        "assetName": "Lean_Right",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Lean_Right.AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipFastRight": {
+        "animationLength": 0.0333333351,
+        "assetName": "Lean_FarRight",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Lean_FarRight.AnimationClip",
+        "isSubAsset": true
+      }
+    },
+    "supportsStumbles": false,
+    "walkAnimations": [
+      {
+        "animationClipForward": {
+          "animationLength": 3.00000024,
+          "assetName": "Anim_CH_E_Horde_Runs_Fwd_01",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Runs.fbx",
+          "assetGUID": "f14ea1d5cea2e2a4b9ee6264e0ae36cb",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Runs:Anim_CH_E_Horde_Runs_Fwd_01.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight45": {
+          "animationLength": 3.00000024,
+          "assetName": "Anim_CH_E_Horde_Runs_Fwd_01",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Runs.fbx",
+          "assetGUID": "f14ea1d5cea2e2a4b9ee6264e0ae36cb",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Runs:Anim_CH_E_Horde_Runs_Fwd_01.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight90": {
+          "animationLength": 3.00000024,
+          "assetName": "Anim_CH_E_Horde_Runs_Rt90",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Runs.fbx",
+          "assetGUID": "f14ea1d5cea2e2a4b9ee6264e0ae36cb",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Runs:Anim_CH_E_Horde_Runs_Rt90.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight135": {
+          "animationLength": 3.00000024,
+          "assetName": "Anim_CH_E_Horde_Runs_Rt135",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Runs.fbx",
+          "assetGUID": "f14ea1d5cea2e2a4b9ee6264e0ae36cb",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Runs:Anim_CH_E_Horde_Runs_Rt135.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipBackward": {
+          "animationLength": 3.00000024,
+          "assetName": "Anim_CH_E_Horde_Runs_Bwd",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Runs.fbx",
+          "assetGUID": "f14ea1d5cea2e2a4b9ee6264e0ae36cb",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Runs:Anim_CH_E_Horde_Runs_Bwd.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft135": {
+          "animationLength": 3.00000024,
+          "assetName": "Anim_CH_E_Horde_Runs_Lt135",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Runs.fbx",
+          "assetGUID": "f14ea1d5cea2e2a4b9ee6264e0ae36cb",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Runs:Anim_CH_E_Horde_Runs_Lt135.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft90": {
+          "animationLength": 3.00000024,
+          "assetName": "Anim_CH_E_Horde_Runs_Lt90",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Runs.fbx",
+          "assetGUID": "f14ea1d5cea2e2a4b9ee6264e0ae36cb",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Runs:Anim_CH_E_Horde_Runs_Lt90.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft45": {
+          "animationLength": 3.00000024,
+          "assetName": "Anim_CH_E_Horde_Runs_Fwd_01",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Runs.fbx",
+          "assetGUID": "f14ea1d5cea2e2a4b9ee6264e0ae36cb",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Runs:Anim_CH_E_Horde_Runs_Fwd_01.AnimationClip",
+          "isSubAsset": true
+        },
+        "stumbleAnimationClips": [],
+        "stumbleChance": 0.5,
+        "animationMovementSpeed": 5.0,
+        "blendToIdleSpeedFraction": 0.12,
+        "blendToIdleCycleSpeedFraction": 0.05
+      }
+    ],
+    "id": 3,
+    "name": "Generic Fast",
+    "category": ""
+  },
+  {
+    "additiveTurnAnimations": {
+      "hasAdditiveTurnAnimations": false,
+      "animationClipFastLeft": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipLeft": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipNeutral": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipRight": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipFastRight": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      }
+    },
+    "supportsStumbles": false,
+    "walkAnimations": [
+      {
+        "animationClipForward": {
+          "animationLength": 5.13333368,
+          "assetName": "Anim_CH_E_Horde_Prone_Fwd_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls.fbx",
+          "assetGUID": "4a3cc017340f2684a854d517a027f60d",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls:Anim_CH_E_Horde_Prone_Fwd_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight45": {
+          "animationLength": 5.13333368,
+          "assetName": "Anim_CH_E_Horde_Prone_Fwd_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls.fbx",
+          "assetGUID": "4a3cc017340f2684a854d517a027f60d",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls:Anim_CH_E_Horde_Prone_Fwd_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight90": {
+          "animationLength": 5.13333368,
+          "assetName": "Anim_CH_E_Horde_Prone_Fwd_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls.fbx",
+          "assetGUID": "4a3cc017340f2684a854d517a027f60d",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls:Anim_CH_E_Horde_Prone_Fwd_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight135": {
+          "animationLength": 5.13333368,
+          "assetName": "Anim_CH_E_Horde_Prone_Fwd_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls.fbx",
+          "assetGUID": "4a3cc017340f2684a854d517a027f60d",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls:Anim_CH_E_Horde_Prone_Fwd_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipBackward": {
+          "animationLength": 5.13333368,
+          "assetName": "Anim_CH_E_Horde_Prone_Fwd_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls.fbx",
+          "assetGUID": "4a3cc017340f2684a854d517a027f60d",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls:Anim_CH_E_Horde_Prone_Fwd_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft135": {
+          "animationLength": 5.13333368,
+          "assetName": "Anim_CH_E_Horde_Prone_Fwd_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls.fbx",
+          "assetGUID": "4a3cc017340f2684a854d517a027f60d",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls:Anim_CH_E_Horde_Prone_Fwd_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft90": {
+          "animationLength": 5.13333368,
+          "assetName": "Anim_CH_E_Horde_Prone_Fwd_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls.fbx",
+          "assetGUID": "4a3cc017340f2684a854d517a027f60d",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls:Anim_CH_E_Horde_Prone_Fwd_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft45": {
+          "animationLength": 5.13333368,
+          "assetName": "Anim_CH_E_Horde_Prone_Fwd_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls.fbx",
+          "assetGUID": "4a3cc017340f2684a854d517a027f60d",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls:Anim_CH_E_Horde_Prone_Fwd_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "stumbleAnimationClips": [],
+        "stumbleChance": 0.5,
+        "animationMovementSpeed": 0.65,
+        "blendToIdleSpeedFraction": 1.0,
+        "blendToIdleCycleSpeedFraction": 0.5
+      }
+    ],
+    "id": 4,
+    "name": "Prone",
+    "category": ""
+  },
+  {
+    "additiveTurnAnimations": {
+      "hasAdditiveTurnAnimations": false,
+      "animationClipFastLeft": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipLeft": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipNeutral": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipRight": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipFastRight": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      }
+    },
+    "supportsStumbles": false,
+    "walkAnimations": [
+      {
+        "animationClipForward": {
+          "animationLength": 0.900000036,
+          "assetName": "Anim_CH_E_Smasher_Attack_Charge_Run",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Attack_Charge.fbx",
+          "assetGUID": "6d479d60bea73f644beeface19d9b4cf",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Attack_Charge:Anim_CH_E_Smasher_Attack_Charge_Run.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight45": {
+          "animationLength": 0.900000036,
+          "assetName": "Anim_CH_E_Smasher_Attack_Charge_Run",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Attack_Charge.fbx",
+          "assetGUID": "6d479d60bea73f644beeface19d9b4cf",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Attack_Charge:Anim_CH_E_Smasher_Attack_Charge_Run.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight90": {
+          "animationLength": 0.900000036,
+          "assetName": "Anim_CH_E_Smasher_Attack_Charge_Run",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Attack_Charge.fbx",
+          "assetGUID": "6d479d60bea73f644beeface19d9b4cf",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Attack_Charge:Anim_CH_E_Smasher_Attack_Charge_Run.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight135": {
+          "animationLength": 0.900000036,
+          "assetName": "Anim_CH_E_Smasher_Attack_Charge_Run",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Attack_Charge.fbx",
+          "assetGUID": "6d479d60bea73f644beeface19d9b4cf",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Attack_Charge:Anim_CH_E_Smasher_Attack_Charge_Run.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipBackward": {
+          "animationLength": 0.900000036,
+          "assetName": "Anim_CH_E_Smasher_Attack_Charge_Run",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Attack_Charge.fbx",
+          "assetGUID": "6d479d60bea73f644beeface19d9b4cf",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Attack_Charge:Anim_CH_E_Smasher_Attack_Charge_Run.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft135": {
+          "animationLength": 0.900000036,
+          "assetName": "Anim_CH_E_Smasher_Attack_Charge_Run",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Attack_Charge.fbx",
+          "assetGUID": "6d479d60bea73f644beeface19d9b4cf",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Attack_Charge:Anim_CH_E_Smasher_Attack_Charge_Run.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft90": {
+          "animationLength": 0.900000036,
+          "assetName": "Anim_CH_E_Smasher_Attack_Charge_Run",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Attack_Charge.fbx",
+          "assetGUID": "6d479d60bea73f644beeface19d9b4cf",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Attack_Charge:Anim_CH_E_Smasher_Attack_Charge_Run.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft45": {
+          "animationLength": 0.900000036,
+          "assetName": "Anim_CH_E_Smasher_Attack_Charge_Run",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Attack_Charge.fbx",
+          "assetGUID": "6d479d60bea73f644beeface19d9b4cf",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Attack_Charge:Anim_CH_E_Smasher_Attack_Charge_Run.AnimationClip",
+          "isSubAsset": true
+        },
+        "stumbleAnimationClips": [],
+        "stumbleChance": 0.5,
+        "animationMovementSpeed": 4.0,
+        "blendToIdleSpeedFraction": 0.1,
+        "blendToIdleCycleSpeedFraction": 0.1
+      }
+    ],
+    "id": 9,
+    "name": "Smasher Run",
+    "category": ""
+  },
+  {
+    "additiveTurnAnimations": {
+      "hasAdditiveTurnAnimations": false,
+      "animationClipFastLeft": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipLeft": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipNeutral": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipRight": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipFastRight": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      }
+    },
+    "supportsStumbles": false,
+    "walkAnimations": [
+      {
+        "animationClipForward": {
+          "animationLength": 2.33333349,
+          "assetName": "Anim_CH_E_Eater_Walks_Fwd",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_Walks2.fbx",
+          "assetGUID": "c6d74742156a7784ea3315bd4d317502",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_Walks2:Anim_CH_E_Eater_Walks_Fwd.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight45": {
+          "animationLength": 2.33333349,
+          "assetName": "Anim_CH_E_Eater_Walks_Fwd",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_Walks2.fbx",
+          "assetGUID": "c6d74742156a7784ea3315bd4d317502",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_Walks2:Anim_CH_E_Eater_Walks_Fwd.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight90": {
+          "animationLength": 2.33333349,
+          "assetName": "Anim_CH_E_Eater_Walks_Rt90",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_Walks2.fbx",
+          "assetGUID": "c6d74742156a7784ea3315bd4d317502",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_Walks2:Anim_CH_E_Eater_Walks_Rt90.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight135": {
+          "animationLength": 2.33333349,
+          "assetName": "Anim_CH_E_Eater_Walks_Rt135",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_Walks2.fbx",
+          "assetGUID": "c6d74742156a7784ea3315bd4d317502",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_Walks2:Anim_CH_E_Eater_Walks_Rt135.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipBackward": {
+          "animationLength": 2.33333349,
+          "assetName": "Anim_CH_E_Eater_Walks_Bwd",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_Walks2.fbx",
+          "assetGUID": "c6d74742156a7784ea3315bd4d317502",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_Walks2:Anim_CH_E_Eater_Walks_Bwd.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft135": {
+          "animationLength": 2.33333349,
+          "assetName": "Anim_CH_E_Eater_Walks_Lt135",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_Walks2.fbx",
+          "assetGUID": "c6d74742156a7784ea3315bd4d317502",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_Walks2:Anim_CH_E_Eater_Walks_Lt135.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft90": {
+          "animationLength": 2.33333349,
+          "assetName": "Anim_CH_E_Eater_Walks_Lt90",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_Walks2.fbx",
+          "assetGUID": "c6d74742156a7784ea3315bd4d317502",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_Walks2:Anim_CH_E_Eater_Walks_Lt90.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft45": {
+          "animationLength": 2.33333349,
+          "assetName": "Anim_CH_E_Eater_Walks_Fwd",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_Walks2.fbx",
+          "assetGUID": "c6d74742156a7784ea3315bd4d317502",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Eater_Walks2:Anim_CH_E_Eater_Walks_Fwd.AnimationClip",
+          "isSubAsset": true
+        },
+        "stumbleAnimationClips": [],
+        "stumbleChance": 0.5,
+        "animationMovementSpeed": 1.7,
+        "blendToIdleSpeedFraction": 0.3,
+        "blendToIdleCycleSpeedFraction": 0.15
+      }
+    ],
+    "id": 10,
+    "name": "Eater Run",
+    "category": ""
+  },
+  {
+    "additiveTurnAnimations": {
+      "hasAdditiveTurnAnimations": false,
+      "animationClipFastLeft": {
+        "animationLength": 0.0333333351,
+        "assetName": "Lean_FarLeft",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Lean_FarLeft.AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipLeft": {
+        "animationLength": 0.0333333351,
+        "assetName": "Lean_Left",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Lean_Left.AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipNeutral": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipRight": {
+        "animationLength": 0.0333333351,
+        "assetName": "Lean_Right",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Lean_Right.AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipFastRight": {
+        "animationLength": 0.0333333351,
+        "assetName": "Lean_FarRight",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Lean_FarRight.AnimationClip",
+        "isSubAsset": true
+      }
+    },
+    "supportsStumbles": false,
+    "walkAnimations": [
+      {
+        "animationClipForward": {
+          "animationLength": 2.83333349,
+          "assetName": "Anim_CH_E_Jock_Walk_Fwd",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Jock_Walks.fbx",
+          "assetGUID": "1bfcf5606c77bda4e95015c66b99006d",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Jock_Walks:Anim_CH_E_Jock_Walk_Fwd.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight45": {
+          "animationLength": 2.83333349,
+          "assetName": "Anim_CH_E_Jock_Walk_Fwd",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Jock_Walks.fbx",
+          "assetGUID": "1bfcf5606c77bda4e95015c66b99006d",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Jock_Walks:Anim_CH_E_Jock_Walk_Fwd.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight90": {
+          "animationLength": 2.83333349,
+          "assetName": "Anim_CH_E_Jock_Walk_Rt",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Jock_Walks.fbx",
+          "assetGUID": "1bfcf5606c77bda4e95015c66b99006d",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Jock_Walks:Anim_CH_E_Jock_Walk_Rt.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight135": {
+          "animationLength": 2.83333349,
+          "assetName": "Anim_CH_E_Jock_Walk_Rt135",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Jock_Walks.fbx",
+          "assetGUID": "1bfcf5606c77bda4e95015c66b99006d",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Jock_Walks:Anim_CH_E_Jock_Walk_Rt135.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipBackward": {
+          "animationLength": 2.83333349,
+          "assetName": "Anim_CH_E_Jock_Walk_Bwd",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Jock_Walks.fbx",
+          "assetGUID": "1bfcf5606c77bda4e95015c66b99006d",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Jock_Walks:Anim_CH_E_Jock_Walk_Bwd.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft135": {
+          "animationLength": 2.83333349,
+          "assetName": "Anim_CH_E_Jock_Walk_Lt135",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Jock_Walks.fbx",
+          "assetGUID": "1bfcf5606c77bda4e95015c66b99006d",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Jock_Walks:Anim_CH_E_Jock_Walk_Lt135.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft90": {
+          "animationLength": 2.83333349,
+          "assetName": "Anim_CH_E_Jock_Walk_Lt",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Jock_Walks.fbx",
+          "assetGUID": "1bfcf5606c77bda4e95015c66b99006d",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Jock_Walks:Anim_CH_E_Jock_Walk_Lt.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft45": {
+          "animationLength": 2.83333349,
+          "assetName": "Anim_CH_E_Jock_Walk_Fwd",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Jock_Walks.fbx",
+          "assetGUID": "1bfcf5606c77bda4e95015c66b99006d",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Jock_Walks:Anim_CH_E_Jock_Walk_Fwd.AnimationClip",
+          "isSubAsset": true
+        },
+        "stumbleAnimationClips": [],
+        "stumbleChance": 0.5,
+        "animationMovementSpeed": 1.2,
+        "blendToIdleSpeedFraction": 0.8,
+        "blendToIdleCycleSpeedFraction": 0.4
+      }
+    ],
+    "id": 11,
+    "name": "Jock Run",
+    "category": ""
+  },
+  {
+    "additiveTurnAnimations": {
+      "hasAdditiveTurnAnimations": false,
+      "animationClipFastLeft": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipLeft": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipNeutral": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipRight": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipFastRight": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      }
+    },
+    "supportsStumbles": false,
+    "walkAnimations": [
+      {
+        "animationClipForward": {
+          "animationLength": 1.16666675,
+          "assetName": "Anim_CH_E_Smasher_Walk_Fwd",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Walks.fbx",
+          "assetGUID": "a308f0d428f7fdb4f93c48880ddeb472",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Walks:Anim_CH_E_Smasher_Walk_Fwd.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight45": {
+          "animationLength": 1.16666675,
+          "assetName": "Anim_CH_E_Smasher_Walk_Fwd",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Walks.fbx",
+          "assetGUID": "a308f0d428f7fdb4f93c48880ddeb472",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Walks:Anim_CH_E_Smasher_Walk_Fwd.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight90": {
+          "animationLength": 1.16666675,
+          "assetName": "Anim_CH_E_Smasher_Walk_Rt90",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Walks.fbx",
+          "assetGUID": "a308f0d428f7fdb4f93c48880ddeb472",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Walks:Anim_CH_E_Smasher_Walk_Rt90.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight135": {
+          "animationLength": 1.16666675,
+          "assetName": "Anim_CH_E_Smasher_Walk_Rt135",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Walks.fbx",
+          "assetGUID": "a308f0d428f7fdb4f93c48880ddeb472",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Walks:Anim_CH_E_Smasher_Walk_Rt135.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipBackward": {
+          "animationLength": 1.16666675,
+          "assetName": "Anim_CH_E_Smasher_Walk_Bwd",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Walks.fbx",
+          "assetGUID": "a308f0d428f7fdb4f93c48880ddeb472",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Walks:Anim_CH_E_Smasher_Walk_Bwd.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft135": {
+          "animationLength": 1.16666675,
+          "assetName": "Anim_CH_E_Smasher_Walk_Lt135",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Walks.fbx",
+          "assetGUID": "a308f0d428f7fdb4f93c48880ddeb472",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Walks:Anim_CH_E_Smasher_Walk_Lt135.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft90": {
+          "animationLength": 1.16666675,
+          "assetName": "Anim_CH_E_Smasher_Walk_Lt90",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Walks.fbx",
+          "assetGUID": "a308f0d428f7fdb4f93c48880ddeb472",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Walks:Anim_CH_E_Smasher_Walk_Lt90.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft45": {
+          "animationLength": 1.16666675,
+          "assetName": "Anim_CH_E_Smasher_Walk_Fwd",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Walks.fbx",
+          "assetGUID": "a308f0d428f7fdb4f93c48880ddeb472",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Smasher_Walks:Anim_CH_E_Smasher_Walk_Fwd.AnimationClip",
+          "isSubAsset": true
+        },
+        "stumbleAnimationClips": [],
+        "stumbleChance": 0.5,
+        "animationMovementSpeed": 2.3,
+        "blendToIdleSpeedFraction": 0.5,
+        "blendToIdleCycleSpeedFraction": 0.25
+      }
+    ],
+    "id": 13,
+    "name": "Smasher Walk",
+    "category": ""
+  },
+  {
+    "additiveTurnAnimations": {
+      "hasAdditiveTurnAnimations": false,
+      "animationClipFastLeft": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipLeft": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipNeutral": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipRight": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipFastRight": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      }
+    },
+    "supportsStumbles": false,
+    "walkAnimations": [
+      {
+        "animationClipForward": {
+          "animationLength": 1.0,
+          "assetName": "Anim_CH_E_Crawler_Run",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Crawler.fbx",
+          "assetGUID": "7cbd236bf477b3a44ae599d1f7428f10",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Crawler:Anim_CH_E_Crawler_Run.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight45": {
+          "animationLength": 1.0,
+          "assetName": "Anim_CH_E_Crawler_Run",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Crawler.fbx",
+          "assetGUID": "7cbd236bf477b3a44ae599d1f7428f10",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Crawler:Anim_CH_E_Crawler_Run.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight90": {
+          "animationLength": 1.0,
+          "assetName": "Anim_CH_E_Crawler_Run",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Crawler.fbx",
+          "assetGUID": "7cbd236bf477b3a44ae599d1f7428f10",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Crawler:Anim_CH_E_Crawler_Run.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight135": {
+          "animationLength": 1.0,
+          "assetName": "Anim_CH_E_Crawler_Run",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Crawler.fbx",
+          "assetGUID": "7cbd236bf477b3a44ae599d1f7428f10",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Crawler:Anim_CH_E_Crawler_Run.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipBackward": {
+          "animationLength": 1.0,
+          "assetName": "Anim_CH_E_Crawler_Run",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Crawler.fbx",
+          "assetGUID": "7cbd236bf477b3a44ae599d1f7428f10",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Crawler:Anim_CH_E_Crawler_Run.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft135": {
+          "animationLength": 1.0,
+          "assetName": "Anim_CH_E_Crawler_Run",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Crawler.fbx",
+          "assetGUID": "7cbd236bf477b3a44ae599d1f7428f10",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Crawler:Anim_CH_E_Crawler_Run.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft90": {
+          "animationLength": 1.0,
+          "assetName": "Anim_CH_E_Crawler_Run",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Crawler.fbx",
+          "assetGUID": "7cbd236bf477b3a44ae599d1f7428f10",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Crawler:Anim_CH_E_Crawler_Run.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft45": {
+          "animationLength": 1.0,
+          "assetName": "Anim_CH_E_Crawler_Run",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Crawler.fbx",
+          "assetGUID": "7cbd236bf477b3a44ae599d1f7428f10",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Crawler:Anim_CH_E_Crawler_Run.AnimationClip",
+          "isSubAsset": true
+        },
+        "stumbleAnimationClips": [],
+        "stumbleChance": 0.5,
+        "animationMovementSpeed": 1.8,
+        "blendToIdleSpeedFraction": 0.8,
+        "blendToIdleCycleSpeedFraction": 0.4
+      }
+    ],
+    "id": 14,
+    "name": "Crawler Run",
+    "category": ""
+  },
+  {
+    "additiveTurnAnimations": {
+      "hasAdditiveTurnAnimations": false,
+      "animationClipFastLeft": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipLeft": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipNeutral": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipRight": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipFastRight": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      }
+    },
+    "supportsStumbles": true,
+    "walkAnimations": [
+      {
+        "animationClipForward": {
+          "animationLength": 0.7666702,
+          "assetName": "Anim_CH_E_Horde_Crawl_Fwd_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2.fbx",
+          "assetGUID": "078f9638cc9044641a560ef7493606f4",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2:Anim_CH_E_Horde_Crawl_Fwd_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight45": {
+          "animationLength": 0.7666702,
+          "assetName": "Anim_CH_E_Horde_Crawl_Fwd_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2.fbx",
+          "assetGUID": "078f9638cc9044641a560ef7493606f4",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2:Anim_CH_E_Horde_Crawl_Fwd_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight90": {
+          "animationLength": 0.7666702,
+          "assetName": "Anim_CH_E_Horde_Crawl_Fwd_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2.fbx",
+          "assetGUID": "078f9638cc9044641a560ef7493606f4",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2:Anim_CH_E_Horde_Crawl_Fwd_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight135": {
+          "animationLength": 0.7666702,
+          "assetName": "Anim_CH_E_Horde_Crawl_Fwd_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2.fbx",
+          "assetGUID": "078f9638cc9044641a560ef7493606f4",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2:Anim_CH_E_Horde_Crawl_Fwd_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipBackward": {
+          "animationLength": 0.7666702,
+          "assetName": "Anim_CH_E_Horde_Crawl_Fwd_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2.fbx",
+          "assetGUID": "078f9638cc9044641a560ef7493606f4",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2:Anim_CH_E_Horde_Crawl_Fwd_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft135": {
+          "animationLength": 0.7666702,
+          "assetName": "Anim_CH_E_Horde_Crawl_Fwd_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2.fbx",
+          "assetGUID": "078f9638cc9044641a560ef7493606f4",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2:Anim_CH_E_Horde_Crawl_Fwd_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft90": {
+          "animationLength": 0.7666702,
+          "assetName": "Anim_CH_E_Horde_Crawl_Fwd_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2.fbx",
+          "assetGUID": "078f9638cc9044641a560ef7493606f4",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2:Anim_CH_E_Horde_Crawl_Fwd_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft45": {
+          "animationLength": 0.7666702,
+          "assetName": "Anim_CH_E_Horde_Crawl_Fwd_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2.fbx",
+          "assetGUID": "078f9638cc9044641a560ef7493606f4",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2:Anim_CH_E_Horde_Crawl_Fwd_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "stumbleAnimationClips": [
+          {
+            "animationLength": 0.7666702,
+            "assetName": "Anim_CH_E_Horde_Crawl_Fwd_A",
+            "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2.fbx",
+            "assetGUID": "078f9638cc9044641a560ef7493606f4",
+            "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2:Anim_CH_E_Horde_Crawl_Fwd_A.AnimationClip",
+            "isSubAsset": true
+          }
+        ],
+        "stumbleChance": 0.0,
+        "animationMovementSpeed": 1.85,
+        "blendToIdleSpeedFraction": 0.4,
+        "blendToIdleCycleSpeedFraction": 0.2
+      },
+      {
+        "animationClipForward": {
+          "animationLength": 1.000001,
+          "assetName": "Anim_CH_E_Horde_Crawl_Fwd_B",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2.fbx",
+          "assetGUID": "078f9638cc9044641a560ef7493606f4",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2:Anim_CH_E_Horde_Crawl_Fwd_B.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight45": {
+          "animationLength": 1.000001,
+          "assetName": "Anim_CH_E_Horde_Crawl_Fwd_B",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2.fbx",
+          "assetGUID": "078f9638cc9044641a560ef7493606f4",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2:Anim_CH_E_Horde_Crawl_Fwd_B.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight90": {
+          "animationLength": 1.000001,
+          "assetName": "Anim_CH_E_Horde_Crawl_Fwd_B",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2.fbx",
+          "assetGUID": "078f9638cc9044641a560ef7493606f4",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2:Anim_CH_E_Horde_Crawl_Fwd_B.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight135": {
+          "animationLength": 1.000001,
+          "assetName": "Anim_CH_E_Horde_Crawl_Fwd_B",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2.fbx",
+          "assetGUID": "078f9638cc9044641a560ef7493606f4",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2:Anim_CH_E_Horde_Crawl_Fwd_B.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipBackward": {
+          "animationLength": 1.000001,
+          "assetName": "Anim_CH_E_Horde_Crawl_Fwd_B",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2.fbx",
+          "assetGUID": "078f9638cc9044641a560ef7493606f4",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2:Anim_CH_E_Horde_Crawl_Fwd_B.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft135": {
+          "animationLength": 1.000001,
+          "assetName": "Anim_CH_E_Horde_Crawl_Fwd_B",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2.fbx",
+          "assetGUID": "078f9638cc9044641a560ef7493606f4",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2:Anim_CH_E_Horde_Crawl_Fwd_B.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft90": {
+          "animationLength": 1.000001,
+          "assetName": "Anim_CH_E_Horde_Crawl_Fwd_B",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2.fbx",
+          "assetGUID": "078f9638cc9044641a560ef7493606f4",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2:Anim_CH_E_Horde_Crawl_Fwd_B.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft45": {
+          "animationLength": 1.000001,
+          "assetName": "Anim_CH_E_Horde_Crawl_Fwd_B",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2.fbx",
+          "assetGUID": "078f9638cc9044641a560ef7493606f4",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2:Anim_CH_E_Horde_Crawl_Fwd_B.AnimationClip",
+          "isSubAsset": true
+        },
+        "stumbleAnimationClips": [
+          {
+            "animationLength": 2.333334,
+            "assetName": "Anim_CH_E_Horde_Crawl_Stumble_B",
+            "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2.fbx",
+            "assetGUID": "078f9638cc9044641a560ef7493606f4",
+            "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls2:Anim_CH_E_Horde_Crawl_Stumble_B.AnimationClip",
+            "isSubAsset": true
+          }
+        ],
+        "stumbleChance": 0.5,
+        "animationMovementSpeed": 1.6,
+        "blendToIdleSpeedFraction": 0.4,
+        "blendToIdleCycleSpeedFraction": 0.2
+      }
+    ],
+    "id": 15,
+    "name": "Generic Crawling",
+    "category": ""
+  },
+  {
+    "additiveTurnAnimations": {
+      "hasAdditiveTurnAnimations": false,
+      "animationClipFastLeft": {
+        "animationLength": 0.0333333351,
+        "assetName": "Lean_FarLeft",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Lean_FarLeft.AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipLeft": {
+        "animationLength": 0.0333333351,
+        "assetName": "Lean_Left",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Lean_Left.AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipNeutral": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipRight": {
+        "animationLength": 0.0333333351,
+        "assetName": "Lean_Right",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Lean_Right.AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipFastRight": {
+        "animationLength": 0.0333333351,
+        "assetName": "Lean_FarRight",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Lean_FarRight.AnimationClip",
+        "isSubAsset": true
+      }
+    },
+    "supportsStumbles": false,
+    "walkAnimations": [
+      {
+        "animationClipForward": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Walks_Aggro_Fwd_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+          "assetGUID": "1ac519275cb10b34d8127383923d2497",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Walks_Aggro_Fwd_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight45": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Walks_Aggro_Fwd_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+          "assetGUID": "1ac519275cb10b34d8127383923d2497",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Walks_Aggro_Fwd_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight90": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Walks_Aggro_Rt90_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+          "assetGUID": "1ac519275cb10b34d8127383923d2497",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Walks_Aggro_Rt90_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight135": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Walks_Aggro_Rt135_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+          "assetGUID": "1ac519275cb10b34d8127383923d2497",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Walks_Aggro_Rt135_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipBackward": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Walks_Aggro_Bwd_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+          "assetGUID": "1ac519275cb10b34d8127383923d2497",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Walks_Aggro_Bwd_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft135": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Walks_Aggro_Lt135_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+          "assetGUID": "1ac519275cb10b34d8127383923d2497",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Walks_Aggro_Lt135_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft90": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Walks_Aggro_Lt90_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+          "assetGUID": "1ac519275cb10b34d8127383923d2497",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Walks_Aggro_Lt90_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft45": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Walks_Aggro_Fwd_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+          "assetGUID": "1ac519275cb10b34d8127383923d2497",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Walks_Aggro_Fwd_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "stumbleAnimationClips": [
+          {
+            "animationLength": 2.0,
+            "assetName": "Anim_CH_E_Horde_Stumbles_A01",
+            "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+            "assetGUID": "1ac519275cb10b34d8127383923d2497",
+            "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Stumbles_A01.AnimationClip",
+            "isSubAsset": true
+          },
+          {
+            "animationLength": 2.0,
+            "assetName": "Anim_CH_E_Horde_Stumbles_A02",
+            "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+            "assetGUID": "1ac519275cb10b34d8127383923d2497",
+            "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Stumbles_A02.AnimationClip",
+            "isSubAsset": true
+          },
+          {
+            "animationLength": 2.0,
+            "assetName": "Anim_CH_E_Horde_Stumbles_A03",
+            "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+            "assetGUID": "1ac519275cb10b34d8127383923d2497",
+            "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Stumbles_A03.AnimationClip",
+            "isSubAsset": true
+          },
+          {
+            "animationLength": 2.0,
+            "assetName": "Anim_CH_E_Horde_Stumbles_A04",
+            "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+            "assetGUID": "1ac519275cb10b34d8127383923d2497",
+            "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Stumbles_A04.AnimationClip",
+            "isSubAsset": true
+          },
+          {
+            "animationLength": 2.0,
+            "assetName": "Anim_CH_E_Horde_Stumbles_A05",
+            "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+            "assetGUID": "1ac519275cb10b34d8127383923d2497",
+            "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Stumbles_A05.AnimationClip",
+            "isSubAsset": true
+          },
+          {
+            "animationLength": 2.0,
+            "assetName": "Anim_CH_E_Horde_Stumbles_A06",
+            "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+            "assetGUID": "1ac519275cb10b34d8127383923d2497",
+            "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Stumbles_A06.AnimationClip",
+            "isSubAsset": true
+          },
+          {
+            "animationLength": 2.0,
+            "assetName": "Anim_CH_E_Horde_Stumbles_A07",
+            "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+            "assetGUID": "1ac519275cb10b34d8127383923d2497",
+            "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Stumbles_A07.AnimationClip",
+            "isSubAsset": true
+          },
+          {
+            "animationLength": 2.0,
+            "assetName": "Anim_CH_E_Horde_Stumbles_A08",
+            "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+            "assetGUID": "1ac519275cb10b34d8127383923d2497",
+            "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Stumbles_A08.AnimationClip",
+            "isSubAsset": true
+          },
+          {
+            "animationLength": 2.0,
+            "assetName": "Anim_CH_E_Horde_Stumbles_A09",
+            "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+            "assetGUID": "1ac519275cb10b34d8127383923d2497",
+            "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Stumbles_A09.AnimationClip",
+            "isSubAsset": true
+          },
+          {
+            "animationLength": 2.0,
+            "assetName": "Anim_CH_E_Horde_Stumbles_A10",
+            "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+            "assetGUID": "1ac519275cb10b34d8127383923d2497",
+            "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Stumbles_A10.AnimationClip",
+            "isSubAsset": true
+          },
+          {
+            "animationLength": 2.0,
+            "assetName": "Anim_CH_E_Horde_Stumbles_A11",
+            "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+            "assetGUID": "1ac519275cb10b34d8127383923d2497",
+            "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Stumbles_A11.AnimationClip",
+            "isSubAsset": true
+          },
+          {
+            "animationLength": 2.0,
+            "assetName": "Anim_CH_E_Horde_Stumbles_A12",
+            "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+            "assetGUID": "1ac519275cb10b34d8127383923d2497",
+            "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Stumbles_A12.AnimationClip",
+            "isSubAsset": true
+          }
+        ],
+        "stumbleChance": 0.75,
+        "animationMovementSpeed": 1.5,
+        "blendToIdleSpeedFraction": 0.5,
+        "blendToIdleCycleSpeedFraction": 0.25
+      },
+      {
+        "animationClipForward": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Walks_Aggro_Fwd_B",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+          "assetGUID": "1ac519275cb10b34d8127383923d2497",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Walks_Aggro_Fwd_B.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight45": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Walks_Aggro_Fwd_B",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+          "assetGUID": "1ac519275cb10b34d8127383923d2497",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Walks_Aggro_Fwd_B.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight90": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Walks_Aggro_Rt90_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+          "assetGUID": "1ac519275cb10b34d8127383923d2497",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Walks_Aggro_Rt90_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight135": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Walks_Aggro_Rt135_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+          "assetGUID": "1ac519275cb10b34d8127383923d2497",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Walks_Aggro_Rt135_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipBackward": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Walks_Aggro_Bwd_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+          "assetGUID": "1ac519275cb10b34d8127383923d2497",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Walks_Aggro_Bwd_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft135": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Walks_Aggro_Lt135_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+          "assetGUID": "1ac519275cb10b34d8127383923d2497",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Walks_Aggro_Lt135_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft90": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Walks_Aggro_Lt90_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+          "assetGUID": "1ac519275cb10b34d8127383923d2497",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Walks_Aggro_Lt90_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft45": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Walks_Aggro_Fwd_B",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+          "assetGUID": "1ac519275cb10b34d8127383923d2497",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Walks_Aggro_Fwd_B.AnimationClip",
+          "isSubAsset": true
+        },
+        "stumbleAnimationClips": [
+          {
+            "animationLength": 2.0,
+            "assetName": "Anim_CH_E_Horde_Stumbles_B01",
+            "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+            "assetGUID": "1ac519275cb10b34d8127383923d2497",
+            "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Stumbles_B01.AnimationClip",
+            "isSubAsset": true
+          },
+          {
+            "animationLength": 2.0,
+            "assetName": "Anim_CH_E_Horde_Stumbles_B02",
+            "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+            "assetGUID": "1ac519275cb10b34d8127383923d2497",
+            "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Stumbles_B02.AnimationClip",
+            "isSubAsset": true
+          },
+          {
+            "animationLength": 2.0,
+            "assetName": "Anim_CH_E_Horde_Stumbles_B03",
+            "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+            "assetGUID": "1ac519275cb10b34d8127383923d2497",
+            "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Stumbles_B03.AnimationClip",
+            "isSubAsset": true
+          },
+          {
+            "animationLength": 2.0,
+            "assetName": "Anim_CH_E_Horde_Stumbles_B04",
+            "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+            "assetGUID": "1ac519275cb10b34d8127383923d2497",
+            "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Stumbles_B04.AnimationClip",
+            "isSubAsset": true
+          },
+          {
+            "animationLength": 2.0,
+            "assetName": "Anim_CH_E_Horde_Stumbles_B05",
+            "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+            "assetGUID": "1ac519275cb10b34d8127383923d2497",
+            "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Stumbles_B05.AnimationClip",
+            "isSubAsset": true
+          },
+          {
+            "animationLength": 2.0,
+            "assetName": "Anim_CH_E_Horde_Stumbles_B06",
+            "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+            "assetGUID": "1ac519275cb10b34d8127383923d2497",
+            "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Stumbles_B06.AnimationClip",
+            "isSubAsset": true
+          },
+          {
+            "animationLength": 2.0,
+            "assetName": "Anim_CH_E_Horde_Stumbles_B07",
+            "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+            "assetGUID": "1ac519275cb10b34d8127383923d2497",
+            "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Stumbles_B07.AnimationClip",
+            "isSubAsset": true
+          },
+          {
+            "animationLength": 2.0,
+            "assetName": "Anim_CH_E_Horde_Stumbles_B08",
+            "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+            "assetGUID": "1ac519275cb10b34d8127383923d2497",
+            "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Stumbles_B08.AnimationClip",
+            "isSubAsset": true
+          },
+          {
+            "animationLength": 2.0,
+            "assetName": "Anim_CH_E_Horde_Stumbles_B09",
+            "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+            "assetGUID": "1ac519275cb10b34d8127383923d2497",
+            "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Stumbles_B09.AnimationClip",
+            "isSubAsset": true
+          },
+          {
+            "animationLength": 2.0,
+            "assetName": "Anim_CH_E_Horde_Stumbles_B10",
+            "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+            "assetGUID": "1ac519275cb10b34d8127383923d2497",
+            "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Stumbles_B10.AnimationClip",
+            "isSubAsset": true
+          },
+          {
+            "animationLength": 2.0,
+            "assetName": "Anim_CH_E_Horde_Stumbles_B11",
+            "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+            "assetGUID": "1ac519275cb10b34d8127383923d2497",
+            "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Stumbles_B11.AnimationClip",
+            "isSubAsset": true
+          },
+          {
+            "animationLength": 2.0,
+            "assetName": "Anim_CH_E_Horde_Stumbles_B12",
+            "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+            "assetGUID": "1ac519275cb10b34d8127383923d2497",
+            "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Stumbles_B12.AnimationClip",
+            "isSubAsset": true
+          }
+        ],
+        "stumbleChance": 0.75,
+        "animationMovementSpeed": 1.5,
+        "blendToIdleSpeedFraction": 0.5,
+        "blendToIdleCycleSpeedFraction": 0.25
+      },
+      {
+        "animationClipForward": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Walks_Aggro_Fwd_C",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+          "assetGUID": "1ac519275cb10b34d8127383923d2497",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Walks_Aggro_Fwd_C.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight45": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Walks_Aggro_Rt45_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+          "assetGUID": "1ac519275cb10b34d8127383923d2497",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Walks_Aggro_Rt45_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight90": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Walks_Aggro_Rt90_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+          "assetGUID": "1ac519275cb10b34d8127383923d2497",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Walks_Aggro_Rt90_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight135": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Walks_Aggro_Rt135_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+          "assetGUID": "1ac519275cb10b34d8127383923d2497",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Walks_Aggro_Rt135_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipBackward": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Walks_Aggro_Bwd_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+          "assetGUID": "1ac519275cb10b34d8127383923d2497",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Walks_Aggro_Bwd_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft135": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Walks_Aggro_Lt135_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+          "assetGUID": "1ac519275cb10b34d8127383923d2497",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Walks_Aggro_Lt135_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft90": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Walks_Aggro_Lt90_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+          "assetGUID": "1ac519275cb10b34d8127383923d2497",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Walks_Aggro_Lt90_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft45": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Walks_Aggro_Lt45_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+          "assetGUID": "1ac519275cb10b34d8127383923d2497",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Walks_Aggro_Lt45_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "stumbleAnimationClips": [],
+        "stumbleChance": 0.75,
+        "animationMovementSpeed": 1.5,
+        "blendToIdleSpeedFraction": 0.5,
+        "blendToIdleCycleSpeedFraction": 0.25
+      },
+      {
+        "animationClipForward": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Walks_Aggro_Fwd_D",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+          "assetGUID": "1ac519275cb10b34d8127383923d2497",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Walks_Aggro_Fwd_D.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight45": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Walks_Aggro_Rt45_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+          "assetGUID": "1ac519275cb10b34d8127383923d2497",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Walks_Aggro_Rt45_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight90": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Walks_Aggro_Rt90_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+          "assetGUID": "1ac519275cb10b34d8127383923d2497",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Walks_Aggro_Rt90_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight135": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Walks_Aggro_Rt135_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+          "assetGUID": "1ac519275cb10b34d8127383923d2497",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Walks_Aggro_Rt135_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipBackward": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Walks_Aggro_Bwd_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+          "assetGUID": "1ac519275cb10b34d8127383923d2497",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Walks_Aggro_Bwd_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft135": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Walks_Aggro_Lt135_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+          "assetGUID": "1ac519275cb10b34d8127383923d2497",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Walks_Aggro_Lt135_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft90": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Walks_Aggro_Lt90_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+          "assetGUID": "1ac519275cb10b34d8127383923d2497",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Walks_Aggro_Lt90_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft45": {
+          "animationLength": 2.0,
+          "assetName": "Anim_CH_E_Horde_Walks_Aggro_Lt45_A",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3.fbx",
+          "assetGUID": "1ac519275cb10b34d8127383923d2497",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Walks3:Anim_CH_E_Horde_Walks_Aggro_Lt45_A.AnimationClip",
+          "isSubAsset": true
+        },
+        "stumbleAnimationClips": [],
+        "stumbleChance": 0.75,
+        "animationMovementSpeed": 1.5,
+        "blendToIdleSpeedFraction": 0.5,
+        "blendToIdleCycleSpeedFraction": 0.25
+      }
+    ],
+    "id": 16,
+    "name": "Generic Slow Mocap",
+    "category": ""
+  },
+  {
+    "additiveTurnAnimations": {
+      "hasAdditiveTurnAnimations": false,
+      "animationClipFastLeft": {
+        "animationLength": 0.0333333351,
+        "assetName": "Lean_FarLeft",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Lean_FarLeft.AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipLeft": {
+        "animationLength": 0.0333333351,
+        "assetName": "Lean_Left",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Lean_Left.AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipNeutral": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipRight": {
+        "animationLength": 0.0333333351,
+        "assetName": "Lean_Right",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Lean_Right.AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipFastRight": {
+        "animationLength": 0.0333333351,
+        "assetName": "Lean_FarRight",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Lean_FarRight.AnimationClip",
+        "isSubAsset": true
+      }
+    },
+    "supportsStumbles": false,
+    "walkAnimations": [
+      {
+        "animationClipForward": {
+          "animationLength": 0.733352661,
+          "assetName": "Anim_Ch_E_Brute_Run_Fwd",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Brute.fbx",
+          "assetGUID": "6ffc2f896eeac0843ad6096de3e2936c",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Brute:Anim_Ch_E_Brute_Run_Fwd.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight45": {
+          "animationLength": 0.733352661,
+          "assetName": "Anim_Ch_E_Brute_Run_Fwd",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Brute.fbx",
+          "assetGUID": "6ffc2f896eeac0843ad6096de3e2936c",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Brute:Anim_Ch_E_Brute_Run_Fwd.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight90": {
+          "animationLength": 0.733352661,
+          "assetName": "Anim_Ch_E_Brute_Run_Fwd",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Brute.fbx",
+          "assetGUID": "6ffc2f896eeac0843ad6096de3e2936c",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Brute:Anim_Ch_E_Brute_Run_Fwd.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight135": {
+          "animationLength": 0.733352661,
+          "assetName": "Anim_Ch_E_Brute_Run_Fwd",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Brute.fbx",
+          "assetGUID": "6ffc2f896eeac0843ad6096de3e2936c",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Brute:Anim_Ch_E_Brute_Run_Fwd.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipBackward": {
+          "animationLength": 0.733352661,
+          "assetName": "Anim_Ch_E_Brute_Run_Fwd",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Brute.fbx",
+          "assetGUID": "6ffc2f896eeac0843ad6096de3e2936c",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Brute:Anim_Ch_E_Brute_Run_Fwd.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft135": {
+          "animationLength": 0.733352661,
+          "assetName": "Anim_Ch_E_Brute_Run_Fwd",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Brute.fbx",
+          "assetGUID": "6ffc2f896eeac0843ad6096de3e2936c",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Brute:Anim_Ch_E_Brute_Run_Fwd.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft90": {
+          "animationLength": 0.733352661,
+          "assetName": "Anim_Ch_E_Brute_Run_Fwd",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Brute.fbx",
+          "assetGUID": "6ffc2f896eeac0843ad6096de3e2936c",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Brute:Anim_Ch_E_Brute_Run_Fwd.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft45": {
+          "animationLength": 0.733352661,
+          "assetName": "Anim_Ch_E_Brute_Run_Fwd",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Brute.fbx",
+          "assetGUID": "6ffc2f896eeac0843ad6096de3e2936c",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Brute:Anim_Ch_E_Brute_Run_Fwd.AnimationClip",
+          "isSubAsset": true
+        },
+        "stumbleAnimationClips": [],
+        "stumbleChance": 0.5,
+        "animationMovementSpeed": 4.0,
+        "blendToIdleSpeedFraction": 0.5,
+        "blendToIdleCycleSpeedFraction": 0.25
+      }
+    ],
+    "id": 17,
+    "name": "Brute Run",
+    "category": ""
+  },
+  {
+    "additiveTurnAnimations": {
+      "hasAdditiveTurnAnimations": false,
+      "animationClipFastLeft": {
+        "animationLength": 0.0333333351,
+        "assetName": "Lean_FarLeft",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Lean_FarLeft.AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipLeft": {
+        "animationLength": 0.0333333351,
+        "assetName": "Lean_Left",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Lean_Left.AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipNeutral": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipRight": {
+        "animationLength": 0.0333333351,
+        "assetName": "Lean_Right",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Lean_Right.AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipFastRight": {
+        "animationLength": 0.0333333351,
+        "assetName": "Lean_FarRight",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Lean_FarRight.AnimationClip",
+        "isSubAsset": true
+      }
+    },
+    "supportsStumbles": false,
+    "walkAnimations": [
+      {
+        "animationClipForward": {
+          "animationLength": 0.6666667,
+          "assetName": "Anim_CH_E_LootGoblin_Run",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_LootGoblin.fbx",
+          "assetGUID": "98171f3f74a5b3d41b992c2c6844a0fc",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_LootGoblin:Anim_CH_E_LootGoblin_Run.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight45": {
+          "animationLength": 0.6666667,
+          "assetName": "Anim_CH_E_LootGoblin_Run",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_LootGoblin.fbx",
+          "assetGUID": "98171f3f74a5b3d41b992c2c6844a0fc",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_LootGoblin:Anim_CH_E_LootGoblin_Run.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight90": {
+          "animationLength": 0.6666667,
+          "assetName": "Anim_CH_E_LootGoblin_Run",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_LootGoblin.fbx",
+          "assetGUID": "98171f3f74a5b3d41b992c2c6844a0fc",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_LootGoblin:Anim_CH_E_LootGoblin_Run.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight135": {
+          "animationLength": 0.6666667,
+          "assetName": "Anim_CH_E_LootGoblin_Run",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_LootGoblin.fbx",
+          "assetGUID": "98171f3f74a5b3d41b992c2c6844a0fc",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_LootGoblin:Anim_CH_E_LootGoblin_Run.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipBackward": {
+          "animationLength": 0.6666667,
+          "assetName": "Anim_CH_E_LootGoblin_Run",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_LootGoblin.fbx",
+          "assetGUID": "98171f3f74a5b3d41b992c2c6844a0fc",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_LootGoblin:Anim_CH_E_LootGoblin_Run.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft135": {
+          "animationLength": 0.6666667,
+          "assetName": "Anim_CH_E_LootGoblin_Run",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_LootGoblin.fbx",
+          "assetGUID": "98171f3f74a5b3d41b992c2c6844a0fc",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_LootGoblin:Anim_CH_E_LootGoblin_Run.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft90": {
+          "animationLength": 0.6666667,
+          "assetName": "Anim_CH_E_LootGoblin_Run",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_LootGoblin.fbx",
+          "assetGUID": "98171f3f74a5b3d41b992c2c6844a0fc",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_LootGoblin:Anim_CH_E_LootGoblin_Run.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft45": {
+          "animationLength": 0.6666667,
+          "assetName": "Anim_CH_E_LootGoblin_Run",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_LootGoblin.fbx",
+          "assetGUID": "98171f3f74a5b3d41b992c2c6844a0fc",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_LootGoblin:Anim_CH_E_LootGoblin_Run.AnimationClip",
+          "isSubAsset": true
+        },
+        "stumbleAnimationClips": [],
+        "stumbleChance": 0.5,
+        "animationMovementSpeed": 5.0,
+        "blendToIdleSpeedFraction": 0.5,
+        "blendToIdleCycleSpeedFraction": 0.25
+      }
+    ],
+    "id": 18,
+    "name": "Loot Goblin Run",
+    "category": ""
+  },
+  {
+    "additiveTurnAnimations": {
+      "hasAdditiveTurnAnimations": false,
+      "animationClipFastLeft": {
+        "animationLength": 0.0333333351,
+        "assetName": "Lean_FarLeft",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Lean_FarLeft.AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipLeft": {
+        "animationLength": 0.0333333351,
+        "assetName": "Lean_Left",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Lean_Left.AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipNeutral": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipRight": {
+        "animationLength": 0.0333333351,
+        "assetName": "Lean_Right",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Lean_Right.AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipFastRight": {
+        "animationLength": 0.0333333351,
+        "assetName": "Lean_FarRight",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Lean_FarRight.AnimationClip",
+        "isSubAsset": true
+      }
+    },
+    "supportsStumbles": false,
+    "walkAnimations": [
+      {
+        "animationClipForward": {
+          "animationLength": 0.7333336,
+          "assetName": "Anim_CH_E_Charger_Charge_Attack_Run",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Charger_ChargeRunFix.fbx",
+          "assetGUID": "87058024b43130c43bdbb6ed2f21b562",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Charger_ChargeRunFix:Anim_CH_E_Charger_Charge_Attack_Run.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight45": {
+          "animationLength": 0.7333336,
+          "assetName": "Anim_CH_E_Charger_Charge_Attack_Run",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Charger_ChargeRunFix.fbx",
+          "assetGUID": "87058024b43130c43bdbb6ed2f21b562",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Charger_ChargeRunFix:Anim_CH_E_Charger_Charge_Attack_Run.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight90": {
+          "animationLength": 0.7333336,
+          "assetName": "Anim_CH_E_Charger_Charge_Attack_Run",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Charger_ChargeRunFix.fbx",
+          "assetGUID": "87058024b43130c43bdbb6ed2f21b562",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Charger_ChargeRunFix:Anim_CH_E_Charger_Charge_Attack_Run.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight135": {
+          "animationLength": 0.7333336,
+          "assetName": "Anim_CH_E_Charger_Charge_Attack_Run",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Charger_ChargeRunFix.fbx",
+          "assetGUID": "87058024b43130c43bdbb6ed2f21b562",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Charger_ChargeRunFix:Anim_CH_E_Charger_Charge_Attack_Run.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipBackward": {
+          "animationLength": 0.7333336,
+          "assetName": "Anim_CH_E_Charger_Charge_Attack_Run",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Charger_ChargeRunFix.fbx",
+          "assetGUID": "87058024b43130c43bdbb6ed2f21b562",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Charger_ChargeRunFix:Anim_CH_E_Charger_Charge_Attack_Run.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft135": {
+          "animationLength": 0.7333336,
+          "assetName": "Anim_CH_E_Charger_Charge_Attack_Run",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Charger_ChargeRunFix.fbx",
+          "assetGUID": "87058024b43130c43bdbb6ed2f21b562",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Charger_ChargeRunFix:Anim_CH_E_Charger_Charge_Attack_Run.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft90": {
+          "animationLength": 0.7333336,
+          "assetName": "Anim_CH_E_Charger_Charge_Attack_Run",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Charger_ChargeRunFix.fbx",
+          "assetGUID": "87058024b43130c43bdbb6ed2f21b562",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Charger_ChargeRunFix:Anim_CH_E_Charger_Charge_Attack_Run.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft45": {
+          "animationLength": 0.7333336,
+          "assetName": "Anim_CH_E_Charger_Charge_Attack_Run",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Charger_ChargeRunFix.fbx",
+          "assetGUID": "87058024b43130c43bdbb6ed2f21b562",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Charger_ChargeRunFix:Anim_CH_E_Charger_Charge_Attack_Run.AnimationClip",
+          "isSubAsset": true
+        },
+        "stumbleAnimationClips": [],
+        "stumbleChance": 0.0,
+        "animationMovementSpeed": 3.5,
+        "blendToIdleSpeedFraction": 0.5,
+        "blendToIdleCycleSpeedFraction": 0.25
+      }
+    ],
+    "id": 19,
+    "name": "Charger Run",
+    "category": ""
+  },
+  {
+    "additiveTurnAnimations": {
+      "hasAdditiveTurnAnimations": false,
+      "animationClipFastLeft": {
+        "animationLength": 0.0333333351,
+        "assetName": "Lean_FarLeft",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Lean_FarLeft.AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipLeft": {
+        "animationLength": 0.0333333351,
+        "assetName": "Lean_Left",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Lean_Left.AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipNeutral": {
+        "animationLength": 0.0333333351,
+        "assetName": "Neutral(T-pose)",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Neutral(T-pose).AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipRight": {
+        "animationLength": 0.0333333351,
+        "assetName": "Lean_Right",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Lean_Right.AnimationClip",
+        "isSubAsset": true
+      },
+      "animationClipFastRight": {
+        "animationLength": 0.0333333351,
+        "assetName": "Lean_FarRight",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives.fbx",
+        "assetGUID": "3067b30f13642784790f1ae1ed1c1f2c",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_LeanAdditives:Lean_FarRight.AnimationClip",
+        "isSubAsset": true
+      }
+    },
+    "supportsStumbles": false,
+    "walkAnimations": [
+      {
+        "animationClipForward": {
+          "animationLength": 2.66667175,
+          "assetName": "Anim_CH_E_Gunner_Walk_Fwd",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Gunner.fbx",
+          "assetGUID": "d35f070f4d4f530469979f4ba6f37369",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Gunner:Anim_CH_E_Gunner_Walk_Fwd.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight45": {
+          "animationLength": 2.66667175,
+          "assetName": "Anim_CH_E_Gunner_Walk_Fwd",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Gunner.fbx",
+          "assetGUID": "d35f070f4d4f530469979f4ba6f37369",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Gunner:Anim_CH_E_Gunner_Walk_Fwd.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight90": {
+          "animationLength": 2.66667175,
+          "assetName": "Anim_CH_E_Gunner_Walk_Rt90",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Gunner.fbx",
+          "assetGUID": "d35f070f4d4f530469979f4ba6f37369",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Gunner:Anim_CH_E_Gunner_Walk_Rt90.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipRight135": {
+          "animationLength": 2.66667175,
+          "assetName": "Anim_CH_E_Gunner_Walk_Rt135",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Gunner.fbx",
+          "assetGUID": "d35f070f4d4f530469979f4ba6f37369",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Gunner:Anim_CH_E_Gunner_Walk_Rt135.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipBackward": {
+          "animationLength": 2.66667175,
+          "assetName": "Anim_CH_E_Gunner_Walk_Bwd",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Gunner.fbx",
+          "assetGUID": "d35f070f4d4f530469979f4ba6f37369",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Gunner:Anim_CH_E_Gunner_Walk_Bwd.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft135": {
+          "animationLength": 2.66667175,
+          "assetName": "Anim_CH_E_Gunner_Walk_Lt135",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Gunner.fbx",
+          "assetGUID": "d35f070f4d4f530469979f4ba6f37369",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Gunner:Anim_CH_E_Gunner_Walk_Lt135.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft90": {
+          "animationLength": 2.66667175,
+          "assetName": "Anim_CH_E_Gunner_Walk_Rt90",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Gunner.fbx",
+          "assetGUID": "d35f070f4d4f530469979f4ba6f37369",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Gunner:Anim_CH_E_Gunner_Walk_Rt90.AnimationClip",
+          "isSubAsset": true
+        },
+        "animationClipLeft45": {
+          "animationLength": 2.66667175,
+          "assetName": "Anim_CH_E_Gunner_Walk_Fwd",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Gunner.fbx",
+          "assetGUID": "d35f070f4d4f530469979f4ba6f37369",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Gunner:Anim_CH_E_Gunner_Walk_Fwd.AnimationClip",
+          "isSubAsset": true
+        },
+        "stumbleAnimationClips": [],
+        "stumbleChance": 0.0,
+        "animationMovementSpeed": 1.2,
+        "blendToIdleSpeedFraction": 0.8,
+        "blendToIdleCycleSpeedFraction": 0.4
+      }
+    ],
+    "id": 20,
+    "name": "Gunner Run",
+    "category": ""
+  }
+]
+}

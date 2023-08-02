@@ -1,0 +1,24 @@
+{
+  "TableId": 50040,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "enabled": true,
+    "localizationKey": "CHIPSET_DUMMY",
+    "descriptionLocalizationKey": "CHIPSET_DUMMY_DESC",
+    "iconSprite": {
+      "assetName": "icon_chipset",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/icon_chipset.png",
+      "assetGUID": "24d470bfd561da74688d25473cc0538e",
+      "resourcePath": "icon_chipset:icon_chipset.Sprite",
+      "isSubAsset": true
+    },
+    "cost": 2500,
+    "itemIconType": 0,
+    "itemStatModifiers": [],
+    "id": 0,
+    "name": "Dummy Chipset",
+    "category": ""
+  }
+]
+}

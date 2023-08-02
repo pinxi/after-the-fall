@@ -1,0 +1,3111 @@
+{
+  "TableId": 200,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "artColor": {
+      "color4": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "w": 1.0
+      }
+    },
+    "lootTable": {
+      "loot": [
+        {
+          "resourceType": 4,
+          "minResourceCount": 16,
+          "maxResourceCount": 16,
+          "minMaxResourceCountWeightCurve": {
+            "keys": [
+              {
+                "time": 0.0,
+                "value": 0.0,
+                "inTangent": 0.0,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.5,
+                "value": 1.0,
+                "inTangent": 0.0,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 1.0,
+                "value": 0.0,
+                "inTangent": 0.0,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              }
+            ],
+            "preWrapMode": 8,
+            "postWrapMode": 8
+          },
+          "categoryRelativeDropWeight": 4.0,
+          "minMaxResourceCountWeightCumulativeCurve": {
+            "keys": [
+              {
+                "time": 0.0,
+                "value": 0.0,
+                "inTangent": 0.0,
+                "outTangent": 25.23848,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.00320178084,
+                "value": 0.08080808,
+                "inTangent": 7.327393,
+                "outTangent": 7.327393,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.0174991675,
+                "value": 0.141414151,
+                "inTangent": 2.98541451,
+                "outTangent": 2.98541451,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.0308416449,
+                "value": 0.171717167,
+                "inTangent": 1.92957473,
+                "outTangent": 1.92957473,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.04906884,
+                "value": 0.202020183,
+                "inTangent": 1.40521455,
+                "outTangent": 1.40521455,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.09121853,
+                "value": 0.2525252,
+                "inTangent": 1.01388514,
+                "outTangent": 1.01388514,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.161835983,
+                "value": 0.313131332,
+                "inTangent": 0.756669343,
+                "outTangent": 0.756669343,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.253089666,
+                "value": 0.373737454,
+                "inTangent": 0.6111751,
+                "outTangent": 0.6111751,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.361201882,
+                "value": 0.434343576,
+                "inTangent": 0.537582636,
+                "outTangent": 0.537582636,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.694625258,
+                "value": 0.6060609,
+                "inTangent": 0.558734238,
+                "outTangent": 0.558734238,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.7949422,
+                "value": 0.666667044,
+                "inTangent": 0.6653405,
+                "outTangent": 0.6653405,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.8641088,
+                "value": 0.717172146,
+                "inTangent": 0.8371692,
+                "outTangent": 0.8371692,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.927455664,
+                "value": 0.777778268,
+                "inTangent": 1.10999,
+                "outTangent": 1.10999,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9509317,
+                "value": 0.8080813,
+                "inTangent": 1.49310517,
+                "outTangent": 1.49310517,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9741264,
+                "value": 0.8484854,
+                "inTangent": 2.088447,
+                "outTangent": 2.088447,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.985949457,
+                "value": 0.8787885,
+                "inTangent": 3.22451282,
+                "outTangent": 3.22451282,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.995386064,
+                "value": 0.919192553,
+                "inTangent": 6.933446,
+                "outTangent": 6.933446,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 1.00000024,
+                "value": 1.00000072,
+                "inTangent": 17.51303,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              }
+            ],
+            "preWrapMode": 8,
+            "postWrapMode": 8
+          }
+        },
+        {
+          "resourceType": 15,
+          "minResourceCount": 50,
+          "maxResourceCount": 50,
+          "minMaxResourceCountWeightCurve": {
+            "keys": [
+              {
+                "time": 0.0,
+                "value": 0.0,
+                "inTangent": 0.0,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.5,
+                "value": 1.0,
+                "inTangent": 0.0,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 1.0,
+                "value": 0.0,
+                "inTangent": 0.0,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              }
+            ],
+            "preWrapMode": 8,
+            "postWrapMode": 8
+          },
+          "categoryRelativeDropWeight": 6.0,
+          "minMaxResourceCountWeightCumulativeCurve": {
+            "keys": [
+              {
+                "time": 0.0,
+                "value": 0.0,
+                "inTangent": 0.0,
+                "outTangent": 25.23848,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.00320178084,
+                "value": 0.08080808,
+                "inTangent": 7.327393,
+                "outTangent": 7.327393,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.0174991675,
+                "value": 0.141414151,
+                "inTangent": 2.98541451,
+                "outTangent": 2.98541451,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.0308416449,
+                "value": 0.171717167,
+                "inTangent": 1.92957473,
+                "outTangent": 1.92957473,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.04906884,
+                "value": 0.202020183,
+                "inTangent": 1.40521455,
+                "outTangent": 1.40521455,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.09121853,
+                "value": 0.2525252,
+                "inTangent": 1.01388514,
+                "outTangent": 1.01388514,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.161835983,
+                "value": 0.313131332,
+                "inTangent": 0.756669343,
+                "outTangent": 0.756669343,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.253089666,
+                "value": 0.373737454,
+                "inTangent": 0.6111751,
+                "outTangent": 0.6111751,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.361201882,
+                "value": 0.434343576,
+                "inTangent": 0.537582636,
+                "outTangent": 0.537582636,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.694625258,
+                "value": 0.6060609,
+                "inTangent": 0.558734238,
+                "outTangent": 0.558734238,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.7949422,
+                "value": 0.666667044,
+                "inTangent": 0.6653405,
+                "outTangent": 0.6653405,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.8641088,
+                "value": 0.717172146,
+                "inTangent": 0.8371692,
+                "outTangent": 0.8371692,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.927455664,
+                "value": 0.777778268,
+                "inTangent": 1.10999,
+                "outTangent": 1.10999,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9509317,
+                "value": 0.8080813,
+                "inTangent": 1.49310517,
+                "outTangent": 1.49310517,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9741264,
+                "value": 0.8484854,
+                "inTangent": 2.088447,
+                "outTangent": 2.088447,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.985949457,
+                "value": 0.8787885,
+                "inTangent": 3.22451282,
+                "outTangent": 3.22451282,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.995386064,
+                "value": 0.919192553,
+                "inTangent": 6.933446,
+                "outTangent": 6.933446,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 1.00000024,
+                "value": 1.00000072,
+                "inTangent": 17.51303,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              }
+            ],
+            "preWrapMode": 8,
+            "postWrapMode": 8
+          }
+        },
+        {
+          "resourceType": 17,
+          "minResourceCount": 8,
+          "maxResourceCount": 8,
+          "minMaxResourceCountWeightCurve": {
+            "keys": [
+              {
+                "time": 0.0,
+                "value": 0.0,
+                "inTangent": 0.0,
+                "outTangent": 1.5,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.5,
+                "value": 1.0,
+                "inTangent": 0.0,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 1.0,
+                "value": 0.0,
+                "inTangent": -1.5,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              }
+            ],
+            "preWrapMode": 8,
+            "postWrapMode": 8
+          },
+          "categoryRelativeDropWeight": 2.0,
+          "minMaxResourceCountWeightCumulativeCurve": {
+            "keys": [
+              {
+                "time": 0.0,
+                "value": 0.0,
+                "inTangent": 0.0,
+                "outTangent": 13.048955,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.004644514,
+                "value": 0.06060606,
+                "inTangent": 5.399515,
+                "outTangent": 5.399515,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.02271488,
+                "value": 0.121212132,
+                "inTangent": 2.35337257,
+                "outTangent": 2.35337257,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.05692164,
+                "value": 0.181818172,
+                "inTangent": 1.43187165,
+                "outTangent": 1.43187165,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.108536035,
+                "value": 0.2424242,
+                "inTangent": 1.0164634,
+                "outTangent": 1.0164634,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.177390233,
+                "value": 0.3030303,
+                "inTangent": 0.7955508,
+                "outTangent": 0.7955508,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.2618771,
+                "value": 0.363636434,
+                "inTangent": 0.6671866,
+                "outTangent": 0.6671866,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.3760591,
+                "value": 0.434343576,
+                "inTangent": 0.598166168,
+                "outTangent": 0.598166168,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.6909139,
+                "value": 0.616161942,
+                "inTangent": 0.6199778,
+                "outTangent": 0.6199778,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.7821647,
+                "value": 0.676768064,
+                "inTangent": 0.7177076,
+                "outTangent": 0.7177076,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.847407937,
+                "value": 0.727273166,
+                "inTangent": 0.843082845,
+                "outTangent": 0.843082845,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.891464651,
+                "value": 0.767677248,
+                "inTangent": 0.9961565,
+                "outTangent": 0.9961565,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.919470966,
+                "value": 0.7979803,
+                "inTangent": 1.23489225,
+                "outTangent": 1.23489225,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.96231246,
+                "value": 0.858586431,
+                "inTangent": 1.67917049,
+                "outTangent": 1.67917049,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9772855,
+                "value": 0.8888895,
+                "inTangent": 2.41257024,
+                "outTangent": 2.41257024,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9909876,
+                "value": 0.9292936,
+                "inTangent": 3.74551,
+                "outTangent": 3.74551,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9969679,
+                "value": 0.959596634,
+                "inTangent": 7.369178,
+                "outTangent": 7.369178,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 1.00000012,
+                "value": 1.00000072,
+                "inTangent": 13.3249722,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              }
+            ],
+            "preWrapMode": 8,
+            "postWrapMode": 8
+          }
+        },
+        {
+          "resourceType": 18,
+          "minResourceCount": 40,
+          "maxResourceCount": 40,
+          "minMaxResourceCountWeightCurve": {
+            "keys": [
+              {
+                "time": 0.0,
+                "value": 0.0,
+                "inTangent": 0.0,
+                "outTangent": 1.5,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.5,
+                "value": 1.0,
+                "inTangent": 0.0,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 1.0,
+                "value": 0.0,
+                "inTangent": -1.5,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              }
+            ],
+            "preWrapMode": 8,
+            "postWrapMode": 8
+          },
+          "categoryRelativeDropWeight": 5.0,
+          "minMaxResourceCountWeightCumulativeCurve": {
+            "keys": [
+              {
+                "time": 0.0,
+                "value": 0.0,
+                "inTangent": 0.0,
+                "outTangent": 13.048955,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.004644514,
+                "value": 0.06060606,
+                "inTangent": 5.399515,
+                "outTangent": 5.399515,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.02271488,
+                "value": 0.121212132,
+                "inTangent": 2.35337257,
+                "outTangent": 2.35337257,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.05692164,
+                "value": 0.181818172,
+                "inTangent": 1.43187165,
+                "outTangent": 1.43187165,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.108536035,
+                "value": 0.2424242,
+                "inTangent": 1.0164634,
+                "outTangent": 1.0164634,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.177390233,
+                "value": 0.3030303,
+                "inTangent": 0.7955508,
+                "outTangent": 0.7955508,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.2618771,
+                "value": 0.363636434,
+                "inTangent": 0.6671866,
+                "outTangent": 0.6671866,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.3760591,
+                "value": 0.434343576,
+                "inTangent": 0.598166168,
+                "outTangent": 0.598166168,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.6909139,
+                "value": 0.616161942,
+                "inTangent": 0.6199778,
+                "outTangent": 0.6199778,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.7821647,
+                "value": 0.676768064,
+                "inTangent": 0.7177076,
+                "outTangent": 0.7177076,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.847407937,
+                "value": 0.727273166,
+                "inTangent": 0.843082845,
+                "outTangent": 0.843082845,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.891464651,
+                "value": 0.767677248,
+                "inTangent": 0.9961565,
+                "outTangent": 0.9961565,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.919470966,
+                "value": 0.7979803,
+                "inTangent": 1.23489225,
+                "outTangent": 1.23489225,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.96231246,
+                "value": 0.858586431,
+                "inTangent": 1.67917049,
+                "outTangent": 1.67917049,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9772855,
+                "value": 0.8888895,
+                "inTangent": 2.41257024,
+                "outTangent": 2.41257024,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9909876,
+                "value": 0.9292936,
+                "inTangent": 3.74551,
+                "outTangent": 3.74551,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9969679,
+                "value": 0.959596634,
+                "inTangent": 7.369178,
+                "outTangent": 7.369178,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 1.00000012,
+                "value": 1.00000072,
+                "inTangent": 13.3249722,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              }
+            ],
+            "preWrapMode": 8,
+            "postWrapMode": 8
+          }
+        }
+      ]
+    },
+    "id": 0,
+    "name": "Ammo",
+    "category": ""
+  },
+  {
+    "artColor": {
+      "color4": {
+        "x": 0.2511125,
+        "y": 0.6861131,
+        "z": 0.9339623,
+        "w": 1.0
+      }
+    },
+    "lootTable": {
+      "loot": [
+        {
+          "resourceType": 6,
+          "minResourceCount": 1,
+          "maxResourceCount": 4,
+          "minMaxResourceCountWeightCurve": {
+            "keys": [
+              {
+                "time": -0.003636364,
+                "value": 0.6666667,
+                "inTangent": 0.0,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.278181821,
+                "value": 1.00843883,
+                "inTangent": 0.0,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 1.0,
+                "value": 0.0,
+                "inTangent": -1.5,
+                "outTangent": -1.5,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              }
+            ],
+            "preWrapMode": 8,
+            "postWrapMode": 8
+          },
+          "categoryRelativeDropWeight": 1.0,
+          "minMaxResourceCountWeightCumulativeCurve": {
+            "keys": [
+              {
+                "time": 0.0,
+                "value": -0.003636364,
+                "inTangent": 0.0,
+                "outTangent": 0.965799451,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.09447062,
+                "value": 0.0876033157,
+                "inTangent": 0.896678746,
+                "outTangent": 0.896678746,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.1797639,
+                "value": 0.1585675,
+                "inTangent": 0.7787889,
+                "outTangent": 0.7787889,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.2632953,
+                "value": 0.219393924,
+                "inTangent": 0.6994932,
+                "outTangent": 0.6994932,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.504830658,
+                "value": 0.381597728,
+                "inTangent": 0.6905366,
+                "outTangent": 0.6905366,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.619080663,
+                "value": 0.462699622,
+                "inTangent": 0.74598825,
+                "outTangent": 0.74598825,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.72260505,
+                "value": 0.543801546,
+                "inTangent": 0.8431006,
+                "outTangent": 0.8431006,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.8120698,
+                "value": 0.62490344,
+                "inTangent": 0.9817255,
+                "outTangent": 0.9817255,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.8597525,
+                "value": 0.6755921,
+                "inTangent": 1.13833642,
+                "outTangent": 1.13833642,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.892998934,
+                "value": 0.7161431,
+                "inTangent": 1.32368362,
+                "outTangent": 1.32368362,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9282186,
+                "value": 0.766831756,
+                "inTangent": 1.58845007,
+                "outTangent": 1.58845007,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9512473,
+                "value": 0.8073827,
+                "inTangent": 1.959964,
+                "outTangent": 1.959964,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.969702244,
+                "value": 0.84793365,
+                "inTangent": 2.555038,
+                "outTangent": 2.555038,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9864449,
+                "value": 0.898622334,
+                "inTangent": 3.81191564,
+                "outTangent": 3.81191564,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.996408343,
+                "value": 0.949311,
+                "inTangent": 7.50779724,
+                "outTangent": 7.50779724,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 1.00000024,
+                "value": 0.9999997,
+                "inTangent": 14.1119614,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              }
+            ],
+            "preWrapMode": 8,
+            "postWrapMode": 8
+          }
+        },
+        {
+          "resourceType": 7,
+          "minResourceCount": 1,
+          "maxResourceCount": 4,
+          "minMaxResourceCountWeightCurve": {
+            "keys": [
+              {
+                "time": -0.003636364,
+                "value": 0.6666667,
+                "inTangent": 0.0,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.278181821,
+                "value": 1.00843883,
+                "inTangent": 0.0,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 1.0,
+                "value": 0.0,
+                "inTangent": -1.5,
+                "outTangent": -1.5,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              }
+            ],
+            "preWrapMode": 8,
+            "postWrapMode": 8
+          },
+          "categoryRelativeDropWeight": 2.0,
+          "minMaxResourceCountWeightCumulativeCurve": {
+            "keys": [
+              {
+                "time": 0.0,
+                "value": -0.003636364,
+                "inTangent": 0.0,
+                "outTangent": 0.965799451,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.09447062,
+                "value": 0.0876033157,
+                "inTangent": 0.896678746,
+                "outTangent": 0.896678746,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.1797639,
+                "value": 0.1585675,
+                "inTangent": 0.7787889,
+                "outTangent": 0.7787889,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.2632953,
+                "value": 0.219393924,
+                "inTangent": 0.6994932,
+                "outTangent": 0.6994932,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.504830658,
+                "value": 0.381597728,
+                "inTangent": 0.6905366,
+                "outTangent": 0.6905366,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.619080663,
+                "value": 0.462699622,
+                "inTangent": 0.74598825,
+                "outTangent": 0.74598825,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.72260505,
+                "value": 0.543801546,
+                "inTangent": 0.8431006,
+                "outTangent": 0.8431006,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.8120698,
+                "value": 0.62490344,
+                "inTangent": 0.9817255,
+                "outTangent": 0.9817255,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.8597525,
+                "value": 0.6755921,
+                "inTangent": 1.13833642,
+                "outTangent": 1.13833642,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.892998934,
+                "value": 0.7161431,
+                "inTangent": 1.32368362,
+                "outTangent": 1.32368362,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9282186,
+                "value": 0.766831756,
+                "inTangent": 1.58845007,
+                "outTangent": 1.58845007,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9512473,
+                "value": 0.8073827,
+                "inTangent": 1.959964,
+                "outTangent": 1.959964,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.969702244,
+                "value": 0.84793365,
+                "inTangent": 2.555038,
+                "outTangent": 2.555038,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9864449,
+                "value": 0.898622334,
+                "inTangent": 3.81191564,
+                "outTangent": 3.81191564,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.996408343,
+                "value": 0.949311,
+                "inTangent": 7.50779724,
+                "outTangent": 7.50779724,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 1.00000024,
+                "value": 0.9999997,
+                "inTangent": 14.1119614,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              }
+            ],
+            "preWrapMode": 8,
+            "postWrapMode": 8
+          }
+        },
+        {
+          "resourceType": 8,
+          "minResourceCount": 1,
+          "maxResourceCount": 4,
+          "minMaxResourceCountWeightCurve": {
+            "keys": [
+              {
+                "time": -0.003636364,
+                "value": 0.6666667,
+                "inTangent": 0.0,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.278181821,
+                "value": 1.00843883,
+                "inTangent": 0.0,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 1.0,
+                "value": 0.0,
+                "inTangent": -1.5,
+                "outTangent": -1.5,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              }
+            ],
+            "preWrapMode": 8,
+            "postWrapMode": 8
+          },
+          "categoryRelativeDropWeight": 1.0,
+          "minMaxResourceCountWeightCumulativeCurve": {
+            "keys": [
+              {
+                "time": 0.0,
+                "value": -0.003636364,
+                "inTangent": 0.0,
+                "outTangent": 0.965799451,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.09447062,
+                "value": 0.0876033157,
+                "inTangent": 0.896678746,
+                "outTangent": 0.896678746,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.1797639,
+                "value": 0.1585675,
+                "inTangent": 0.7787889,
+                "outTangent": 0.7787889,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.2632953,
+                "value": 0.219393924,
+                "inTangent": 0.6994932,
+                "outTangent": 0.6994932,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.504830658,
+                "value": 0.381597728,
+                "inTangent": 0.6905366,
+                "outTangent": 0.6905366,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.619080663,
+                "value": 0.462699622,
+                "inTangent": 0.74598825,
+                "outTangent": 0.74598825,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.72260505,
+                "value": 0.543801546,
+                "inTangent": 0.8431006,
+                "outTangent": 0.8431006,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.8120698,
+                "value": 0.62490344,
+                "inTangent": 0.9817255,
+                "outTangent": 0.9817255,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.8597525,
+                "value": 0.6755921,
+                "inTangent": 1.13833642,
+                "outTangent": 1.13833642,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.892998934,
+                "value": 0.7161431,
+                "inTangent": 1.32368362,
+                "outTangent": 1.32368362,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9282186,
+                "value": 0.766831756,
+                "inTangent": 1.58845007,
+                "outTangent": 1.58845007,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9512473,
+                "value": 0.8073827,
+                "inTangent": 1.959964,
+                "outTangent": 1.959964,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.969702244,
+                "value": 0.84793365,
+                "inTangent": 2.555038,
+                "outTangent": 2.555038,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9864449,
+                "value": 0.898622334,
+                "inTangent": 3.81191564,
+                "outTangent": 3.81191564,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.996408343,
+                "value": 0.949311,
+                "inTangent": 7.50779724,
+                "outTangent": 7.50779724,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 1.00000024,
+                "value": 0.9999997,
+                "inTangent": 14.1119614,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              }
+            ],
+            "preWrapMode": 8,
+            "postWrapMode": 8
+          }
+        },
+        {
+          "resourceType": 9,
+          "minResourceCount": 1,
+          "maxResourceCount": 4,
+          "minMaxResourceCountWeightCurve": {
+            "keys": [
+              {
+                "time": -0.003636364,
+                "value": 0.6666667,
+                "inTangent": 0.0,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.278181821,
+                "value": 1.00843883,
+                "inTangent": 0.0,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 1.0,
+                "value": 0.0,
+                "inTangent": -1.5,
+                "outTangent": -1.5,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              }
+            ],
+            "preWrapMode": 8,
+            "postWrapMode": 8
+          },
+          "categoryRelativeDropWeight": 1.0,
+          "minMaxResourceCountWeightCumulativeCurve": {
+            "keys": [
+              {
+                "time": 0.0,
+                "value": -0.003636364,
+                "inTangent": 0.0,
+                "outTangent": 0.965799451,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.09447062,
+                "value": 0.0876033157,
+                "inTangent": 0.896678746,
+                "outTangent": 0.896678746,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.1797639,
+                "value": 0.1585675,
+                "inTangent": 0.7787889,
+                "outTangent": 0.7787889,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.2632953,
+                "value": 0.219393924,
+                "inTangent": 0.6994932,
+                "outTangent": 0.6994932,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.504830658,
+                "value": 0.381597728,
+                "inTangent": 0.6905366,
+                "outTangent": 0.6905366,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.619080663,
+                "value": 0.462699622,
+                "inTangent": 0.74598825,
+                "outTangent": 0.74598825,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.72260505,
+                "value": 0.543801546,
+                "inTangent": 0.8431006,
+                "outTangent": 0.8431006,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.8120698,
+                "value": 0.62490344,
+                "inTangent": 0.9817255,
+                "outTangent": 0.9817255,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.8597525,
+                "value": 0.6755921,
+                "inTangent": 1.13833642,
+                "outTangent": 1.13833642,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.892998934,
+                "value": 0.7161431,
+                "inTangent": 1.32368362,
+                "outTangent": 1.32368362,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9282186,
+                "value": 0.766831756,
+                "inTangent": 1.58845007,
+                "outTangent": 1.58845007,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9512473,
+                "value": 0.8073827,
+                "inTangent": 1.959964,
+                "outTangent": 1.959964,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.969702244,
+                "value": 0.84793365,
+                "inTangent": 2.555038,
+                "outTangent": 2.555038,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9864449,
+                "value": 0.898622334,
+                "inTangent": 3.81191564,
+                "outTangent": 3.81191564,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.996408343,
+                "value": 0.949311,
+                "inTangent": 7.50779724,
+                "outTangent": 7.50779724,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 1.00000024,
+                "value": 0.9999997,
+                "inTangent": 14.1119614,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              }
+            ],
+            "preWrapMode": 8,
+            "postWrapMode": 8
+          }
+        },
+        {
+          "resourceType": 10,
+          "minResourceCount": 1,
+          "maxResourceCount": 4,
+          "minMaxResourceCountWeightCurve": {
+            "keys": [
+              {
+                "time": -0.003636364,
+                "value": 0.6666667,
+                "inTangent": 0.0,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.278181821,
+                "value": 1.00843883,
+                "inTangent": 0.0,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 1.0,
+                "value": 0.0,
+                "inTangent": -1.5,
+                "outTangent": -1.5,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              }
+            ],
+            "preWrapMode": 8,
+            "postWrapMode": 8
+          },
+          "categoryRelativeDropWeight": 0.5,
+          "minMaxResourceCountWeightCumulativeCurve": {
+            "keys": [
+              {
+                "time": 0.0,
+                "value": -0.003636364,
+                "inTangent": 0.0,
+                "outTangent": 0.965799451,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.09447062,
+                "value": 0.0876033157,
+                "inTangent": 0.896678746,
+                "outTangent": 0.896678746,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.1797639,
+                "value": 0.1585675,
+                "inTangent": 0.7787889,
+                "outTangent": 0.7787889,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.2632953,
+                "value": 0.219393924,
+                "inTangent": 0.6994932,
+                "outTangent": 0.6994932,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.504830658,
+                "value": 0.381597728,
+                "inTangent": 0.6905366,
+                "outTangent": 0.6905366,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.619080663,
+                "value": 0.462699622,
+                "inTangent": 0.74598825,
+                "outTangent": 0.74598825,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.72260505,
+                "value": 0.543801546,
+                "inTangent": 0.8431006,
+                "outTangent": 0.8431006,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.8120698,
+                "value": 0.62490344,
+                "inTangent": 0.9817255,
+                "outTangent": 0.9817255,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.8597525,
+                "value": 0.6755921,
+                "inTangent": 1.13833642,
+                "outTangent": 1.13833642,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.892998934,
+                "value": 0.7161431,
+                "inTangent": 1.32368362,
+                "outTangent": 1.32368362,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9282186,
+                "value": 0.766831756,
+                "inTangent": 1.58845007,
+                "outTangent": 1.58845007,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9512473,
+                "value": 0.8073827,
+                "inTangent": 1.959964,
+                "outTangent": 1.959964,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.969702244,
+                "value": 0.84793365,
+                "inTangent": 2.555038,
+                "outTangent": 2.555038,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9864449,
+                "value": 0.898622334,
+                "inTangent": 3.81191564,
+                "outTangent": 3.81191564,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.996408343,
+                "value": 0.949311,
+                "inTangent": 7.50779724,
+                "outTangent": 7.50779724,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 1.00000024,
+                "value": 0.9999997,
+                "inTangent": 14.1119614,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              }
+            ],
+            "preWrapMode": 8,
+            "postWrapMode": 8
+          }
+        },
+        {
+          "resourceType": 11,
+          "minResourceCount": 1,
+          "maxResourceCount": 4,
+          "minMaxResourceCountWeightCurve": {
+            "keys": [
+              {
+                "time": -0.003636364,
+                "value": 0.6666667,
+                "inTangent": 0.0,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.278181821,
+                "value": 1.00843883,
+                "inTangent": 0.0,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 1.0,
+                "value": 0.0,
+                "inTangent": -1.5,
+                "outTangent": -1.5,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              }
+            ],
+            "preWrapMode": 8,
+            "postWrapMode": 8
+          },
+          "categoryRelativeDropWeight": 0.5,
+          "minMaxResourceCountWeightCumulativeCurve": {
+            "keys": [
+              {
+                "time": 0.0,
+                "value": -0.003636364,
+                "inTangent": 0.0,
+                "outTangent": 0.965799451,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.09447062,
+                "value": 0.0876033157,
+                "inTangent": 0.896678746,
+                "outTangent": 0.896678746,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.1797639,
+                "value": 0.1585675,
+                "inTangent": 0.7787889,
+                "outTangent": 0.7787889,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.2632953,
+                "value": 0.219393924,
+                "inTangent": 0.6994932,
+                "outTangent": 0.6994932,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.504830658,
+                "value": 0.381597728,
+                "inTangent": 0.6905366,
+                "outTangent": 0.6905366,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.619080663,
+                "value": 0.462699622,
+                "inTangent": 0.74598825,
+                "outTangent": 0.74598825,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.72260505,
+                "value": 0.543801546,
+                "inTangent": 0.8431006,
+                "outTangent": 0.8431006,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.8120698,
+                "value": 0.62490344,
+                "inTangent": 0.9817255,
+                "outTangent": 0.9817255,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.8597525,
+                "value": 0.6755921,
+                "inTangent": 1.13833642,
+                "outTangent": 1.13833642,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.892998934,
+                "value": 0.7161431,
+                "inTangent": 1.32368362,
+                "outTangent": 1.32368362,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9282186,
+                "value": 0.766831756,
+                "inTangent": 1.58845007,
+                "outTangent": 1.58845007,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9512473,
+                "value": 0.8073827,
+                "inTangent": 1.959964,
+                "outTangent": 1.959964,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.969702244,
+                "value": 0.84793365,
+                "inTangent": 2.555038,
+                "outTangent": 2.555038,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9864449,
+                "value": 0.898622334,
+                "inTangent": 3.81191564,
+                "outTangent": 3.81191564,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.996408343,
+                "value": 0.949311,
+                "inTangent": 7.50779724,
+                "outTangent": 7.50779724,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 1.00000024,
+                "value": 0.9999997,
+                "inTangent": 14.1119614,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              }
+            ],
+            "preWrapMode": 8,
+            "postWrapMode": 8
+          }
+        },
+        {
+          "resourceType": 13,
+          "minResourceCount": 1,
+          "maxResourceCount": 4,
+          "minMaxResourceCountWeightCurve": {
+            "keys": [
+              {
+                "time": -0.003636364,
+                "value": 0.6666667,
+                "inTangent": 0.0,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.278181821,
+                "value": 1.00843883,
+                "inTangent": 0.0,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 1.0,
+                "value": 0.0,
+                "inTangent": -1.5,
+                "outTangent": -1.5,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              }
+            ],
+            "preWrapMode": 8,
+            "postWrapMode": 8
+          },
+          "categoryRelativeDropWeight": 0.5,
+          "minMaxResourceCountWeightCumulativeCurve": {
+            "keys": [
+              {
+                "time": 0.0,
+                "value": -0.003636364,
+                "inTangent": 0.0,
+                "outTangent": 0.965799451,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.09447062,
+                "value": 0.0876033157,
+                "inTangent": 0.896678746,
+                "outTangent": 0.896678746,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.1797639,
+                "value": 0.1585675,
+                "inTangent": 0.7787889,
+                "outTangent": 0.7787889,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.2632953,
+                "value": 0.219393924,
+                "inTangent": 0.6994932,
+                "outTangent": 0.6994932,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.504830658,
+                "value": 0.381597728,
+                "inTangent": 0.6905366,
+                "outTangent": 0.6905366,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.619080663,
+                "value": 0.462699622,
+                "inTangent": 0.74598825,
+                "outTangent": 0.74598825,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.72260505,
+                "value": 0.543801546,
+                "inTangent": 0.8431006,
+                "outTangent": 0.8431006,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.8120698,
+                "value": 0.62490344,
+                "inTangent": 0.9817255,
+                "outTangent": 0.9817255,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.8597525,
+                "value": 0.6755921,
+                "inTangent": 1.13833642,
+                "outTangent": 1.13833642,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.892998934,
+                "value": 0.7161431,
+                "inTangent": 1.32368362,
+                "outTangent": 1.32368362,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9282186,
+                "value": 0.766831756,
+                "inTangent": 1.58845007,
+                "outTangent": 1.58845007,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9512473,
+                "value": 0.8073827,
+                "inTangent": 1.959964,
+                "outTangent": 1.959964,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.969702244,
+                "value": 0.84793365,
+                "inTangent": 2.555038,
+                "outTangent": 2.555038,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9864449,
+                "value": 0.898622334,
+                "inTangent": 3.81191564,
+                "outTangent": 3.81191564,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.996408343,
+                "value": 0.949311,
+                "inTangent": 7.50779724,
+                "outTangent": 7.50779724,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 1.00000024,
+                "value": 0.9999997,
+                "inTangent": 14.1119614,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              }
+            ],
+            "preWrapMode": 8,
+            "postWrapMode": 8
+          }
+        },
+        {
+          "resourceType": 14,
+          "minResourceCount": 1,
+          "maxResourceCount": 4,
+          "minMaxResourceCountWeightCurve": {
+            "keys": [
+              {
+                "time": -0.003636364,
+                "value": 0.6666667,
+                "inTangent": 0.0,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.278181821,
+                "value": 1.00843883,
+                "inTangent": 0.0,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 1.0,
+                "value": 0.0,
+                "inTangent": -1.5,
+                "outTangent": -1.5,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              }
+            ],
+            "preWrapMode": 8,
+            "postWrapMode": 8
+          },
+          "categoryRelativeDropWeight": 2.0,
+          "minMaxResourceCountWeightCumulativeCurve": {
+            "keys": [
+              {
+                "time": 0.0,
+                "value": -0.003636364,
+                "inTangent": 0.0,
+                "outTangent": 0.965799451,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.09447062,
+                "value": 0.0876033157,
+                "inTangent": 0.896678746,
+                "outTangent": 0.896678746,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.1797639,
+                "value": 0.1585675,
+                "inTangent": 0.7787889,
+                "outTangent": 0.7787889,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.2632953,
+                "value": 0.219393924,
+                "inTangent": 0.6994932,
+                "outTangent": 0.6994932,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.504830658,
+                "value": 0.381597728,
+                "inTangent": 0.6905366,
+                "outTangent": 0.6905366,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.619080663,
+                "value": 0.462699622,
+                "inTangent": 0.74598825,
+                "outTangent": 0.74598825,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.72260505,
+                "value": 0.543801546,
+                "inTangent": 0.8431006,
+                "outTangent": 0.8431006,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.8120698,
+                "value": 0.62490344,
+                "inTangent": 0.9817255,
+                "outTangent": 0.9817255,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.8597525,
+                "value": 0.6755921,
+                "inTangent": 1.13833642,
+                "outTangent": 1.13833642,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.892998934,
+                "value": 0.7161431,
+                "inTangent": 1.32368362,
+                "outTangent": 1.32368362,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9282186,
+                "value": 0.766831756,
+                "inTangent": 1.58845007,
+                "outTangent": 1.58845007,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9512473,
+                "value": 0.8073827,
+                "inTangent": 1.959964,
+                "outTangent": 1.959964,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.969702244,
+                "value": 0.84793365,
+                "inTangent": 2.555038,
+                "outTangent": 2.555038,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9864449,
+                "value": 0.898622334,
+                "inTangent": 3.81191564,
+                "outTangent": 3.81191564,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.996408343,
+                "value": 0.949311,
+                "inTangent": 7.50779724,
+                "outTangent": 7.50779724,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 1.00000024,
+                "value": 0.9999997,
+                "inTangent": 14.1119614,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              }
+            ],
+            "preWrapMode": 8,
+            "postWrapMode": 8
+          }
+        }
+      ]
+    },
+    "id": 1,
+    "name": "Crafting Materials",
+    "category": ""
+  },
+  {
+    "artColor": {
+      "color4": {
+        "x": 0.3235879,
+        "y": 0.0,
+        "z": 1.0,
+        "w": 1.0
+      }
+    },
+    "lootTable": {
+      "loot": [
+        {
+          "resourceType": 3,
+          "minResourceCount": 1,
+          "maxResourceCount": 1,
+          "minMaxResourceCountWeightCurve": {
+            "keys": [
+              {
+                "time": 0.0,
+                "value": 1.0,
+                "inTangent": 0.0,
+                "outTangent": 0.0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 1.0,
+                "value": 1.0,
+                "inTangent": 0.0,
+                "outTangent": 0.0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343,
+                "weightedMode": 0,
+                "tangentMode": 0
+              }
+            ],
+            "preWrapMode": 8,
+            "postWrapMode": 8
+          },
+          "categoryRelativeDropWeight": 1.0,
+          "minMaxResourceCountWeightCumulativeCurve": {
+            "keys": [
+              {
+                "time": 0.0,
+                "value": 0.0,
+                "inTangent": 0.0,
+                "outTangent": 1.01010239,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.989999354,
+                "value": 1.00000072,
+                "inTangent": 1.01010239,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              }
+            ],
+            "preWrapMode": 8,
+            "postWrapMode": 8
+          }
+        }
+      ]
+    },
+    "id": 2,
+    "name": "Device Charge",
+    "category": ""
+  },
+  {
+    "artColor": {
+      "color4": {
+        "x": 0.5921569,
+        "y": 0.78039217,
+        "z": 0.2509804,
+        "w": 1.0
+      }
+    },
+    "lootTable": {
+      "loot": [
+        {
+          "resourceType": 1,
+          "minResourceCount": 1,
+          "maxResourceCount": 3,
+          "minMaxResourceCountWeightCurve": {
+            "keys": [
+              {
+                "time": 0.0,
+                "value": 1.0,
+                "inTangent": -0.009593883,
+                "outTangent": -0.009593883,
+                "inWeight": 0.0,
+                "outWeight": 0.245833337,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 1.0,
+                "value": 0.0,
+                "inTangent": -3.14465213,
+                "outTangent": -3.14465213,
+                "inWeight": 0.0375000238,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              }
+            ],
+            "preWrapMode": 8,
+            "postWrapMode": 8
+          },
+          "categoryRelativeDropWeight": 1.0,
+          "minMaxResourceCountWeightCumulativeCurve": {
+            "keys": [
+              {
+                "time": 0.0,
+                "value": 0.0,
+                "inTangent": 0.0,
+                "outTangent": 0.768467069,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.354897767,
+                "value": 0.272727251,
+                "inTangent": 0.7795216,
+                "outTangent": 0.7795216,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.533745646,
+                "value": 0.414141536,
+                "inTangent": 0.8159422,
+                "outTangent": 0.8159422,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.677732468,
+                "value": 0.5353538,
+                "inTangent": 0.8860118,
+                "outTangent": 0.8860118,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.786086738,
+                "value": 0.636364,
+                "inTangent": 1.00877976,
+                "outTangent": 1.00877976,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.878613651,
+                "value": 0.7373742,
+                "inTangent": 1.19553423,
+                "outTangent": 1.19553423,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.917131662,
+                "value": 0.7878793,
+                "inTangent": 1.416264,
+                "outTangent": 1.416264,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9434902,
+                "value": 0.82828337,
+                "inTangent": 1.70007336,
+                "outTangent": 1.70007336,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9701293,
+                "value": 0.8787885,
+                "inTangent": 2.1931684,
+                "outTangent": 2.1931684,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.985811353,
+                "value": 0.919192553,
+                "inTangent": 3.14364743,
+                "outTangent": 3.14364743,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.99594456,
+                "value": 0.959596634,
+                "inTangent": 5.726478,
+                "outTangent": 5.726478,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 1.00000012,
+                "value": 1.00000072,
+                "inTangent": 9.962641,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              }
+            ],
+            "preWrapMode": 8,
+            "postWrapMode": 8
+          }
+        }
+      ]
+    },
+    "id": 3,
+    "name": "Currency",
+    "category": ""
+  },
+  {
+    "artColor": {
+      "color4": {
+        "x": 0.85800004,
+        "y": 0.448073775,
+        "z": 0.0609179847,
+        "w": 1.0
+      }
+    },
+    "lootTable": {
+      "loot": [
+        {
+          "resourceType": 16,
+          "minResourceCount": 10,
+          "maxResourceCount": 40,
+          "minMaxResourceCountWeightCurve": {
+            "keys": [
+              {
+                "time": 0.0,
+                "value": 0.0,
+                "inTangent": 0.0,
+                "outTangent": 1.5,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.5,
+                "value": 1.0,
+                "inTangent": 0.0,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 1.0,
+                "value": 0.0,
+                "inTangent": -1.5,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              }
+            ],
+            "preWrapMode": 8,
+            "postWrapMode": 8
+          },
+          "categoryRelativeDropWeight": 1.0,
+          "minMaxResourceCountWeightCumulativeCurve": {
+            "keys": [
+              {
+                "time": 0.0,
+                "value": 0.0,
+                "inTangent": 0.0,
+                "outTangent": 13.048955,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.004644514,
+                "value": 0.06060606,
+                "inTangent": 5.399515,
+                "outTangent": 5.399515,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.02271488,
+                "value": 0.121212132,
+                "inTangent": 2.35337257,
+                "outTangent": 2.35337257,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.05692164,
+                "value": 0.181818172,
+                "inTangent": 1.43187165,
+                "outTangent": 1.43187165,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.108536035,
+                "value": 0.2424242,
+                "inTangent": 1.0164634,
+                "outTangent": 1.0164634,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.177390233,
+                "value": 0.3030303,
+                "inTangent": 0.7955508,
+                "outTangent": 0.7955508,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.2618771,
+                "value": 0.363636434,
+                "inTangent": 0.6671866,
+                "outTangent": 0.6671866,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.3760591,
+                "value": 0.434343576,
+                "inTangent": 0.598166168,
+                "outTangent": 0.598166168,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.6909139,
+                "value": 0.616161942,
+                "inTangent": 0.6199778,
+                "outTangent": 0.6199778,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.7821647,
+                "value": 0.676768064,
+                "inTangent": 0.7177076,
+                "outTangent": 0.7177076,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.847407937,
+                "value": 0.727273166,
+                "inTangent": 0.843082845,
+                "outTangent": 0.843082845,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.891464651,
+                "value": 0.767677248,
+                "inTangent": 0.9961565,
+                "outTangent": 0.9961565,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.919470966,
+                "value": 0.7979803,
+                "inTangent": 1.23489225,
+                "outTangent": 1.23489225,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.96231246,
+                "value": 0.858586431,
+                "inTangent": 1.67917049,
+                "outTangent": 1.67917049,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9772855,
+                "value": 0.8888895,
+                "inTangent": 2.41257024,
+                "outTangent": 2.41257024,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9909876,
+                "value": 0.9292936,
+                "inTangent": 3.74551,
+                "outTangent": 3.74551,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 0.9969679,
+                "value": 0.959596634,
+                "inTangent": 7.369178,
+                "outTangent": 7.369178,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 1.00000012,
+                "value": 1.00000072,
+                "inTangent": 13.3249722,
+                "outTangent": 0.0,
+                "inWeight": 0.0,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              }
+            ],
+            "preWrapMode": 8,
+            "postWrapMode": 8
+          }
+        }
+      ]
+    },
+    "id": 4,
+    "name": "Juice",
+    "category": ""
+  }
+]
+}

@@ -1,0 +1,7108 @@
+{
+  "TableId": 142,
+  "DefaultCellId": 2,
+  "Cells": [
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 1.25,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      }
+    ],
+    "id": 2,
+    "name": "Pistol Barrel Import",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.4,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.6,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      }
+    ],
+    "id": 3,
+    "name": "Pistol Barrel Industrial",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 1.75,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.6,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.4,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      }
+    ],
+    "id": 4,
+    "name": "Pistol Barrel Military",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 2.0,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.8,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.4,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.2,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.4,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.4,
+        "fireType": -1
+      }
+    ],
+    "id": 5,
+    "name": "Pistol Barrel Prototype",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 11,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      }
+    ],
+    "id": 12,
+    "name": "SMG Stock Base",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      },
+      {
+        "stat": 11,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      }
+    ],
+    "id": 13,
+    "name": "SMG Stock Import",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.7,
+        "fireType": -1
+      },
+      {
+        "stat": 11,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      }
+    ],
+    "id": 14,
+    "name": "SMG Stock Industrial",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.6,
+        "fireType": -1
+      },
+      {
+        "stat": 11,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      }
+    ],
+    "id": 15,
+    "name": "SMG Stock Military",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      }
+    ],
+    "id": 16,
+    "name": "Shotgun Forend Import",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      }
+    ],
+    "id": 17,
+    "name": "Shotgun Forend Industrial",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      }
+    ],
+    "id": 18,
+    "name": "Shotgun Forend Military",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      }
+    ],
+    "id": 19,
+    "name": "Shotgun Forend Prototype",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.4,
+        "fireType": -1
+      },
+      {
+        "stat": 5,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 9,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      }
+    ],
+    "id": 21,
+    "name": "Pistol Grip Import",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.6,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.6,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.8,
+        "fireType": -1
+      },
+      {
+        "stat": 5,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      },
+      {
+        "stat": 9,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      }
+    ],
+    "id": 22,
+    "name": "Pistol Grip Industrial",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.4,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.4,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 2.2,
+        "fireType": -1
+      },
+      {
+        "stat": 5,
+        "type": 1,
+        "amount": 0.7,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 0.7,
+        "fireType": -1
+      },
+      {
+        "stat": 9,
+        "type": 1,
+        "amount": 0.7,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.7,
+        "fireType": -1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      }
+    ],
+    "id": 23,
+    "name": "Pistol Grip Military",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.966,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.966,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 0.966,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.966,
+        "fireType": -1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      }
+    ],
+    "id": 24,
+    "name": "Falcon Grip Import",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.933,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.933,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 0.933,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.933,
+        "fireType": -1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      }
+    ],
+    "id": 25,
+    "name": "Falcon Grip Industrial",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      }
+    ],
+    "id": 26,
+    "name": "Falcon Grip Military",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      }
+    ],
+    "id": 29,
+    "name": "Falcon Barrel Import",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      }
+    ],
+    "id": 30,
+    "name": "Falcon Barrel Industrial",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.7,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      }
+    ],
+    "id": 31,
+    "name": "Falcon Barrel Military",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 1.4,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.6,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.4,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.4,
+        "fireType": -1
+      }
+    ],
+    "id": 32,
+    "name": "Falcon Barrel Prototype",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 1.4,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.025,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      }
+    ],
+    "id": 33,
+    "name": "SMG Barrel Import",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 1.8,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.4,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.4,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      }
+    ],
+    "id": 34,
+    "name": "SMG Barrel Industrial",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 2.2,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.075,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.7,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.6,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.6,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": -1
+      }
+    ],
+    "id": 35,
+    "name": "SMG Barrel Military",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 2.6,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.6,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.8,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.8,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      }
+    ],
+    "id": 36,
+    "name": "SMG Barrel Prototype",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.25,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.25,
+        "fireType": -1
+      }
+    ],
+    "id": 37,
+    "name": "Shotgun Barrel Import",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": -1
+      }
+    ],
+    "id": 38,
+    "name": "Shotgun Barrel Industrial",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.7,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.75,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.75,
+        "fireType": -1
+      }
+    ],
+    "id": 39,
+    "name": "Shotgun Barrel Military",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 1.4,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.4,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.4,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.6,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 2.0,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 2.0,
+        "fireType": -1
+      }
+    ],
+    "id": 40,
+    "name": "Shotgun Barrel Prototype",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 1.45,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.925,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 1.35,
+        "fireType": -1
+      }
+    ],
+    "id": 41,
+    "name": "M4 Barrel Import",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 1.9,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.6,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.6,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 1.7,
+        "fireType": -1
+      }
+    ],
+    "id": 42,
+    "name": "M4 Barrel Industrial",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 2.35,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.775,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.9,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.9,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 2.05,
+        "fireType": -1
+      }
+    ],
+    "id": 43,
+    "name": "M4 Barrel Military",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 2.8,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.4,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.7,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 2.2,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 2.2,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 2.4,
+        "fireType": -1
+      }
+    ],
+    "id": 44,
+    "name": "M4 Barrel Prototype",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 1.35,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.975,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      }
+    ],
+    "id": 45,
+    "name": "MT47 Barrel Import",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 1.7,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.6,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.6,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 1.6,
+        "fireType": -1
+      }
+    ],
+    "id": 46,
+    "name": "MT47 Barrel Industrial",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 2.05,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.925,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.9,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.9,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 1.9,
+        "fireType": -1
+      }
+    ],
+    "id": 47,
+    "name": "MT47 Barrel Military",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 2.4,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.4,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 2.2,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 2.2,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 2.2,
+        "fireType": -1
+      }
+    ],
+    "id": 48,
+    "name": "MT47 Barrel Prototype",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.975,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.975,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 0.975,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      }
+    ],
+    "id": 49,
+    "name": "SMG Grip Import",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.4,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      }
+    ],
+    "id": 50,
+    "name": "SMG Grip Industrial",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.7,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.925,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.6,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 0.925,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.925,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.7,
+        "fireType": -1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      }
+    ],
+    "id": 51,
+    "name": "SMG Grip Military",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      }
+    ],
+    "id": 52,
+    "name": "Shotgun Gripstock Import",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      }
+    ],
+    "id": 53,
+    "name": "Shotgun Gripstock Industrial",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.7,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 0.7,
+        "fireType": -1
+      }
+    ],
+    "id": 54,
+    "name": "Shotgun Gripstock Military",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": -1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.925,
+        "fireType": -1
+      }
+    ],
+    "id": 55,
+    "name": "M4 Grip Import",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      }
+    ],
+    "id": 56,
+    "name": "M4 Grip Industrial",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.45,
+        "fireType": -1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.775,
+        "fireType": -1
+      }
+    ],
+    "id": 57,
+    "name": "M4 Grip Military",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      }
+    ],
+    "id": 58,
+    "name": "MT47 Grip Import",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      }
+    ],
+    "id": 59,
+    "name": "MT47 Grip Industrial",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.7,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      }
+    ],
+    "id": 60,
+    "name": "MT47 Grip Military",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.925,
+        "fireType": -1
+      },
+      {
+        "stat": 11,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 9,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      }
+    ],
+    "id": 65,
+    "name": "M4 Stock Base",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      },
+      {
+        "stat": 11,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      }
+    ],
+    "id": 66,
+    "name": "M4 Stock Import",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.775,
+        "fireType": -1
+      },
+      {
+        "stat": 11,
+        "type": 1,
+        "amount": 0.7,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.7,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 0.7,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.7,
+        "fireType": -1
+      }
+    ],
+    "id": 67,
+    "name": "M4 Stock Industrial",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.7,
+        "fireType": -1
+      },
+      {
+        "stat": 11,
+        "type": 1,
+        "amount": 0.6,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.6,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 0.6,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.6,
+        "fireType": -1
+      }
+    ],
+    "id": 68,
+    "name": "M4 Stock Military",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.975,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      }
+    ],
+    "id": 69,
+    "name": "MT47 Stock Base",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      }
+    ],
+    "id": 70,
+    "name": "MT47 Stock Import",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.7,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.925,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      }
+    ],
+    "id": 71,
+    "name": "MT47 Stock Industrial",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.6,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      }
+    ],
+    "id": 72,
+    "name": "MT47 Stock Military",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 11,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      }
+    ],
+    "id": 73,
+    "name": "M4 Forend Import",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      },
+      {
+        "stat": 11,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.7,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      }
+    ],
+    "id": 74,
+    "name": "M4 Forend Industrial",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.7,
+        "fireType": -1
+      },
+      {
+        "stat": 11,
+        "type": 1,
+        "amount": 0.75,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.55,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      }
+    ],
+    "id": 75,
+    "name": "M4 Forend Military",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.6,
+        "fireType": -1
+      },
+      {
+        "stat": 11,
+        "type": 1,
+        "amount": 0.65,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.4,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      }
+    ],
+    "id": 76,
+    "name": "M4 Forend Prototype",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      }
+    ],
+    "id": 77,
+    "name": "MT47 Forend Import",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      }
+    ],
+    "id": 78,
+    "name": "MT47 Forend Industrial",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.7,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.7,
+        "fireType": -1
+      }
+    ],
+    "id": 79,
+    "name": "MT47 Forend Military",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.6,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.6,
+        "fireType": -1
+      }
+    ],
+    "id": 80,
+    "name": "MT47 Forend Prototype",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 13,
+        "type": 2,
+        "amount": 0.1,
+        "fireType": -1
+      }
+    ],
+    "id": 81,
+    "name": "Pistol Electric Prototype",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 13,
+        "type": 2,
+        "amount": 0.1,
+        "fireType": -1
+      }
+    ],
+    "id": 82,
+    "name": "Falcon Electric Prototype",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 13,
+        "type": 2,
+        "amount": 0.1,
+        "fireType": -1
+      }
+    ],
+    "id": 83,
+    "name": "SMG Electric Prototype",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 13,
+        "type": 2,
+        "amount": 0.1,
+        "fireType": -1
+      }
+    ],
+    "id": 84,
+    "name": "Shotgun Electric Prototype",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 13,
+        "type": 2,
+        "amount": 0.1,
+        "fireType": -1
+      }
+    ],
+    "id": 85,
+    "name": "M4 Electric Prototype",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 13,
+        "type": 2,
+        "amount": 0.1,
+        "fireType": -1
+      }
+    ],
+    "id": 86,
+    "name": "MT47 Electric Prototype",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      }
+    ],
+    "id": 87,
+    "name": "Ammo Counter",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.925,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 0.925,
+        "fireType": -1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.925,
+        "fireType": -1
+      }
+    ],
+    "id": 88,
+    "name": "Revolver Grip Import",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      }
+    ],
+    "id": 89,
+    "name": "Revolver Grip Industrial",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.775,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 0.775,
+        "fireType": -1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.775,
+        "fireType": -1
+      }
+    ],
+    "id": 90,
+    "name": "Revolver Grip Military",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.94,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      }
+    ],
+    "id": 91,
+    "name": "Revolver Barrel Import",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.88,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      }
+    ],
+    "id": 92,
+    "name": "Revolver Barrel Industrial",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.82,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      }
+    ],
+    "id": 93,
+    "name": "Revolver Barrel Military",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.76,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.4,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.4,
+        "fireType": -1
+      }
+    ],
+    "id": 94,
+    "name": "Revolver Barrel Prototype",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 13,
+        "type": 2,
+        "amount": 0.1,
+        "fireType": -1
+      }
+    ],
+    "id": 95,
+    "name": "Revolver Electric Prototype",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.125,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.125,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 1.125,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 1.125,
+        "fireType": -1
+      }
+    ],
+    "id": 96,
+    "name": "LMG Barrel Import",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.25,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 1.25,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 1.25,
+        "fireType": -1
+      }
+    ],
+    "id": 97,
+    "name": "LMG Barrel Industrial",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.7,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.375,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.375,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 1.375,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 1.375,
+        "fireType": -1
+      }
+    ],
+    "id": 98,
+    "name": "LMG Barrel Military",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      }
+    ],
+    "id": 100,
+    "name": "LMG Grip Import",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.325,
+        "fireType": -1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      }
+    ],
+    "id": 102,
+    "name": "LMG Grip Prototype",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 11,
+        "type": 1,
+        "amount": 1.0,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.0,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.0,
+        "fireType": -1
+      }
+    ],
+    "id": 103,
+    "name": "LMG Stock Base",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.875,
+        "fireType": -1
+      },
+      {
+        "stat": 11,
+        "type": 1,
+        "amount": 0.875,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.875,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.875,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.875,
+        "fireType": -1
+      }
+    ],
+    "id": 105,
+    "name": "LMG Stock Military",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.775,
+        "fireType": -1
+      },
+      {
+        "stat": 11,
+        "type": 1,
+        "amount": 0.775,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.775,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.775,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.775,
+        "fireType": -1
+      }
+    ],
+    "id": 106,
+    "name": "LMG Stock Prototype",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 11,
+        "type": 1,
+        "amount": 1.0,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.975,
+        "fireType": -1
+      }
+    ],
+    "id": 107,
+    "name": "LMG Forend Import",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 11,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      }
+    ],
+    "id": 108,
+    "name": "LMG Forend Military",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.6,
+        "fireType": -1
+      },
+      {
+        "stat": 11,
+        "type": 1,
+        "amount": 0.6,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.5,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.6,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      }
+    ],
+    "id": 109,
+    "name": "LMG Forend Prototype",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 2.0,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.4,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.4,
+        "fireType": -1
+      },
+      {
+        "stat": 5,
+        "type": 1,
+        "amount": 0.75,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.75,
+        "fireType": -1
+      },
+      {
+        "stat": 9,
+        "type": 1,
+        "amount": 0.75,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 0.75,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.75,
+        "fireType": -1
+      },
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.75,
+        "fireType": -1
+      },
+      {
+        "stat": 11,
+        "type": 1,
+        "amount": 0.75,
+        "fireType": -1
+      }
+    ],
+    "id": 110,
+    "name": "Rage Booster",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 1.8,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.4,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.4,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      }
+    ],
+    "id": 111,
+    "name": "Tommy Barrel Industrial",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 2.2,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.075,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.6,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.6,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 1.6,
+        "fireType": -1
+      }
+    ],
+    "id": 112,
+    "name": "Tommy Barrel Military",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 2.6,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.8,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.8,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 1.9,
+        "fireType": -1
+      }
+    ],
+    "id": 113,
+    "name": "Tommy Barrel Prototype",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": -1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      }
+    ],
+    "id": 114,
+    "name": "Tommy Grip Industrial",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      }
+    ],
+    "id": 115,
+    "name": "Tommy Grip Prototype",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.975,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 11,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      }
+    ],
+    "id": 116,
+    "name": "Tommy Stock Base",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 11,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      }
+    ],
+    "id": 117,
+    "name": "Tommy Stock Import",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.925,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      },
+      {
+        "stat": 11,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      }
+    ],
+    "id": 118,
+    "name": "Tommy Stock Industrial",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      }
+    ],
+    "id": 120,
+    "name": "Tommy Forend Military",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      }
+    ],
+    "id": 121,
+    "name": "Tommy Forend Prototype",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      }
+    ],
+    "id": 122,
+    "name": "Pistol Flat Fire",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      }
+    ],
+    "id": 123,
+    "name": "Pistol Flat Recoil",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      }
+    ],
+    "id": 124,
+    "name": "Pistol Flat Damage",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 19,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      }
+    ],
+    "id": 125,
+    "name": "Pistol Flat Mag",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 13,
+        "type": 2,
+        "amount": 0.1,
+        "fireType": -1
+      }
+    ],
+    "id": 126,
+    "name": "Pistol Flat Crit",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 100.0,
+        "fireType": -1
+      }
+    ],
+    "id": 127,
+    "name": "InstaKill",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": -1
+      }
+    ],
+    "id": 128,
+    "name": "Pistol Last Stand",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.003,
+        "fireType": -1
+      }
+    ],
+    "id": 129,
+    "name": "Pistol Mag Min",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      }
+    ],
+    "id": 130,
+    "name": "Pistol Pouched",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 21,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": 0
+      },
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": 0
+      }
+    ],
+    "id": 131,
+    "name": "Pistol Semi-Auto",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 21,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": 1
+      },
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": 1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.3,
+        "fireType": 1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.6,
+        "fireType": 1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.875,
+        "fireType": 1
+      }
+    ],
+    "id": 132,
+    "name": "Pistol Burst Fire",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 21,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": 2
+      },
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 0.75,
+        "fireType": 2
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.0,
+        "fireType": 2
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.3,
+        "fireType": 2
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.3,
+        "fireType": 2
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": 2
+      }
+    ],
+    "id": 133,
+    "name": "Pistol Full-Auto",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": 2
+      }
+    ],
+    "id": 134,
+    "name": "Pistol Semi-Auto Damage",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": 2
+      }
+    ],
+    "id": 135,
+    "name": "Pistol Burst Fire Damage",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": 2
+      }
+    ],
+    "id": 136,
+    "name": "Pistol Full-Auto Damage",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.0,
+        "fireType": 0
+      }
+    ],
+    "id": 137,
+    "name": "Neutral Modifier",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": 0
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": 0
+      }
+    ],
+    "id": 138,
+    "name": "Pistol Bloodfest",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 22,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": 0
+      }
+    ],
+    "id": 139,
+    "name": "Pistol Shatter",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      }
+    ],
+    "id": 140,
+    "name": "Laser Pointer",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.925,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      }
+    ],
+    "id": 141,
+    "name": "Auto Stock Import",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      }
+    ],
+    "id": 142,
+    "name": "Auto Stock Industrial",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.775,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.7,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      }
+    ],
+    "id": 143,
+    "name": "Auto Stock Military",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.975,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.975,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.075,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 0.975,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.975,
+        "fireType": -1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      }
+    ],
+    "id": 144,
+    "name": "Auto Grip Import",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      }
+    ],
+    "id": 145,
+    "name": "Auto Grip Industrial",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.925,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.925,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.225,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 0.925,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.925,
+        "fireType": -1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      }
+    ],
+    "id": 146,
+    "name": "Auto Grip Military",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      }
+    ],
+    "id": 147,
+    "name": "Auto Grip Prototype",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 1.175,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.925,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.125,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.125,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 1.175,
+        "fireType": -1
+      }
+    ],
+    "id": 148,
+    "name": "Auto Barrel Import",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 1.35,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.25,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.25,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 1.35,
+        "fireType": -1
+      }
+    ],
+    "id": 149,
+    "name": "Auto Barrel Industrial",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 1.525,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.45,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.775,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.375,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.375,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 1.525,
+        "fireType": -1
+      }
+    ],
+    "id": 150,
+    "name": "Auto Barrel Military",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": -1
+      },
+      {
+        "stat": 1,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 1.7,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 1.6,
+        "fireType": -1
+      },
+      {
+        "stat": 16,
+        "type": 1,
+        "amount": 1.4,
+        "fireType": -1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.7,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": -1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 1.7,
+        "fireType": -1
+      }
+    ],
+    "id": 151,
+    "name": "Auto Barrel Prototype",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.975,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 0.975,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.975,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.975,
+        "fireType": -1
+      }
+    ],
+    "id": 152,
+    "name": "Auto Forend Import",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.6,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": -1
+      }
+    ],
+    "id": 153,
+    "name": "Auto Forend Industrial",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.4,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.925,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 0.925,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.925,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.925,
+        "fireType": -1
+      }
+    ],
+    "id": 154,
+    "name": "Auto Forend Military",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.2,
+        "fireType": -1
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 8,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      }
+    ],
+    "id": 155,
+    "name": "Auto Forend Prototype",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 13,
+        "type": 2,
+        "amount": 0.1,
+        "fireType": -1
+      }
+    ],
+    "id": 156,
+    "name": "Auto Electric Prototype",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.01,
+        "fireType": 0
+      }
+    ],
+    "id": 157,
+    "name": "1% Increased Damage",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 13,
+        "type": 2,
+        "amount": 0.1,
+        "fireType": -1
+      }
+    ],
+    "id": 158,
+    "name": "Falcon Flat Crit",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 13,
+        "type": 2,
+        "amount": 0.1,
+        "fireType": -1
+      }
+    ],
+    "id": 159,
+    "name": "Pump Flat Crit",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 13,
+        "type": 2,
+        "amount": 0.1,
+        "fireType": -1
+      }
+    ],
+    "id": 160,
+    "name": "SMG Flat Crit",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 13,
+        "type": 2,
+        "amount": 0.1,
+        "fireType": -1
+      }
+    ],
+    "id": 161,
+    "name": "Carbine Flat Crit",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 13,
+        "type": 2,
+        "amount": 0.1,
+        "fireType": -1
+      }
+    ],
+    "id": 162,
+    "name": "MT47 Flat Crit",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 13,
+        "type": 2,
+        "amount": 0.1,
+        "fireType": -1
+      }
+    ],
+    "id": 163,
+    "name": "Revolver Flat Crit",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 13,
+        "type": 2,
+        "amount": 0.1,
+        "fireType": -1
+      }
+    ],
+    "id": 164,
+    "name": "LMG Flat Crit",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 13,
+        "type": 2,
+        "amount": 0.1,
+        "fireType": -1
+      }
+    ],
+    "id": 165,
+    "name": "Tommy Flat Crit",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 13,
+        "type": 2,
+        "amount": 0.1,
+        "fireType": -1
+      }
+    ],
+    "id": 166,
+    "name": "Auto Flat Crit",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 13,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      }
+    ],
+    "id": 167,
+    "name": "Lever Flat Crit",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 19,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      }
+    ],
+    "id": 168,
+    "name": "Falcon Flat Mag",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 19,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      }
+    ],
+    "id": 169,
+    "name": "Pump Flat Mag",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 19,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      }
+    ],
+    "id": 170,
+    "name": "SMG Flat Mag",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 19,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      }
+    ],
+    "id": 171,
+    "name": "Carbine Flat Mag",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 19,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      }
+    ],
+    "id": 172,
+    "name": "MT47 Flat Mag",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 19,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      }
+    ],
+    "id": 173,
+    "name": "Revolver Flat Mag",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 19,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      }
+    ],
+    "id": 174,
+    "name": "LMG Flat Mag",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 19,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      }
+    ],
+    "id": 175,
+    "name": "Tommy Flat Mag",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 19,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      }
+    ],
+    "id": 176,
+    "name": "Auto Flat Mag ",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 19,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      }
+    ],
+    "id": 177,
+    "name": "Lever Flat Mag ",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      }
+    ],
+    "id": 178,
+    "name": "Falcon Flat Damage",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      }
+    ],
+    "id": 179,
+    "name": "Pump Flat Damage",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      }
+    ],
+    "id": 180,
+    "name": "SMG Flat Damage",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      }
+    ],
+    "id": 181,
+    "name": "Carbine Flat Damage",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      }
+    ],
+    "id": 182,
+    "name": "MT47 Flat Damage",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      }
+    ],
+    "id": 183,
+    "name": "Revolver Flat Damage",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      }
+    ],
+    "id": 184,
+    "name": "LMG Flat Damage",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      }
+    ],
+    "id": 185,
+    "name": "Tommy Flat Damage",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      }
+    ],
+    "id": 186,
+    "name": "Auto Flat Damage",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": -1
+      }
+    ],
+    "id": 187,
+    "name": "Lever Flat Damage",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      }
+    ],
+    "id": 188,
+    "name": "Falcon Flat Recoil",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      }
+    ],
+    "id": 189,
+    "name": "Pump Flat Recoil",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      }
+    ],
+    "id": 190,
+    "name": "SMG Flat Recoil",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      }
+    ],
+    "id": 191,
+    "name": "Carbine Flat Recoil",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      }
+    ],
+    "id": 192,
+    "name": "MT47 Flat Recoil",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      }
+    ],
+    "id": 193,
+    "name": "Revolver Flat Recoil",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      }
+    ],
+    "id": 194,
+    "name": "LMG Flat Recoil",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      }
+    ],
+    "id": 195,
+    "name": "Tommy Flat Recoil",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.85,
+        "fireType": -1
+      }
+    ],
+    "id": 196,
+    "name": "Auto Flat Recoil",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 7,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": -1
+      }
+    ],
+    "id": 197,
+    "name": "Lever Flat Recoil",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": -1
+      }
+    ],
+    "id": 198,
+    "name": "Falcon Flat Fire",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": -1
+      }
+    ],
+    "id": 199,
+    "name": "Pump Flat Fire",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": -1
+      }
+    ],
+    "id": 200,
+    "name": "SMG Flat Fire",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": -1
+      }
+    ],
+    "id": 201,
+    "name": "Carbine Flat Fire",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": -1
+      }
+    ],
+    "id": 202,
+    "name": "MT47 Flat Fire",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.25,
+        "fireType": -1
+      }
+    ],
+    "id": 203,
+    "name": "Revolver Flat Fire",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": -1
+      }
+    ],
+    "id": 204,
+    "name": "LMG Flat Fire",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": -1
+      }
+    ],
+    "id": 205,
+    "name": "Tommy Flat Fire",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": -1
+      }
+    ],
+    "id": 206,
+    "name": "Auto Flat Fire",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": -1
+      }
+    ],
+    "id": 207,
+    "name": "Lever Flat Fire",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.0075,
+        "fireType": -1
+      }
+    ],
+    "id": 208,
+    "name": "Falcon Mag Min",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.01,
+        "fireType": -1
+      }
+    ],
+    "id": 209,
+    "name": "Pump Mag Min",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.003,
+        "fireType": -1
+      }
+    ],
+    "id": 210,
+    "name": "SMG Mag Min",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.003,
+        "fireType": -1
+      }
+    ],
+    "id": 211,
+    "name": "Carbine Mag Min",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.003,
+        "fireType": -1
+      }
+    ],
+    "id": 212,
+    "name": "MT47 Mag Min",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.015,
+        "fireType": -1
+      }
+    ],
+    "id": 213,
+    "name": "Revolver Mag Min",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.0015,
+        "fireType": -1
+      }
+    ],
+    "id": 214,
+    "name": "LMG Mag Min",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.003,
+        "fireType": -1
+      }
+    ],
+    "id": 215,
+    "name": "Tommy Mag Min",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.0075,
+        "fireType": -1
+      }
+    ],
+    "id": 216,
+    "name": "Auto Mag Min",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.01,
+        "fireType": -1
+      }
+    ],
+    "id": 217,
+    "name": "Lever Mag Min",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": 0
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": 0
+      }
+    ],
+    "id": 218,
+    "name": "Falcon Bloodfest",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 2.0,
+        "fireType": 0
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 2.0,
+        "fireType": 0
+      }
+    ],
+    "id": 219,
+    "name": "Pump Bloodfest",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": 0
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": 0
+      }
+    ],
+    "id": 220,
+    "name": "SMG Bloodfest",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": 0
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": 0
+      }
+    ],
+    "id": 221,
+    "name": "Carbine Bloodfest",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": 0
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": 0
+      }
+    ],
+    "id": 222,
+    "name": "MT47 Bloodfest",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 2.0,
+        "fireType": 0
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 2.0,
+        "fireType": 0
+      }
+    ],
+    "id": 223,
+    "name": "Revolver Bloodfest",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": 0
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": 0
+      }
+    ],
+    "id": 224,
+    "name": "LMG Bloodfest",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": 0
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": 0
+      }
+    ],
+    "id": 225,
+    "name": "Tommy Bloodfest",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": 0
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": 0
+      }
+    ],
+    "id": 226,
+    "name": "Auto Bloodfest",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 2.0,
+        "fireType": 0
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 2.0,
+        "fireType": 0
+      }
+    ],
+    "id": 227,
+    "name": "Lever Bloodfest",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": -1
+      }
+    ],
+    "id": 228,
+    "name": "Falcon Last Stand",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": -1
+      }
+    ],
+    "id": 229,
+    "name": "Pump Last Stand",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": -1
+      }
+    ],
+    "id": 230,
+    "name": "SMG Last Stand",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": -1
+      }
+    ],
+    "id": 231,
+    "name": "Carbine Last Stand",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": -1
+      }
+    ],
+    "id": 232,
+    "name": "MT47 Last Stand",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": -1
+      }
+    ],
+    "id": 233,
+    "name": "Revolver Last Stand",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": -1
+      }
+    ],
+    "id": 234,
+    "name": "LMG Last Stand",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": -1
+      }
+    ],
+    "id": 235,
+    "name": "Tommy Last Stand",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": -1
+      }
+    ],
+    "id": 236,
+    "name": "Auto Last Stand",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": -1
+      }
+    ],
+    "id": 237,
+    "name": "Lever Last Stand",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 22,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": 0
+      }
+    ],
+    "id": 238,
+    "name": "Falcon Shatter",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 22,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": 0
+      }
+    ],
+    "id": 239,
+    "name": "Pump Shatter",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 22,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": 0
+      }
+    ],
+    "id": 240,
+    "name": "SMG Shatter",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 22,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": 0
+      }
+    ],
+    "id": 241,
+    "name": "Carbine Shatter",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 22,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": 0
+      }
+    ],
+    "id": 242,
+    "name": "MT47 Shatter",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 22,
+        "type": 1,
+        "amount": 1.15,
+        "fireType": 0
+      }
+    ],
+    "id": 243,
+    "name": "Revolver Shatter",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 22,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": 0
+      }
+    ],
+    "id": 244,
+    "name": "LMG Shatter",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 22,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": 0
+      }
+    ],
+    "id": 245,
+    "name": "Tommy Shatter",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 22,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": 0
+      }
+    ],
+    "id": 246,
+    "name": "Auto Shatter",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 22,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": 0
+      }
+    ],
+    "id": 247,
+    "name": "Lever Shatter",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 21,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": 0
+      },
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": 0
+      }
+    ],
+    "id": 248,
+    "name": "Falcon Semi-Auto",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 21,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": 0
+      },
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": 0
+      }
+    ],
+    "id": 249,
+    "name": "Pump Semi-Auto",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 21,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": 0
+      },
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": 0
+      }
+    ],
+    "id": 250,
+    "name": "SMG Semi-Auto",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 21,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": 0
+      },
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": 0
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": 0
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": 0
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": 0
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": 0
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": 0
+      }
+    ],
+    "id": 251,
+    "name": "Carbine Semi-Auto",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 21,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": 0
+      },
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": 0
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": 0
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": 0
+      },
+      {
+        "stat": 6,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": 0
+      },
+      {
+        "stat": 10,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": 0
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.9,
+        "fireType": 0
+      }
+    ],
+    "id": 252,
+    "name": "MT47 Semi-Auto",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 21,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": 0
+      },
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": 0
+      }
+    ],
+    "id": 253,
+    "name": "Revolver Semi-Auto",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 21,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": 0
+      },
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": 0
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.75,
+        "fireType": 0
+      }
+    ],
+    "id": 254,
+    "name": "LMG Semi-Auto",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 21,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": 0
+      },
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": 0
+      }
+    ],
+    "id": 255,
+    "name": "Tommy Semi-Auto",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 21,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": 0
+      },
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": 0
+      }
+    ],
+    "id": 256,
+    "name": "Auto Semi-Auto",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 21,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": 1
+      },
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 0.65,
+        "fireType": 1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.3,
+        "fireType": 1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.675,
+        "fireType": 1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": 1
+      }
+    ],
+    "id": 257,
+    "name": "Falcon Burst",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 21,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": 1
+      },
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": 1
+      }
+    ],
+    "id": 258,
+    "name": "Pump Burst",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 21,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": 1
+      },
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 0.975,
+        "fireType": 1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": 1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": 1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.25,
+        "fireType": 1
+      }
+    ],
+    "id": 259,
+    "name": "SMG Burst",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 21,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": 1
+      },
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 0.975,
+        "fireType": 1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.7,
+        "fireType": 1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": 1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.5,
+        "fireType": 1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.4,
+        "fireType": 1
+      }
+    ],
+    "id": 260,
+    "name": "Carbine Burst",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 21,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": 1
+      },
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 0.975,
+        "fireType": 1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.7,
+        "fireType": 1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.7,
+        "fireType": 1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.6,
+        "fireType": 1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.3,
+        "fireType": 1
+      }
+    ],
+    "id": 261,
+    "name": "MT47 Burst",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 21,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": 1
+      },
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 0.35,
+        "fireType": 1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 3.0,
+        "fireType": 1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.15,
+        "fireType": 1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.15,
+        "fireType": 1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 1.0,
+        "fireType": 1
+      }
+    ],
+    "id": 262,
+    "name": "Revolver Burst",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 21,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": 1
+      },
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 0.975,
+        "fireType": 1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": 1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": 1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.1,
+        "fireType": 1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.5,
+        "fireType": 1
+      }
+    ],
+    "id": 263,
+    "name": "LMG Burst",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 21,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": 1
+      },
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 0.975,
+        "fireType": 1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": 1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": 1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 0.8,
+        "fireType": 1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.35,
+        "fireType": 1
+      }
+    ],
+    "id": 264,
+    "name": "Tommy Burst",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 21,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": 1
+      },
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 0.95,
+        "fireType": 1
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.6,
+        "fireType": 1
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.6,
+        "fireType": 1
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.5,
+        "fireType": 1
+      },
+      {
+        "stat": 23,
+        "type": 1,
+        "amount": 0.65,
+        "fireType": 1
+      }
+    ],
+    "id": 265,
+    "name": "Auto Burst",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 21,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": 2
+      },
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 0.65,
+        "fireType": 2
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 1.05,
+        "fireType": 2
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.4,
+        "fireType": 2
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.4,
+        "fireType": 2
+      }
+    ],
+    "id": 266,
+    "name": "Falcon Full-Auto",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 21,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": 2
+      },
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": 2
+      }
+    ],
+    "id": 267,
+    "name": "Pump Full-Auto",
+    "category": ""
+  },
+  {
+    "modifiers": [
+      {
+        "stat": 21,
+        "type": 1,
+        "amount": 1.2,
+        "fireType": 2
+      },
+      {
+        "stat": 0,
+        "type": 1,
+        "amount": 0.35,
+        "fireType": 2
+      },
+      {
+        "stat": 18,
+        "type": 1,
+        "amount": 3.0,
+        "fireType": 2
+      },
+      {
+        "stat": 20,
+        "type": 1,
+        "amount": 0.15,
+        "fireType": 2
+      },
+      {
+        "stat": 4,
+        "type": 1,
+        "amount": 0.15,
+        "fireType": 2
+      }
+    ],
+    "id": 268,
+    "name": "Revolver Full-Auto",
+    "category": ""
+  }
+]
+}

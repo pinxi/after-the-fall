@@ -1,0 +1,913 @@
+{
+  "TableId": 109,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "defaultIdleSettings": {
+      "stayAimedWhenIdle": false,
+      "lookDirectionWeightByViewDistance": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.333333343,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 7.0,
+            "value": 0.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 10.2936707,
+            "value": 0.212135851,
+            "inTangent": 0.160861224,
+            "outTangent": 0.160861224,
+            "inWeight": 0.163871348,
+            "outWeight": 0.172810525,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 12.9734039,
+            "value": 0.8317122,
+            "inTangent": 0.07400478,
+            "outTangent": 0.07400478,
+            "inWeight": 0.245430768,
+            "outWeight": 0.127292827,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 20.0,
+            "value": 1.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "maxHorizontalLookAtAngle": 60.0,
+      "maxVerticalLookAtAngle": 10.0,
+      "horizontalAngleSpeed": {
+        "x": 0.1,
+        "y": 0.2
+      },
+      "verticalAngleSpeed": {
+        "x": 0.05,
+        "y": 0.1
+      },
+      "nextTargetCooldownTime": {
+        "x": 2.0,
+        "y": 4.0
+      }
+    },
+    "idleSettingsPerEnvironment": [
+      {
+        "environment": 1,
+        "idleSettings": {
+          "stayAimedWhenIdle": true,
+          "lookDirectionWeightByViewDistance": {
+            "keys": [
+              {
+                "time": 0.0,
+                "value": 0.0,
+                "inTangent": 0.00249649119,
+                "outTangent": 0.00249649119,
+                "inWeight": 0.0,
+                "outWeight": 0.07972973,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 3.5,
+                "value": 0.0,
+                "inTangent": 0.0,
+                "outTangent": 0.0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 6.69044065,
+                "value": 0.170915827,
+                "inTangent": 0.151175246,
+                "outTangent": 0.151175246,
+                "inWeight": 0.333333343,
+                "outWeight": 0.1868557,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 9.097051,
+                "value": 0.793095231,
+                "inTangent": 0.142964944,
+                "outTangent": 0.142964944,
+                "inWeight": 0.155218452,
+                "outWeight": 0.140128642,
+                "weightedMode": 0,
+                "tangentMode": 0
+              },
+              {
+                "time": 12.0,
+                "value": 1.0,
+                "inTangent": -0.00213457621,
+                "outTangent": -0.00213457621,
+                "inWeight": 0.09324324,
+                "outWeight": 0.0,
+                "weightedMode": 0,
+                "tangentMode": 0
+              }
+            ],
+            "preWrapMode": 8,
+            "postWrapMode": 8
+          },
+          "maxHorizontalLookAtAngle": 50.0,
+          "maxVerticalLookAtAngle": 30.0,
+          "horizontalAngleSpeed": {
+            "x": 0.2,
+            "y": 0.3
+          },
+          "verticalAngleSpeed": {
+            "x": 0.1,
+            "y": 0.2
+          },
+          "nextTargetCooldownTime": {
+            "x": 0.75,
+            "y": 1.75
+          }
+        }
+      }
+    ],
+    "navMeshWalkableLayer": 769,
+    "navMeshAgentAcceleration": 10.0,
+    "navMeshAgentRadius": 0.4,
+    "navMeshAgentSpeedOverMovementDistance": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 1.5,
+          "inTangent": 0.0108008822,
+          "outTangent": 0.0108008822,
+          "inWeight": 0.0,
+          "outWeight": 0.337078661,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.8842658,
+          "value": 1.68012631,
+          "inTangent": 0.408792883,
+          "outTangent": 0.408792883,
+          "inWeight": 0.333333343,
+          "outWeight": 0.313164681,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 2.40540528,
+          "value": 2.83899856,
+          "inTangent": 0.169219717,
+          "outTangent": 0.169219717,
+          "inWeight": 0.3108108,
+          "outWeight": 0.12833491,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 6.388999,
+          "value": 3.62342787,
+          "inTangent": 0.6545288,
+          "outTangent": 0.6545288,
+          "inWeight": 0.100177228,
+          "outWeight": 0.1474734,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 7.851351,
+          "value": 4.973726,
+          "inTangent": 0.6138839,
+          "outTangent": 0.6138839,
+          "inWeight": 0.314857155,
+          "outWeight": 0.233079866,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 10.0,
+          "value": 7.0,
+          "inTangent": 1.62023032,
+          "outTangent": 1.62023032,
+          "inWeight": 0.08648644,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "maxMovementSpeedWhileInCombat": 2.5,
+    "minMaxAIUpdateCooldown": {
+      "x": 0.5,
+      "y": 1.0
+    },
+    "visionRaycastOffset": {
+      "x": 0.0,
+      "y": 1.5,
+      "z": 0.0
+    },
+    "visionRaycastLayerMask": {
+      "value": 2101257
+    },
+    "movementLocationCandidateScoringSettings": {
+      "minDistanceToPlayers": 0.5,
+      "preferredDistanceToOtherPlayersRange": {
+        "x": 2.0,
+        "y": 10.0
+      },
+      "maxDistanceToPlayers": 16.0,
+      "preferredDistanceToPlayersWeightCurve": {
+        "keys": [
+          {
+            "time": 0.5,
+            "value": 0.1,
+            "inTangent": 0.466666669,
+            "outTangent": 0.466666669,
+            "inWeight": 0.0,
+            "outWeight": 0.333333343,
+            "weightedMode": 0,
+            "tangentMode": 35
+          },
+          {
+            "time": 2.0,
+            "value": 0.8,
+            "inTangent": 0.145454511,
+            "outTangent": 0.145454511,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343,
+            "weightedMode": 0,
+            "tangentMode": 137
+          },
+          {
+            "time": 6.0,
+            "value": 1.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343,
+            "weightedMode": 0,
+            "tangentMode": 137
+          },
+          {
+            "time": 10.0,
+            "value": 0.8,
+            "inTangent": -0.07999999,
+            "outTangent": -0.07999999,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343,
+            "weightedMode": 0,
+            "tangentMode": 137
+          },
+          {
+            "time": 16.0,
+            "value": 0.1,
+            "inTangent": -0.116666667,
+            "outTangent": -0.116666667,
+            "inWeight": 0.333333343,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 35
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "minDistanceToOtherAi": 1.0,
+      "preferredDistanceToOtherAiRange": {
+        "x": 6.0,
+        "y": 15.0
+      },
+      "maxDistanceToOtherAi": 20.0,
+      "preferredDistanceToAiWeightCurve": {
+        "keys": [
+          {
+            "time": 1.0,
+            "value": 0.1,
+            "inTangent": 0.14,
+            "outTangent": 0.14,
+            "inWeight": 0.0,
+            "outWeight": 0.333333343,
+            "weightedMode": 0,
+            "tangentMode": 35
+          },
+          {
+            "time": 6.0,
+            "value": 0.8,
+            "inTangent": 0.08421051,
+            "outTangent": 0.08421051,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343,
+            "weightedMode": 0,
+            "tangentMode": 137
+          },
+          {
+            "time": 10.5,
+            "value": 1.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343,
+            "weightedMode": 0,
+            "tangentMode": 137
+          },
+          {
+            "time": 15.0,
+            "value": 0.8,
+            "inTangent": -0.084210515,
+            "outTangent": -0.084210515,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343,
+            "weightedMode": 0,
+            "tangentMode": 137
+          },
+          {
+            "time": 20.0,
+            "value": 0.1,
+            "inTangent": -0.14,
+            "outTangent": -0.14,
+            "inWeight": 0.333333343,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 35
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "minDistanceToPlayersWeightCurve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": -0.0165974423,
+            "outTangent": -0.0165974423,
+            "inWeight": 0.0,
+            "outWeight": 0.09594595,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0276562,
+            "value": 0.06969719,
+            "inTangent": 0.146401614,
+            "outTangent": 0.146401614,
+            "inWeight": 0.333333343,
+            "outWeight": 0.103227444,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 2.182744,
+            "value": 0.684742451,
+            "inTangent": 0.88436687,
+            "outTangent": 0.88436687,
+            "inWeight": 0.05259904,
+            "outWeight": 0.243939131,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 2.5,
+            "value": 1.0,
+            "inTangent": 0.975183,
+            "outTangent": 0.975183,
+            "inWeight": 0.3088133,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "pathZombieThreatScoreByDistanceToPath": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inTangent": -0.0165974423,
+            "outTangent": -0.0165974423,
+            "inWeight": 0.0,
+            "outWeight": 0.09594595,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 2.5,
+            "value": 0.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.06621623,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "invalidPathThreat": 1.0,
+      "currentLocationMinDistanceToPlayersThreshold": 2.0,
+      "currentLocationFullHpIgnoreMinDistanceMaxTime": 2.0,
+      "currentLocationNoHpIgnoreMinDistanceMaxTime": 7.5,
+      "currentLocationMinDistanceScoreWeightOverTimeFraction": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inTangent": 2.98051763,
+            "outTangent": 2.98051763,
+            "inWeight": 0.022973001,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      }
+    },
+    "maxZombieTargetsToConsiderForMovementScoring": 8,
+    "movementLocationCommitment": 0.5,
+    "otherPlayerMovementLocationRings": [
+      {
+        "description": "Very Short range (should never be preferred by the AI but needed very small areas like elevator)",
+        "numberOfDirections": 3,
+        "directionRandomness": 0.5,
+        "minDistance": 0.25,
+        "maxDistance": 2.0
+      },
+      {
+        "description": "Short range (should never be preferred by the AI but needed for indoor sections)",
+        "numberOfDirections": 3,
+        "directionRandomness": 0.5,
+        "minDistance": 2.0,
+        "maxDistance": 4.0
+      },
+      {
+        "description": "Medium Range",
+        "numberOfDirections": 4,
+        "directionRandomness": 0.75,
+        "minDistance": 5.0,
+        "maxDistance": 8.0
+      },
+      {
+        "description": "Medium Range",
+        "numberOfDirections": 4,
+        "directionRandomness": 0.75,
+        "minDistance": 7.0,
+        "maxDistance": 12.0
+      },
+      {
+        "description": "LongRange (can be preferred when all players are far from eachother, this can be a spot inbetween all players)",
+        "numberOfDirections": 5,
+        "directionRandomness": 0.25,
+        "minDistance": 12.0,
+        "maxDistance": 18.0
+      }
+    ],
+    "selfMovementLocationRings": [
+      {
+        "description": "",
+        "numberOfDirections": 4,
+        "directionRandomness": 0.75,
+        "minDistance": 2.0,
+        "maxDistance": 4.0
+      }
+    ],
+    "combatMovementDodgeCooldownWeightRandomCurve": {
+      "weightByValueCurve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.333333343,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.6161997,
+            "value": 0.5499994,
+            "inTangent": -2.12973833,
+            "outTangent": -2.12973833,
+            "inWeight": 0.0486725569,
+            "outWeight": 0.09877925,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.9528074,
+            "value": 0.242794916,
+            "inTangent": -0.6034619,
+            "outTangent": -0.6034619,
+            "inWeight": 0.170477539,
+            "outWeight": 0.5806399,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inTangent": -10.3693867,
+            "outTangent": -10.3693867,
+            "inWeight": 0.116489492,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "valueByCumulativeWeightCurve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 0.0,
+            "outTangent": 0.6799992,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.3119433,
+            "value": 0.212121189,
+            "inTangent": 0.6941962,
+            "outTangent": 0.6941962,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.497260869,
+            "value": 0.3434344,
+            "inTangent": 0.7405001,
+            "outTangent": 0.7405001,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.640922964,
+            "value": 0.454545617,
+            "inTangent": 0.83419615,
+            "outTangent": 0.83419615,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.7533018,
+            "value": 0.5555558,
+            "inTangent": 1.00651383,
+            "outTangent": 1.00651383,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.824992061,
+            "value": 0.636364,
+            "inTangent": 1.26514685,
+            "outTangent": 1.26514685,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.8604467,
+            "value": 0.6868691,
+            "inTangent": 1.54340947,
+            "outTangent": 1.54340947,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.8905667,
+            "value": 0.7373742,
+            "inTangent": 1.80906332,
+            "outTangent": 1.80906332,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.92667836,
+            "value": 0.8080813,
+            "inTangent": 2.09473252,
+            "outTangent": 2.09473252,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.9581357,
+            "value": 0.8787885,
+            "inTangent": 2.4124198,
+            "outTangent": 2.4124198,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.99311626,
+            "value": 0.969697654,
+            "inTangent": 3.286841,
+            "outTangent": 3.286841,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.9999999,
+            "value": 1.00000072,
+            "inTangent": 4.402198,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "numSamples": 100,
+      "simplify": true,
+      "simplifyTolerance": 0.002
+    },
+    "minMaxCombatMovementDodgeCooldownDuration": {
+      "x": 0.0,
+      "y": 7.5
+    },
+    "combatMovementForceCooldownWeightRandomCurve": {
+      "weightByValueCurve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0270270277,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.5,
+            "value": 1.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.037837863,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "valueByCumulativeWeightCurve": {
+        "keys": [],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "numSamples": 0,
+      "simplify": false,
+      "simplifyTolerance": 0.0
+    },
+    "minMaxCombatMovementForceCooldownDuration": {
+      "x": 4.0,
+      "y": 25.0
+    },
+    "maxLosRadiusDistance": 10.0,
+    "minMaxLosRadius": {
+      "x": 0.75,
+      "y": 2.0
+    },
+    "losScoreFalloffRadius": 0.5,
+    "losPathScoreMultiplier": 0.65,
+    "targetThreatScoreSelfishness": 0.8,
+    "targetingCommitment": 0.4,
+    "zombieTargetThreatSettings": [
+      {
+        "zombieTypeId": 7,
+        "threatScoreMultiplier": 1.5
+      },
+      {
+        "zombieTypeId": 5,
+        "threatScoreMultiplier": 1.25
+      },
+      {
+        "zombieTypeId": 19,
+        "threatScoreMultiplier": 1.5
+      },
+      {
+        "zombieTypeId": 9,
+        "threatScoreMultiplier": 1.25
+      },
+      {
+        "zombieTypeId": 6,
+        "threatScoreMultiplier": 1.5
+      },
+      {
+        "zombieTypeId": 14,
+        "threatScoreMultiplier": 1.5
+      },
+      {
+        "zombieTypeId": 16,
+        "threatScoreMultiplier": 1.5
+      },
+      {
+        "zombieTypeId": 17,
+        "threatScoreMultiplier": 1.5
+      },
+      {
+        "zombieTypeId": 18,
+        "threatScoreMultiplier": 1.5
+      }
+    ],
+    "minMaxSwapItemFireCooldown": {
+      "x": 2.0,
+      "y": 3.0
+    },
+    "minMaxReviveResponseDelay": {
+      "x": 8.0,
+      "y": 17.0
+    },
+    "reviveHealAmount": 50.0,
+    "healAmount": 100.0,
+    "zombieStateCombatModifiers": [
+      {
+        "description": "Deal more damage to the when it is gabbing the AI (more headshots)",
+        "zombieTypeId": 7,
+        "zombieStates": 2,
+        "damageMultiplier": 1.0,
+        "hitChanceMultiplier": 2.0,
+        "headShotChanceMultiplier": 5.0,
+        "armShotChanceMultiplier": 1.0
+      }
+    ],
+    "minMaxGiveAmmoResponseDelay": {
+      "x": 6.0,
+      "y": 12.0
+    },
+    "lowAmmoResourceThresholds": [
+      {
+        "resourceId": 4,
+        "amount": 20
+      },
+      {
+        "resourceId": 15,
+        "amount": 40
+      },
+      {
+        "resourceId": 18,
+        "amount": 30
+      },
+      {
+        "resourceId": 19,
+        "amount": 30
+      },
+      {
+        "resourceId": 17,
+        "amount": 10
+      }
+    ],
+    "fillAmmoResourceThresholds": [
+      {
+        "resourceId": 4,
+        "amount": 40
+      },
+      {
+        "resourceId": 15,
+        "amount": 80
+      },
+      {
+        "resourceId": 18,
+        "amount": 60
+      },
+      {
+        "resourceId": 19,
+        "amount": 60
+      },
+      {
+        "resourceId": 17,
+        "amount": 20
+      }
+    ],
+    "healthMultiplierByDifficulty": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        1.5,
+        2.0,
+        2.5,
+        3.0,
+        5.0
+      ]
+    },
+    "combatDodgeCooldownTimeMultiplierByDifficulty": {
+      "rowType": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "colType": "Vertigo.Snowbreed.EGameplayDifficulty, Snowbreed.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "rowCount": 1,
+      "colCount": 5,
+      "rowLabels": [
+        "0"
+      ],
+      "colLabels": [
+        "Survivor",
+        "Veteran",
+        "Master",
+        "Nightmare",
+        "Horror"
+      ],
+      "values": [
+        0.7,
+        0.65,
+        0.45,
+        0.25,
+        0.05
+      ]
+    },
+    "id": 0,
+    "name": "AI 1",
+    "category": ""
+  }
+]
+}

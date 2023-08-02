@@ -1,0 +1,124 @@
+{
+  "TableId": 50029,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "filterType": {
+      "$type": "Vertigo.Snowbreed.Client.CharacterCustomizationSkinThemeViewCondition, Snowbreed.Client",
+      "playerSkinThemeId": 0
+    },
+    "id": 0,
+    "name": "Theme - Red skin condition",
+    "category": ""
+  },
+  {
+    "filterType": {
+      "$type": "Vertigo.Snowbreed.Client.CharacterCustomizationSkinMaleViewCondition, Snowbreed.Client"
+    },
+    "id": 1,
+    "name": "Male skin condition",
+    "category": ""
+  },
+  {
+    "filterType": {
+      "$type": "Vertigo.Snowbreed.Client.CharacterCustomizationSkinFemaleViewCondition, Snowbreed.Client"
+    },
+    "id": 2,
+    "name": "Female skin condition",
+    "category": ""
+  },
+  {
+    "filterType": {
+      "$type": "Vertigo.Snowbreed.Client.CharacterCustomizationSkinUnlockedViewCondition, Snowbreed.Client"
+    },
+    "id": 3,
+    "name": "Is unlocked skin condition",
+    "category": ""
+  },
+  {
+    "filterType": {
+      "$type": "Vertigo.Snowbreed.Client.CharacterCustomizationSkinLockedViewCondition, Snowbreed.Client"
+    },
+    "id": 4,
+    "name": "Is locked skin condition",
+    "category": ""
+  },
+  {
+    "filterType": {
+      "$type": "Vertigo.Snowbreed.Client.CharacterCustomizationSkinRecentlyUnlockedViewCondition, Snowbreed.Client"
+    },
+    "id": 5,
+    "name": "Is recently unlocked skin condition",
+    "category": ""
+  },
+  {
+    "filterType": {
+      "$type": "Vertigo.Snowbreed.Client.CharacterCustomizationSkinExclusiveViewCondition, Snowbreed.Client"
+    },
+    "id": 6,
+    "name": "Is exclusive skin condition",
+    "category": ""
+  },
+  {
+    "filterType": {
+      "$type": "Vertigo.Snowbreed.Client.CharacterCustomizationSkinOwnedViewCondition, Snowbreed.Client"
+    },
+    "id": 7,
+    "name": "Is owned skin condition",
+    "category": ""
+  },
+  {
+    "filterType": {
+      "$type": "Vertigo.Snowbreed.Client.CharacterCustomizationSkinUnownedViewCondition, Snowbreed.Client"
+    },
+    "id": 8,
+    "name": "Is unowned skin condition",
+    "category": ""
+  },
+  {
+    "filterType": {
+      "$type": "Vertigo.Snowbreed.Client.CharacterCustomizationSkinThemeViewCondition, Snowbreed.Client",
+      "playerSkinThemeId": 1
+    },
+    "id": 9,
+    "name": "Theme - Neon skin condition",
+    "category": ""
+  },
+  {
+    "filterType": {
+      "$type": "Vertigo.Snowbreed.Client.CharacterCustomizationSkinThemeViewCondition, Snowbreed.Client",
+      "playerSkinThemeId": 2
+    },
+    "id": 10,
+    "name": "Theme - Mobster skin condition",
+    "category": ""
+  },
+  {
+    "filterType": {
+      "$type": "Vertigo.Snowbreed.Client.CharacterCustomizationSkinThemeViewCondition, Snowbreed.Client",
+      "playerSkinThemeId": 3
+    },
+    "id": 11,
+    "name": "Theme - Rambo skin condition",
+    "category": ""
+  },
+  {
+    "filterType": {
+      "$type": "Vertigo.Snowbreed.Client.CharacterCustomizationSkinThemeViewCondition, Snowbreed.Client",
+      "playerSkinThemeId": 4
+    },
+    "id": 12,
+    "name": "Theme - Riot skin condition",
+    "category": ""
+  },
+  {
+    "filterType": {
+      "$type": "Vertigo.Snowbreed.Client.CharacterCustomizationSkinThemeViewCondition, Snowbreed.Client",
+      "playerSkinThemeId": 5
+    },
+    "id": 13,
+    "name": "Theme - Story skin condition",
+    "category": ""
+  }
+]
+}

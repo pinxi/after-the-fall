@@ -1,0 +1,231 @@
+{
+  "TableId": 204,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "defaultHitBone": 1,
+    "globalMaxAliveNormalZombieCount": 45,
+    "globalMaxAliveSpecialZombieCount": 5,
+    "zombieBodyDeadHitMaterial": 15,
+    "zombieBodyAliveHitMaterial": 5,
+    "zombieIceArmorHitMaterial": 35,
+    "zombieExposedSpotHitMaterial": 5,
+    "zombieBodyNoDamageHitMaterial": 30,
+    "zombieLimbsHitMaterial": 14,
+    "idleSpawnNavMeshLayers": 1,
+    "defaultIdleSpawnProfile": 70,
+    "defaultSpawnTypeConfig": {
+      "spawnWeights": [
+        {
+          "spawnType": 11,
+          "spawnWeight": 0.9
+        },
+        {
+          "spawnType": 12,
+          "spawnWeight": 0.1
+        }
+      ]
+    },
+    "defaultSpawnGrouping": {
+      "groupingFactor": 0.4,
+      "groupSizeRange": {
+        "rangeStart": 3.0,
+        "rangeEnd": 5.0
+      },
+      "groupAreaRange": {
+        "rangeStart": 2.0,
+        "rangeEnd": 3.0
+      }
+    },
+    "defaultSingleIdleBehaviours": {
+      "behaviourWeights": [
+        {
+          "idleBehaviour": 0,
+          "spawnWeight": 1.0
+        }
+      ]
+    },
+    "defaultGroupIdleBehaviours": {
+      "behaviourWeights": [
+        {
+          "idleBehaviour": 2,
+          "spawnWeight": 1.0
+        },
+        {
+          "idleBehaviour": 3,
+          "spawnWeight": 1.0
+        }
+      ]
+    },
+    "defaultIdleBehaviour": 1,
+    "attackPhysicsForce": 400.0,
+    "attackPhysicsForceUpModifier": 10.0,
+    "attackPhysicsForceRadius": 10.0,
+    "physicsForce": 300.0,
+    "upPhysicsForce": 225.0,
+    "explosivePhysicsForce": 15.0,
+    "explosivePhysicsUpModifier": 2.5,
+    "deathPhysicsForceMultiplier": 0.3,
+    "deathPhysicsForceUpMultiplier": 0.125,
+    "groundLayerMask": {
+      "value": 131073
+    },
+    "smoothPositionUpdateTime": 0.01,
+    "smoothPositionUpdateMaxSpeed": 5.0,
+    "projectilesPoolSize": 20,
+    "maxLifetime": 10.0,
+    "headColliderScaleModifier": 2.0,
+    "meleeIntersectorProximityRange": 3.0,
+    "preferredZombieStoppingDistance": 0.1,
+    "minMaxMovementRotationSpeed": {
+      "x": 1.0,
+      "y": 10.0
+    },
+    "minMaxMovementRotationMovementSpeed": {
+      "x": 1.0,
+      "y": 3.0
+    },
+    "maxRotationSmoothTime": 0.1,
+    "minMovementIdleSpeed": 2.0,
+    "backgroundZombieRotationSpeed": 180.0,
+    "pathDivergenceTargetRange": {
+      "rangeStart": 3.0,
+      "rangeEnd": 5.0
+    },
+    "stuckDetectionTime": 1.0,
+    "invalidPathDetectionTime": 10.0,
+    "maxStumbleAngularVelocity": 15.0,
+    "attackRaycastLayerMask": {
+      "value": 4097
+    },
+    "minMovementSpeedMultiplier": 0.85,
+    "maxMovementSpeedMultiplier": 1.15,
+    "ceilingLayerMask": 8,
+    "bodyBone": 1,
+    "leftFootBone": 14,
+    "rightFootBone": 17,
+    "leftHandBone": 8,
+    "rightHandBone": 11,
+    "footstepLBone": 21,
+    "footstepRBone": 22,
+    "globalHitFresnelSettings": {
+      "hitGradient": {
+        "alphaKeys": [
+          {
+            "alpha": 1.0,
+            "time": 0.0
+          },
+          {
+            "alpha": 1.0,
+            "time": 1.0
+          }
+        ],
+        "colorKeys": [
+          {
+            "color": {
+              "r": 0.6509434,
+              "g": 0.6509434,
+              "b": 0.6509434,
+              "a": 1.0
+            },
+            "time": 0.0
+          },
+          {
+            "color": {
+              "r": 0.796078444,
+              "g": 0.751574337,
+              "b": 0.215686277,
+              "a": 1.0
+            },
+            "time": 0.455878526
+          },
+          {
+            "color": {
+              "r": 0.772549033,
+              "g": 0.227450982,
+              "b": 0.223529413,
+              "a": 1.0
+            },
+            "time": 0.7529412
+          },
+          {
+            "color": {
+              "r": 1.0,
+              "g": 0.240566015,
+              "b": 0.240566015,
+              "a": 1.0
+            },
+            "time": 1.0
+          }
+        ],
+        "mode": 0
+      },
+      "maxFresnelIntensity": 0.8
+    },
+    "minMaxLimbHorizontalForce": {
+      "x": 4.0,
+      "y": 5.0
+    },
+    "minMaxLimbVerticalForce": {
+      "x": 6.0,
+      "y": 7.0
+    },
+    "minMaxLimbImpactForce": {
+      "x": 1.5,
+      "y": 2.0
+    },
+    "minMaxLimbRandomForce": {
+      "x": 0.5,
+      "y": 1.0
+    },
+    "minMaxLimbTorqueForce": {
+      "x": 50.0,
+      "y": 80.0
+    },
+    "defaultBloodImpactSize": {
+      "x": 0.3,
+      "y": 0.3,
+      "z": 0.5
+    },
+    "gibVerticalForceFactor": 3.0,
+    "mutilationParticles": {
+      "assetName": "Part_Mutilation_Pieces",
+      "assetPath": "Assets/Art/FX Vertigo/FX/VertigoResources/FX_Mutilation/Part_Mutilation_Pieces.prefab",
+      "assetGUID": "2fbd53bf58142cf4c96a55251b71557b",
+      "resourcePath": "FX_Mutilation/Part_Mutilation_Pieces",
+      "isSubAsset": false
+    },
+    "additionalMutilationPrefabs": [
+      {
+        "assetName": "Part_Mutilation_HeadShot_Default",
+        "assetPath": "Assets/Art/FX Vertigo/FX/VertigoResources/FX_Mutilation/Part_Mutilation_HeadShot_Default.prefab",
+        "assetGUID": "59a7d42de0b811744a65a4b8cbcb294c",
+        "resourcePath": "FX_Mutilation/Part_Mutilation_HeadShot_Default",
+        "isSubAsset": false
+      }
+    ],
+    "gibParticle": {
+      "assetName": "Particle_Blood_Gib",
+      "assetPath": "Assets/Art/FX Vertigo/FX Blood/VertigoResources/Particle_Blood_Gib.prefab",
+      "assetGUID": "b936fd7bd9fa9bc488a4f1c4f98cad29",
+      "resourcePath": "Particle_Blood_Gib",
+      "isSubAsset": false
+    },
+    "limbWoundBloodParticles": [],
+    "bodyWoundBloodParticles": [],
+    "iceArmorDestroyedParticles": [],
+    "exposedSpotDestroyedParticles": [],
+    "farProximity": 45.0,
+    "closeProximity": 20.0,
+    "veryFarThreatMultiplier": 0.4,
+    "farThreatMultiplier": 0.8,
+    "closeThreatMultiplier": 1.4,
+    "maximumThreatValue": 32.0,
+    "lowThreatTimeAfterCombat": 80.0,
+    "defaultPreviewSkin": 17,
+    "id": 0,
+    "name": "ZombieSettings",
+    "category": ""
+  }
+]
+}

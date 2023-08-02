@@ -1,0 +1,16 @@
+{
+  "TableId": 50016,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "id": 0,
+    "name": "Luna",
+    "category": ""
+  },
+  {
+    "id": 1,
+    "name": "Crafting Machine",
+    "category": ""
+  }
+]
+}

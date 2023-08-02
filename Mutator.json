@@ -1,0 +1,262 @@
+{
+  "TableId": 50035,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "displayNameKey": "MUTATOR_SLEIGHTOFHAND_NAME",
+    "displayDescriptionKey": "MUTATOR_SLEIGHTOFHAND_DESC",
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "effects": [
+      0
+    ],
+    "id": 0,
+    "name": "Sleight Of Hand",
+    "category": ""
+  },
+  {
+    "displayNameKey": "MUTATOR_INTERTWINE_NAME",
+    "displayDescriptionKey": "MUTATOR_INTERTWINE_DESC",
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "effects": [
+      1
+    ],
+    "id": 1,
+    "name": "Intertwine",
+    "category": ""
+  },
+  {
+    "displayNameKey": "MUTATOR_OUTOFBATTERY_NAME",
+    "displayDescriptionKey": "MUTATOR_OUTOFBATTERY_DESC",
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "effects": [
+      2
+    ],
+    "id": 2,
+    "name": "Out Of Battery",
+    "category": ""
+  },
+  {
+    "displayNameKey": "MUTATOR_DRYSEASON_NAME",
+    "displayDescriptionKey": "MUTATOR_DRYSEASON_DESC",
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "effects": [
+      3
+    ],
+    "id": 3,
+    "name": "Dry Season",
+    "category": ""
+  },
+  {
+    "displayNameKey": "MUTATOR_TIMETRIAL_NAME",
+    "displayDescriptionKey": "MUTATOR_TIMETRIAL_DESC",
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "effects": [
+      4
+    ],
+    "id": 4,
+    "name": "Time Trial",
+    "category": ""
+  },
+  {
+    "displayNameKey": "MUTATOR_AMMOSHORTAGE_NAME",
+    "displayDescriptionKey": "MUTATOR_AMMOSHORTAGE_DESC",
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "effects": [
+      5
+    ],
+    "id": 5,
+    "name": "Ammo Shortage",
+    "category": ""
+  },
+  {
+    "displayNameKey": "MUTATOR_INFESTATION_NAME",
+    "displayDescriptionKey": "MUTATOR_INFESTATION_DESC",
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "effects": [
+      7
+    ],
+    "id": 6,
+    "name": "Infestation",
+    "category": ""
+  },
+  {
+    "displayNameKey": "MUTATOR_TOUGH_SKIN_NAME",
+    "displayDescriptionKey": "MUTATOR_TOUGH_SKIN_DESC",
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "effects": [
+      8
+    ],
+    "id": 7,
+    "name": "Tough Skin",
+    "category": ""
+  },
+  {
+    "displayNameKey": "MUTATOR_BERSERK_NAME",
+    "displayDescriptionKey": "MUTATOR_BERSERK_DESC",
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "effects": [
+      9
+    ],
+    "id": 8,
+    "name": "Berserk",
+    "category": ""
+  },
+  {
+    "displayNameKey": "MUTATOR_ICE_PLATING_NAME",
+    "displayDescriptionKey": "MUTATOR_ICE_PLATING_DESC",
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "effects": [
+      10
+    ],
+    "id": 9,
+    "name": "Ice Plating",
+    "category": ""
+  },
+  {
+    "displayNameKey": "MUTATOR_LOW_PROFILE_NAME",
+    "displayDescriptionKey": "MUTATOR_LOW_PROFILE_DESC",
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "effects": [
+      11
+    ],
+    "id": 10,
+    "name": "Low Profile",
+    "category": ""
+  },
+  {
+    "displayNameKey": "MUTATOR_CASE_HARDENED_NAME",
+    "displayDescriptionKey": "MUTATOR_CASE_HARDENED_DESC",
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "effects": [
+      12
+    ],
+    "id": 11,
+    "name": "Case Hardened",
+    "category": ""
+  },
+  {
+    "displayNameKey": "MUTATOR_MOTOR_FUNCTION_NAME",
+    "displayDescriptionKey": "MUTATOR_MOTOR_FUNCTION_DESC",
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "effects": [
+      13
+    ],
+    "id": 12,
+    "name": "Motor Function",
+    "category": ""
+  },
+  {
+    "displayNameKey": "MUTATOR_EVOLUTION_NAME",
+    "displayDescriptionKey": "MUTATOR_EVOLUTION_DESC",
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "effects": [
+      14,
+      15
+    ],
+    "id": 13,
+    "name": "Evolution",
+    "category": ""
+  },
+  {
+    "displayNameKey": "MUTATOR_COLD_FEET",
+    "displayDescriptionKey": "MUTATOR_COLD_FEET_DESC",
+    "icon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "effects": [
+      16
+    ],
+    "id": 14,
+    "name": "Cold Feet",
+    "category": ""
+  }
+]
+}

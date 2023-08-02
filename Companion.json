@@ -1,0 +1,34 @@
+{
+  "TableId": 107,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "playerName": "SMG + Pistol AI",
+    "loadout": 5,
+    "id": 0,
+    "name": "Jimmy's Loadout",
+    "category": ""
+  },
+  {
+    "playerName": "Pistol AI",
+    "loadout": 4,
+    "id": 1,
+    "name": "Malia's Loadout",
+    "category": ""
+  },
+  {
+    "playerName": "Shotgun AI",
+    "loadout": 7,
+    "id": 2,
+    "name": "Michael's Loadout",
+    "category": ""
+  },
+  {
+    "playerName": "Rifle AI",
+    "loadout": 6,
+    "id": 3,
+    "name": "Jen's Loadout",
+    "category": ""
+  }
+]
+}

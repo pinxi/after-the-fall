@@ -1,0 +1,1170 @@
+{
+  "TableId": 166,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "hudWidth": 1.0,
+    "hudHeight": 1.0,
+    "overlayHudDistance": 2.0,
+    "healthViewSettings": {
+      "healthLerpTime": 0.4,
+      "maxBaseIntensity": 40.0,
+      "baseIntensityCurve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.85,
+            "value": 0.25,
+            "inTangent": 0.756428957,
+            "outTangent": 0.756428957,
+            "inWeight": 0.333333343,
+            "outWeight": 0.386844933,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 0.4,
+            "inTangent": 1.34583414,
+            "outTangent": 1.34583414,
+            "inWeight": 0.4456195,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "maxPulseIntensity": 10.0,
+      "pulseIntensityCurve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": -0.0151155144,
+            "outTangent": -0.0151155144,
+            "inWeight": 0.0,
+            "outWeight": 0.252508372,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inTangent": 0.0362292379,
+            "outTangent": 0.0362292379,
+            "inWeight": 0.10535121,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "pulseDuration": 1.5,
+      "pulseCurve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.5,
+            "value": 1.0,
+            "inTangent": -0.0109860823,
+            "outTangent": -0.0109860823,
+            "inWeight": 0.333333343,
+            "outWeight": 0.1359731,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inTangent": -0.0113066826,
+            "outTangent": -0.0113066826,
+            "inWeight": 0.208574653,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "vignetteSharpness": 0.0,
+      "vignetteColor": {
+        "color4": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0
+        }
+      },
+      "downedVignetteColor": {
+        "color4": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0117647061
+        }
+      },
+      "pvpTeamObscureColor": {
+        "color4": {
+          "x": 0.82745105,
+          "y": 1.0,
+          "z": 0.976470649,
+          "w": 1.0
+        }
+      },
+      "healthGradient": {
+        "alphaKeys": [
+          {
+            "alpha": 1.0,
+            "time": 0.0
+          },
+          {
+            "alpha": 1.0,
+            "time": 1.0
+          }
+        ],
+        "colorKeys": [
+          {
+            "color": {
+              "r": 0.980392158,
+              "g": 0.258823544,
+              "b": 0.2784314,
+              "a": 1.0
+            },
+            "time": 0.0
+          },
+          {
+            "color": {
+              "r": 0.980392158,
+              "g": 0.258823544,
+              "b": 0.2784314,
+              "a": 1.0
+            },
+            "time": 0.2
+          },
+          {
+            "color": {
+              "r": 0.82745105,
+              "g": 1.0,
+              "b": 0.976470649,
+              "a": 1.0
+            },
+            "time": 0.4
+          },
+          {
+            "color": {
+              "r": 0.827451,
+              "g": 1.0,
+              "b": 0.9764706,
+              "a": 1.0
+            },
+            "time": 1.0
+          }
+        ],
+        "mode": 0
+      },
+      "delayBeforeVignetteIntensityFade": 2.0,
+      "vignetteIntensityFadeLerpDuration": 1.0,
+      "vignetteIntensityFadeTargetMultiplier": 0.3,
+      "harvestGainedAnimationCurve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inTangent": -0.02144385,
+            "outTangent": -0.02144385,
+            "inWeight": 0.0,
+            "outWeight": 0.259595,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.2,
+            "value": 2.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.4,
+            "value": 1.0,
+            "inTangent": 0.0204044171,
+            "outTangent": 0.0204044171,
+            "inWeight": 0.272819161,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      }
+    },
+    "damageViewPrefab": {
+      "assetName": "PlayerDamageView",
+      "assetPath": "Assets/Prefabs/UI/VertigoResources/PlayerDamageView.prefab",
+      "assetGUID": "127df3a4005c3ef40b3bbf7da356a290",
+      "resourcePath": "PlayerDamageView",
+      "isSubAsset": false
+    },
+    "maxDamageRange": 15.0,
+    "pulseDuration": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "pulseIntensity": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "downedViewSettings": {
+      "downedFastResetTime": 0.4,
+      "downedSlowResetTime": 2.0,
+      "downedViewAnimation": {
+        "animationLength": 0.0,
+        "assetName": "",
+        "assetPath": "",
+        "assetGUID": "",
+        "resourcePath": "",
+        "isSubAsset": false
+      },
+      "downedStateEnteredProfile": 16
+    },
+    "infectedViewSettings": {
+      "infectionViewOverlayPrefab": {
+        "assetName": "PlayerInfectedView",
+        "assetPath": "Assets/Prefabs/UI/VertigoResources/PlayerInfectedView.prefab",
+        "assetGUID": "e268f6cb21a6e7a4bb53691f033a5292",
+        "resourcePath": "PlayerInfectedView",
+        "isSubAsset": false
+      },
+      "overlayFreezeAnimDuration": 0.75,
+      "overlayFreezeCurve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 20.8525219,
+            "outTangent": 20.8525219,
+            "inWeight": 0.0,
+            "outWeight": 0.0270270258,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.1,
+            "value": 1.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.4540419,
+            "value": 0.6210105,
+            "inTangent": -0.925842,
+            "outTangent": -0.925842,
+            "inWeight": 0.333333343,
+            "outWeight": 0.0602150448,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 0.65,
+            "inTangent": 0.0411487259,
+            "outTangent": 0.0411487259,
+            "inWeight": 0.145496592,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "overlayDefreezeAnimDuration": 1.0,
+      "overlayDefreezeCurve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inTangent": -1.71842754,
+            "outTangent": -1.71842754,
+            "inWeight": 0.0,
+            "outWeight": 0.0324324332,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inTangent": -0.00237021758,
+            "outTangent": -0.00237021758,
+            "inWeight": 0.07837836,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "infectedStateEnteredProfile": 16,
+      "infectedFogArtSettings": {
+        "assetName": "FOG_Frozen",
+        "assetPath": "Assets/Art/FX Vertigo/FX_LUTs/VertigoResources/FOG_Frozen.prefab",
+        "assetGUID": "c7e164c51bf40db479f2adeb146cb61d",
+        "resourcePath": "FOG_Frozen",
+        "isSubAsset": false
+      },
+      "infectFogTransitionDuration": 0.75,
+      "infectFogTransitionCurve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 0.171395466,
+            "outTangent": 0.171395466,
+            "inWeight": 0.333333343,
+            "outWeight": 0.0743243247,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inTangent": 2.11120224,
+            "outTangent": 2.11120224,
+            "inWeight": 0.0324324369,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "disinfectFogTransitionDuration": 0.5,
+      "disinfectFogTransitionCurve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inTangent": -2.291227,
+            "outTangent": -2.291227,
+            "inWeight": 0.0,
+            "outWeight": 0.024324324,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inTangent": -0.266077578,
+            "outTangent": -0.266077578,
+            "inWeight": 0.0837838054,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "frozenForceOutlineDistance": 5.0,
+      "frostStrengthCurve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 2.0,
+            "outTangent": 2.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.05,
+            "value": 0.5,
+            "inTangent": 1.28904927,
+            "outTangent": 1.28904927,
+            "inWeight": 1.0,
+            "outWeight": 0.333333343,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "iceStrengthCurve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 0.5,
+            "outTangent": 0.5,
+            "inWeight": 0.0,
+            "outWeight": 0.333333343,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 1.0,
+            "value": 0.5,
+            "inTangent": 0.5,
+            "outTangent": 0.5,
+            "inWeight": 0.333333343,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "infectedDistortSnapshot": {
+        "parameterSettings": [
+          {
+            "audioParameterName": "Mix_player_infected",
+            "paramData1": -9349185,
+            "paramData2": 1422079308,
+            "isStatic": false,
+            "staticValue": 0.0,
+            "gameParameterName": "fraction",
+            "updateOnPlayingInstances": true
+          }
+        ],
+        "eventPath": "snapshot:/Mix_player_infected",
+        "eventGuid": "90b67f40-a9b6-4aeb-b3e8-e7877d8d1208"
+      }
+    },
+    "gameEndPrefab": {
+      "assetName": "EndGameRoom",
+      "assetPath": "Assets/Prefabs/UI/SessionResults/VertigoResources/EndGameRoom.prefab",
+      "assetGUID": "7c7ad04cbee99044e91f1504f9bb7ffd",
+      "resourcePath": "EndGameRoom",
+      "isSubAsset": false
+    },
+    "deathViewPrefab": {
+      "assetName": "PlayerDeathView",
+      "assetPath": "Assets/Prefabs/UI/VertigoResources/PlayerDeathView.prefab",
+      "assetGUID": "6e8b2952f5c95d24c93db38fa92a7bfa",
+      "resourcePath": "PlayerDeathView",
+      "isSubAsset": false
+    },
+    "deathTextFadeInTime": 1.0,
+    "handTransparencyPercentage": 0.25,
+    "killerLineRendererPrefab": {
+      "assetName": "KillerDisplayLineRenderer",
+      "assetPath": "Assets/Prefabs/UI/VertigoResources/KillerDisplayLineRenderer.prefab",
+      "assetGUID": "aed1c6cbb8691b749b023e0c49adb107",
+      "resourcePath": "KillerDisplayLineRenderer",
+      "isSubAsset": false
+    },
+    "killerLineHeightOffsetFraction": 0.75,
+    "invulnerabilityViewSettings": {
+      "fadeDuration": 0.5,
+      "fadeStartFraction": 0.7,
+      "vignetteSharpness": 30.0,
+      "vignetteDarkness": 120.0,
+      "vignetteColor": {
+        "color4": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.784313738
+        }
+      }
+    },
+    "voipIndicatorsViewPrefab": {
+      "assetName": "VoipIndicatorUI",
+      "assetPath": "Assets/Prefabs/UI/VertigoResources/VoipIndicatorUI.prefab",
+      "assetGUID": "a4159d556a5f0b14fa588bdff8a7a15c",
+      "resourcePath": "VoipIndicatorUI",
+      "isSubAsset": false
+    },
+    "combinedVoipIndicatorEntryViewPrefab": {
+      "assetName": "CombinedVoipIndicatorView",
+      "assetPath": "Assets/Prefabs/UI/VertigoResources/CombinedVoipIndicatorView.prefab",
+      "assetGUID": "5a1d2fd1dcaad2d4ab7e77beeebef376",
+      "resourcePath": "CombinedVoipIndicatorView",
+      "isSubAsset": false
+    },
+    "markerViewPrefab": {
+      "assetName": "PlayerMarkerView",
+      "assetPath": "Assets/Prefabs/UI/VertigoResources/PlayerMarkerView.prefab",
+      "assetGUID": "6602006ae40fc48449063cb8967cb33c",
+      "resourcePath": "PlayerMarkerView",
+      "isSubAsset": false
+    },
+    "markerFadeOutTime": 0.2,
+    "maxMarkerCount": 4,
+    "directionalAttackIndicator": {
+      "assetName": "DirectionalAttackIndicator",
+      "assetPath": "Assets/Prefabs/UI/VertigoResources/DirectionalAttackIndicator.prefab",
+      "assetGUID": "d0c7ef469024f2d4580f04a557803ac0",
+      "resourcePath": "DirectionalAttackIndicator",
+      "isSubAsset": false
+    },
+    "attackIndicatorFadeInTime": 0.2,
+    "attackIndicatorFadeOutTime": 0.2,
+    "attackIndicatorStartSize": 0.2,
+    "attackIndicatorMaxSize": 0.5,
+    "objectiveMarker": {
+      "assetName": "HUDObjectiveMarkerView",
+      "assetPath": "Assets/Prefabs/UI/Markers/VertigoResources/HUDObjectiveMarkerView.prefab",
+      "assetGUID": "08477569eb968094bac91c469175d88e",
+      "resourcePath": "HUDObjectiveMarkerView",
+      "isSubAsset": false
+    },
+    "afflictionViewMissingIcon": {
+      "assetName": "T_Stop_Icon",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/T_Stop_Icon.png",
+      "assetGUID": "7e90bb29dd908794584aeba700448b06",
+      "resourcePath": "T_Stop_Icon:T_Stop_Icon.Sprite",
+      "isSubAsset": true
+    },
+    "afflictionViewPrefab": {
+      "assetName": "AfflictionView",
+      "assetPath": "Assets/Prefabs/UI/VertigoResources/AfflictionView.prefab",
+      "assetGUID": "569216e73d9580142a80f6d36fabec47",
+      "resourcePath": "AfflictionView",
+      "isSubAsset": false
+    },
+    "waitingOnPlayersSecondsBetweenPeriodicMessages": 10.0,
+    "waitingOnPlayersMessageDisplaySeconds": 3.0,
+    "waitingRoomFadeOutTime": 2.0,
+    "waitingRoomFadedTime": 0.1,
+    "genericTooltipPrefab": {
+      "assetName": "Canvas - GenericInfoTooltip",
+      "assetPath": "Assets/Prefabs/UI/VertigoResources/Canvas - GenericInfoTooltip.prefab",
+      "assetGUID": "2f7c2bf2afdffcd4280de18fb489c23c",
+      "resourcePath": "Canvas - GenericInfoTooltip",
+      "isSubAsset": false
+    },
+    "collectableCollectTooltipPrefab": {
+      "assetName": "CollectableCollectView",
+      "assetPath": "Assets/Prefabs/UI/VertigoResources/CollectableCollectView.prefab",
+      "assetGUID": "b9524ecdfaf77324288f5c2bd79f8816",
+      "resourcePath": "CollectableCollectView",
+      "isSubAsset": false
+    },
+    "resourceFullShakeTweenSettings": {
+      "shakeStrength": {
+        "x": 5.0,
+        "y": 10.0,
+        "z": 5.0
+      },
+      "duration": 1.0,
+      "vibrato": 20,
+      "randomness": 90.0,
+      "fadeOut": true,
+      "axisConstraint": 0
+    },
+    "itemTooltipPrefab": {
+      "assetName": "Canvas - InteractionTooltip",
+      "assetPath": "Assets/Prefabs/UI/VertigoResources/Canvas - InteractionTooltip.prefab",
+      "assetGUID": "44cdaf5b9a9ff0d4bbbb6a2a26b2e9aa",
+      "resourcePath": "Canvas - InteractionTooltip",
+      "isSubAsset": false
+    },
+    "fpsCounterPrefab": {
+      "assetName": "PerformanceStats",
+      "assetPath": "Assets/Prefabs/UI/VertigoResources/PerformanceStats.prefab",
+      "assetGUID": "d65e7be81b3d3c04bb67979836f28920",
+      "resourcePath": "PerformanceStats",
+      "isSubAsset": false
+    },
+    "damageCounterPrefab": {
+      "assetName": "Canvas - DamageCounter",
+      "assetPath": "Assets/Prefabs/UI/VertigoResources/Canvas - DamageCounter.prefab",
+      "assetGUID": "df35a3cdea76aca46a4903affbc47a38",
+      "resourcePath": "Canvas - DamageCounter",
+      "isSubAsset": false
+    },
+    "playerUiInteractionSettings": {
+      "handInteractRumbleId": 14,
+      "handInteractTransitionRange": {
+        "rangeStart": 0.1,
+        "rangeEnd": 0.15
+      },
+      "fadeSpeed": 3.0,
+      "maxFadeFraction": 0.95,
+      "pointingAngleDeadzone": 80.0,
+      "allowTouchOnMultiOverlap": false
+    },
+    "handFadeMaterial": {
+      "assetName": "Mat_HandFade",
+      "assetPath": "Assets/Art_Code/Materials/VertigoResources/Mat_HandFade.mat",
+      "assetGUID": "4c8e689150174964f84189cadf574c78",
+      "resourcePath": "Mat_HandFade",
+      "isSubAsset": false
+    },
+    "handPlayerOutlineMaterial": {
+      "assetName": "Mat_HandObscuredRemotePlayerBody",
+      "assetPath": "Assets/Art_Code/Materials/VertigoResources/Mat_HandObscuredRemotePlayerBody.mat",
+      "assetGUID": "33d2d3d26d3178f44ad4117351861a76",
+      "resourcePath": "Mat_HandObscuredRemotePlayerBody",
+      "isSubAsset": false
+    },
+    "itemFadeMaterial": {
+      "assetName": "Mat_WeaponWheelItemSelection",
+      "assetPath": "Assets/Art_Code/UI/Materials/WeaponWheel/VertigoResources/Mat_WeaponWheelItemSelection.mat",
+      "assetGUID": "7eb69c2a681caef459e537db6f58f766",
+      "resourcePath": "Mat_WeaponWheelItemSelection",
+      "isSubAsset": false
+    },
+    "selectionWheelSettings": {
+      "placementStrategy": {
+        "CurrentIndex": 0,
+        "DisplayName": "SelectionWheelFollowHandDistancePlacementStrategy",
+        "AssemblyQualifiedName": "Vertigo.Snowbreed.Client.SelectionWheelFollowHandDistancePlacementStrategy, Snowbreed.Client, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+      },
+      "rotationStrategy": {
+        "CurrentIndex": 2,
+        "DisplayName": "SelectionWheelFaceCameraWorldUpRotationStrategy",
+        "AssemblyQualifiedName": "Vertigo.Snowbreed.Client.SelectionWheelFaceCameraWorldUpRotationStrategy, Snowbreed.Client, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+      },
+      "selectionWheelPrefab": {
+        "assetName": "SelectionWheelView",
+        "assetPath": "Assets/Prefabs/Game/Player/VertigoResources/SelectionWheelView.prefab",
+        "assetGUID": "cd76f5dd8fea891408077f8f935bc7f5",
+        "resourcePath": "SelectionWheelView",
+        "isSubAsset": false
+      },
+      "selectionWheelSlotPrefab": {
+        "assetName": "SelectionWheelSlot",
+        "assetPath": "Assets/Prefabs/UI/VertigoResources/SelectionWheelSlot.prefab",
+        "assetGUID": "674032aa60178e44fb814324f37a3825",
+        "resourcePath": "SelectionWheelSlot",
+        "isSubAsset": false
+      },
+      "enableGearShiftingStyle": false,
+      "allowPlacingBackItems": true,
+      "followSpeed": 1.0,
+      "upperWheelSize": 200.0,
+      "lowerWheelSize": 160.0,
+      "dropZoneSize": 30.0,
+      "minMaxPlacement": {
+        "rangeStart": 0.3,
+        "rangeEnd": 2.0
+      },
+      "openingCurve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.1,
+            "value": 1.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "closingCurve": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          },
+          {
+            "time": 0.1,
+            "value": 0.0,
+            "inTangent": 0.0,
+            "outTangent": 0.0,
+            "inWeight": 0.0,
+            "outWeight": 0.0,
+            "weightedMode": 0,
+            "tangentMode": 0
+          }
+        ],
+        "preWrapMode": 8,
+        "postWrapMode": 8
+      },
+      "upperWheelRadius": 0.15,
+      "lowerWheelRadius": 0.12,
+      "interactionRadius": 0.08,
+      "wheelDepth": 0.15,
+      "wheelDepthOffset": 0.0,
+      "wheelRightTilt": {
+        "rangeStart": -180.0,
+        "rangeEnd": 180.0
+      },
+      "wheelForwardsTilt": {
+        "rangeStart": 0.0,
+        "rangeEnd": 0.0
+      },
+      "handItemFadePercentage": 0.2,
+      "handItemFadeTime": 0.2,
+      "hoverRumbleProfile": 4,
+      "invalidItemInsertionRumbleProfile": 12,
+      "itemHover": {
+        "parameterSettings": [],
+        "eventPath": "event:/ATF_PC/Weapons/WeaponWheel/WeaponWheel_Hover",
+        "eventGuid": "809aab02-ffd2-4067-9534-e846f1b8b48c"
+      },
+      "itemSelect": {
+        "parameterSettings": [],
+        "eventPath": "event:/ATF_PC/Weapons/WeaponWheel/WeaponWheel_Select",
+        "eventGuid": "111f1a6b-8ab9-4fd2-b40e-d97d067f6c4f"
+      },
+      "invalidItemPlacement": {
+        "parameterSettings": [],
+        "eventPath": "event:/ATF_PC/Weapons/WeaponWheel/WeaponWheel_Invalid",
+        "eventGuid": "acd99f6c-3002-49ed-9c65-88582347c924"
+      },
+      "openWheel": {
+        "parameterSettings": [],
+        "eventPath": "event:/ATF_PC/Weapons/WeaponWheel/WeaponWheel_Open",
+        "eventGuid": "a6046a28-b3d5-4ca3-8b04-8acd913ad2b8"
+      },
+      "closeWheel": {
+        "parameterSettings": [],
+        "eventPath": "event:/ATF_PC/Weapons/WeaponWheel/WeaponWheel_Close",
+        "eventGuid": "7aa112c3-baea-4712-b763-905e31b06f2f"
+      }
+    },
+    "wristMenuSettings": {
+      "menuOpenCloseAction": 26,
+      "isOnRightWrist": false,
+      "watchInViewDeadzone": 90.0,
+      "watchRotationDeadzone": 80.0,
+      "isRotationDeadzoneRelativeToCamera": false,
+      "wristWatchPrefab": {
+        "assetName": "WristWatchView",
+        "assetPath": "Assets/Prefabs/Game/Player/VertigoResources/WristMenu/WristWatchView.prefab",
+        "assetGUID": "52e275950385cde4fbd5b4c9ca7c69ca",
+        "resourcePath": "WristMenu/WristWatchView",
+        "isSubAsset": false
+      }
+    },
+    "playerHUBMenuPositionOffset": {
+      "x": 0.0,
+      "y": 2.1,
+      "z": 0.0
+    },
+    "playerHUBMenuHitColliderPrefab": {
+      "assetName": "PlayerMenuHitCollider",
+      "assetPath": "Assets/Prefabs/UI/RemotePlayerMenu/VertigoResources/PlayerMenuHitCollider.prefab",
+      "assetGUID": "ba74f8a23ba42f04581755844d47d0d6",
+      "resourcePath": "PlayerMenuHitCollider",
+      "isSubAsset": false
+    },
+    "playerHUBMenuPrefab": {
+      "assetName": "RemotePlayerHubMenu",
+      "assetPath": "Assets/Prefabs/UI/RemotePlayerMenu/VertigoResources/RemotePlayerHubMenu.prefab",
+      "assetGUID": "d1f6efece0ad0764a98978195180b22a",
+      "resourcePath": "RemotePlayerHubMenu",
+      "isSubAsset": false
+    },
+    "playerNamePositionOffset": {
+      "x": 0.0,
+      "y": 2.05,
+      "z": 0.0
+    },
+    "hubPartyMemberColor": {
+      "color4": {
+        "x": 0.9960785,
+        "y": 0.533333361,
+        "z": 0.215686291,
+        "w": 1.0
+      }
+    },
+    "playerNameViewPrefab": {
+      "assetName": "PlayerNameView",
+      "assetPath": "Assets/Prefabs/UI/PlayerName/VertigoResources/PlayerNameView.prefab",
+      "assetGUID": "efb02b1e951e02a4284b02f3c8a1a4c0",
+      "resourcePath": "PlayerNameView",
+      "isSubAsset": false
+    },
+    "playerNameViewChinaPrefab": {
+      "assetName": "PlayerNameView_China",
+      "assetPath": "Assets/Prefabs/UI/PlayerName/VertigoResources/PlayerNameView_China.prefab",
+      "assetGUID": "2e0775f0764c091479f9bc0634e5ce53",
+      "resourcePath": "PlayerNameView_China",
+      "isSubAsset": false
+    },
+    "playerSpeechIcons": [
+      {
+        "assetName": "icon_speaker_mute",
+        "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/icon_speaker_mute.png",
+        "assetGUID": "a5cd4e16e5deeb3439bce837df63b3c7",
+        "resourcePath": "icon_speaker_mute",
+        "isSubAsset": false
+      },
+      {
+        "assetName": "icon_speaker_idle",
+        "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/icon_speaker_idle.png",
+        "assetGUID": "223cc0c023096ce4b83320de1a053dfc",
+        "resourcePath": "icon_speaker_idle",
+        "isSubAsset": false
+      },
+      {
+        "assetName": "icon_speaker_active",
+        "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/icon_speaker_active.png",
+        "assetGUID": "97087d9805160ed49b7ac3970452265e",
+        "resourcePath": "icon_speaker_active",
+        "isSubAsset": false
+      }
+    ],
+    "playerPlatformIcons": [
+      {
+        "assetName": "icon_platform_None",
+        "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Platform/icon_platform_None.png",
+        "assetGUID": "9f33304eeca057540a22f6882b78bb30",
+        "resourcePath": "Platform/icon_platform_None",
+        "isSubAsset": false
+      },
+      {
+        "assetName": "icon_platform_AI",
+        "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Platform/icon_platform_AI.png",
+        "assetGUID": "e7105364be543e44f93f5a9e29e6c3b2",
+        "resourcePath": "Platform/icon_platform_AI",
+        "isSubAsset": false
+      },
+      {
+        "assetName": "icon_platform_Oculus",
+        "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Platform/icon_platform_Oculus.png",
+        "assetGUID": "925250f98881f8940a7484761a8a0d0e",
+        "resourcePath": "Platform/icon_platform_Oculus",
+        "isSubAsset": false
+      },
+      {
+        "assetName": "icon_platform_Playstation",
+        "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Platform/icon_platform_Playstation.png",
+        "assetGUID": "32d72ef1123887b4b877ce66607356cd",
+        "resourcePath": "Platform/icon_platform_Playstation",
+        "isSubAsset": false
+      },
+      {
+        "assetName": "icon_platform_Steam",
+        "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Platform/icon_platform_Steam.png",
+        "assetGUID": "49185278e3768444b833deda9cba2124",
+        "resourcePath": "Platform/icon_platform_Steam",
+        "isSubAsset": false
+      }
+    ],
+    "obscuredPlayerBodyViewMaterial": {
+      "assetName": "ObscuredRemotePlayerBody",
+      "assetPath": "Assets/Art_Code/FX/CodeFX/VertigoResources/ObscuredRemotePlayerBody.mat",
+      "assetGUID": "a8c23a60256953c43a6be20660a72a9a",
+      "resourcePath": "ObscuredRemotePlayerBody",
+      "isSubAsset": false
+    },
+    "obscuredPlayerBodyCheckLayerMask": {
+      "value": 4194305
+    },
+    "obscuredPlayerBodyAlphaChangeCurve": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.5,
+          "value": 0.0,
+          "inTangent": 0.0,
+          "outTangent": 0.2224179,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 1.5,
+          "value": 1.0,
+          "inTangent": 2.0,
+          "outTangent": 2.0,
+          "inWeight": 0.0,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "pvpKillerObscuredColor": {
+      "color4": {
+        "x": 1.0,
+        "y": 0.05932203,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    "pvpFriendlyPlayerHighlightColor": {
+      "color4": {
+        "x": 0.398831367,
+        "y": 0.482,
+        "z": 0.461207837,
+        "w": 0.0
+      }
+    },
+    "pvpEnemyPlayerHighlightColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    "hubHoverPlayerHighlightColor": {
+      "color4": {
+        "x": 0.333333343,
+        "y": 0.1764706,
+        "z": 0.07058824,
+        "w": 1.0
+      }
+    },
+    "pvpInvulnerableHighlightColor": {
+      "color4": {
+        "x": 0.8301887,
+        "y": 0.5567148,
+        "z": 0.0,
+        "w": 0.0
+      }
+    },
+    "comfortVignetteFadeTime": 0.2,
+    "handInteractableInsertedRumbleId": 5,
+    "handInteractableRemovedRumbleId": 6,
+    "followPlayerHeadSettings": {
+      "moveType": 1,
+      "moveSpeed": 7.5,
+      "smoothTime": 0.0,
+      "maxSpeed": 0.0,
+      "rotateType": 1,
+      "rotateSpeed": 10.0,
+      "heightLimit": {
+        "rangeStart": 0.05,
+        "rangeEnd": 0.25
+      },
+      "angleLimit": {
+        "rangeStart": 5.0,
+        "rangeEnd": 75.0
+      },
+      "distanceLimit": {
+        "rangeStart": 0.02,
+        "rangeEnd": 0.3
+      }
+    },
+    "timeBeforeBeltAdjustEnabled": 0.1,
+    "beltAdjustInteractionStartedRumbleId": 0,
+    "beltResourceViewSettings": [
+      {
+        "resourceType": 4,
+        "ammoPouchIconTextureId": 1
+      },
+      {
+        "resourceType": 15,
+        "ammoPouchIconTextureId": 2
+      },
+      {
+        "resourceType": 17,
+        "ammoPouchIconTextureId": 3
+      },
+      {
+        "resourceType": 19,
+        "ammoPouchIconTextureId": 4
+      }
+    ],
+    "throwableOptInSettings": {
+      "holdingDuration": 0.25,
+      "throwableTimerStartRumbleId": 14,
+      "throwableEnabledRumbleId": 0,
+      "throwableChargingRumbleId": {
+        "hapticsProfile": 14,
+        "distanceRange": {
+          "rangeStart": 0.0,
+          "rangeEnd": 1.0
+        }
+      },
+      "isNotThrowableColor": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "isThrowableColor": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "raycastInteractableColor": {
+      "color4": {
+        "x": 0.996078432,
+        "y": 0.533333361,
+        "z": 0.215686277,
+        "w": 1.0
+      }
+    },
+    "raycastNotInteractableColor": {
+      "color4": {
+        "x": 0.0,
+        "y": 0.423529416,
+        "z": 0.4,
+        "w": 1.0
+      }
+    },
+    "redDotSightColorCombinations": [
+      {
+        "colorOption": 0,
+        "color": {
+          "color4": {
+            "x": 1.0,
+            "y": 0.0,
+            "z": 0.129411772,
+            "w": 1.0
+          }
+        }
+      },
+      {
+        "colorOption": 1,
+        "color": {
+          "color4": {
+            "x": 0.168627456,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 1.0
+          }
+        }
+      },
+      {
+        "colorOption": 2,
+        "color": {
+          "color4": {
+            "x": 0.0,
+            "y": 0.870588243,
+            "z": 1.0,
+            "w": 1.0
+          }
+        }
+      },
+      {
+        "colorOption": 3,
+        "color": {
+          "color4": {
+            "x": 0.4392157,
+            "y": 0.0,
+            "z": 0.5921569,
+            "w": 1.0
+          }
+        }
+      },
+      {
+        "colorOption": 4,
+        "color": {
+          "color4": {
+            "x": 0.698039234,
+            "y": 0.0,
+            "z": 0.929411769,
+            "w": 1.0
+          }
+        }
+      },
+      {
+        "colorOption": 5,
+        "color": {
+          "color4": {
+            "x": 0.9137255,
+            "y": 1.0,
+            "z": 0.0,
+            "w": 1.0
+          }
+        }
+      },
+      {
+        "colorOption": 6,
+        "color": {
+          "color4": {
+            "x": 1.0,
+            "y": 0.447058827,
+            "z": 0.0,
+            "w": 1.0
+          }
+        }
+      },
+      {
+        "colorOption": 7,
+        "color": {
+          "color4": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": 0.254901975,
+            "w": 1.0
+          }
+        }
+      }
+    ],
+    "id": 0,
+    "name": "name",
+    "category": ""
+  }
+]
+}

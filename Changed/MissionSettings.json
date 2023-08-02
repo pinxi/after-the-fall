@@ -1,0 +1,94 @@
+{
+  "TableId": 50003,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "missionsToForceCompleteWhenEnteringHub": [
+      8
+    ],
+    "missionsToKeepLockedDuringClosedBeta": [
+      0,
+      3,
+      5,
+      6
+    ],
+    "missionToFirebaseMatchmakingMapLookupTable": [
+      {
+        "missionId": 4,
+        "firebaseMatchmakingMap": 1
+      },
+      {
+        "missionId": 3,
+        "firebaseMatchmakingMap": 3
+      },
+      {
+        "missionId": 6,
+        "firebaseMatchmakingMap": 5
+      },
+      {
+        "missionId": 5,
+        "firebaseMatchmakingMap": 4
+      },
+      {
+        "missionId": 0,
+        "firebaseMatchmakingMap": 2
+      },
+      {
+        "missionId": 10,
+        "firebaseMatchmakingMap": 6
+      },
+      {
+        "missionId": 10,
+        "firebaseMatchmakingMap": 7
+      },
+      {
+        "missionId": 10,
+        "firebaseMatchmakingMap": 8
+      },
+      {
+        "missionId": 10,
+        "firebaseMatchmakingMap": 9
+      }
+    ],
+    "missionToActivityIdLookupTable": [
+      {
+        "missionId": 0,
+        "activityId": "Harvest_QuarantineCenter"
+      },
+      {
+        "missionId": 3,
+        "activityId": "Harvest_UnionTower"
+      },
+      {
+        "missionId": 4,
+        "activityId": "Harvest_Skidrow"
+      },
+      {
+        "missionId": 5,
+        "activityId": "Harvest_Chinatown"
+      },
+      {
+        "missionId": 6,
+        "activityId": "Harvest_RelayTower"
+      },
+      {
+        "missionId": 7,
+        "activityId": "Hub_Intro"
+      },
+      {
+        "missionId": 9,
+        "activityId": "Horde"
+      },
+      {
+        "missionId": 10,
+        "activityId": "Harvest_Boulevard"
+      }
+    ],
+    "hubIntroMissionId": 7,
+    "tutorialMissionId": 8,
+    "id": 0,
+    "name": "Default",
+    "category": ""
+  }
+]
+}

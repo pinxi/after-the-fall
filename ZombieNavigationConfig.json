@@ -1,0 +1,177 @@
+{
+  "TableId": 203,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "agentTypeID": -1372625422,
+    "navMeshAreaMask": 8509,
+    "proneExcludeNavMeshAreaMask": 36,
+    "radius": 0.4,
+    "height": 1.8,
+    "avoidancePriority": 50,
+    "baseOffset": 0.0,
+    "stoppingDistance": 0.1,
+    "speedMultiplierRange": {
+      "rangeStart": 1.0,
+      "rangeEnd": 1.0
+    },
+    "collisionAvoidanceEnabled": true,
+    "pathDivergenceEnabled": true,
+    "id": 0,
+    "name": "Generic",
+    "category": ""
+  },
+  {
+    "agentTypeID": -1372625422,
+    "navMeshAreaMask": 385,
+    "proneExcludeNavMeshAreaMask": 0,
+    "radius": 1.6,
+    "height": 2.8,
+    "avoidancePriority": 30,
+    "baseOffset": -0.05,
+    "stoppingDistance": 1.0,
+    "speedMultiplierRange": {
+      "rangeStart": 1.0,
+      "rangeEnd": 1.0
+    },
+    "collisionAvoidanceEnabled": false,
+    "pathDivergenceEnabled": false,
+    "id": 2,
+    "name": "Smasher",
+    "category": ""
+  },
+  {
+    "agentTypeID": -1372625422,
+    "navMeshAreaMask": 9473,
+    "proneExcludeNavMeshAreaMask": 0,
+    "radius": 0.7,
+    "height": 2.2,
+    "avoidancePriority": 40,
+    "baseOffset": 0.0,
+    "stoppingDistance": 0.1,
+    "speedMultiplierRange": {
+      "rangeStart": 1.0,
+      "rangeEnd": 1.0
+    },
+    "collisionAvoidanceEnabled": false,
+    "pathDivergenceEnabled": false,
+    "id": 3,
+    "name": "Eater",
+    "category": ""
+  },
+  {
+    "agentTypeID": -1372625422,
+    "navMeshAreaMask": 257,
+    "proneExcludeNavMeshAreaMask": 0,
+    "radius": 0.3,
+    "height": 0.7,
+    "avoidancePriority": 60,
+    "baseOffset": 0.0,
+    "stoppingDistance": 0.1,
+    "speedMultiplierRange": {
+      "rangeStart": 1.0,
+      "rangeEnd": 1.0
+    },
+    "collisionAvoidanceEnabled": false,
+    "pathDivergenceEnabled": true,
+    "id": 4,
+    "name": "Crawler",
+    "category": ""
+  },
+  {
+    "agentTypeID": -1372625422,
+    "navMeshAreaMask": 9473,
+    "proneExcludeNavMeshAreaMask": 0,
+    "radius": 0.5,
+    "height": 2.0,
+    "avoidancePriority": 40,
+    "baseOffset": 0.0,
+    "stoppingDistance": 0.1,
+    "speedMultiplierRange": {
+      "rangeStart": 1.0,
+      "rangeEnd": 1.0
+    },
+    "collisionAvoidanceEnabled": false,
+    "pathDivergenceEnabled": false,
+    "id": 5,
+    "name": "Jock",
+    "category": ""
+  },
+  {
+    "agentTypeID": -1372625422,
+    "navMeshAreaMask": 9473,
+    "proneExcludeNavMeshAreaMask": 0,
+    "radius": 0.5,
+    "height": 2.0,
+    "avoidancePriority": 40,
+    "baseOffset": -0.05,
+    "stoppingDistance": 0.1,
+    "speedMultiplierRange": {
+      "rangeStart": 1.0,
+      "rangeEnd": 1.0
+    },
+    "collisionAvoidanceEnabled": false,
+    "pathDivergenceEnabled": false,
+    "id": 6,
+    "name": "Brute",
+    "category": ""
+  },
+  {
+    "agentTypeID": -1372625422,
+    "navMeshAreaMask": 16641,
+    "proneExcludeNavMeshAreaMask": 36,
+    "radius": 0.4,
+    "height": 1.8,
+    "avoidancePriority": 50,
+    "baseOffset": 0.0,
+    "stoppingDistance": 0.1,
+    "speedMultiplierRange": {
+      "rangeStart": 1.0,
+      "rangeEnd": 1.0
+    },
+    "collisionAvoidanceEnabled": true,
+    "pathDivergenceEnabled": true,
+    "id": 7,
+    "name": "Loot Goblin",
+    "category": ""
+  },
+  {
+    "agentTypeID": -1372625422,
+    "navMeshAreaMask": 385,
+    "proneExcludeNavMeshAreaMask": 0,
+    "radius": 1.2,
+    "height": 1.125,
+    "avoidancePriority": 30,
+    "baseOffset": 0.175,
+    "stoppingDistance": 1.0,
+    "speedMultiplierRange": {
+      "rangeStart": 1.0,
+      "rangeEnd": 1.0
+    },
+    "collisionAvoidanceEnabled": false,
+    "pathDivergenceEnabled": false,
+    "id": 8,
+    "name": "Mini Smasher",
+    "category": ""
+  },
+  {
+    "agentTypeID": -1372625422,
+    "navMeshAreaMask": 9473,
+    "proneExcludeNavMeshAreaMask": 0,
+    "radius": 0.5,
+    "height": 2.0,
+    "avoidancePriority": 40,
+    "baseOffset": 0.0,
+    "stoppingDistance": 1.0,
+    "speedMultiplierRange": {
+      "rangeStart": 1.0,
+      "rangeEnd": 1.0
+    },
+    "collisionAvoidanceEnabled": false,
+    "pathDivergenceEnabled": false,
+    "id": 9,
+    "name": "Charger",
+    "category": ""
+  }
+]
+}

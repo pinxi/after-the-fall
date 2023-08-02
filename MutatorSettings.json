@@ -1,0 +1,12 @@
+{
+  "TableId": 50038,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "resetIntervalInMinutes": 480,
+    "id": 0,
+    "name": "",
+    "category": ""
+  }
+]
+}

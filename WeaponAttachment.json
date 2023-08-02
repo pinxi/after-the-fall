@@ -1,0 +1,32 @@
+{
+  "TableId": 180,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "mesh": {
+      "assetName": "Sight_Reflection",
+      "assetPath": "Assets/Art/Weapons/Pistols/Brownstone_Falcon/FBX/VertigoResources/BrownStone_Falcon.fbx",
+      "assetGUID": "2e1a167baefc6dd4a91cf5393c65af85",
+      "resourcePath": "BrownStone_Falcon:Sight_Reflection.Mesh",
+      "isSubAsset": true
+    },
+    "attachmentType": 0,
+    "id": 0,
+    "name": "Red Dot Sight",
+    "category": ""
+  },
+  {
+    "mesh": {
+      "assetName": "Sight_Iron",
+      "assetPath": "Assets/Art/Weapons/Pistols/Brownstone_Falcon/FBX/VertigoResources/BrownStone_Falcon.fbx",
+      "assetGUID": "2e1a167baefc6dd4a91cf5393c65af85",
+      "resourcePath": "BrownStone_Falcon:Sight_Iron.Mesh",
+      "isSubAsset": true
+    },
+    "attachmentType": 0,
+    "id": 1,
+    "name": "Iron Sight",
+    "category": ""
+  }
+]
+}

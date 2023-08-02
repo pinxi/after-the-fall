@@ -1,0 +1,17 @@
+{
+  "TableId": 138,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "prefferedPlaystationControllers": [
+      8,
+      32,
+      16
+    ],
+    "bigControllerTypes": 279040,
+    "id": 0,
+    "name": "name",
+    "category": ""
+  }
+]
+}

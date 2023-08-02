@@ -1,0 +1,1137 @@
+{
+  "TableId": 122,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "weaponPartPoolId": 0,
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "Icon_item_disk_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_item_disk_01.png",
+      "assetGUID": "2e13ac7d361ac3143ab2fb89022aa015",
+      "resourcePath": "Tooltips/Icon_item_disk_01:Icon_item_disk_01.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 14,
+    "id": 0,
+    "name": "Floppy Disk Base",
+    "category": "",
+    "allowedAreas": 0,
+    "spawnWeight": 1.0,
+    "isSharedResource": false,
+    "resourceValues": [
+      {
+        "resourceType": 20,
+        "amount": 1
+      }
+    ],
+    "showSimpleTextForResourceValues": false,
+    "simpleTextSuffix": "",
+    "handPoseId": 103,
+    "isPosedOnTrigger": false,
+    "audioPressTrigger": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "displayName": "Floppy Disk Base",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "Icon_item_disk_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_item_disk_01.png",
+      "assetGUID": "2e13ac7d361ac3143ab2fb89022aa015",
+      "resourcePath": "Tooltips/Icon_item_disk_01",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "ITEM_FLOPPYDISK_BASE",
+    "tooltipSubtitleDisplayName": "ITEM_FLOPPYDISK_BASE_SUBTITLE",
+    "inventoryIcon": {
+      "assetName": "Icon_item_disk_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_item_disk_01.png",
+      "assetGUID": "2e13ac7d361ac3143ab2fb89022aa015",
+      "resourcePath": "Tooltips/Icon_item_disk_01",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.33,
+      "y": 0.33,
+      "z": 0.33
+    },
+    "artPrefab": {
+      "assetName": "FloppyDisk_A",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Grabbables/FloppyDisk_A.prefab",
+      "assetGUID": "c8e1bcfc56bf2a44782bfe12e153b937",
+      "resourcePath": "Grabbables/FloppyDisk_A",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": true,
+    "correctionStrategy": 1,
+    "activeDurationBeforeCorrection": 5.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": true,
+          "staticValue": 100.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": false
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_floppy",
+      "eventGuid": "fea4be59-2d9a-4d3f-9909-6e87ed48f719"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab_floppy",
+      "eventGuid": "94babb25-7c2a-4fe1-80c7-4c8de44c90f5",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab_floppy",
+      "eventGuid": "94babb25-7c2a-4fe1-80c7-4c8de44c90f5",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "weaponPartPoolId": 1,
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "Icon_item_disk_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_item_disk_01.png",
+      "assetGUID": "2e13ac7d361ac3143ab2fb89022aa015",
+      "resourcePath": "Tooltips/Icon_item_disk_01:Icon_item_disk_01.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 14,
+    "id": 1,
+    "name": "Floppy Disk Import",
+    "category": "",
+    "allowedAreas": 0,
+    "spawnWeight": 1.0,
+    "isSharedResource": false,
+    "resourceValues": [
+      {
+        "resourceType": 22,
+        "amount": 1
+      }
+    ],
+    "showSimpleTextForResourceValues": false,
+    "simpleTextSuffix": "",
+    "handPoseId": 103,
+    "isPosedOnTrigger": false,
+    "audioPressTrigger": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "displayName": "Floppy Disk Import",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "Icon_item_disk_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_item_disk_01.png",
+      "assetGUID": "2e13ac7d361ac3143ab2fb89022aa015",
+      "resourcePath": "Tooltips/Icon_item_disk_01",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "ITEM_FLOPPYDISK_IMPORT",
+    "tooltipSubtitleDisplayName": "ITEM_FLOPPYDISK_IMPORT_SUBTITLE",
+    "inventoryIcon": {
+      "assetName": "Icon_item_disk_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_item_disk_01.png",
+      "assetGUID": "2e13ac7d361ac3143ab2fb89022aa015",
+      "resourcePath": "Tooltips/Icon_item_disk_01:Icon_item_disk_01.Sprite",
+      "isSubAsset": true
+    },
+    "slotItemScale": {
+      "x": 0.33,
+      "y": 0.33,
+      "z": 0.33
+    },
+    "artPrefab": {
+      "assetName": "FloppyDisk_B",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Grabbables/FloppyDisk_B.prefab",
+      "assetGUID": "8bfe70ea05c0c7948a9389638a47213c",
+      "resourcePath": "Grabbables/FloppyDisk_B",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 1,
+    "activeDurationBeforeCorrection": 5.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": true,
+          "staticValue": 100.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": false
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_floppy",
+      "eventGuid": "fea4be59-2d9a-4d3f-9909-6e87ed48f719"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab_floppy",
+      "eventGuid": "94babb25-7c2a-4fe1-80c7-4c8de44c90f5",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab_floppy",
+      "eventGuid": "94babb25-7c2a-4fe1-80c7-4c8de44c90f5",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "weaponPartPoolId": 2,
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "Icon_item_disk_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_item_disk_01.png",
+      "assetGUID": "2e13ac7d361ac3143ab2fb89022aa015",
+      "resourcePath": "Tooltips/Icon_item_disk_01:Icon_item_disk_01.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 14,
+    "id": 2,
+    "name": "Floppy Disk Industrial",
+    "category": "",
+    "allowedAreas": 0,
+    "spawnWeight": 1.0,
+    "isSharedResource": false,
+    "resourceValues": [
+      {
+        "resourceType": 23,
+        "amount": 1
+      }
+    ],
+    "showSimpleTextForResourceValues": false,
+    "simpleTextSuffix": "",
+    "handPoseId": 103,
+    "isPosedOnTrigger": false,
+    "audioPressTrigger": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "displayName": "Floppy Disk Industrial",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "Icon_item_disk_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_item_disk_01.png",
+      "assetGUID": "2e13ac7d361ac3143ab2fb89022aa015",
+      "resourcePath": "Tooltips/Icon_item_disk_01",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "ITEM_FLOPPYDISK_INDUSTRIAL",
+    "tooltipSubtitleDisplayName": "ITEM_FLOPPYDISK_INDUSTRIAL_SUBTITLE",
+    "inventoryIcon": {
+      "assetName": "Icon_item_disk_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_item_disk_01.png",
+      "assetGUID": "2e13ac7d361ac3143ab2fb89022aa015",
+      "resourcePath": "Tooltips/Icon_item_disk_01:Icon_item_disk_01.Sprite",
+      "isSubAsset": true
+    },
+    "slotItemScale": {
+      "x": 0.33,
+      "y": 0.33,
+      "z": 0.33
+    },
+    "artPrefab": {
+      "assetName": "FloppyDisk_C",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Grabbables/FloppyDisk_C.prefab",
+      "assetGUID": "cf8d138c15376ce44bdf5bd22e2f313a",
+      "resourcePath": "Grabbables/FloppyDisk_C",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 1,
+    "activeDurationBeforeCorrection": 5.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": true,
+          "staticValue": 100.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": false
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_floppy",
+      "eventGuid": "fea4be59-2d9a-4d3f-9909-6e87ed48f719"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab_floppy",
+      "eventGuid": "94babb25-7c2a-4fe1-80c7-4c8de44c90f5",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab_floppy",
+      "eventGuid": "94babb25-7c2a-4fe1-80c7-4c8de44c90f5",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "weaponPartPoolId": 3,
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "Icon_item_disk_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_item_disk_01.png",
+      "assetGUID": "2e13ac7d361ac3143ab2fb89022aa015",
+      "resourcePath": "Tooltips/Icon_item_disk_01:Icon_item_disk_01.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 14,
+    "id": 3,
+    "name": "Floppy Disk Military",
+    "category": "",
+    "allowedAreas": 0,
+    "spawnWeight": 1.0,
+    "isSharedResource": false,
+    "resourceValues": [
+      {
+        "resourceType": 24,
+        "amount": 1
+      }
+    ],
+    "showSimpleTextForResourceValues": false,
+    "simpleTextSuffix": "",
+    "handPoseId": 103,
+    "isPosedOnTrigger": false,
+    "audioPressTrigger": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "displayName": "Floppy Disk Military",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "Icon_item_disk_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_item_disk_01.png",
+      "assetGUID": "2e13ac7d361ac3143ab2fb89022aa015",
+      "resourcePath": "Tooltips/Icon_item_disk_01",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "ITEM_FLOPPYDISK_MILITARY",
+    "tooltipSubtitleDisplayName": "ITEM_FLOPPYDISK_MILITARY_SUBTITLE",
+    "inventoryIcon": {
+      "assetName": "Icon_item_disk_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_item_disk_01.png",
+      "assetGUID": "2e13ac7d361ac3143ab2fb89022aa015",
+      "resourcePath": "Tooltips/Icon_item_disk_01",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.33,
+      "y": 0.33,
+      "z": 0.33
+    },
+    "artPrefab": {
+      "assetName": "FloppyDisk_D",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Grabbables/FloppyDisk_D.prefab",
+      "assetGUID": "1277de73434c4ec4f98eb972bbec70d8",
+      "resourcePath": "Grabbables/FloppyDisk_D",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 1,
+    "activeDurationBeforeCorrection": 5.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": true,
+          "staticValue": 100.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": false
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_floppy",
+      "eventGuid": "fea4be59-2d9a-4d3f-9909-6e87ed48f719"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab_floppy",
+      "eventGuid": "94babb25-7c2a-4fe1-80c7-4c8de44c90f5",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab_floppy",
+      "eventGuid": "94babb25-7c2a-4fe1-80c7-4c8de44c90f5",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "weaponPartPoolId": 4,
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "Icon_item_disk_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_item_disk_01.png",
+      "assetGUID": "2e13ac7d361ac3143ab2fb89022aa015",
+      "resourcePath": "Tooltips/Icon_item_disk_01:Icon_item_disk_01.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 14,
+    "id": 4,
+    "name": "Floppy Disk Prototype",
+    "category": "",
+    "allowedAreas": 0,
+    "spawnWeight": 1.0,
+    "isSharedResource": false,
+    "resourceValues": [
+      {
+        "resourceType": 25,
+        "amount": 1
+      }
+    ],
+    "showSimpleTextForResourceValues": false,
+    "simpleTextSuffix": "",
+    "handPoseId": 103,
+    "isPosedOnTrigger": false,
+    "audioPressTrigger": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "displayName": "Floppy Disk Prototype",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "Icon_item_disk_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_item_disk_01.png",
+      "assetGUID": "2e13ac7d361ac3143ab2fb89022aa015",
+      "resourcePath": "Tooltips/Icon_item_disk_01",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "ITEM_FLOPPYDISK_PROTOTYPE",
+    "tooltipSubtitleDisplayName": "ITEM_FLOPPYDISK_PROTOTYPE_SUBTITLE",
+    "inventoryIcon": {
+      "assetName": "Icon_item_disk_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_item_disk_01.png",
+      "assetGUID": "2e13ac7d361ac3143ab2fb89022aa015",
+      "resourcePath": "Tooltips/Icon_item_disk_01",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.33,
+      "y": 0.33,
+      "z": 0.33
+    },
+    "artPrefab": {
+      "assetName": "FloppyDisk_E",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Grabbables/FloppyDisk_E.prefab",
+      "assetGUID": "4f46ab8968d6e31449f3c272259e4518",
+      "resourcePath": "Grabbables/FloppyDisk_E",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": false,
+    "correctionStrategy": 1,
+    "activeDurationBeforeCorrection": 5.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": true,
+          "staticValue": 100.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": false
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_floppy",
+      "eventGuid": "fea4be59-2d9a-4d3f-9909-6e87ed48f719"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab_floppy",
+      "eventGuid": "94babb25-7c2a-4fe1-80c7-4c8de44c90f5",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab_floppy",
+      "eventGuid": "94babb25-7c2a-4fe1-80c7-4c8de44c90f5",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "weaponPartPoolId": 0,
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "Icon_item_disk_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_item_disk_01.png",
+      "assetGUID": "2e13ac7d361ac3143ab2fb89022aa015",
+      "resourcePath": "Tooltips/Icon_item_disk_01:Icon_item_disk_01.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 14,
+    "id": 5,
+    "name": "Floppy Disk Dummy",
+    "category": "",
+    "allowedAreas": 0,
+    "spawnWeight": 1.0,
+    "isSharedResource": false,
+    "resourceValues": [],
+    "showSimpleTextForResourceValues": false,
+    "simpleTextSuffix": "",
+    "handPoseId": 103,
+    "isPosedOnTrigger": false,
+    "audioPressTrigger": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "displayName": "Floppy Disk Dummy",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "Icon_item_disk_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_item_disk_01.png",
+      "assetGUID": "2e13ac7d361ac3143ab2fb89022aa015",
+      "resourcePath": "Tooltips/Icon_item_disk_01",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "ITEM_FLOPPYDISK_DUMMY",
+    "tooltipSubtitleDisplayName": "ITEM_FLOPPYDISK_DUMMY_SUBTITLE",
+    "inventoryIcon": {
+      "assetName": "Icon_item_disk_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_item_disk_01.png",
+      "assetGUID": "2e13ac7d361ac3143ab2fb89022aa015",
+      "resourcePath": "Tooltips/Icon_item_disk_01",
+      "isSubAsset": false
+    },
+    "slotItemScale": {
+      "x": 0.33,
+      "y": 0.33,
+      "z": 0.33
+    },
+    "artPrefab": {
+      "assetName": "FloppyDisk_F",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Grabbables/FloppyDisk_F.prefab",
+      "assetGUID": "a2e45efbe04ddcd438eb73ef4f487d1a",
+      "resourcePath": "Grabbables/FloppyDisk_F",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": true,
+    "correctionStrategy": 1,
+    "activeDurationBeforeCorrection": 5.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [
+        {
+          "audioParameterName": "MovementVelocity",
+          "paramData1": 1126201297,
+          "paramData2": -320446528,
+          "isStatic": false,
+          "staticValue": 0.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": true
+        },
+        {
+          "audioParameterName": "AngVelocity",
+          "paramData1": -1069242932,
+          "paramData2": 65596551,
+          "isStatic": true,
+          "staticValue": 100.0,
+          "gameParameterName": "Velocity",
+          "updateOnPlayingInstances": false
+        }
+      ],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_floppy",
+      "eventGuid": "fea4be59-2d9a-4d3f-9909-6e87ed48f719"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab_floppy",
+      "eventGuid": "94babb25-7c2a-4fe1-80c7-4c8de44c90f5",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab_floppy",
+      "eventGuid": "94babb25-7c2a-4fe1-80c7-4c8de44c90f5",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "weaponPartPoolId": 0,
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "TEMP_Icon_Floppy_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/TEMP_Icon_Floppy_01.png",
+      "assetGUID": "9987a103d06a6114ab3c7c1870d8c057",
+      "resourcePath": "TEMP_Icon_Floppy_01:TEMP_Icon_Floppy_01.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 14,
+    "id": 6,
+    "name": "Floppy Disk Credits",
+    "category": "",
+    "allowedAreas": 0,
+    "spawnWeight": 1.0,
+    "isSharedResource": false,
+    "resourceValues": [],
+    "showSimpleTextForResourceValues": false,
+    "simpleTextSuffix": "",
+    "handPoseId": 103,
+    "isPosedOnTrigger": false,
+    "audioPressTrigger": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "displayName": "Floppy Disk Credits",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "ITEM_FLOPPYDISK_CREDITS",
+    "tooltipSubtitleDisplayName": "",
+    "inventoryIcon": {
+      "assetName": "Icon_item_disk_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_item_disk_01.png",
+      "assetGUID": "2e13ac7d361ac3143ab2fb89022aa015",
+      "resourcePath": "Tooltips/Icon_item_disk_01:Icon_item_disk_01.Sprite",
+      "isSubAsset": true
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "FloppyDisk_G",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Grabbables/FloppyDisk_G.prefab",
+      "assetGUID": "85c61fccc1a5dab449212955fb722ea3",
+      "resourcePath": "Grabbables/FloppyDisk_G",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": true,
+    "correctionStrategy": 1,
+    "activeDurationBeforeCorrection": 5.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_floppy",
+      "eventGuid": "fea4be59-2d9a-4d3f-9909-6e87ed48f719"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab_floppy",
+      "eventGuid": "94babb25-7c2a-4fe1-80c7-4c8de44c90f5",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab_floppy",
+      "eventGuid": "94babb25-7c2a-4fe1-80c7-4c8de44c90f5",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  },
+  {
+    "weaponPartPoolId": 0,
+    "previewScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "previewRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "previewIcon": {
+      "assetName": "TEMP_Icon_Floppy_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/TEMP_Icon_Floppy_01.png",
+      "assetGUID": "9987a103d06a6114ab3c7c1870d8c057",
+      "resourcePath": "TEMP_Icon_Floppy_01:TEMP_Icon_Floppy_01.Sprite",
+      "isSubAsset": true
+    },
+    "itemIconType": 14,
+    "id": 7,
+    "name": "Floppy Disk Intro",
+    "category": "",
+    "allowedAreas": 0,
+    "spawnWeight": 1.0,
+    "isSharedResource": false,
+    "resourceValues": [],
+    "showSimpleTextForResourceValues": false,
+    "simpleTextSuffix": "",
+    "handPoseId": 103,
+    "isPosedOnTrigger": false,
+    "audioPressTrigger": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    },
+    "audioCollected": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "audioResourceFull": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "displayName": "Floppy Disk Intro",
+    "descriptionLocalizationKey": "",
+    "tooltipUniqueIcon": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "tooltipTitleDisplayName": "ITEM_FLOPPYDISK_INTRO",
+    "tooltipSubtitleDisplayName": "",
+    "inventoryIcon": {
+      "assetName": "Icon_item_disk_01",
+      "assetPath": "Assets/Art_Code/UI/Textures/Icons/VertigoResources/Tooltips/Icon_item_disk_01.png",
+      "assetGUID": "2e13ac7d361ac3143ab2fb89022aa015",
+      "resourcePath": "Tooltips/Icon_item_disk_01:Icon_item_disk_01.Sprite",
+      "isSubAsset": true
+    },
+    "slotItemScale": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.25
+    },
+    "artPrefab": {
+      "assetName": "FloppyDisk_H",
+      "assetPath": "Assets/Prefabs/Gameplay/Interactables/SnowbreedInteractables/EquippableInteractables/Items/VertigoResources/Grabbables/FloppyDisk_H.prefab",
+      "assetGUID": "f949e25c0f6de5542acd47b3cbec5a27",
+      "resourcePath": "Grabbables/FloppyDisk_H",
+      "isSubAsset": false
+    },
+    "physicsCollisionPrefab": {
+      "assetName": "",
+      "assetPath": "",
+      "assetGUID": "",
+      "resourcePath": "",
+      "isSubAsset": false
+    },
+    "shouldBePooled": false,
+    "poolSize": 4,
+    "maxStackSize": 1,
+    "isImportant": true,
+    "correctionStrategy": 1,
+    "activeDurationBeforeCorrection": 5.0,
+    "harvestCost": 100,
+    "lockedDescriptionLocalizationKey": "",
+    "vendorAvailability": 0,
+    "vendorAvailabilityItemEquippedCategory": {
+      "CurrentIndex": 0,
+      "DisplayName": "",
+      "AssemblyQualifiedName": ""
+    },
+    "vendorAvailabilityItemEquippedItems": null,
+    "itemMovementAudioEventField": {
+      "parameterSettings": [],
+      "eventPath": "event:/ATF_PC/Character/Player/Player_object_move_floppy",
+      "eventGuid": "fea4be59-2d9a-4d3f-9909-6e87ed48f719"
+    },
+    "itemGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab_floppy",
+      "eventGuid": "94babb25-7c2a-4fe1-80c7-4c8de44c90f5",
+      "parameterSettings": []
+    },
+    "itemRangedGrabbedAudio": {
+      "eventPath": "event:/ATF_PC/Character/Player/Player_grab_floppy",
+      "eventGuid": "94babb25-7c2a-4fe1-80c7-4c8de44c90f5",
+      "parameterSettings": []
+    },
+    "itemReleasedAudio": {
+      "eventPath": "",
+      "eventGuid": "",
+      "parameterSettings": []
+    },
+    "itemThrownAudio": {
+      "parameterSettings": [],
+      "eventPath": "",
+      "eventGuid": ""
+    }
+  }
+]
+}

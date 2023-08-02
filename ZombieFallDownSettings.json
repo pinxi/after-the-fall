@@ -1,0 +1,41 @@
+{
+  "TableId": 193,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "falldownDuration": 1.5,
+    "minFalldownCooldown": 0.0,
+    "maxFalldownCooldown": 1.0,
+    "falldownRecoverDuration": 1.0,
+    "allowMirrorFalldownAnimations": true,
+    "fallDownAnimations": [
+      {
+        "animationLength": 2.0,
+        "assetName": "Anim_CH_E_Horde_Ragdolls_Falling",
+        "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls.fbx",
+        "assetGUID": "c928defe11c38fa4a9f0c1322dca3c27",
+        "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Ragdolls:Anim_CH_E_Horde_Ragdolls_Falling.AnimationClip",
+        "isSubAsset": true
+      }
+    ],
+    "standUpDuration": 0.6,
+    "standupToCrawlAnimations": [
+      {
+        "animationDuration": 0.600000143,
+        "animationClip": {
+          "animationLength": 1.00000024,
+          "assetName": "Anim_CH_E_Horde_ProneToCrawl",
+          "assetPath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls.fbx",
+          "assetGUID": "4a3cc017340f2684a854d517a027f60d",
+          "resourcePath": "Assets/Art/Animations/Characters/Enemies/Anim_CH_E_Horde_Crawls:Anim_CH_E_Horde_ProneToCrawl.AnimationClip",
+          "isSubAsset": true
+        },
+        "expectedEndFraction": 0.6
+      }
+    ],
+    "id": 0,
+    "name": "Common",
+    "category": ""
+  }
+]
+}

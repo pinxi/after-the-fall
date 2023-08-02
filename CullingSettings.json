@@ -1,0 +1,29 @@
+{
+  "TableId": 114,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "dynamicSmallLayer": 9,
+    "dynamicMediumLayer": 10,
+    "dynamicLargeLayer": 11,
+    "pcCullingLayerSetup": {
+      "dynamicSmallCullingDistance": 20.0,
+      "dynamicMediumCullingDistance": 50.0,
+      "dynamicLargeCullingDistance": 120.0
+    },
+    "ps4CullingLayerSetup": {
+      "dynamicSmallCullingDistance": 15.0,
+      "dynamicMediumCullingDistance": 35.0,
+      "dynamicLargeCullingDistance": 100.0
+    },
+    "mobileCullingLayerSetup": {
+      "dynamicSmallCullingDistance": 12.0,
+      "dynamicMediumCullingDistance": 35.0,
+      "dynamicLargeCullingDistance": 80.0
+    },
+    "id": 0,
+    "name": "name",
+    "category": ""
+  }
+]
+}

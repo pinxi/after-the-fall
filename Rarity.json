@@ -1,0 +1,2000 @@
+{
+  "TableId": 249,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "poolColor": {
+      "r": 0.6,
+      "g": 0.6,
+      "b": 0.6,
+      "a": 1.0
+    },
+    "localizationKey": "RARITY_BASE",
+    "weaponPartPool": [
+      {
+        "WeaponId": 0,
+        "PartId": 0,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 0,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 0,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 0,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 0,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 0,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 26,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 26,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 26,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 26,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 26,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 26,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 26,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 11,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 11,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 11,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 11,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 11,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 11,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 11,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 14,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 14,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 14,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 14,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 14,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 14,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 29,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 29,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 29,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 0,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 26,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 14,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 11,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 14,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 1,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 55,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 29,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 26,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 11,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 33,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 33,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 29,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 26,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 55,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 14,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 11,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 0,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 54,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 54,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 54,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 54,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 54,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 54,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 54,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 54,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 54,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 54,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 0,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 33,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 14,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 55,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 11,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 29,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 26,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 75,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 75,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 75,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 75,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 75,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 75,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 75,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 75,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 75,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 75,
+        "Weight": 100
+      }
+    ],
+    "gunPool": [],
+    "combatDevicePool": [],
+    "boosterPool": [],
+    "explosivePool": [],
+    "mutatorWeaponPartPool": [],
+    "duplicateWeaponPartHarvestReward": 250,
+    "id": 0,
+    "name": "Base",
+    "category": ""
+  },
+  {
+    "poolColor": {
+      "r": 0.0,
+      "g": 0.785416842,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "localizationKey": "RARITY_IMPORT",
+    "weaponPartPool": [
+      {
+        "WeaponId": 0,
+        "PartId": 2,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 2,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 2,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 2,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 2,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 2,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 2,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 2,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 8,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 8,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 8,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 8,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 32,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 32,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 32,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 21,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 21,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 21,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 8,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 8,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 8,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 2,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 21,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 58,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 32,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 32,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 8,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 21,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 2,
+        "Weight": 100
+      }
+    ],
+    "gunPool": [],
+    "combatDevicePool": [],
+    "boosterPool": [
+      {
+        "boosterId": 1,
+        "weight": 500
+      }
+    ],
+    "explosivePool": [],
+    "mutatorWeaponPartPool": [
+      {
+        "WeaponId": 1,
+        "PartId": 59,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 59,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 59,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 59,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 59,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 59,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 59,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 59,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 60,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 60,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 60,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 60,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 60,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 60,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 60,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 60,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 60,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 61,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 61,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 61,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 61,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 61,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 61,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 61,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 61,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 61,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 62,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 62,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 62,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 62,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 62,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 62,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 62,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 62,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 63,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 63,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 63,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 63,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 63,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 63,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 63,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 63,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 63,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 59,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 60,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 61,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 62,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 63,
+        "Weight": 100
+      }
+    ],
+    "duplicateWeaponPartHarvestReward": 500,
+    "id": 1,
+    "name": "Import",
+    "category": ""
+  },
+  {
+    "poolColor": {
+      "r": 0.717495561,
+      "g": 0.136792481,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "localizationKey": "RARITY_INDUSTRIAL",
+    "weaponPartPool": [
+      {
+        "WeaponId": 0,
+        "PartId": 49,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 49,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 49,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 49,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 49,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 49,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 49,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 49,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 35,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 9,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 9,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 9,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 30,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 30,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 30,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 16,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 16,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 16,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 16,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 16,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 16,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 23,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 23,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 23,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 9,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 9,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 9,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 16,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 49,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 8,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 16,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 49,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 49,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 9,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 30,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 16,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 30,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 9,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 23,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 49,
+        "Weight": 100
+      }
+    ],
+    "gunPool": [
+      {
+        "WeaponId": 8,
+        "Weight": 500
+      }
+    ],
+    "combatDevicePool": [],
+    "boosterPool": [],
+    "explosivePool": [
+      {
+        "explosiveItemId": 1,
+        "weight": 500
+      }
+    ],
+    "mutatorWeaponPartPool": [
+      {
+        "WeaponId": 0,
+        "PartId": 68,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 68,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 68,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 68,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 68,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 68,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 68,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 68,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 68,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 68,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 70,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 70,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 70,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 70,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 70,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 70,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 70,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 70,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 70,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 70,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 72,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 72,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 72,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 72,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 72,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 72,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 72,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 72,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 72,
+        "Weight": 100
+      }
+    ],
+    "duplicateWeaponPartHarvestReward": 1000,
+    "id": 2,
+    "name": "Industrial",
+    "category": ""
+  },
+  {
+    "poolColor": {
+      "r": 1.0,
+      "g": 0.6236607,
+      "b": 0.0,
+      "a": 1.0
+    },
+    "localizationKey": "RARITY_MILITARY",
+    "weaponPartPool": [
+      {
+        "WeaponId": 0,
+        "PartId": 4,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 4,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 4,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 4,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 4,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 4,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 4,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 4,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 41,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 10,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 10,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 10,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 10,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 13,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 13,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 13,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 13,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 13,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 31,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 31,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 31,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 15,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 15,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 15,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 15,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 15,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 15,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 22,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 22,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 10,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 10,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 4,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 15,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 13,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 10,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 31,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 15,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 22,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 4,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 4,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 13,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 15,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 22,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 31,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 10,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 22,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 4,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 13,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 22,
+        "Weight": 100
+      }
+    ],
+    "gunPool": [
+      {
+        "WeaponId": 9,
+        "Weight": 500
+      }
+    ],
+    "combatDevicePool": [
+      {
+        "combatDeviceId": 1,
+        "weight": 500
+      }
+    ],
+    "boosterPool": [],
+    "explosivePool": [],
+    "mutatorWeaponPartPool": [
+      {
+        "WeaponId": 0,
+        "PartId": 69,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 69,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 69,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 69,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 69,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 69,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 69,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 69,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 69,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 69,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 73,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 73,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 73,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 73,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 73,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 73,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 73,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 73,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 73,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 73,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 71,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 71,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 71,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 71,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 71,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 71,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 71,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 71,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 71,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 71,
+        "Weight": 100
+      }
+    ],
+    "duplicateWeaponPartHarvestReward": 2500,
+    "id": 3,
+    "name": "Military",
+    "category": ""
+  },
+  {
+    "poolColor": {
+      "r": 0.9150943,
+      "g": 0.05948113,
+      "b": 0.0,
+      "a": 1.0
+    },
+    "localizationKey": "RARITY_PROTOTYPE",
+    "weaponPartPool": [
+      {
+        "WeaponId": 0,
+        "PartId": 3,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 3,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 3,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 3,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 3,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 3,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 12,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 12,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 12,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 12,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 12,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 24,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 24,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 17,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 17,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 17,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 17,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 17,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 17,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 17,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 12,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 3,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 57,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 38,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 24,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 12,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 3,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 38,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 12,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 24,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 3,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 24,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 38,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 17,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 12,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 24,
+        "Weight": 100
+      }
+    ],
+    "gunPool": [],
+    "combatDevicePool": [
+      {
+        "combatDeviceId": 2,
+        "weight": 500
+      }
+    ],
+    "boosterPool": [],
+    "explosivePool": [],
+    "mutatorWeaponPartPool": [
+      {
+        "WeaponId": 0,
+        "PartId": 64,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 64,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 64,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 64,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 64,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 64,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 64,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 64,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 64,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 65,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 65,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 65,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 65,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 65,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 66,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 66,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 66,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 67,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 67,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 67,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 67,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 67,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 67,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 67,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 67,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 67,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 64,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 0,
+        "PartId": 74,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 1,
+        "PartId": 74,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 2,
+        "PartId": 74,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 3,
+        "PartId": 74,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 4,
+        "PartId": 74,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 5,
+        "PartId": 74,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 6,
+        "PartId": 74,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 7,
+        "PartId": 74,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 8,
+        "PartId": 74,
+        "Weight": 100
+      },
+      {
+        "WeaponId": 9,
+        "PartId": 74,
+        "Weight": 100
+      }
+    ],
+    "duplicateWeaponPartHarvestReward": 5000,
+    "id": 4,
+    "name": "Prototype",
+    "category": ""
+  }
+]
+}

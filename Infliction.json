@@ -1,0 +1,148 @@
+{
+  "TableId": 135,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "effectsOnInflictor": [],
+    "effectsOnTarget": [
+      {
+        "inflictionEffectType": 1,
+        "afflictionEffect": 0,
+        "shouldApplyIfInflictorNoLongerExists": false,
+        "damage": 5,
+        "healAmount": 0
+      },
+      {
+        "inflictionEffectType": 0,
+        "afflictionEffect": 0,
+        "shouldApplyIfInflictorNoLongerExists": false,
+        "damage": 5,
+        "healAmount": 0
+      }
+    ],
+    "id": 0,
+    "name": "FlamethrowerDamage",
+    "category": ""
+  },
+  {
+    "effectsOnInflictor": [
+      {
+        "inflictionEffectType": 2,
+        "afflictionEffect": 1,
+        "shouldApplyIfInflictorNoLongerExists": false,
+        "damage": 0,
+        "healAmount": 2
+      }
+    ],
+    "effectsOnTarget": [
+      {
+        "inflictionEffectType": 1,
+        "afflictionEffect": 0,
+        "shouldApplyIfInflictorNoLongerExists": false,
+        "damage": 1,
+        "healAmount": 0
+      }
+    ],
+    "id": 1,
+    "name": "BurnTickDamage",
+    "category": ""
+  },
+  {
+    "effectsOnInflictor": [],
+    "effectsOnTarget": [
+      {
+        "inflictionEffectType": 1,
+        "afflictionEffect": 1,
+        "shouldApplyIfInflictorNoLongerExists": false,
+        "damage": 10,
+        "healAmount": 0
+      },
+      {
+        "inflictionEffectType": 0,
+        "afflictionEffect": 1,
+        "shouldApplyIfInflictorNoLongerExists": false,
+        "damage": 5,
+        "healAmount": 0
+      }
+    ],
+    "id": 2,
+    "name": "ElectrifyDamage",
+    "category": ""
+  },
+  {
+    "effectsOnInflictor": [],
+    "effectsOnTarget": [
+      {
+        "inflictionEffectType": 1,
+        "afflictionEffect": 0,
+        "shouldApplyIfInflictorNoLongerExists": false,
+        "damage": 10,
+        "healAmount": 0
+      }
+    ],
+    "id": 3,
+    "name": "ElectrifyTickDamage",
+    "category": ""
+  },
+  {
+    "effectsOnInflictor": [],
+    "effectsOnTarget": [
+      {
+        "inflictionEffectType": 0,
+        "afflictionEffect": 3,
+        "shouldApplyIfInflictorNoLongerExists": true,
+        "damage": 0,
+        "healAmount": 0
+      }
+    ],
+    "id": 4,
+    "name": "Eater Goo",
+    "category": ""
+  },
+  {
+    "effectsOnInflictor": [],
+    "effectsOnTarget": [
+      {
+        "inflictionEffectType": 0,
+        "afflictionEffect": 4,
+        "shouldApplyIfInflictorNoLongerExists": true,
+        "damage": 0,
+        "healAmount": 0
+      }
+    ],
+    "id": 5,
+    "name": "Sprawl Goo",
+    "category": ""
+  },
+  {
+    "effectsOnInflictor": [],
+    "effectsOnTarget": [
+      {
+        "inflictionEffectType": 1,
+        "afflictionEffect": 0,
+        "shouldApplyIfInflictorNoLongerExists": false,
+        "damage": 5,
+        "healAmount": 0
+      }
+    ],
+    "id": 6,
+    "name": "SprawlFogTickDamage",
+    "category": ""
+  },
+  {
+    "effectsOnInflictor": [],
+    "effectsOnTarget": [
+      {
+        "inflictionEffectType": 1,
+        "afflictionEffect": 0,
+        "shouldApplyIfInflictorNoLongerExists": false,
+        "damage": 100,
+        "healAmount": 0
+      }
+    ],
+    "id": 7,
+    "name": "SprawlMeleeBash",
+    "category": ""
+  }
+]
+}

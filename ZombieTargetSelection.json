@@ -1,0 +1,30 @@
+{
+  "TableId": 208,
+  "DefaultCellId": 0,
+  "Cells": [
+  {
+    "perceptionRange": 50.0,
+    "id": 0,
+    "name": "Smasher",
+    "category": ""
+  },
+  {
+    "perceptionRange": 50.0,
+    "id": 2,
+    "name": "Eater",
+    "category": ""
+  },
+  {
+    "perceptionRange": 30.0,
+    "id": 3,
+    "name": "Jock",
+    "category": ""
+  },
+  {
+    "perceptionRange": 50.0,
+    "id": 4,
+    "name": "Brute",
+    "category": ""
+  }
+]
+}
